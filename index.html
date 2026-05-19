@@ -697,7 +697,7 @@
     padding: 2.5rem 2rem; overflow-x: auto;
   }
   .journey {
-    display: grid; grid-template-columns: repeat(8, 1fr); gap: 0;
+    display: grid; grid-template-columns: repeat(7, 1fr); gap: 0;
     min-width: 900px; align-items: stretch;
   }
   .journey .step {
@@ -723,11 +723,10 @@
   .journey .step:last-child::before { display: none; }
   .journey .step.active::before { background: var(--brand); }
 
-  /* Handover detail sub-section */
+  /* Handover detail sub-section (lives under lifecycle now) */
   .handover-detail {
-    margin-top: 2.5rem; padding-top: 1.75rem;
+    margin-top: 2rem; padding-top: 1.5rem;
     border-top: 1px dashed var(--line);
-    min-width: 960px;
   }
   .hd-head {
     display: flex; align-items: center; gap: 0.7rem; margin-bottom: 1.1rem;
@@ -850,6 +849,12 @@
   .state-pill.booked .swatch { background: var(--brand); }
   .state-pill.sold { background: var(--grey-soft); color: var(--ink); border-color: rgba(107, 115, 132, 0.25); }
   .state-pill.sold .swatch { background: var(--ink); }
+  .state-pill.handover {
+    background: linear-gradient(180deg, #0E8C5B 0%, #07623E 100%);
+    color: white; border-color: transparent;
+    box-shadow: 0 5px 14px -6px rgba(14, 140, 91, 0.55);
+  }
+  .state-pill.handover .swatch { background: white; }
   .lifecycle-arrow { color: var(--ink-3); }
   .lifecycle-note {
     margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--line-soft);
@@ -1982,25 +1987,47 @@
           <div class="step-title">Sold</div>
           <div class="step-sub">SPA signed &amp; registered</div>
         </div>
-        <div class="step">
-          <div class="bubble">8</div>
-          <div class="step-title">Handover</div>
-          <div class="step-sub">Snagging, docs &amp; keys</div>
-        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LIFECYCLE -->
+<section style="background: var(--bg-soft);">
+  <div class="container">
+    <div class="section-head">
+      <span class="tag tag-grey"><span class="dot"></span>Every unit, always live</span>
+      <h2>Six clear states. <em>Zero confusion.</em></h2>
+      <p>Each unit moves through a defined lifecycle — from listing all the way to handover. Status changes are instant across the team, with built-in expiry to prevent stale holds.</p>
+    </div>
+
+    <div class="lifecycle">
+      <div class="lifecycle-row">
+        <span class="state-pill available"><span class="swatch"></span>Available</span>
+        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="state-pill hold"><span class="swatch"></span>On Hold</span>
+        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="state-pill reserved"><span class="swatch"></span>Reserved</span>
+        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="state-pill booked"><span class="swatch"></span>Booked</span>
+        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="state-pill sold"><span class="swatch"></span>Sold</span>
+        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="state-pill handover"><span class="swatch"></span>Handed Over</span>
       </div>
 
-      <!-- Handover detail -->
+      <!-- Handover detail (unit sub-states) -->
       <div class="handover-detail">
         <div class="hd-head">
           <span class="hd-bar"></span>
-          <span class="hd-label">Within handover</span>
-          <span class="hd-step-ref">— three checkpoints under step 8</span>
+          <span class="hd-label">Inside the handover phase</span>
+          <span class="hd-step-ref">— three sub-states a unit moves through before final hand-over</span>
         </div>
         <div class="hd-grid">
 
-          <!-- 8.1 Pre-snagging -->
+          <!-- H1 Pre-snagging -->
           <div class="hd-card">
-            <div class="hd-num">8.1</div>
+            <div class="hd-num">Stage 1</div>
             <h4>Pre-snagging</h4>
             <p>Internal walk-through by your team to identify and rectify defects before the buyer is invited.</p>
             <div class="hd-viz">
@@ -2021,9 +2048,9 @@
             </div>
           </div>
 
-          <!-- 8.2 Snagging (featured - calendar booking) -->
+          <!-- H2 Snagging (featured - calendar booking) -->
           <div class="hd-card hd-card--snag">
-            <div class="hd-num">8.2</div>
+            <div class="hd-num">Stage 2</div>
             <h4>Snagging <span style="display:inline-block; padding: 0.12rem 0.45rem; background: var(--brand); color: white; font-size: 0.6rem; border-radius: 4px; margin-left: 0.3rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; vertical-align: 2px;">Buyer-led</span></h4>
             <p>Buyer books a calendar slot, walks through the unit, and logs any defects directly in the platform.</p>
             <div class="hd-viz">
@@ -2040,9 +2067,9 @@
             </div>
           </div>
 
-          <!-- 8.3 Handover documents -->
+          <!-- H3 Handover documents -->
           <div class="hd-card">
-            <div class="hd-num">8.3</div>
+            <div class="hd-num">Stage 3</div>
             <h4>Handover documents</h4>
             <p>Title deed, keys, warranty &amp; final acceptance — all signed, tracked and stored in the document vault.</p>
             <div class="hd-viz">
@@ -2056,31 +2083,6 @@
           </div>
 
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- LIFECYCLE -->
-<section style="background: var(--bg-soft);">
-  <div class="container">
-    <div class="section-head">
-      <span class="tag tag-grey"><span class="dot"></span>Every unit, always live</span>
-      <h2>Five clear states. <em>Zero confusion.</em></h2>
-      <p>Each unit moves through a defined lifecycle. Status changes are instant across the team, with built-in expiry to prevent stale holds.</p>
-    </div>
-
-    <div class="lifecycle">
-      <div class="lifecycle-row">
-        <span class="state-pill available"><span class="swatch"></span>Available</span>
-        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span class="state-pill hold"><span class="swatch"></span>On Hold</span>
-        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span class="state-pill reserved"><span class="swatch"></span>Reserved</span>
-        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span class="state-pill booked"><span class="swatch"></span>Booked</span>
-        <svg class="lifecycle-arrow" width="36" height="20" viewBox="0 0 36 20" fill="none"><path d="M2 10h30M28 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span class="state-pill sold"><span class="swatch"></span>Sold</span>
       </div>
 
       <div class="lifecycle-note">

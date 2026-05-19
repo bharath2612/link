@@ -697,7 +697,7 @@
     padding: 2.5rem 2rem; overflow-x: auto;
   }
   .journey {
-    display: grid; grid-template-columns: repeat(7, 1fr); gap: 0;
+    display: grid; grid-template-columns: repeat(8, 1fr); gap: 0;
     min-width: 900px; align-items: stretch;
   }
   .journey .step {
@@ -722,6 +722,110 @@
   }
   .journey .step:last-child::before { display: none; }
   .journey .step.active::before { background: var(--brand); }
+
+  /* Handover detail sub-section */
+  .handover-detail {
+    margin-top: 2.5rem; padding-top: 1.75rem;
+    border-top: 1px dashed var(--line);
+    min-width: 960px;
+  }
+  .hd-head {
+    display: flex; align-items: center; gap: 0.7rem; margin-bottom: 1.1rem;
+  }
+  .hd-head .hd-bar { width: 28px; height: 2px; background: var(--brand); }
+  .hd-head .hd-label {
+    font-size: 0.74rem; font-weight: 700; color: var(--brand);
+    letter-spacing: 0.1em; text-transform: uppercase;
+  }
+  .hd-head .hd-step-ref {
+    font-size: 0.78rem; color: var(--ink-3);
+  }
+  .hd-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;
+  }
+  .hd-card {
+    position: relative; overflow: hidden;
+    background: white; border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 1.25rem 1.25rem 1.1rem;
+    display: flex; flex-direction: column; gap: 0.6rem;
+    transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s;
+  }
+  .hd-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border-color: #CFD7E8; }
+  .hd-card .hd-num {
+    font-size: 0.7rem; font-weight: 700; color: var(--brand);
+    letter-spacing: 0.08em;
+  }
+  .hd-card h4 {
+    font-size: 1.02rem; font-weight: 700; letter-spacing: -0.015em; line-height: 1.2;
+    margin: 0;
+  }
+  .hd-card p {
+    font-size: 0.85rem; color: var(--ink-2); line-height: 1.45; margin: 0;
+  }
+  .hd-card--snag {
+    background: linear-gradient(180deg, var(--brand-faint) 0%, white 100%);
+    border-color: rgba(31, 79, 217, 0.22);
+  }
+
+  /* Mini visuals inside handover cards */
+  .hd-viz { margin-top: auto; padding-top: 0.75rem; }
+  .hd-checklist { display: flex; flex-direction: column; gap: 0.35rem; }
+  .hd-check {
+    display: flex; align-items: center; gap: 0.55rem;
+    font-size: 0.78rem; color: var(--ink-2);
+  }
+  .hd-check .icn {
+    width: 16px; height: 16px; border-radius: 50%;
+    display: grid; place-items: center; flex-shrink: 0;
+  }
+  .hd-check.done .icn { background: var(--green); color: white; }
+  .hd-check.done .icn svg { width: 10px; height: 10px; }
+  .hd-check.todo .icn { background: var(--bg-soft); border: 1px dashed var(--line); }
+
+  .hd-cal {
+    background: white; border: 1px solid var(--line); border-radius: 10px;
+    padding: 0.7rem 0.85rem;
+  }
+  .hd-cal-head {
+    display: flex; align-items: center; justify-content: space-between;
+    font-size: 0.7rem; font-weight: 600; color: var(--ink-3);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    margin-bottom: 0.55rem;
+  }
+  .hd-cal-head .pill {
+    background: var(--green-soft); color: var(--green);
+    padding: 0.15rem 0.4rem; border-radius: 100px;
+    font-size: 0.65rem; font-weight: 700; letter-spacing: 0.04em;
+  }
+  .hd-cal-grid {
+    display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px;
+  }
+  .hd-cal-grid .d {
+    aspect-ratio: 1 / 1;
+    background: var(--bg-soft); border-radius: 4px;
+    display: grid; place-items: center;
+    font-size: 0.62rem; color: var(--ink-3); font-weight: 600;
+  }
+  .hd-cal-grid .d.booked {
+    background: var(--brand); color: white;
+    box-shadow: 0 0 0 2px white, 0 0 0 3.5px var(--brand);
+    position: relative;
+  }
+  .hd-cal-grid .d.has { color: var(--ink); background: white; border: 1px solid var(--line); }
+
+  .hd-docs { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .hd-doc {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.35rem 0.6rem;
+    background: white; border: 1px solid var(--line); border-radius: 8px;
+    font-size: 0.76rem; color: var(--ink-2); font-weight: 500;
+  }
+  .hd-doc svg { width: 12px; height: 12px; color: var(--brand); flex-shrink: 0; }
+
+  @media (max-width: 720px) {
+    .hd-grid { grid-template-columns: 1fr; }
+    .handover-detail { min-width: 0; }
+  }
 
   /* Lifecycle */
   .lifecycle {
@@ -1877,6 +1981,80 @@
           <div class="bubble">7</div>
           <div class="step-title">Sold</div>
           <div class="step-sub">SPA signed &amp; registered</div>
+        </div>
+        <div class="step">
+          <div class="bubble">8</div>
+          <div class="step-title">Handover</div>
+          <div class="step-sub">Snagging, docs &amp; keys</div>
+        </div>
+      </div>
+
+      <!-- Handover detail -->
+      <div class="handover-detail">
+        <div class="hd-head">
+          <span class="hd-bar"></span>
+          <span class="hd-label">Within handover</span>
+          <span class="hd-step-ref">— three checkpoints under step 8</span>
+        </div>
+        <div class="hd-grid">
+
+          <!-- 8.1 Pre-snagging -->
+          <div class="hd-card">
+            <div class="hd-num">8.1</div>
+            <h4>Pre-snagging</h4>
+            <p>Internal walk-through by your team to identify and rectify defects before the buyer is invited.</p>
+            <div class="hd-viz">
+              <div class="hd-checklist">
+                <div class="hd-check done">
+                  <span class="icn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span>
+                  Civil &amp; finishing check
+                </div>
+                <div class="hd-check done">
+                  <span class="icn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span>
+                  MEP &amp; fittings test
+                </div>
+                <div class="hd-check todo">
+                  <span class="icn"></span>
+                  Rectification &amp; sign-off
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 8.2 Snagging (featured - calendar booking) -->
+          <div class="hd-card hd-card--snag">
+            <div class="hd-num">8.2</div>
+            <h4>Snagging <span style="display:inline-block; padding: 0.12rem 0.45rem; background: var(--brand); color: white; font-size: 0.6rem; border-radius: 4px; margin-left: 0.3rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; vertical-align: 2px;">Buyer-led</span></h4>
+            <p>Buyer books a calendar slot, walks through the unit, and logs any defects directly in the platform.</p>
+            <div class="hd-viz">
+              <div class="hd-cal">
+                <div class="hd-cal-head">
+                  <span>May 2026 · Pick a slot</span>
+                  <span class="pill">Slot confirmed</span>
+                </div>
+                <div class="hd-cal-grid">
+                  <div class="d">M</div><div class="d">T</div><div class="d">W</div><div class="d">T</div><div class="d">F</div><div class="d">S</div><div class="d">S</div>
+                  <div class="d has">19</div><div class="d has">20</div><div class="d booked">21</div><div class="d has">22</div><div class="d has">23</div><div class="d"></div><div class="d"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 8.3 Handover documents -->
+          <div class="hd-card">
+            <div class="hd-num">8.3</div>
+            <h4>Handover documents</h4>
+            <p>Title deed, keys, warranty &amp; final acceptance — all signed, tracked and stored in the document vault.</p>
+            <div class="hd-viz">
+              <div class="hd-docs">
+                <span class="hd-doc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Title deed</span>
+                <span class="hd-doc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="15" r="4"/><line x1="10.85" y1="12.15" x2="19" y2="4"/><line x1="18" y1="5" x2="20" y2="7"/><line x1="15" y1="8" x2="17" y2="10"/></svg>Keys handover</span>
+                <span class="hd-doc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Warranty</span>
+                <span class="hd-doc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>Acceptance</span>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>

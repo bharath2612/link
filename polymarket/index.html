@@ -62,6 +62,22 @@
   }
   .subline .stamp { font-family: var(--mono); font-style: normal; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
   .stamp b { color: var(--accent); font-weight: 600; }
+  .controls { display: flex; align-items: center; gap: 16px; }
+  #refresh {
+    font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--ink); background: transparent;
+    border: 1px solid var(--ink); border-radius: 2px;
+    padding: 6px 12px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 7px;
+    transition: background .18s ease, color .18s ease;
+  }
+  #refresh:hover:not(:disabled) { background: var(--ink); color: var(--paper); }
+  #refresh:disabled { opacity: .5; cursor: progress; }
+  #refresh .ico { font-size: 14px; display: inline-block; }
+  #refresh.spin .ico { animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  #refresh.ok { border-color: var(--up); color: var(--up); }
+  #refresh.err { border-color: var(--down); color: var(--down); }
 
   /* ---------- day sections ---------- */
   .day { margin-top: 52px; }
@@ -122,6 +138,24 @@
   .tag + .tag::before { content: "· "; color: var(--ink-faint); }
   .vol { color: var(--ink-faint); }
 
+  /* read / unread badge */
+  .badge {
+    font-family: var(--mono); font-size: 9.5px; font-weight: 600;
+    letter-spacing: .12em; text-transform: uppercase;
+    display: inline-flex; align-items: center; gap: 5px;
+    padding: 2px 8px 2px 6px; border-radius: 999px; white-space: nowrap;
+  }
+  .badge::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%;
+  }
+  .badge.unread { color: var(--accent); background: rgba(179,57,31,.09); }
+  .badge.unread::before { background: var(--accent); box-shadow: 0 0 0 3px rgba(179,57,31,.15); }
+  .badge.read { color: var(--ink-faint); background: transparent; }
+  .badge.read::before { background: transparent; border: 1px solid var(--ink-faint); }
+  /* whole row dims once read */
+  .q.is-read h3 { color: var(--ink-soft); font-weight: 400; }
+  .q.is-read .thumb { opacity: .6; }
+
   .odds {
     grid-column: 2; margin-top: 9px;
     display: flex; flex-wrap: wrap; gap: 6px;
@@ -180,12 +214,17 @@
     <h1>The Question <em>Wire</em></h1>
     <div class="subline">
       <span>Every genuinely new question opened on Polymarket — machine-made recurring markets filtered out.</span>
-      <span class="stamp" id="stamp">— questions on file</span>
+      <span class="controls">
+        <button id="refresh" title="Fetch the latest questions live from Polymarket">
+          <span class="ico">↻</span><span class="lbl">Refresh</span>
+        </button>
+        <span class="stamp" id="stamp">— questions on file</span>
+      </span>
     </div>
   </header>
 
   <main id="feed">
-    <p class="empty">No data captured yet.<br><br>Run <code>python3 fetch_new_questions.py</code> then reload.</p>
+    <p class="empty">No data captured yet.<br><br>Hit <code>Refresh</code> to pull live questions from Polymarket.</p>
   </main>
 
   <footer>
@@ -208,13 +247,23 @@
   document.getElementById("today-date").textContent =
     new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
+  // ---------- read / unread persistence ----------
+  const READ_KEY = "wire-read";
+  const readSet = new Set(JSON.parse(localStorage.getItem(READ_KEY) || "[]"));
+  function markRead(id) {
+    if (readSet.has(id)) return;
+    readSet.add(id);
+    localStorage.setItem(READ_KEY, JSON.stringify([...readSet]));
+  }
+
   function render(payload) {
     const feed = document.getElementById("feed");
     const qs = payload.questions || [];
     if (!qs.length) return;
 
+    const unread = qs.filter(q => !readSet.has(q.id)).length;
     document.getElementById("stamp").innerHTML =
-      `<b>${qs.length}</b> questions on file`;
+      `<b>${unread}</b> unread · ${qs.length} on file`;
     document.getElementById("generated").textContent =
       "captured " + new Date(payload.generatedAt).toLocaleString();
 
@@ -238,11 +287,13 @@
           <span class="count">${items.length} new</span>
         </div>`;
       items.forEach((q, i) => {
+        const isRead = readSet.has(q.id);
         const a = document.createElement("a");
-        a.className = "q";
+        a.className = "q" + (isRead ? " is-read" : "");
         a.href = "https://polymarket.com/event/" + q.slug;
         a.target = "_blank";
         a.rel = "noopener";
+        a.dataset.id = q.id;
         const chips = (q.outcomes || []).map(([name, p], j) =>
           `<span class="chip${j === 0 ? " lead" : ""}">${esc(name)} <b>${pct(p)}</b></span>`
         ).join("");
@@ -251,11 +302,21 @@
           <h3>${esc(q.title)}</h3>
           ${q.image ? `<img class="thumb" src="${esc(q.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
           <div class="meta">
+            <span class="badge ${isRead ? "read" : "unread"}">${isRead ? "Read" : "New"}</span>
             ${(q.tags || []).slice(0, 3).map(t => `<span class="tag">${esc(t)}</span>`).join("")}
             ${q.nMarkets > 1 ? `<span class="vol">${q.nMarkets} outcomes</span>` : ""}
             <span class="vol">${fmtVol(q.volume)} vol</span>
           </div>
           ${chips ? `<div class="odds">${chips}</div>` : ""}`;
+        a.addEventListener("click", () => {
+          markRead(q.id);
+          a.classList.add("is-read");
+          const b = a.querySelector(".badge");
+          if (b) { b.className = "badge read"; b.textContent = "Read"; }
+          const unreadNow = (state.questions || []).filter(x => !readSet.has(x.id)).length;
+          document.getElementById("stamp").innerHTML =
+            `<b>${unreadNow}</b> unread · ${(state.questions || []).length} on file`;
+        });
         sec.appendChild(a);
       });
       feed.appendChild(sec);
@@ -266,7 +327,95 @@
   const esc = s => String(s).replace(/[&<>"']/g,
     c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-  if (window.QUESTIONS) render(window.QUESTIONS);
+  // ---------- live in-browser refresh ----------
+  // Mutable page state, seeded from the committed data.js snapshot.
+  const state = window.QUESTIONS || { generatedAt: new Date().toISOString(), questions: [] };
+  const KEEP_DAYS = 14;
+  const GAMMA = "https://gamma-api.polymarket.com";
+
+  // Shape one Gamma event into the same slim record the Python fetcher writes.
+  function slim(ev) {
+    const markets = ev.markets || [];
+    let outcomes = [];
+    try {
+      if (markets.length === 1) {
+        const names = JSON.parse(markets[0].outcomes || "[]");
+        const prices = JSON.parse(markets[0].outcomePrices || "[]");
+        outcomes = names.map((n, i) => [n, parseFloat(prices[i])]);
+      } else {
+        outcomes = markets.map(m => {
+          const prices = JSON.parse(m.outcomePrices || "[0]");
+          return [m.groupItemTitle || m.question || "", parseFloat(prices[0])];
+        });
+      }
+      outcomes.sort((a, b) => b[1] - a[1]);
+    } catch { outcomes = []; }
+    return {
+      id: String(ev.id),
+      title: ev.title || "",
+      slug: ev.slug || "",
+      createdAt: ev.createdAt || "",
+      endDate: ev.endDate || "",
+      image: ev.image || ev.icon || "",
+      volume: parseFloat(ev.volume || 0),
+      tags: (ev.tags || []).slice(0, 4).map(t => t.label || ""),
+      outcomes: outcomes.slice(0, 3),
+      nMarkets: markets.length,
+    };
+  }
+
+  // Genuinely new question = not part of a recurring series / not "Hide From New".
+  function isNew(ev) {
+    if (ev.series && ev.series.length) return false;
+    const slugs = new Set((ev.tags || []).map(t => t.slug));
+    return !slugs.has("recurring") && !slugs.has("hide-from-new");
+  }
+
+  async function refresh() {
+    const btn = document.getElementById("refresh");
+    const lbl = btn.querySelector(".lbl");
+    btn.disabled = true; btn.className = "spin"; lbl.textContent = "Fetching…";
+    try {
+      const seen = {};
+      for (let page = 0; page < 5; page++) {
+        const url = `${GAMMA}/events?limit=100&offset=${page * 100}` +
+          `&order=createdAt&ascending=false&active=true&closed=false&exclude_tag_id=102169`;
+        const res = await fetch(url, { headers: { "Accept": "application/json" } });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const events = await res.json();
+        if (!events.length) break;
+        for (const ev of events) if (isNew(ev)) { const q = slim(ev); seen[q.id] = q; }
+      }
+
+      // Merge with existing, drop anything older than KEEP_DAYS, sort newest-first.
+      const merged = {};
+      for (const q of state.questions) merged[q.id] = q;
+      Object.assign(merged, seen);
+      const cutoff = new Date(Date.now() - KEEP_DAYS * 864e5).toISOString();
+      state.questions = Object.values(merged)
+        .filter(q => q.createdAt >= cutoff)
+        .sort((a, b) => a.createdAt < b.createdAt ? 1 : -1);
+      state.generatedAt = new Date().toISOString();
+
+      render(state);
+      const n = Object.keys(seen).length;
+      btn.className = "ok"; lbl.textContent = n ? `Updated · ${n} live` : "Up to date";
+    } catch (err) {
+      btn.className = "err";
+      lbl.textContent = "Blocked — see note";
+      console.error("[wire] refresh failed:", err);
+      document.getElementById("generated").textContent =
+        "live refresh blocked here (" + err.message + ") — cron still updates daily";
+    } finally {
+      btn.disabled = false;
+      setTimeout(() => {
+        btn.className = ""; lbl.textContent = "Refresh";
+      }, 4000);
+    }
+  }
+
+  document.getElementById("refresh").addEventListener("click", refresh);
+  render(state);
 </script>
 </body>
 </html>

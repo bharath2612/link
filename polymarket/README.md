@@ -36,11 +36,24 @@ python3 fetch_new_questions.py   # capture today's new questions
 open index.html                  # view the page
 ```
 
-Run the fetcher on a daily cron to keep capturing:
+## Automatic updates
 
-```
-0 9 * * * cd /Users/bharathchippa/Downloads/Projects/polymarket && python3 fetch_new_questions.py
-```
+**Daily cron (8 AM Dubai):** `.github/workflows/polymarket-daily.yml` (at the repo
+root) runs the fetcher every day at `04:00 UTC` = `08:00 Asia/Dubai` (GST is UTC+4
+year-round, no DST), then commits the refreshed `data.json` / `data.js`. You can
+also trigger it any time from the repo's **Actions** tab ("Run workflow"). GitHub's
+runners are not ISP-blocked, so the Action reaches Polymarket directly.
+
+**Refresh button (any time):** the page has a **Refresh** button that fetches the
+latest questions live from the Gamma API in your browser and re-renders on the spot —
+no reload. (If you're on the ISP that blocks Polymarket, the in-browser fetch will
+report "Blocked"; the daily cron still keeps the committed snapshot current.)
+
+## Read / unread
+
+Clicking a question opens its Polymarket page and marks it **Read** — the row dims
+and its badge flips from `New` to `Read`. State is stored per-browser in
+`localStorage`, and the header shows a live unread count.
 
 ## Note on network blocking
 

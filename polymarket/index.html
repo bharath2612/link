@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Question Wire — new Polymarket questions, daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f4efe6;
+    --paper-deep: #ece5d8;
+    --ink: #1c1a16;
+    --ink-soft: #5c564b;
+    --ink-faint: #8f8778;
+    --rule: #d8cfbe;
+    --up: #0d7a4f;
+    --up-bg: #e2efe4;
+    --down: #b3391f;
+    --accent: #b3391f;
+    --serif: "Fraunces", Georgia, serif;
+    --mono: "IBM Plex Mono", ui-monospace, monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.45;
+    /* subtle paper grain */
+    background-image:
+      radial-gradient(ellipse at 20% 0%, rgba(255,255,255,.5), transparent 55%),
+      repeating-linear-gradient(0deg, transparent 0 2px, rgba(28,26,22,.012) 2px 4px);
+  }
+
+  .sheet { max-width: 880px; margin: 0 auto; padding: 0 24px 96px; }
+
+  /* ---------- masthead ---------- */
+  header { padding-top: 40px; }
+  .topline {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--ink-soft);
+    border-bottom: 1px solid var(--ink); padding-bottom: 8px;
+  }
+  .topline .dot { color: var(--accent); }
+  h1 {
+    font-size: clamp(52px, 11vw, 118px);
+    font-weight: 900; font-variation-settings: "opsz" 144;
+    letter-spacing: -.03em; line-height: .92;
+    padding: 22px 0 10px; text-wrap: balance;
+  }
+  h1 em { font-style: italic; font-weight: 300; }
+  .subline {
+    display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline;
+    justify-content: space-between;
+    border-top: 3px double var(--ink); border-bottom: 1px solid var(--ink);
+    padding: 10px 0; margin-bottom: 8px;
+    font-size: 15px; color: var(--ink-soft); font-style: italic;
+  }
+  .subline .stamp { font-family: var(--mono); font-style: normal; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
+  .stamp b { color: var(--accent); font-weight: 600; }
+
+  /* ---------- day sections ---------- */
+  .day { margin-top: 52px; }
+  .dayhead {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--paper);
+    display: flex; align-items: baseline; gap: 14px;
+    padding: 10px 0 6px; border-bottom: 2px solid var(--ink);
+  }
+  .dayhead h2 { font-size: 21px; font-weight: 600; font-style: italic; }
+  .dayhead .count {
+    font-family: var(--mono); font-size: 11px; color: var(--ink-faint);
+    letter-spacing: .1em; text-transform: uppercase;
+  }
+  .dayhead .line { flex: 1; }
+
+  /* ---------- question rows ---------- */
+  .q {
+    display: grid;
+    grid-template-columns: 58px 1fr auto;
+    gap: 4px 18px;
+    padding: 20px 8px 18px 0;
+    border-bottom: 1px solid var(--rule);
+    text-decoration: none; color: inherit;
+    position: relative;
+    transition: background .18s ease;
+  }
+  .q:hover { background: var(--paper-deep); }
+  .q:hover .num { color: var(--accent); }
+  .q::after {
+    content: "→";
+    position: absolute; right: 6px; top: 22px;
+    font-family: var(--mono); font-size: 14px; color: var(--accent);
+    opacity: 0; transform: translateX(-6px);
+    transition: opacity .18s ease, transform .18s ease;
+  }
+  .q:hover::after { opacity: 1; transform: translateX(0); }
+
+  .num {
+    grid-row: 1 / 3;
+    font-family: var(--mono); font-size: 12px; color: var(--ink-faint);
+    padding-top: 6px; transition: color .18s ease;
+  }
+  .num .t { display: block; margin-top: 5px; font-size: 10px; }
+
+  .q h3 {
+    font-size: clamp(19px, 2.6vw, 24px);
+    font-weight: 600; letter-spacing: -.01em; line-height: 1.22;
+    padding-right: 28px; text-wrap: balance;
+  }
+  .meta {
+    grid-column: 2;
+    display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center;
+    margin-top: 7px;
+    font-family: var(--mono); font-size: 11px; color: var(--ink-soft);
+  }
+  .tag { letter-spacing: .08em; text-transform: uppercase; }
+  .tag + .tag::before { content: "· "; color: var(--ink-faint); }
+  .vol { color: var(--ink-faint); }
+
+  .odds {
+    grid-column: 2; margin-top: 9px;
+    display: flex; flex-wrap: wrap; gap: 6px;
+  }
+  .chip {
+    font-family: var(--mono); font-size: 11.5px; font-weight: 500;
+    border: 1px solid var(--rule); border-radius: 999px;
+    padding: 3px 10px; background: rgba(255,255,255,.45);
+    color: var(--ink-soft);
+    max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .chip b { font-weight: 600; color: var(--up); }
+  .chip.lead { border-color: var(--up); background: var(--up-bg); color: var(--ink); }
+
+  .thumb {
+    grid-row: 1 / 3; grid-column: 3; align-self: start;
+    width: 76px; height: 76px; object-fit: cover;
+    border: 1px solid var(--rule);
+    filter: saturate(.85) contrast(.95) sepia(.08);
+    margin-right: 18px;
+  }
+
+  /* staggered entrance */
+  .day { animation: rise .5s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+  footer {
+    margin-top: 72px; padding-top: 14px; border-top: 3px double var(--ink);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+    font-family: var(--mono); font-size: 11px; color: var(--ink-faint);
+    letter-spacing: .08em; text-transform: uppercase;
+  }
+  footer a { color: var(--ink-soft); }
+
+  .empty {
+    margin-top: 80px; text-align: center; font-style: italic;
+    color: var(--ink-soft); font-size: 19px;
+  }
+  .empty code { font-family: var(--mono); font-style: normal; font-size: 14px; background: var(--paper-deep); padding: 2px 8px; }
+
+  @media (max-width: 560px) {
+    .q { grid-template-columns: 1fr; }
+    .num { grid-row: auto; display: flex; gap: 10px; padding-top: 0; }
+    .num .t { margin-top: 0; }
+    .thumb { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <div class="topline">
+      <span>Vol. I <span class="dot">●</span> Prediction Markets Desk</span>
+      <span id="today-date">—</span>
+    </div>
+    <h1>The Question <em>Wire</em></h1>
+    <div class="subline">
+      <span>Every genuinely new question opened on Polymarket — machine-made recurring markets filtered out.</span>
+      <span class="stamp" id="stamp">— questions on file</span>
+    </div>
+  </header>
+
+  <main id="feed">
+    <p class="empty">No data captured yet.<br><br>Run <code>python3 fetch_new_questions.py</code> then reload.</p>
+  </main>
+
+  <footer>
+    <span>Source: gamma-api.polymarket.com</span>
+    <span id="generated">—</span>
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+  const fmtDay = iso => new Date(iso).toLocaleDateString("en-US",
+    { weekday: "long", month: "long", day: "numeric" });
+  const fmtTime = iso => new Date(iso).toLocaleTimeString([],
+    { hour: "2-digit", minute: "2-digit" });
+  const fmtVol = v => v >= 1e6 ? "$" + (v / 1e6).toFixed(1) + "M"
+                    : v >= 1e3 ? "$" + (v / 1e3).toFixed(1) + "K"
+                    : "$" + Math.round(v);
+  const pct = p => Math.round(p * 100) + "%";
+
+  document.getElementById("today-date").textContent =
+    new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+
+  function render(payload) {
+    const feed = document.getElementById("feed");
+    const qs = payload.questions || [];
+    if (!qs.length) return;
+
+    document.getElementById("stamp").innerHTML =
+      `<b>${qs.length}</b> questions on file`;
+    document.getElementById("generated").textContent =
+      "captured " + new Date(payload.generatedAt).toLocaleString();
+
+    const byDay = new Map();
+    for (const q of qs) {
+      const day = q.createdAt.slice(0, 10);
+      if (!byDay.has(day)) byDay.set(day, []);
+      byDay.get(day).push(q);
+    }
+
+    feed.innerHTML = "";
+    let dayIdx = 0;
+    for (const [day, items] of byDay) {
+      const sec = document.createElement("section");
+      sec.className = "day";
+      sec.style.animationDelay = Math.min(dayIdx * 90, 400) + "ms";
+      sec.innerHTML = `
+        <div class="dayhead">
+          <h2>${fmtDay(day + "T12:00:00Z")}</h2>
+          <span class="line"></span>
+          <span class="count">${items.length} new</span>
+        </div>`;
+      items.forEach((q, i) => {
+        const a = document.createElement("a");
+        a.className = "q";
+        a.href = "https://polymarket.com/event/" + q.slug;
+        a.target = "_blank";
+        a.rel = "noopener";
+        const chips = (q.outcomes || []).map(([name, p], j) =>
+          `<span class="chip${j === 0 ? " lead" : ""}">${esc(name)} <b>${pct(p)}</b></span>`
+        ).join("");
+        a.innerHTML = `
+          <span class="num">№ ${String(i + 1).padStart(2, "0")}<span class="t">${fmtTime(q.createdAt)}</span></span>
+          <h3>${esc(q.title)}</h3>
+          ${q.image ? `<img class="thumb" src="${esc(q.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
+          <div class="meta">
+            ${(q.tags || []).slice(0, 3).map(t => `<span class="tag">${esc(t)}</span>`).join("")}
+            ${q.nMarkets > 1 ? `<span class="vol">${q.nMarkets} outcomes</span>` : ""}
+            <span class="vol">${fmtVol(q.volume)} vol</span>
+          </div>
+          ${chips ? `<div class="odds">${chips}</div>` : ""}`;
+        sec.appendChild(a);
+      });
+      feed.appendChild(sec);
+      dayIdx++;
+    }
+  }
+
+  const esc = s => String(s).replace(/[&<>"']/g,
+    c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  if (window.QUESTIONS) render(window.QUESTIONS);
+</script>
+</body>
+</html>

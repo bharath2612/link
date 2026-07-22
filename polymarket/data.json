@@ -1,6 +1,1829 @@
 {
- "generatedAt": "2026-07-21T06:22:15.402020+00:00",
+ "generatedAt": "2026-07-22T06:21:45.046564+00:00",
  "questions": [
+  {
+   "id": "731837",
+   "title": "Pro Football: Browns vs. Steelers Season Series Winner",
+   "slug": "pro-football-browns-vspt-steelers-season-series-winner",
+   "createdAt": "2026-07-22T05:41:17.981038Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-browns-vspt-steelers-season-series-winner-xAQZSqwar-8F.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Browns",
+     0.495
+    ],
+    [
+     "Steelers",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731836",
+   "title": "Pro Football: Bengals vs. Browns Season Series Winner",
+   "slug": "pro-football-bengals-vspt-browns-season-series-winner",
+   "createdAt": "2026-07-22T05:41:12.479823Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bengals-vspt-browns-season-series-winner-2LD9ZACoL8Vb.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Bengals",
+     0.505
+    ],
+    [
+     "Browns",
+     0.5
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731835",
+   "title": "Pro Football: Ravens vs. Bengals Season Series Winner",
+   "slug": "pro-football-ravens-vspt-bengals-season-series-winner",
+   "createdAt": "2026-07-22T05:41:11.320953Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-ravens-vspt-bengals-season-series-winner-ttGdKSxOraRo.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Ravens",
+     0.5
+    ],
+    [
+     "Bengals",
+     0.5
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731834",
+   "title": "Pro Football: Bengals vs. Steelers Season Series Winner",
+   "slug": "pro-football-bengals-vspt-steelers-season-series-winner",
+   "createdAt": "2026-07-22T05:41:10.835495Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bengals-vspt-steelers-season-series-winner-dG4e-tPpx5BS.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Steelers",
+     0.505
+    ],
+    [
+     "Bengals",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731833",
+   "title": "Pro Football: Ravens vs. Browns Season Series Winner",
+   "slug": "pro-football-ravens-vspt-browns-season-series-winner",
+   "createdAt": "2026-07-22T05:41:01.990478Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-ravens-vspt-browns-season-series-winner-aPR1vMQeKmZT.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Ravens",
+     0.5
+    ],
+    [
+     "Browns",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731832",
+   "title": "Pro Football: Ravens vs. Steelers Season Series Winner",
+   "slug": "pro-football-ravens-vspt-steelers-season-series-winner",
+   "createdAt": "2026-07-22T05:40:56.001147Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-ravens-vspt-steelers-season-series-winner-jRqotRNvRyir.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Ravens",
+     0.5
+    ],
+    [
+     "Steelers",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731831",
+   "title": "Pro Football: Patriots vs. Jets Season Series Winner",
+   "slug": "pro-football-patriots-vspt-jets-season-series-winner",
+   "createdAt": "2026-07-22T05:40:55.720162Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-patriots-vspt-jets-season-series-winner-oMhfozS6Z7ys.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Patriots",
+     0.505
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Jets",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731830",
+   "title": "Pro Football: Dolphins vs. Jets Season Series Winner",
+   "slug": "pro-football-dolphins-vspt-jets-season-series-winner",
+   "createdAt": "2026-07-22T05:40:54.833188Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-dolphins-vspt-jets-season-series-winner-DKlvtVSOa5V-.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Dolphins",
+     0.5
+    ],
+    [
+     "Jets",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731829",
+   "title": "Pro Football: Dolphins vs. Patriots Season Series Winner",
+   "slug": "pro-football-dolphins-vspt-patriots-season-series-winner",
+   "createdAt": "2026-07-22T05:40:49.734995Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-dolphins-vspt-patriots-season-series-winner-uhfV3oLbOoRe.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Dolphins",
+     0.5
+    ],
+    [
+     "Patriots",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731828",
+   "title": "Pro Football: Bills vs. Dolphins Season Series Winner",
+   "slug": "pro-football-bills-vspt-dolphins-season-series-winner",
+   "createdAt": "2026-07-22T05:40:43.826511Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bills-vspt-dolphins-season-series-winner-bBtJ1tnO6bGF.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Dolphins",
+     0.505
+    ],
+    [
+     "Bills",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731827",
+   "title": "Pro Football: Bills vs. Jets Season Series Winner",
+   "slug": "pro-football-bills-vspt-jets-season-series-winner",
+   "createdAt": "2026-07-22T05:40:42.555278Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bills-vspt-jets-season-series-winner-Vx_ORu9SG7ES.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Bills",
+     0.5
+    ],
+    [
+     "Jets",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731826",
+   "title": "Pro Football: Bills vs. Patriots Season Series Winner",
+   "slug": "pro-football-bills-vspt-patriots-season-series-winner",
+   "createdAt": "2026-07-22T05:40:38.746352Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bills-vspt-patriots-season-series-winner-E74fFjdY5IzB.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Bills",
+     0.5
+    ],
+    [
+     "Patriots",
+     0.495
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731823",
+   "title": "Pro Football: Texans vs. Titans Season Series Winner",
+   "slug": "pro-football-texans-vspt-titans-season-series-winner",
+   "createdAt": "2026-07-22T05:39:01.65446Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-texans-vspt-titans-season-series-winner-FWsrAPVN4LlR.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Texans",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Titans",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731822",
+   "title": "Pro Football: Texans vs. Jaguars Season Series Winner",
+   "slug": "pro-football-texans-vspt-jaguars-season-series-winner",
+   "createdAt": "2026-07-22T05:38:57.74433Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-texans-vspt-jaguars-season-series-winner-fRrJg_j5HJZC.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Jaguars",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Texans",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731821",
+   "title": "Pro Football: Texans vs. Colts Season Series Winner",
+   "slug": "pro-football-texans-vspt-colts-season-series-winner",
+   "createdAt": "2026-07-22T05:38:55.082096Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-texans-vspt-colts-season-series-winner-KAhj19d_OuOA.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Texans",
+     0.5
+    ],
+    [
+     "Colts",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731820",
+   "title": "Pro Football: Colts vs. Titans Season Series Winner",
+   "slug": "pro-football-colts-vspt-titans-season-series-winner",
+   "createdAt": "2026-07-22T05:38:51.997703Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-colts-vspt-titans-season-series-winner-iG_WrmZBxkNT.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Colts",
+     0.5
+    ],
+    [
+     "Titans",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731819",
+   "title": "Pro Football: Colts vs. Jaguars Season Series Winner",
+   "slug": "pro-football-colts-vspt-jaguars-season-series-winner",
+   "createdAt": "2026-07-22T05:38:49.169322Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-colts-vspt-jaguars-season-series-winner-8RuZA4OlLd5o.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Jaguars",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Colts",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731818",
+   "title": "Pro Football: Jaguars vs. Titans Season Series Winner",
+   "slug": "pro-football-jaguars-vspt-titans-season-series-winner",
+   "createdAt": "2026-07-22T05:38:46.139778Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-jaguars-vspt-titans-season-series-winner-bkNjacdkWifx.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Titans",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Jaguars",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731817",
+   "title": "Pro Football: Broncos vs. Chargers Season Series Winner",
+   "slug": "pro-football-broncos-vspt-chargers-season-series-winner",
+   "createdAt": "2026-07-22T05:38:43.272001Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-broncos-vspt-chargers-season-series-winner-SGsuGanz4wNe.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Broncos",
+     0.5
+    ],
+    [
+     "Chargers",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731816",
+   "title": "Pro Football: Broncos vs. Raiders Season Series Winner",
+   "slug": "pro-football-broncos-vspt-raiders-season-series-winner",
+   "createdAt": "2026-07-22T05:38:40.579412Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-broncos-vspt-raiders-season-series-winner-bLUykyGqEo8Y.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Broncos",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Raiders",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731815",
+   "title": "Pro Football: Broncos vs. Chiefs Season Series Winner",
+   "slug": "pro-football-broncos-vspt-chiefs-season-series-winner",
+   "createdAt": "2026-07-22T05:38:37.386304Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-broncos-vspt-chiefs-season-series-winner-hD9Z1DJVeWzE.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Broncos",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Chiefs",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731814",
+   "title": "Pro Football: Chiefs vs. Chargers Season Series Winner",
+   "slug": "pro-football-chiefs-vspt-chargers-season-series-winner",
+   "createdAt": "2026-07-22T05:38:34.30139Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-chiefs-vspt-chargers-season-series-winner-74sOOGRZ8h94.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Chiefs",
+     0.5
+    ],
+    [
+     "Chargers",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731813",
+   "title": "Pro Football: Chiefs vs. Raiders Season Series Winner",
+   "slug": "pro-football-chiefs-vspt-raiders-season-series-winner",
+   "createdAt": "2026-07-22T05:38:31.60165Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-chiefs-vspt-raiders-season-series-winner-yfTH3zpTloXW.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Chiefs",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Raiders",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731812",
+   "title": "Pro Football: Raiders vs. Chargers Season Series Winner",
+   "slug": "pro-football-raiders-vspt-chargers-season-series-winner",
+   "createdAt": "2026-07-22T05:38:28.15348Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-raiders-vspt-chargers-season-series-winner-yJM0nuudGCLe.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Chargers",
+     0.5
+    ],
+    [
+     "Raiders",
+     0.495
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731811",
+   "title": "Pro Football: Cowboys vs. Commanders Season Series Winner",
+   "slug": "pro-football-cowboys-vspt-commanders-season-series-winner",
+   "createdAt": "2026-07-22T05:38:25.163981Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cowboys-vspt-commanders-season-series-winner-w1ozUWycD2sy.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Cowboys",
+     0.505
+    ],
+    [
+     "Commanders",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731810",
+   "title": "Pro Football: Cowboys vs. Giants Season Series Winner",
+   "slug": "pro-football-cowboys-vspt-giants-season-series-winner",
+   "createdAt": "2026-07-22T05:38:22.321569Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cowboys-vspt-giants-season-series-winner-E0FDBOCL-6Ys.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Giants",
+     0.5
+    ],
+    [
+     "Cowboys",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731809",
+   "title": "Pro Football: Cowboys vs. Eagles Season Series Winner",
+   "slug": "pro-football-cowboys-vspt-eagles-season-series-winner",
+   "createdAt": "2026-07-22T05:38:16.379666Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cowboys-vspt-eagles-season-series-winner-LdSTGgREOrv1.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Cowboys",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Eagles",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731808",
+   "title": "Pro Football: Falcons vs. Panthers Season Series Winner",
+   "slug": "pro-football-falcons-vspt-panthers-season-series-winner",
+   "createdAt": "2026-07-22T05:37:31.331467Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-falcons-vspt-panthers-season-series-winner-iaWEb07lqXv-.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Panthers",
+     0.505
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Falcons",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731807",
+   "title": "Pro Football: Falcons vs. Saints Season Series Winner",
+   "slug": "pro-football-falcons-vspt-saints-season-series-winner",
+   "createdAt": "2026-07-22T05:37:30.00163Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-falcons-vspt-saints-season-series-winner-vJ-t28b74cVN.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Falcons",
+     0.5
+    ],
+    [
+     "Saints",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731806",
+   "title": "Pro Football: Falcons vs. Buccaneers Season Series Winner",
+   "slug": "pro-football-falcons-vspt-buccaneers-season-series-winner",
+   "createdAt": "2026-07-22T05:37:28.450529Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-falcons-vspt-buccaneers-season-series-winner-iUS7YJmAzNra.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Falcons",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Buccaneers",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731805",
+   "title": "Pro Football: Panthers vs. Saints Season Series Winner",
+   "slug": "pro-football-panthers-vspt-saints-season-series-winner",
+   "createdAt": "2026-07-22T05:37:21.728054Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-panthers-vspt-saints-season-series-winner-POviR2f7zjEj.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Saints",
+     0.505
+    ],
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Panthers",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731804",
+   "title": "Pro Football: Panthers vs. Buccaneers Season Series Winner",
+   "slug": "pro-football-panthers-vspt-buccaneers-season-series-winner",
+   "createdAt": "2026-07-22T05:37:14.959157Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-panthers-vspt-buccaneers-season-series-winner-GZ554cscBrxT.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Panthers",
+     0.5
+    ],
+    [
+     "Buccaneers",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731803",
+   "title": "Pro Football: Saints vs. Buccaneers Season Series Winner",
+   "slug": "pro-football-saints-vspt-buccaneers-season-series-winner",
+   "createdAt": "2026-07-22T05:36:58.914068Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-saints-vspt-buccaneers-season-series-winner-E2YkPapWXdXw.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Saints",
+     0.5
+    ],
+    [
+     "Buccaneers",
+     0.5
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731802",
+   "title": "Pro Football: Bears vs. Lions Season Series Winner",
+   "slug": "pro-football-bears-vspt-lions-season-series-winner",
+   "createdAt": "2026-07-22T05:36:57.124741Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bears-vspt-lions-season-series-winner-F8loRi10pPsj.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Bears",
+     0.505
+    ],
+    [
+     "Lions",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731801",
+   "title": "Pro Football: Bears vs. Packers Season Series Winner",
+   "slug": "pro-football-bears-vspt-packers-season-series-winner",
+   "createdAt": "2026-07-22T05:36:55.255491Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bears-vspt-packers-season-series-winner--Ksa8OTq8GxB.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Bears",
+     0.5
+    ],
+    [
+     "Packers",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731800",
+   "title": "Pro Football: Bears vs. Vikings Season Series Winner",
+   "slug": "pro-football-bears-vspt-vikings-season-series-winner",
+   "createdAt": "2026-07-22T05:36:50.766813Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-bears-vspt-vikings-season-series-winner-yH1Bu6KdrIJ7.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Bears",
+     0.5
+    ],
+    [
+     "Vikings",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731799",
+   "title": "Pro Football: Lions vs. Packers Season Series Winner",
+   "slug": "pro-football-lions-vspt-packers-season-series-winner",
+   "createdAt": "2026-07-22T05:36:45.27854Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-lions-vspt-packers-season-series-winner-ZEquj1a93Q7T.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.505
+    ],
+    [
+     "Packers",
+     0.5
+    ],
+    [
+     "Lions",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731798",
+   "title": "Pro Football: Lions vs. Vikings Season Series Winner",
+   "slug": "pro-football-lions-vspt-vikings-season-series-winner",
+   "createdAt": "2026-07-22T05:36:43.820565Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-lions-vspt-vikings-season-series-winner-YA9JL6pRPNCZ.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Lions",
+     0.505
+    ],
+    [
+     "Vikings",
+     0.505
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731797",
+   "title": "Pro Football: Packers vs. Vikings Season Series Winner",
+   "slug": "pro-football-packers-vspt-vikings-season-series-winner",
+   "createdAt": "2026-07-22T05:36:40.40061Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-packers-vspt-vikings-season-series-winner-nCw3qYcMXGml.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Tie",
+     0.5
+    ],
+    [
+     "Packers",
+     0.495
+    ],
+    [
+     "Vikings",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731782",
+   "title": "Pro Football: Eagles vs. Giants Season Series Winner",
+   "slug": "pro-football-eagles-vspt-giants-season-series-winner",
+   "createdAt": "2026-07-22T05:35:53.522747Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-eagles-vspt-giants-season-series-winner-VRVMp2oSRWNO.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Eagles",
+     0.5
+    ],
+    [
+     "Giants",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731781",
+   "title": "Pro Football: Eagles vs. Commanders Season Series Winner",
+   "slug": "pro-football-eagles-vspt-commanders-season-series-winner",
+   "createdAt": "2026-07-22T05:35:40.686935Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-eagles-vspt-commanders-season-series-winner-WmTh8JwlzZxL.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Eagles",
+     0.495
+    ],
+    [
+     "Commanders",
+     0.495
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731780",
+   "title": "Pro Football: Giants vs. Commanders Season Series Winner",
+   "slug": "pro-football-giants-vspt-commanders-season-series-winner",
+   "createdAt": "2026-07-22T05:35:35.482488Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-giants-vspt-commanders-season-series-winner-oA1RQZzRMeRy.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Giants",
+     0.505
+    ],
+    [
+     "Commanders",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731779",
+   "title": "Will Netanyahu visit New York City by...?",
+   "slug": "will-netanyahu-visit-new-york-city-byptptpt-20260722053445708",
+   "createdAt": "2026-07-22T05:35:22.773801Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-netanyahu-visit-new-york-city-by-qAF-RHRxwLAJ.jpg",
+   "volume": 3217.208643,
+   "tags": [
+    "Israel",
+    "Mamdani",
+    "Politics",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.715
+    ],
+    [
+     "September 30",
+     0.575
+    ],
+    [
+     "July 31",
+     0.08
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731778",
+   "title": "Pro Football: Cardinals vs. 49ers Season Series Winner",
+   "slug": "pro-football-cardinals-vspt-49ers-season-series-winner",
+   "createdAt": "2026-07-22T05:33:11.637133Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cardinals-vspt-49ers-season-series-winner-X1FFxRKMHwDW.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Cardinals",
+     0.5
+    ],
+    [
+     "49ers",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731777",
+   "title": "Pro Football: Rams vs. 49ers Season Series Winner",
+   "slug": "pro-football-rams-vspt-49ers-season-series-winner",
+   "createdAt": "2026-07-22T05:33:04.992585Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-rams-vspt-49ers-season-series-winner-VYVPc32GcqF-.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Rams",
+     0.505
+    ],
+    [
+     "49ers",
+     0.505
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731775",
+   "title": "Pro Football: Rams vs. Seahawks Season Series Winner",
+   "slug": "pro-football-rams-vspt-seahawks-season-series-winner",
+   "createdAt": "2026-07-22T05:33:00.53972Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-rams-vspt-seahawks-season-series-winner-tyuAh59Mg5CN.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Rams",
+     0.5
+    ],
+    [
+     "Seahawks",
+     0.495
+    ],
+    [
+     "Tie",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731774",
+   "title": "Pro Football: 49ers vs. Seahawks Season Series Winner",
+   "slug": "pro-football-49ers-vspt-seahawks-season-series-winner",
+   "createdAt": "2026-07-22T05:32:39.481442Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-49ers-vspt-seahawks-season-series-winner-SUIO_4F4GGCV.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "49ers",
+     0.5
+    ],
+    [
+     "Seahawks",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731766",
+   "title": "Pro Football: Cardinals vs. Seahawks Season Series Winner",
+   "slug": "pro-football-cardinals-vspt-seahawks-season-series-winner",
+   "createdAt": "2026-07-22T05:29:34.063836Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cardinals-vspt-seahawks-season-series-winner-bz2ErJbg5nVH.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Cardinals",
+     0.5
+    ],
+    [
+     "Seahawks",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "731764",
+   "title": "Pro Football: Cardinals vs. Rams Season Series Winner",
+   "slug": "pro-football-cardinals-vspt-rams-season-series-winner",
+   "createdAt": "2026-07-22T05:27:42.54192Z",
+   "endDate": "2027-01-12T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-cardinals-vspt-rams-season-series-winner-Ehf3O0GhwmfQ.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Cardinals",
+     0.5
+    ],
+    [
+     "Rams",
+     0.5
+    ],
+    [
+     "Tie",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "730911",
+   "title": "PA House of Representatives District 12 Special Election Winner",
+   "slug": "pa-house-of-representatives-district-12-special-election-winner-20260721163745628",
+   "createdAt": "2026-07-21T23:34:32.768583Z",
+   "endDate": "2026-08-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pa-house-of-representatives-district-12-special-election-winner-2026072116374562-4s5o_dhr_1x7.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "USA Election",
+    "pennsylvania"
+   ],
+   "outcomes": [
+    [
+     "Scott Timko",
+     0.675
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "730910",
+   "title": "Likud Party Primary Winner",
+   "slug": "likud-party-primary-winner-20260720203933764",
+   "createdAt": "2026-07-21T23:33:12.538534Z",
+   "endDate": "2026-10-26T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/likud-93d681bbd0.png",
+   "volume": 3844.367612,
+   "tags": [
+    "Likud",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ],
+    [
+     "Person D",
+     0.5
+    ]
+   ],
+   "nMarkets": 43
+  },
+  {
+   "id": "730893",
+   "title": "South Ossetia Presidential Election Winner",
+   "slug": "south-ossetia-presidential-election-winner-20260721152523707",
+   "createdAt": "2026-07-21T23:24:04.259855Z",
+   "endDate": "2026-09-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-ossetia-presidential-election-winner-20260721152523707-NR491vvjNlfU.png",
+   "volume": 7266.087734000007,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Marat Kambolov",
+     0.945
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 34
+  },
+  {
+   "id": "730871",
+   "title": "2026 Negeri Sembilan General Election Winner",
+   "slug": "2026-negeri-sembilan-general-election-winner-20260720213330399",
+   "createdAt": "2026-07-21T23:12:35.313361Z",
+   "endDate": "2026-08-01T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/negeri-9784e6949d.png",
+   "volume": 2424.141341,
+   "tags": [
+    "Malaysia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "PH",
+     0.56
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "730842",
+   "title": "First round outright winner in the SC Special Republican Senate Primary?",
+   "slug": "first-round-outright-winner-in-the-sc-special-republican-senate-primary-20260721230048140",
+   "createdAt": "2026-07-21T23:00:59.912979Z",
+   "endDate": "2026-08-11T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-carolina-governor-democratic-primary-winner-QsUwq2SIAM1Z.png",
+   "volume": 0.0,
+   "tags": [
+    "Senate",
+    "midterm",
+    "Politics",
+    "USA Election"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.51
+    ],
+    [
+     "Yes",
+     0.49
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "730834",
+   "title": "Michigan Democratic Senate Primary: Oakland County Winner",
+   "slug": "michigan-democratic-senate-primary-oakland-county-winner-20260721153909098",
+   "createdAt": "2026-07-21T22:58:12.353836Z",
+   "endDate": "2026-08-04T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/michigan-democratic-senate-primary-winner-uPezQW2QcX0-.png",
+   "volume": 147.375237,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "USA Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "730826",
+   "title": "Which of these republicans will be the first to announce a run for President?",
+   "slug": "which-of-these-republicans-will-be-the-first-to-announce-a-run-for-president-20260721225459357",
+   "createdAt": "2026-07-21T22:56:32.125474Z",
+   "endDate": "2027-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-announce-presidential-run-before-2027-VNNU3Ms1Z60A.jpg",
+   "volume": 716.251234,
+   "tags": [
+    "Politics",
+    "Elections",
+    "President",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Ted Cruz",
+     0.38
+    ],
+    [
+     "Ron DeSantis",
+     0.27
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "730825",
+   "title": "Dharmendra Pradhan out as Minister of Education of India by...?",
+   "slug": "dharmendra-pradhan-out-as-minister-of-education-of-india-byptptpt-20260720170227107",
+   "createdAt": "2026-07-21T22:52:34.422255Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dharmendra-pradhan-out-as-minister-of-education-of-india-byptptpt-20260720170227-6DVBobPBLRS9.jpg",
+   "volume": 706.668901,
+   "tags": [
+    "India",
+    "Politics",
+    "cockroach party"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.53
+    ],
+    [
+     "July 31",
+     0.48
+    ],
+    [
+     "September 30",
+     0.38
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "730824",
+   "title": "Colorado passes ballot measure imposing life sentences on underage sex traffickers?",
+   "slug": "colorado-passes-ballot-measure-imposing-life-sentences-on-underage-sex-traffickers-20260717184712607",
+   "createdAt": "2026-07-21T22:51:34.792442Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/colorado-governor-democratic-primary-winner-wVLOalD2nsTE.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "colorado",
+    "USA Election"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.53
+    ],
+    [
+     "Yes",
+     0.47
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "730809",
+   "title": "Colorado passes ballot measure banning underage transgender surgeries?",
+   "slug": "colorado-passes-ballot-measure-banning-underage-transgender-surgeries-20260717183442477",
+   "createdAt": "2026-07-21T22:48:34.905799Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/colorado-governor-democratic-primary-winner-wVLOalD2nsTE.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "colorado",
+    "USA Election"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.52
+    ],
+    [
+     "Yes",
+     0.48
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "730551",
+   "title": "Blast Bounty 2026 Season 2: Qualify to Online Stage 2 (Round of 16)",
+   "slug": "blast-bounty-2026-season-2-qualify-to-online-stage-2-round-of-16-20260721213509942",
+   "createdAt": "2026-07-21T21:39:12.30589Z",
+   "endDate": "2026-08-02T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bounty2-07ef1e7dbc.jpg",
+   "volume": 17407.77857,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Ninjas in Pyjamas",
+     0.991
+    ],
+    [
+     "MOUZ",
+     0.988
+    ],
+    [
+     "Astralis",
+     0.988
+    ]
+   ],
+   "nMarkets": 28
+  },
+  {
+   "id": "730236",
+   "title": "What value will Total Crypto Market Cap hit in 2026?",
+   "slug": "what-value-will-total-crypto-market-cap-hit-in-2026-20260721191725233",
+   "createdAt": "2026-07-21T19:30:54.793031Z",
+   "endDate": "2027-01-02T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-value-will-total-crypto-market-cap-hit-in-2026-20260708184215426-E-6qZVi4bxaf.jpg",
+   "volume": 5848.195134,
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Price Milestone"
+   ],
+   "outcomes": [
+    [
+     "\u2191 2.5T",
+     0.955
+    ],
+    [
+     "\u2193 2T",
+     0.665
+    ],
+    [
+     "\u2191 2.75T",
+     0.595
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "730071",
+   "title": "Fetterman leaves the Democrats before the midterms?",
+   "slug": "fetterman-leaves-the-democrats-before-the-midterms-20260720221037014",
+   "createdAt": "2026-07-21T18:51:15.086294Z",
+   "endDate": "2026-11-02T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fetterman-leaves-the-democrats-by-june-30-N6p8u3VCeZ0C.jpg",
+   "volume": 246.67571099999998,
+   "tags": [
+    "Senate",
+    "Politics",
+    "pennsylvania",
+    "john fetterman"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.815
+    ],
+    [
+     "Yes",
+     0.185
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "730040",
+   "title": "RipCars FDV above ___ one day after launch?",
+   "slug": "ripcars-fdv-above-one-day-after-launch-20260721182210401",
+   "createdAt": "2026-07-21T18:36:08.884368Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ripcars-fdv-above-one-day-after-launch-20260721182210401-Ct6Ld0KUZajy.jpg",
+   "volume": 144.388886,
+   "tags": [
+    "FDV",
+    "Crypto",
+    "Pre-Market"
+   ],
+   "outcomes": [
+    [
+     "$500k",
+     0.975
+    ],
+    [
+     "$750k",
+     0.785
+    ],
+    [
+     "$1M",
+     0.73
+    ]
+   ],
+   "nMarkets": 13
+  },
   {
    "id": "727316",
    "title": "Farsi Island no longer under Iranian control by...?",

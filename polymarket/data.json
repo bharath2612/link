@@ -1,6 +1,864 @@
 {
- "generatedAt": "2026-07-24T06:18:55.040339+00:00",
+ "generatedAt": "2026-07-25T06:10:00.834528+00:00",
  "questions": [
+  {
+   "id": "745748",
+   "title": "What will Boeing say during their next earnings call?",
+   "slug": "what-will-boeing-say-during-their-next-earnings-call-20260724221853543",
+   "createdAt": "2026-07-25T00:22:23.259119Z",
+   "endDate": "2026-07-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ba-quarterly-earnings-nongaap-eps-04-22-2026-neg0pt59-9mKtWi1BLQNs.png",
+   "volume": 1723.81,
+   "tags": [
+    "Tech",
+    "Big Tech",
+    "Mentions",
+    "Earnings Calls"
+   ],
+   "outcomes": [
+    [
+     "Commercial",
+     0.9705
+    ],
+    [
+     "Delivery",
+     0.895
+    ],
+    [
+     "Program",
+     0.8
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "745733",
+   "title": "What will PayPal say during their next earnings call?",
+   "slug": "what-will-paypal-say-during-their-next-earnings-call-20260724221739505",
+   "createdAt": "2026-07-25T00:21:45.835532Z",
+   "endDate": "2026-07-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pypl-quarterly-earnings-nongaap-eps-05-05-2026-1pt28-N4LJ6hHZ5JoW.png",
+   "volume": 685.652785,
+   "tags": [
+    "Tech",
+    "Big Tech",
+    "Mentions",
+    "Earnings Calls"
+   ],
+   "outcomes": [
+    [
+     "Quarter 15+ times",
+     0.76
+    ],
+    [
+     "Transaction 5+ times",
+     0.755
+    ],
+    [
+     "Merchant 5+ times",
+     0.505
+    ]
+   ],
+   "nMarkets": 19
+  },
+  {
+   "id": "745732",
+   "title": "What will Trump say during remarks in Michigan?",
+   "slug": "what-will-trump-say-during-remarks-in-michigan-20260724162420350",
+   "createdAt": "2026-07-25T00:20:57.569631Z",
+   "endDate": "2026-07-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
+   "volume": 5038.887246,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Stock Market",
+     0.88
+    ],
+    [
+     "Trump 5+ times",
+     0.865
+    ],
+    [
+     "Oil",
+     0.865
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "745731",
+   "title": "What will Trump say during tribute to Lindsey Graham?",
+   "slug": "what-will-trump-say-during-tribute-to-lindsey-graham-20260724170556632",
+   "createdAt": "2026-07-25T00:19:58.685473Z",
+   "endDate": "2026-07-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-tribute-to-lindsey-graham-20260724170556632-Ss-GkjiT-pAO.jpg",
+   "volume": 4095.5340739999997,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Air Force / Space Force",
+     0.925
+    ],
+    [
+     "Military",
+     0.9135
+    ],
+    [
+     "Sister",
+     0.89
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "745595",
+   "title": "Will Netanyahu publicly insult Trump by July 31?",
+   "slug": "will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774",
+   "createdAt": "2026-07-24T23:36:22.969712Z",
+   "endDate": "2026-07-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-netanyahu-publicly-insult-trump-by-june-30-OZ0sonVXg0Ht.jpg",
+   "volume": 2281.243587,
+   "tags": [
+    "Bibi",
+    "Iran",
+    "Trump",
+    "Israel"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.968
+    ],
+    [
+     "Yes",
+     0.032
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "745592",
+   "title": "Sachsen-Anhalt Parliamentary Elections: AfD # of seats?",
+   "slug": "sachsen-anhalt-parliamentary-elections-afd-of-seats-20260722230807017",
+   "createdAt": "2026-07-24T23:34:13.467816Z",
+   "endDate": "2026-09-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-afd-win-the-most-seats-in-the-2026-baden-wrttemberg-parliamentary-elections-EH5fxjchr4It.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Politics",
+    "Elections",
+    "Saxony-Anhalt"
+   ],
+   "outcomes": [
+    [
+     "38-41",
+     0.295
+    ],
+    [
+     "42-45",
+     0.265
+    ],
+    [
+     "46-49",
+     0.205
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "745578",
+   "title": "Hannover Region Presidential Election Winner",
+   "slug": "hannover-region-presidential-election-winner-20260722233938481",
+   "createdAt": "2026-07-24T23:27:10.048538Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Hannover",
+    "Politics",
+    "Lower Saxony"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 19
+  },
+  {
+   "id": "745570",
+   "title": "Hannover Mayoral Election Winner",
+   "slug": "hannover-mayoral-election-winner-20260723155039214",
+   "createdAt": "2026-07-24T23:24:52.570023Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Hannover",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "745569",
+   "title": "Belgorod Oblast Gubernatorial Election Winner",
+   "slug": "belgorod-oblast-gubernatorial-election-winner-20260724164252589",
+   "createdAt": "2026-07-24T23:23:19.522833Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/belgorod-oblast-gubernatorial-election-winner-20260724164252589-OiDyY-z-mx4e.png",
+   "volume": 0.0,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Alexander Shuvaev",
+     0.55
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "745568",
+   "title": "Braunschweig Mayoral Election Winner",
+   "slug": "braunschweig-mayoral-election-winner-20260723164513786",
+   "createdAt": "2026-07-24T23:23:04.955873Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/braunschweig-mayoral-election-winner-20260723164513786-MzD4M3vmPjzZ.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Politics",
+    "Braunschweig"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 23
+  },
+  {
+   "id": "745553",
+   "title": "Tver Oblast Gubernatorial Election Winner",
+   "slug": "tver-oblast-gubernatorial-election-winner-20260724175708806",
+   "createdAt": "2026-07-24T23:22:32.556051Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tver-oblast-gubernatorial-election-winner-20260724175708806-_C889rJK6f4s.png",
+   "volume": 54.38,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Vitaly Korolev",
+     0.845
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "745552",
+   "title": "Penza Oblast Gubernatorial Election Winner",
+   "slug": "penza-oblast-gubernatorial-election-winner-20260724181128197",
+   "createdAt": "2026-07-24T23:21:25.142958Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/penza-aefcc2e9d6.png",
+   "volume": 71.18863300000001,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Oleg Melnichenko",
+     0.83
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "745551",
+   "title": "Bryansk Oblast Gubernatorial Election Winner",
+   "slug": "bryansk-oblast-gubernatorial-election-winner-20260724163521978",
+   "createdAt": "2026-07-24T23:20:34.699549Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bryansk-oblast-gubernatorial-election-winner-20260724163521978-Hjeac0mjf0Gl.png",
+   "volume": 58.506358,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Yegor Kovalchuk",
+     0.845
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "745550",
+   "title": "Sachsen-Anhalt Parliamentary Elections: 3rd Place",
+   "slug": "sachsen-anhalt-parliamentary-elections-3rd-place-20260722225837804",
+   "createdAt": "2026-07-24T23:20:07.129202Z",
+   "endDate": "2026-09-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sachsen-anhalt-parliamentary-election-winner-YHHbQcKZp2Gq.png",
+   "volume": 237.86,
+   "tags": [
+    "Germany",
+    "Politics",
+    "Elections",
+    "Saxony-Anhalt"
+   ],
+   "outcomes": [
+    [
+     "The Left",
+     0.855
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 34
+  },
+  {
+   "id": "745549",
+   "title": "Ulyanovsk Oblast Gubernatorial Election Winner",
+   "slug": "ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311",
+   "createdAt": "2026-07-24T23:20:04.570029Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311-tA9Gvf4svY0m.png",
+   "volume": 23.25,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Alexey Russkikh",
+     0.845
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "745548",
+   "title": "Tuva Gubernatorial Election Winner",
+   "slug": "tuva-gubernatorial-election-winner-20260724163413491",
+   "createdAt": "2026-07-24T23:18:22.439205Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tuva-governor-election-winner-20260724163314310-pR7_1Aqblf-A.png",
+   "volume": 288.295725,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Vladislav Khovalyg",
+     0.84
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "745540",
+   "title": "Next UK by-election called by\u2026?",
+   "slug": "next-uk-by-election-called-by-20260724183901572",
+   "createdAt": "2026-07-24T23:15:58.810472Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/makerfield-by-election-winner-1ceiGHP2i4dn.jpg",
+   "volume": 2576.072462,
+   "tags": [
+    "UK",
+    "Politics",
+    "Elections",
+    "United Kingdom"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.485
+    ],
+    [
+     "September 30",
+     0.245
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "745539",
+   "title": "Salzgitter Mayoral Election Winner",
+   "slug": "salzgitter-mayoral-election-winner-20260723163216446",
+   "createdAt": "2026-07-24T23:15:29.775634Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/salzgitter-mayoral-election-winner-20260723163216446-O0ATseV7ogBJ.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 21
+  },
+  {
+   "id": "745528",
+   "title": "Wolfsburg Mayoral Election Winner",
+   "slug": "wolfsburg-mayoral-election-winner-20260723161010802",
+   "createdAt": "2026-07-24T23:13:50.311507Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wolfsburg-mayoral-election-winner-20260723161010802-grKmX6-dXyW8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Politics",
+    "Wolfsburg"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "745526",
+   "title": "Oldenburg Mayoral Election Winner",
+   "slug": "oldenburg-mayoral-election-winner-20260723173826440",
+   "createdAt": "2026-07-24T23:11:41.282452Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oldenburg-mayoral-election-winner-20260723173826440-3uP_Bubtg0a4.png",
+   "volume": 0.0,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "745517",
+   "title": "Osnabr\u00fcck Mayoral Election Winner",
+   "slug": "osnabruck-mayoral-election-winner-20260723172818472",
+   "createdAt": "2026-07-24T23:08:19.504177Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/osnabruck-mayoral-election-winner-20260723172818472-NMa2psp3MEG4.jpg",
+   "volume": 1547.963882,
+   "tags": [
+    "Germany",
+    "Mayoral",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Katharina P\u00f6tter",
+     0.765
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ]
+   ],
+   "nMarkets": 21
+  },
+  {
+   "id": "745455",
+   "title": "Will Trump praise Benjamin Netanyahu by July 31?",
+   "slug": "will-trump-praise-benjamin-netanyahu-by-july-31-20260724182749274",
+   "createdAt": "2026-07-24T22:50:29.171354Z",
+   "endDate": "2026-07-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-netanyahu-by-bQ2rBEuRo_dN.jpg",
+   "volume": 228.755451,
+   "tags": [
+    "Bibi",
+    "Gaza",
+    "Iran",
+    "Trump"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.515
+    ],
+    [
+     "No",
+     0.485
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "745454",
+   "title": "Will Russia enter Matiasheve by...?",
+   "slug": "will-russia-enter-matiasheve-byptptpt-20260724170338272",
+   "createdAt": "2026-07-24T22:49:54.111018Z",
+   "endDate": "2026-10-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-enter-dovha-balka-by-march-31-aP9PYGHkiy3d.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.615
+    ],
+    [
+     "August 31",
+     0.32
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "745446",
+   "title": "Will Ukraine re-enter Rodynske by...?",
+   "slug": "will-ukraine-re-enter-rodynske-byptptpt-20260724164113823",
+   "createdAt": "2026-07-24T22:46:41.140751Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+   "volume": 1391.430587,
+   "tags": [
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.42
+    ],
+    [
+     "September 30",
+     0.245
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "745386",
+   "title": "Philippines, Cavite 4th Congressional District Special Election Winner",
+   "slug": "philippines-cavite-4th-congressional-district-special-election-winner-20260722170459932",
+   "createdAt": "2026-07-24T22:15:43.032866Z",
+   "endDate": "2026-08-29T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/phl-82ba00379d.jpg",
+   "volume": 4424.551313,
+   "tags": [
+    "Cavite",
+    "Politics",
+    "Elections",
+    "Philippines"
+   ],
+   "outcomes": [
+    [
+     "Jennifer Austria Barzaga",
+     0.9545
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "745344",
+   "title": "Kimi K4 released by\u2026?",
+   "slug": "kimi-k4-released-by-20260722184115883",
+   "createdAt": "2026-07-24T22:01:46.061491Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 1365.4813540000002,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Big Tech"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.18
+    ],
+    [
+     "October 31, 2026",
+     0.11
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "745230",
+   "title": "Next Kimi K model released by\u2026?",
+   "slug": "next-kimi-k-model-released-by-20260722183157724",
+   "createdAt": "2026-07-24T21:54:51.997961Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 1136.546835,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Big Tech"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.655
+    ],
+    [
+     "September 30, 2026",
+     0.42
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "745118",
+   "title": "Will CMI declare a Millennium Prize Problem solved by ___?",
+   "slug": "will-cmi-declare-a-millennium-prize-problem-solved-by-20260723160122979",
+   "createdAt": "2026-07-24T21:05:14.851586Z",
+   "endDate": "2029-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-a-millennium-prize-problem-be-solved-before-the-end-of-2025-o952nXYzhLWZ.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Culture",
+    "Science"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2028",
+     0.27
+    ],
+    [
+     "December 31, 2027",
+     0.19
+    ],
+    [
+     "December 31, 2026",
+     0.17
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "744968",
+   "title": "Will Trump and Netanyahu hug on Tuesday?",
+   "slug": "will-trump-and-netanyahu-hug-on-tuesday-20260724181151719",
+   "createdAt": "2026-07-24T20:04:44.0963Z",
+   "endDate": "2026-07-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-netanyahu-hug-on-monday-CDUeua6KuFVE.jpg",
+   "volume": 1863.367135,
+   "tags": [
+    "Bibi",
+    "Gaza",
+    "Iran",
+    "Trump"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.85
+    ],
+    [
+     "Yes",
+     0.15
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "744937",
+   "title": "Will Netanyahu wear a Yarmulke at next meeting with Trump?",
+   "slug": "will-netanyahu-wear-a-yarmulke-at-next-meeting-with-trump-20260724180650962",
+   "createdAt": "2026-07-24T19:53:36.897659Z",
+   "endDate": "2026-07-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-netanyahu-wear-a-yarmulke-at-next-meeting-with-trump-dBBJJXUlkVl_.jpg",
+   "volume": 1471.448332,
+   "tags": [
+    "Bibi",
+    "Trump",
+    "Israel",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.989
+    ],
+    [
+     "Yes",
+     0.011
+    ]
+   ],
+   "nMarkets": 1
+  },
   {
    "id": "741507",
    "title": "Tour De France 2026: 2nd Place Finisher",

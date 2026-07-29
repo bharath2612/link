@@ -1,6 +1,883 @@
 {
- "generatedAt": "2026-07-28T06:19:03.905232+00:00",
+ "generatedAt": "2026-07-29T06:24:30.472064+00:00",
  "questions": [
+  {
+   "id": "766238",
+   "title": "Nitto ATP Finals: Player to Qualify",
+   "slug": "nitto-atp-finals-player-to-qualify-20260728191143795",
+   "createdAt": "2026-07-29T02:09:15.246847Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nitto-atp-finals-player-to-qualify-20260728191143795-33nlmujggY5O.jpg",
+   "volume": 338.787399,
+   "tags": [
+    "ATP",
+    "sport",
+    "Tennis",
+    "ATP Tour"
+   ],
+   "outcomes": [
+    [
+     "Carlos Alcaraz",
+     0.9645
+    ],
+    [
+     "Flavio Cobolli",
+     0.75
+    ],
+    [
+     "Daniil Medvedev",
+     0.735
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "766212",
+   "title": "LPL 2026 Split 3: Team to Make Grand Finals",
+   "slug": "lpl-2026-split-3-team-to-make-grand-finals-20260728181620739",
+   "createdAt": "2026-07-29T02:00:11.333413Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lpl-2026-split-3-team-to-make-grand-finals-20260728181620739-CHLGu3IDSykJ.png",
+   "volume": 20.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "BILIBILI GAMING",
+     0.745
+    ],
+    [
+     "TOP ESPORTS",
+     0.385
+    ],
+    [
+     "Anyone's Legend",
+     0.255
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "766208",
+   "title": "LCS 2026 Summer Split: Team to Make Grand Finals",
+   "slug": "lcs-2026-summer-split-team-to-make-grand-finals-20260728180643614",
+   "createdAt": "2026-07-29T01:58:35.842792Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcs-2026-summer-split-team-to-make-grand-finals-20260728180643614-kWfrGM-ksRwd.jpg",
+   "volume": 1.0204,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "Team Liquid",
+     0.265
+    ],
+    [
+     "FlyQuest",
+     0.26
+    ],
+    [
+     "LYON",
+     0.255
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "766207",
+   "title": "LEC 2026 Summer Split: Team to Make Grand Finals",
+   "slug": "lec-2026-summer-split-team-to-make-grand-finals-20260728180313572",
+   "createdAt": "2026-07-29T01:58:18.030426Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lec-2026-summer-split-team-to-make-grand-finals-20260728180313572-CC0OScKP8GqZ.jpg",
+   "volume": 1.0204,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "G2 Esports",
+     0.26
+    ],
+    [
+     "Team Vitality",
+     0.26
+    ],
+    [
+     "Team Heretics",
+     0.26
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "766206",
+   "title": "LCP 2026 Split 3: Team to Make Grand Finals",
+   "slug": "lcp-2026-split-3-team-to-make-grand-finals-20260728180338316",
+   "createdAt": "2026-07-29T01:57:12.440288Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcp-2026-split-3-winner-20260728175401267-tNi5lS42pfeE.jpg",
+   "volume": 1.0101,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "CTBC Flying Oyster",
+     0.5
+    ],
+    [
+     "GAM Esports",
+     0.5
+    ],
+    [
+     "SoftBank Hawks",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "766198",
+   "title": "LCP 2026 Split 3: Winner",
+   "slug": "lcp-2026-split-3-winner-20260728175401267",
+   "createdAt": "2026-07-29T01:56:38.5117Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lcp-2026-split-3-winner-20260728175401267-tNi5lS42pfeE.jpg",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "766197",
+   "title": "Team to Qualify for Worlds 2026?",
+   "slug": "team-to-qualify-for-worlds-2026-20260728162208111",
+   "createdAt": "2026-07-29T01:55:40.831781Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/team-to-qualify-for-worlds-2026-20260728162208111-0BxRSb5TxRkV.jpg",
+   "volume": 61.0101,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "Hanwha Life Esports",
+     0.95
+    ],
+    [
+     "Gen.G Esports",
+     0.915
+    ],
+    [
+     "G2 Esports",
+     0.86
+    ]
+   ],
+   "nMarkets": 56
+  },
+  {
+   "id": "766182",
+   "title": "Blast Bounty 2026 Season 2: MVP",
+   "slug": "blast-bounty-2026-season-2-mvp-20260727173052294",
+   "createdAt": "2026-07-29T01:51:19.215272Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-bounty-2026-season-2-mvp-20260727173052294-51bEJHHq9Bf_.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "blast",
+    "Sports",
+    "Esports"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 46
+  },
+  {
+   "id": "766181",
+   "title": "EWC 2026: Overwatch Winner",
+   "slug": "ewc-2026-overwatch-winner-20260727171905223",
+   "createdAt": "2026-07-29T01:50:35.134449Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ewc-2026-winning-region-lol-20260713190056918-Lppr51qDD1L3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "EWC",
+    "Sports",
+    "Esports",
+    "Overwatch"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "766180",
+   "title": "Grand Chess Tour: Saint Louis Rapid & Blitz 2026 Winner",
+   "slug": "grand-chess-tour-saint-louis-rapid-blitz-2026-winner-20260727163317413",
+   "createdAt": "2026-07-29T01:49:23.869553Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grand-chess-tour-saint-louis-rapid-blitz-2026-winner-20260727163317413-7rWyO9fRSR8s.png",
+   "volume": 1.0101,
+   "tags": [
+    "Chess",
+    "Sports",
+    "Esports",
+    "Grand Chess Tour"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "766168",
+   "title": "EWC 2026: Rainbow Six Siege Winner",
+   "slug": "ewc-2026-rainbow-six-siege-winner-20260727192210255",
+   "createdAt": "2026-07-29T01:44:56.348389Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ewc-2026-winning-region-lol-20260713190056918-Lppr51qDD1L3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "EWC",
+    "Sports",
+    "Esports",
+    "Rainbow Six Siege"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 26
+  },
+  {
+   "id": "766167",
+   "title": "Circuito Desafiante 2026 Split 2: Winner",
+   "slug": "circuito-desafiante-2026-split-2-winner-20260727190345048",
+   "createdAt": "2026-07-29T01:43:54.12882Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/circuito-desafiante-2026-split-2-winner-20260727190345048-2nbtwUXcIne0.jpg",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "766166",
+   "title": "EWC 2026: COD: Warzone Winner",
+   "slug": "ewc-2026-cod-warzone-winner-20260727182355419",
+   "createdAt": "2026-07-29T01:42:48.679457Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ewc-2026-winning-region-lol-20260713190056918-Lppr51qDD1L3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "COD",
+    "EWC",
+    "Sports",
+    "Esports"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "766156",
+   "title": "EWC 2026: Street Fighter Winner",
+   "slug": "ewc-2026-street-fighter-winner-20260727181829258",
+   "createdAt": "2026-07-29T01:37:57.61349Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ewc-2026-winning-region-lol-20260713190056918-Lppr51qDD1L3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "sf6",
+    "Sports",
+    "Esports",
+    "street fighter"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "766141",
+   "title": "Kansas Governor Republican Primary Margin of Victory",
+   "slug": "kansas-governor-republican-primary-margin-of-victory-20260728203736924",
+   "createdAt": "2026-07-29T01:34:32.499039Z",
+   "endDate": "2026-08-04T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-governor-republican-primary-winner-NCwwnChUZMux.png",
+   "volume": 0.0,
+   "tags": [
+    "Kansas",
+    "Politics",
+    "Elections",
+    "Primaries"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Masterson 5\u201310%",
+     0.43
+    ],
+    [
+     "Masterson <5%",
+     0.43
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "766140",
+   "title": "Who will win the Democratic nomination for Providence, Rhode Island Mayor?",
+   "slug": "who-will-win-the-democratic-nomination-for-providence-rhode-island-mayor-20260727182320462",
+   "createdAt": "2026-07-29T01:32:54.635384Z",
+   "endDate": "2026-09-09T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-win-the-democratic-nomination-for-providence-rhode-island-mayor-2026072-CRkHOz_m-lDf.jpg",
+   "volume": 1.204817,
+   "tags": [
+    "mayor",
+    "Midterms",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Brett Smiley",
+     0.73
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "766123",
+   "title": "Will Max Miller drop out of the OH-07 race by August 9?",
+   "slug": "will-max-miller-drop-out-of-the-oh-07-race-by-august-9-20260728155313321",
+   "createdAt": "2026-07-29T01:23:19.399874Z",
+   "endDate": "2026-08-09T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-max-miller-drop-out-of-the-oh-07-race-by-august-9-20260728155313321-4ymK19eNeYdS.jpg",
+   "volume": 4.3118,
+   "tags": [
+    "ohio",
+    "Politics",
+    "us house",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.615
+    ],
+    [
+     "No",
+     0.385
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "766108",
+   "title": "Michigan Democratic Senate Primary: Genesee County (Flint) Winner",
+   "slug": "michigan-democratic-senate-primary-genesee-county-flint-winner-20260728150251691",
+   "createdAt": "2026-07-29T01:21:15.342742Z",
+   "endDate": "2026-08-04T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/michigan-democratic-senate-primary-winner-uPezQW2QcX0-.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "766107",
+   "title": "Michigan Democratic Senate Primary: Macomb County Winner",
+   "slug": "michigan-democratic-senate-primary-macomb-county-winner-20260728150015515",
+   "createdAt": "2026-07-29T01:20:03.236959Z",
+   "endDate": "2026-08-04T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/michigan-democratic-senate-primary-winner-uPezQW2QcX0-.png",
+   "volume": 6.25,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Haley Stevens",
+     0.53
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "766099",
+   "title": "Wisconsin Governor Democratic Primary Margin of Victory",
+   "slug": "wisconsin-governor-democratic-primary-margin-of-victory-20260727211906203",
+   "createdAt": "2026-07-29T01:18:22.944819Z",
+   "endDate": "2026-08-11T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wisconsin-governor-democratic-primary-winner-fNuGCJUY2lhq.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Hong 30%+",
+     0.425
+    ],
+    [
+     "Hong 25\u201330%",
+     0.425
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "765715",
+   "title": "Next Chief Minister of the Isle of Man?",
+   "slug": "next-chief-minister-of-the-isle-of-man-20260728212301353",
+   "createdAt": "2026-07-28T22:33:21.992581Z",
+   "endDate": "2026-09-24T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-chief-minister-of-the-isle-of-man-20260728212256052-RiAz8yeS_pY7.png",
+   "volume": 30.265679999999996,
+   "tags": [
+    "UK",
+    "Politics",
+    "Elections",
+    "Isle of Man"
+   ],
+   "outcomes": [
+    [
+     "Alfred Cannan",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "765684",
+   "title": "Will Alix Earle attend an F1 race in 2026?",
+   "slug": "will-alix-earle-attend-an-f1-race-in-2026-20260728202933346",
+   "createdAt": "2026-07-28T22:18:06.557886Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alix-earle-attend-an-f1-race-in-2026-20260728202933346-0FMTPXwqFA4-.jpg",
+   "volume": 1.190475,
+   "tags": [
+    "f1",
+    "Sports",
+    "racing",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.72
+    ],
+    [
+     "No",
+     0.28
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "765647",
+   "title": "How many Israeli elections before government formed?",
+   "slug": "how-many-israeli-elections-before-government-formed-20260728195012183",
+   "createdAt": "2026-07-28T22:09:33.306834Z",
+   "endDate": "2027-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israeli-parliament-dissolve-by-end-of-july-ukAKtEly0Y84.jpg",
+   "volume": 131.1,
+   "tags": [
+    "Israel",
+    "Politics",
+    "Elections",
+    "International Election Props"
+   ],
+   "outcomes": [
+    [
+     "1",
+     0.46
+    ],
+    [
+     "2",
+     0.415
+    ],
+    [
+     "3",
+     0.38
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "765646",
+   "title": "What places will Trump mention in August?",
+   "slug": "what-places-will-trump-mention-in-august-20260728181450062",
+   "createdAt": "2026-07-28T22:08:54.314306Z",
+   "endDate": "2026-08-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-places-will-trump-mention-in-august-20260728181450062-Ax9sto2XN_fp.jpg",
+   "volume": 1068.167747,
+   "tags": [
+    "Trump",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Middle East",
+     0.9605
+    ],
+    [
+     "Washington D.C.",
+     0.96
+    ],
+    [
+     "Mexico",
+     0.945
+    ]
+   ],
+   "nMarkets": 18
+  },
+  {
+   "id": "765619",
+   "title": "What Trump-named things will Trump mention in August?",
+   "slug": "what-trump-named-things-will-trump-mention-in-august-20260728182325261",
+   "createdAt": "2026-07-28T22:02:28.485592Z",
+   "endDate": "2026-08-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-trump-named-things-will-trump-mention-in-may-g2moa3-hK_K3.png",
+   "volume": 30.68,
+   "tags": [
+    "Trump",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Trump Derangement Syndrome",
+     0.76
+    ],
+    [
+     "TrumpRX / TrumpRX Dot Gov",
+     0.61
+    ],
+    [
+     "Best of Trump",
+     0.555
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "765461",
+   "title": "Kazakhstan Kurultai Election: Adilet Wins Majority?",
+   "slug": "kazakhstan-kurultai-election-adilet-wins-majority-20260728164335908",
+   "createdAt": "2026-07-28T21:45:37.810269Z",
+   "endDate": "2026-08-23T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/adilet-33022681fc.png",
+   "volume": 5.81395,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Kazakhstan",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.75
+    ],
+    [
+     "No",
+     0.25
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "765449",
+   "title": "Kim Kardashian announces passing the Bar Exam by 2027?",
+   "slug": "kim-kardashian-announces-passing-the-bar-exam-by-2027-20260728160734157",
+   "createdAt": "2026-07-28T21:39:42.800435Z",
+   "endDate": "2027-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kim-kardashian-passes-the-bar-exam-by-2027-20260727203737737-qXAHkMCrV10B.jpg",
+   "volume": 278.12763199999995,
+   "tags": [
+    "Culture",
+    "Kardashian",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.935
+    ],
+    [
+     "Yes",
+     0.065
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "765448",
+   "title": "Shein IPO Closing Market Cap Above __?",
+   "slug": "shein-ipo-closing-market-cap-above-20260727205430939",
+   "createdAt": "2026-07-28T21:39:10.188427Z",
+   "endDate": "2027-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/shein-6582fe5649.png",
+   "volume": 1322.052261,
+   "tags": [
+    "IPO",
+    "IPOs",
+    "Finance",
+    "Business"
+   ],
+   "outcomes": [
+    [
+     "\u2191 200B HKD",
+     0.89
+    ],
+    [
+     "\u2191 250B HKD",
+     0.675
+    ],
+    [
+     "\u2191 300B HKD",
+     0.56
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "765326",
+   "title": "Crypto Market Structure legislation becomes law in 2026?",
+   "slug": "crypto-market-structure-legislation-becomes-law-in-2026-20260727223933088",
+   "createdAt": "2026-07-28T21:06:34.231767Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cryptobill-64080693c8.jpg",
+   "volume": 2.469126,
+   "tags": [
+    "bill",
+    "Trump",
+    "Crypto",
+    "clarity"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.665
+    ],
+    [
+     "Yes",
+     0.335
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "765230",
+   "title": "How many hurricanes will form during the Atlantic Hurricane Season in 2026?",
+   "slug": "how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260728201848339",
+   "createdAt": "2026-07-28T20:47:59.098166Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-hurricanes-will-form-during-the-atlantic-hurricane-season-in-2026-20260-o6ofvo5bB9ak.png",
+   "volume": 57.519999999999996,
+   "tags": [
+    "Weather",
+    "climate",
+    "hurricane",
+    "Hurricanes"
+   ],
+   "outcomes": [
+    [
+     "1-3",
+     0.5
+    ],
+    [
+     "4-6",
+     0.465
+    ],
+    [
+     "7+",
+     0.4
+    ]
+   ],
+   "nMarkets": 4
+  },
   {
    "id": "759222",
    "title": "Will Iran target Ukraine by...?",

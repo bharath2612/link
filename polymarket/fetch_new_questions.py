@@ -36,6 +36,7 @@ EVENTS_QUERY = (
 PAGES = 5          # 5 x 100 events covers several days of creations
 KEEP_DAYS = 14     # how much history to keep in data.json
 
+# Resolve output paths from this script so callers can use any working directory.
 HERE = Path(__file__).resolve().parent
 DATA_JSON = HERE / "data.json"
 DATA_JS = HERE / "data.js"
@@ -57,6 +58,7 @@ def fetch_json(path: str):
             return json.loads(http_get(GAMMA + path))
         except Exception as exc:
             print(f"  direct fetch failed ({exc}); switching to proxy", file=sys.stderr)
+            # Keep subsequent pages on the proxy after the first direct failure.
             _use_proxy = True
     body = http_get(PROXY_PREFIX + GAMMA + path)
     # The proxy wraps the payload in a markdown envelope.

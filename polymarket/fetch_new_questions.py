@@ -70,6 +70,7 @@ def is_new_question(event: dict) -> bool:
     """A genuinely new question, not an auto-generated recurring market."""
     if event.get("series"):
         return False
+    # Recheck recurring tags locally as well as applying the API query filter.
     tags = {t.get("slug") for t in (event.get("tags") or [])}
     return not tags & {"recurring", "hide-from-new"}
 
@@ -89,6 +90,7 @@ def slim(event: dict) -> dict:
                 prices = json.loads(m.get("outcomePrices") or "[0]")
                 outcomes.append((m.get("groupItemTitle") or m.get("question") or "", float(prices[0])))
             outcomes.sort(key=lambda p: -p[1])
+    # Invalid odds omit the outcome chips while preserving the question itself.
     except (ValueError, TypeError):
         outcomes = []
     return {

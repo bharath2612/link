@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-08-01T06:20:45.294139+00:00",
+ "generatedAt": "2026-08-02T06:26:21.495981+00:00",
  "questions": [
+  {
+   "id": "783555",
+   "title": "OpenAI\u2019s Astra released by\u2026?",
+   "slug": "openais-astra-released-by-20260801214557729",
+   "createdAt": "2026-08-01T21:50:02.409778Z",
+   "endDate": "2026-10-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+   "volume": 2089.890661,
+   "tags": [
+    "AI",
+    "gpt",
+    "Tech",
+    "OpenAI"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.725
+    ],
+    [
+     "September 30",
+     0.68
+    ],
+    [
+     "August 31",
+     0.345
+    ]
+   ],
+   "nMarkets": 4
+  },
   {
    "id": "779602",
    "title": "Will Iran target a Arab country on...?",

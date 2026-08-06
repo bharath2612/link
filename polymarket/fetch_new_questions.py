@@ -126,6 +126,7 @@ def main() -> None:
         except (ValueError, KeyError):
             pass
 
+    # Fresh records replace matching IDs; older unseen records survive until expiry.
     merged = {**existing, **fresh}
     cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).isoformat()
     questions = sorted(
@@ -138,6 +139,7 @@ def main() -> None:
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "questions": questions,
     }
+    # Both formats share one payload, including the same capture timestamp.
     DATA_JSON.write_text(json.dumps(payload, indent=1))
     DATA_JS.write_text("window.QUESTIONS = " + json.dumps(payload) + ";\n")
     print(f"Saved {len(questions)} questions ({len(fresh)} seen this run) -> data.json, data.js")

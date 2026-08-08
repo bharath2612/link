@@ -1,6 +1,2084 @@
 {
- "generatedAt": "2026-08-07T05:27:48.721605+00:00",
+ "generatedAt": "2026-08-08T04:46:39.969332+00:00",
  "questions": [
+  {
+   "id": "813332",
+   "title": "Snooker China Open 2026: Winner",
+   "slug": "snooker-china-open-2026-winner-20260807154842041",
+   "createdAt": "2026-08-07T23:57:43.590246Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/snooker-china-open-2026-winner-20260807154842041-ApRpT3SkvgJd.jpg",
+   "volume": 108.404,
+   "tags": [
+    "Sports",
+    "snooker"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 39
+  },
+  {
+   "id": "813323",
+   "title": "BLAST Open Porto 2026: Winner",
+   "slug": "blast-open-porto-2026-winner-20260806201117422",
+   "createdAt": "2026-08-07T23:57:00.646653Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-winner-20260806201117422-eIzYVodWxoxg.png",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "813322",
+   "title": "The International 2026: Most Picked Hero",
+   "slug": "the-international-2026-most-picked-hero-20260806194835426",
+   "createdAt": "2026-08-07T23:55:40.731189Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-international-2026-most-picked-hero-20260806194835426-1hMvKf1cKaKA.jpg",
+   "volume": 1116.0,
+   "tags": [
+    "Dota 2",
+    "Sports",
+    "Esports",
+    "The International"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 108
+  },
+  {
+   "id": "813144",
+   "title": "Who will attend the US Open Finals?",
+   "slug": "who-will-attend-the-us-open-finals-20260807052019155",
+   "createdAt": "2026-08-07T22:51:48.688267Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-mens-us-open-winner-tennis-oSTkkDpgQu-b.png",
+   "volume": 108.0,
+   "tags": [
+    "Tennis",
+    "Culture",
+    "Celebrities",
+    "U.S. Open 2026"
+   ],
+   "outcomes": [
+    [
+     "Roger Federer",
+     0.735
+    ],
+    [
+     "Ben Stiller",
+     0.535
+    ],
+    [
+     "Kevin Hart",
+     0.52
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "813143",
+   "title": "# of in-game deaths during Kai and Speed Minecraft marathon?",
+   "slug": "of-in-game-deaths-during-kai-and-speed-minecraft-marathon-20260807224247497",
+   "createdAt": "2026-08-07T22:47:59.678155Z",
+   "endDate": "2026-09-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 1165.87657,
+   "tags": [
+    "gaming",
+    "Culture",
+    "streamer",
+    "Minecraft"
+   ],
+   "outcomes": [
+    [
+     "90+",
+     0.72
+    ],
+    [
+     "50-69",
+     0.35
+    ],
+    [
+     "30-49",
+     0.3
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "813079",
+   "title": "Will Kai or Speed be eliminated by...?",
+   "slug": "will-kai-or-speed-be-eliminated-byptptpt-20260807142903264",
+   "createdAt": "2026-08-07T22:26:11.429288Z",
+   "endDate": "2026-08-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 2944.138387,
+   "tags": [
+    "gaming",
+    "Culture",
+    "streamer",
+    "Minecraft"
+   ],
+   "outcomes": [
+    [
+     "Falling",
+     1.0
+    ],
+    [
+     "Lava",
+     0.685
+    ],
+    [
+     "Explosions",
+     0.64
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "813054",
+   "title": "Which mobs will eliminate Kai or Speed?",
+   "slug": "which-mobs-will-eliminate-kai-or-speed-20260807215900135",
+   "createdAt": "2026-08-07T22:15:57.274204Z",
+   "endDate": "2026-08-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 2735.9282340000004,
+   "tags": [
+    "gaming",
+    "Culture",
+    "streamer",
+    "Minecraft"
+   ],
+   "outcomes": [
+    [
+     "Skeleton",
+     1.0
+    ],
+    [
+     "Creeper",
+     0.9515
+    ],
+    [
+     "Enderman",
+     0.61
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812929",
+   "title": "Kai and Speed beat Minecraft challenge by...?",
+   "slug": "kai-and-speed-beat-minecraft-challenge-byptptpt-20260807141254095",
+   "createdAt": "2026-08-07T21:58:00.902131Z",
+   "endDate": "2026-08-17T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 123124.82537700002,
+   "tags": [
+    "gaming",
+    "Culture",
+    "streamer",
+    "Minecraft"
+   ],
+   "outcomes": [
+    [
+     "August 17",
+     0.185
+    ],
+    [
+     "August 16",
+     0.135
+    ],
+    [
+     "August 15",
+     0.125
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812904",
+   "title": "Lisa Cook officially out as Fed Governor by...?",
+   "slug": "lisa-cook-officially-out-as-fed-governor-byptptpt-20260807214943167",
+   "createdAt": "2026-08-07T21:51:00.217858Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lisa-cook-out-as-fed-governor-by-september-30-i78CFTbxC35g.jpg",
+   "volume": 979.240451,
+   "tags": [
+    "Fed",
+    "Trump",
+    "Finance",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "November 30",
+     0.48
+    ],
+    [
+     "December 31",
+     0.47
+    ],
+    [
+     "October 31",
+     0.29
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "812903",
+   "title": "Trump tries to fire Lisa Cook by...?",
+   "slug": "trump-tries-to-fire-lisa-cook-byptptpt-20260807214228920",
+   "createdAt": "2026-08-07T21:48:55.627242Z",
+   "endDate": "2026-09-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-announces-lisa-cook-replacment-by-aug-31-vOwrXUUIucba.jpg",
+   "volume": 523.720969,
+   "tags": [
+    "Trump",
+    "Politics",
+    "Lisa Cook",
+    "federal reserve"
+   ],
+   "outcomes": [
+    [
+     "Trump tries to fire Lisa Cook by September 30?",
+     0.51
+    ],
+    [
+     "Trump tries to fire Lisa Cook by August 31?",
+     0.295
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "812886",
+   "title": "Texas Senate and Governor Combo",
+   "slug": "texas-senate-and-governor-combo-20260807213940452",
+   "createdAt": "2026-08-07T21:41:17.908832Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/texas-senate-and-governor-outcome-20260804162614412-keuIG0WLCHO6.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "election",
+    "Ken Paxton",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Dems sweep",
+     0.4
+    ],
+    [
+     "Reps sweep",
+     0.4
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "812802",
+   "title": "How long will the GTA 6 \"Extended Look\" be?",
+   "slug": "how-long-will-the-gta-6-extended-look-be-20260807064756488",
+   "createdAt": "2026-08-07T21:08:39.511038Z",
+   "endDate": "2026-08-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gta-vi-released-before-june-2026-igCgZsDMejF1.jpg",
+   "volume": 2830.5789369999998,
+   "tags": [
+    "GTA 6",
+    "GTA VI",
+    "Movies",
+    "gaming"
+   ],
+   "outcomes": [
+    [
+     "3+ minutes",
+     0.975
+    ],
+    [
+     "5+ minutes",
+     0.969
+    ],
+    [
+     "8+ minutes",
+     0.865
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "812760",
+   "title": "Will SCOTUS let Trump build the White House ballroom by September 30?",
+   "slug": "will-scotus-let-trump-build-the-white-house-ballroom-by-september-30-20260807171000966",
+   "createdAt": "2026-08-07T20:54:20.143815Z",
+   "endDate": "2026-09-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-scotus-let-trump-build-the-white-house-ballroom-20260807170543858-8YWUzxc0aqjf.jpg",
+   "volume": 912.4941010000001,
+   "tags": [
+    "Politics",
+    "donald trump",
+    "Supreme Court "
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.635
+    ],
+    [
+     "No",
+     0.365
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "812743",
+   "title": "Max Miller out as US Rep by December 31, 2026?",
+   "slug": "max-miller-out-as-us-rep-by-december-31-2026-20260807204822039",
+   "createdAt": "2026-08-07T20:51:26.067407Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-max-miller-drop-out-of-the-oh-07-race-by-august-9-20260728155313321-4ymK19eNeYdS.jpg",
+   "volume": 65.0,
+   "tags": [
+    "ohio",
+    "Politics",
+    "Max Miller",
+    "us house of representatives"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.53
+    ],
+    [
+     "Yes",
+     0.47
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "812734",
+   "title": "Mamdani announces reparations by March 31, 2027?",
+   "slug": "mamdani-announces-reparations-by-march-31-2027-20260807174316245",
+   "createdAt": "2026-08-07T20:44:04.708917Z",
+   "endDate": "2027-03-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mamdani-announces-reparations-by-mach-31-2027-20260807174008430-skBjhVK0SEet.jpg",
+   "volume": 12.938812,
+   "tags": [
+    "Politics",
+    "New York City",
+    "Zohran Mamdani"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.845
+    ],
+    [
+     "Yes",
+     0.155
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "812724",
+   "title": "Wisconsin Governor Democratic Primary: Dane County Winner (Madison)",
+   "slug": "wisconsin-governor-democratic-primary-dane-county-winner-madison-20260807143617556",
+   "createdAt": "2026-08-07T20:40:35.702862Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wisconsin-governor-democratic-primary-winner-fNuGCJUY2lhq.png",
+   "volume": 2685.5241,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Francesca Hong",
+     0.973
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812720",
+   "title": "Minnesota Senate Democratic Primary: Dakota County Winner",
+   "slug": "minnesota-senate-democratic-primary-dakota-county-winner",
+   "createdAt": "2026-08-07T20:39:17.957769Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minnesota-governor-republican-primary-winner-BpIlDlfqLVQ2.png",
+   "volume": 115.53,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812719",
+   "title": "Minnesota Senate Democratic Primary: Ramsey County (St. Paul) Winner",
+   "slug": "minnesota-senate-democratic-primary-ramsey-county-stpt-paul-winner-20260807161127851",
+   "createdAt": "2026-08-07T20:38:40.72543Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minnesota-governor-republican-primary-winner-BpIlDlfqLVQ2.png",
+   "volume": 631.44,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Peggy Flanagan",
+     0.58
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812718",
+   "title": "Minnesota Senate Democratic Primary: Hennepin County (Minneapolis) Winner",
+   "slug": "minnesota-senate-democratic-primary-hennepin-county-minneapolis-winner-20260807161105148",
+   "createdAt": "2026-08-07T20:38:07.101442Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minnesota-governor-republican-primary-winner-BpIlDlfqLVQ2.png",
+   "volume": 115.53,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812701",
+   "title": "Wisconsin Governor Democratic Primary: Kenosha County Winner",
+   "slug": "wisconsin-governor-democratic-primary-kenosha-county-winner-20260807145820411",
+   "createdAt": "2026-08-07T20:37:26.082187Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wisconsin-governor-democratic-primary-winner-fNuGCJUY2lhq.png",
+   "volume": 644.17,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Francesca Hong",
+     0.6
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812700",
+   "title": "Wisconsin Governor Democratic Primary: Waukesha County Winner",
+   "slug": "wisconsin-governor-democratic-primary-waukesha-county-winner-20260807145202406",
+   "createdAt": "2026-08-07T20:36:31.543448Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wisconsin-governor-democratic-primary-winner-fNuGCJUY2lhq.png",
+   "volume": 442.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Francesca Hong",
+     0.765
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812699",
+   "title": "Wisconsin Governor Democratic Primary: Milwaukee County Winner",
+   "slug": "wisconsin-governor-democratic-primary-milwaukee-county-winner-20260805151150751",
+   "createdAt": "2026-08-07T20:34:29.267384Z",
+   "endDate": "2026-08-11T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wisconsin-governor-democratic-primary-winner-fNuGCJUY2lhq.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "812698",
+   "title": "Where will 2026 rank among the highest U.S. domestic box office years on record?",
+   "slug": "where-will-2026-rank-among-the-highest-uptspt-domestic-box-office-years-on-record-20260807033449401",
+   "createdAt": "2026-08-07T20:34:00.969792Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/where-will-2026-rank-among-the-highest-uptspt-domestic-box-office-years-on-recor-sjBH71OSkjqa.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Movies",
+    "Culture",
+    "Box Office"
+   ],
+   "outcomes": [
+    [
+     "6th or higher",
+     0.445
+    ],
+    [
+     "10th-12th",
+     0.445
+    ],
+    [
+     "13th-15th",
+     0.445
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "812697",
+   "title": "GA-11 House Election Margin of Victory",
+   "slug": "ga-11-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:33:16.665692Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812696",
+   "title": "GA-10 House Election Margin of Victory",
+   "slug": "ga-10-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:33:06.281216Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812695",
+   "title": "GA-09 House Election Margin of Victory",
+   "slug": "ga-09-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:32:56.595537Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812694",
+   "title": "GA-08 House Election Margin of Victory",
+   "slug": "ga-08-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:32:45.451245Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812685",
+   "title": "GA-07 House Election Margin of Victory",
+   "slug": "ga-07-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:32:32.958398Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812684",
+   "title": "GA-06 House Election Margin of Victory",
+   "slug": "ga-06-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:32:19.73795Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812683",
+   "title": "GA-05 House Election Margin of Victory",
+   "slug": "ga-05-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:32:05.436176Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812682",
+   "title": "GA-04 House Election Margin of Victory",
+   "slug": "ga-04-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:31:54.075233Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812681",
+   "title": "GA-03 House Election Margin of Victory",
+   "slug": "ga-03-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:31:40.368764Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812680",
+   "title": "GA-02 House Election Margin of Victory",
+   "slug": "ga-02-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:31:30.855149Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812679",
+   "title": "GA-01 House Election Margin of Victory",
+   "slug": "ga-01-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:31:19.37334Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812678",
+   "title": "ID-02 House Election Margin of Victory",
+   "slug": "id-02-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:31:05.551767Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/ID.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812677",
+   "title": "ID-01 House Election Margin of Victory",
+   "slug": "id-01-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:30:49.437886Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/ID.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812675",
+   "title": "IA-04 House Election Margin of Victory",
+   "slug": "ia-04-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:30:36.84688Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/IA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812673",
+   "title": "IA-03 House Election Margin of Victory",
+   "slug": "ia-03-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:30:13.997373Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ia-01-house-election-winner-l8Q2K_ATl5vY.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812672",
+   "title": "IA-02 House Election Margin of Victory",
+   "slug": "ia-02-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:29:54.42019Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/IA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812671",
+   "title": "IA-01 House Election Margin of Victory",
+   "slug": "ia-01-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:29:33.52703Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ia-01-house-election-winner-l8Q2K_ATl5vY.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812670",
+   "title": "HI-02 House Election Margin of Victory",
+   "slug": "hi-02-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:29:16.655546Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/HI.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812669",
+   "title": "HI-01 House Election Margin of Victory",
+   "slug": "hi-01-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:29:06.837732Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/HI.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812668",
+   "title": "South Carolina Special Senate Republican Primary: First Round Margin of Victory",
+   "slug": "south-carolina-special-senate-republican-primary-first-round-margin-of-victory-20260807145147619",
+   "createdAt": "2026-08-07T20:29:02.274188Z",
+   "endDate": "2026-08-11T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-carolina-governor-democratic-primary-winner-QsUwq2SIAM1Z.png",
+   "volume": 382.26,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "Republican Primary"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Fry 5%+",
+     0.465
+    ],
+    [
+     "Fry <5%",
+     0.405
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812667",
+   "title": "GA-14 House Election Margin of Victory",
+   "slug": "ga-14-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:28:50.186744Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812666",
+   "title": "Esports Awards 2026: Esports Game of the Year",
+   "slug": "esports-awards-2026-esports-game-of-the-year-20260806164106509",
+   "createdAt": "2026-08-07T20:28:48.819275Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/esports-awards-2026-esports-game-of-the-year-20260806164106509-svZNiJVVReY0.png",
+   "volume": 1386.05,
+   "tags": [
+    "Sports",
+    "Esports",
+    "esports awards"
+   ],
+   "outcomes": [
+    [
+     "League of Legends",
+     0.525
+    ],
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "812665",
+   "title": "Minnesota Republican Governor Primary Margin of Victory",
+   "slug": "minnesota-republican-governor-primary-margin-of-victory-20260807151509327",
+   "createdAt": "2026-08-07T20:28:11.382317Z",
+   "endDate": "2026-08-11T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minnesota-governor-republican-primary-winner-BpIlDlfqLVQ2.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "minnesota"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Demuth <5%",
+     0.38
+    ],
+    [
+     "Lindell 25%+",
+     0.355
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "812664",
+   "title": "GA-13 House Election Margin of Victory",
+   "slug": "ga-13-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:28:09.528251Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812663",
+   "title": "GA-12 House Election Margin of Victory",
+   "slug": "ga-12-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:28:09.185925Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/GA.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812637",
+   "title": "FL-27 House Election Margin of Victory",
+   "slug": "fl-27-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:18:21.725799Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812636",
+   "title": "FL-28 House Election Margin of Victory",
+   "slug": "fl-28-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:18:17.126115Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812635",
+   "title": "FL-24 House Election Margin of Victory",
+   "slug": "fl-24-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:18:06.165855Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812634",
+   "title": "FL-23 House Election Margin of Victory",
+   "slug": "fl-23-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:55.052123Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fl-13-house-election-winner-4J_MCv9Ra0s5.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812633",
+   "title": "FL-21 House Election Margin of Victory",
+   "slug": "fl-21-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:52.787536Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812632",
+   "title": "FL-20 House Election Margin of Victory",
+   "slug": "fl-20-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:44.827405Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812631",
+   "title": "FL-19 House Election Margin of Victory",
+   "slug": "fl-19-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:33.994317Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812630",
+   "title": "FL-18 House Election Margin of Victory",
+   "slug": "fl-18-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:26.3574Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812621",
+   "title": "FL-17 House Election Margin of Victory",
+   "slug": "fl-17-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:17:05.003712Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812620",
+   "title": "FL-16 House Election Margin of Victory",
+   "slug": "fl-16-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:16:46.790041Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812619",
+   "title": "FL-15 House Election Margin of Victory",
+   "slug": "fl-15-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:16:40.737112Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812618",
+   "title": "FL-13 House Election Margin of Victory",
+   "slug": "fl-13-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:16:35.767672Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fl-13-house-election-winner-4J_MCv9Ra0s5.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812590",
+   "title": "FL-11 House Election Margin of Victory",
+   "slug": "fl-11-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:13:31.526664Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812581",
+   "title": "FL-08 House Election Margin of Victory",
+   "slug": "fl-08-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:12:17.431972Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812580",
+   "title": "FL-07 House Election Margin of Victory",
+   "slug": "fl-07-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:12:05.574643Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812577",
+   "title": "FL-06 House Election Margin of Victory",
+   "slug": "fl-06-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:09:43.17228Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "812576",
+   "title": "FL-05 House Election Margin of Victory",
+   "slug": "fl-05-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:09:28.794379Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812575",
+   "title": "FL-04 House Election Margin of Victory",
+   "slug": "fl-04-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:09:08.651265Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812574",
+   "title": "FL-03 House Election Margin of Victory",
+   "slug": "fl-03-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:08:53.756055Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812573",
+   "title": "FL-02 House Election Margin of Victory",
+   "slug": "fl-02-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:08:18.727311Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "812572",
+   "title": "FL-01 House Election Margin of Victory",
+   "slug": "fl-01-house-margin-of-victory-2026",
+   "createdAt": "2026-08-07T20:08:17.426352Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/FL.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "812475",
+   "title": "Surrey Mayoral Election",
+   "slug": "surrey-mayoral-election-20260807185613301",
+   "createdAt": "2026-08-07T19:46:33.283237Z",
+   "endDate": "2026-10-17T15:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc-flag-surrey-02b817055b.jpg",
+   "volume": 21.0,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
   {
    "id": "808791",
    "title": "Berlin State Elections: AfD # of seats?",
@@ -6083,864 +8161,6 @@
     ]
    ],
    "nMarkets": 8
-  },
-  {
-   "id": "745748",
-   "title": "What will Boeing say during their next earnings call?",
-   "slug": "what-will-boeing-say-during-their-next-earnings-call-20260724221853543",
-   "createdAt": "2026-07-25T00:22:23.259119Z",
-   "endDate": "2026-07-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ba-quarterly-earnings-nongaap-eps-04-22-2026-neg0pt59-9mKtWi1BLQNs.png",
-   "volume": 1723.81,
-   "tags": [
-    "Tech",
-    "Big Tech",
-    "Mentions",
-    "Earnings Calls"
-   ],
-   "outcomes": [
-    [
-     "Commercial",
-     0.9705
-    ],
-    [
-     "Delivery",
-     0.895
-    ],
-    [
-     "Program",
-     0.8
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "745733",
-   "title": "What will PayPal say during their next earnings call?",
-   "slug": "what-will-paypal-say-during-their-next-earnings-call-20260724221739505",
-   "createdAt": "2026-07-25T00:21:45.835532Z",
-   "endDate": "2026-07-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pypl-quarterly-earnings-nongaap-eps-05-05-2026-1pt28-N4LJ6hHZ5JoW.png",
-   "volume": 685.652785,
-   "tags": [
-    "Tech",
-    "Big Tech",
-    "Mentions",
-    "Earnings Calls"
-   ],
-   "outcomes": [
-    [
-     "Quarter 15+ times",
-     0.76
-    ],
-    [
-     "Transaction 5+ times",
-     0.755
-    ],
-    [
-     "Merchant 5+ times",
-     0.505
-    ]
-   ],
-   "nMarkets": 19
-  },
-  {
-   "id": "745732",
-   "title": "What will Trump say during remarks in Michigan?",
-   "slug": "what-will-trump-say-during-remarks-in-michigan-20260724162420350",
-   "createdAt": "2026-07-25T00:20:57.569631Z",
-   "endDate": "2026-07-27T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 5038.887246,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Stock Market",
-     0.88
-    ],
-    [
-     "Trump 5+ times",
-     0.865
-    ],
-    [
-     "Oil",
-     0.865
-    ]
-   ],
-   "nMarkets": 24
-  },
-  {
-   "id": "745731",
-   "title": "What will Trump say during tribute to Lindsey Graham?",
-   "slug": "what-will-trump-say-during-tribute-to-lindsey-graham-20260724170556632",
-   "createdAt": "2026-07-25T00:19:58.685473Z",
-   "endDate": "2026-07-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-tribute-to-lindsey-graham-20260724170556632-Ss-GkjiT-pAO.jpg",
-   "volume": 4095.5340739999997,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Air Force / Space Force",
-     0.925
-    ],
-    [
-     "Military",
-     0.9135
-    ],
-    [
-     "Sister",
-     0.89
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "745595",
-   "title": "Will Netanyahu publicly insult Trump by July 31?",
-   "slug": "will-netanyahu-publicly-insult-trump-by-july-31-20260724180328774",
-   "createdAt": "2026-07-24T23:36:22.969712Z",
-   "endDate": "2026-07-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-netanyahu-publicly-insult-trump-by-june-30-OZ0sonVXg0Ht.jpg",
-   "volume": 2281.243587,
-   "tags": [
-    "Bibi",
-    "Iran",
-    "Trump",
-    "Israel"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.968
-    ],
-    [
-     "Yes",
-     0.032
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "745592",
-   "title": "Sachsen-Anhalt Parliamentary Elections: AfD # of seats?",
-   "slug": "sachsen-anhalt-parliamentary-elections-afd-of-seats-20260722230807017",
-   "createdAt": "2026-07-24T23:34:13.467816Z",
-   "endDate": "2026-09-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-afd-win-the-most-seats-in-the-2026-baden-wrttemberg-parliamentary-elections-EH5fxjchr4It.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Politics",
-    "Elections",
-    "Saxony-Anhalt"
-   ],
-   "outcomes": [
-    [
-     "38-41",
-     0.295
-    ],
-    [
-     "42-45",
-     0.265
-    ],
-    [
-     "46-49",
-     0.205
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "745578",
-   "title": "Hannover Region Presidential Election Winner",
-   "slug": "hannover-region-presidential-election-winner-20260722233938481",
-   "createdAt": "2026-07-24T23:27:10.048538Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Hannover",
-    "Politics",
-    "Lower Saxony"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 19
-  },
-  {
-   "id": "745570",
-   "title": "Hannover Mayoral Election Winner",
-   "slug": "hannover-mayoral-election-winner-20260723155039214",
-   "createdAt": "2026-07-24T23:24:52.570023Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Hannover",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 24
-  },
-  {
-   "id": "745569",
-   "title": "Belgorod Oblast Gubernatorial Election Winner",
-   "slug": "belgorod-oblast-gubernatorial-election-winner-20260724164252589",
-   "createdAt": "2026-07-24T23:23:19.522833Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/belgorod-oblast-gubernatorial-election-winner-20260724164252589-OiDyY-z-mx4e.png",
-   "volume": 0.0,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Alexander Shuvaev",
-     0.55
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "745568",
-   "title": "Braunschweig Mayoral Election Winner",
-   "slug": "braunschweig-mayoral-election-winner-20260723164513786",
-   "createdAt": "2026-07-24T23:23:04.955873Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/braunschweig-mayoral-election-winner-20260723164513786-MzD4M3vmPjzZ.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Braunschweig"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "745553",
-   "title": "Tver Oblast Gubernatorial Election Winner",
-   "slug": "tver-oblast-gubernatorial-election-winner-20260724175708806",
-   "createdAt": "2026-07-24T23:22:32.556051Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tver-oblast-gubernatorial-election-winner-20260724175708806-_C889rJK6f4s.png",
-   "volume": 54.38,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Vitaly Korolev",
-     0.845
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "745552",
-   "title": "Penza Oblast Gubernatorial Election Winner",
-   "slug": "penza-oblast-gubernatorial-election-winner-20260724181128197",
-   "createdAt": "2026-07-24T23:21:25.142958Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/penza-aefcc2e9d6.png",
-   "volume": 71.18863300000001,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Oleg Melnichenko",
-     0.83
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "745551",
-   "title": "Bryansk Oblast Gubernatorial Election Winner",
-   "slug": "bryansk-oblast-gubernatorial-election-winner-20260724163521978",
-   "createdAt": "2026-07-24T23:20:34.699549Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bryansk-oblast-gubernatorial-election-winner-20260724163521978-Hjeac0mjf0Gl.png",
-   "volume": 58.506358,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Yegor Kovalchuk",
-     0.845
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "745550",
-   "title": "Sachsen-Anhalt Parliamentary Elections: 3rd Place",
-   "slug": "sachsen-anhalt-parliamentary-elections-3rd-place-20260722225837804",
-   "createdAt": "2026-07-24T23:20:07.129202Z",
-   "endDate": "2026-09-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sachsen-anhalt-parliamentary-election-winner-YHHbQcKZp2Gq.png",
-   "volume": 237.86,
-   "tags": [
-    "Germany",
-    "Politics",
-    "Elections",
-    "Saxony-Anhalt"
-   ],
-   "outcomes": [
-    [
-     "The Left",
-     0.855
-    ],
-    [
-     "Party A",
-     0.5
-    ],
-    [
-     "Party B",
-     0.5
-    ]
-   ],
-   "nMarkets": 34
-  },
-  {
-   "id": "745549",
-   "title": "Ulyanovsk Oblast Gubernatorial Election Winner",
-   "slug": "ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311",
-   "createdAt": "2026-07-24T23:20:04.570029Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ulyanovsk-oblast-gubernatorial-election-winner-20260724184856311-tA9Gvf4svY0m.png",
-   "volume": 23.25,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Alexey Russkikh",
-     0.845
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "745548",
-   "title": "Tuva Gubernatorial Election Winner",
-   "slug": "tuva-gubernatorial-election-winner-20260724163413491",
-   "createdAt": "2026-07-24T23:18:22.439205Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tuva-governor-election-winner-20260724163314310-pR7_1Aqblf-A.png",
-   "volume": 288.295725,
-   "tags": [
-    "Russia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Vladislav Khovalyg",
-     0.84
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "745540",
-   "title": "Next UK by-election called by\u2026?",
-   "slug": "next-uk-by-election-called-by-20260724183901572",
-   "createdAt": "2026-07-24T23:15:58.810472Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/makerfield-by-election-winner-1ceiGHP2i4dn.jpg",
-   "volume": 2576.072462,
-   "tags": [
-    "UK",
-    "Politics",
-    "Elections",
-    "United Kingdom"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.485
-    ],
-    [
-     "September 30",
-     0.245
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "745539",
-   "title": "Salzgitter Mayoral Election Winner",
-   "slug": "salzgitter-mayoral-election-winner-20260723163216446",
-   "createdAt": "2026-07-24T23:15:29.775634Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/salzgitter-mayoral-election-winner-20260723163216446-O0ATseV7ogBJ.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 21
-  },
-  {
-   "id": "745528",
-   "title": "Wolfsburg Mayoral Election Winner",
-   "slug": "wolfsburg-mayoral-election-winner-20260723161010802",
-   "createdAt": "2026-07-24T23:13:50.311507Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wolfsburg-mayoral-election-winner-20260723161010802-grKmX6-dXyW8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Wolfsburg"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 22
-  },
-  {
-   "id": "745526",
-   "title": "Oldenburg Mayoral Election Winner",
-   "slug": "oldenburg-mayoral-election-winner-20260723173826440",
-   "createdAt": "2026-07-24T23:11:41.282452Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oldenburg-mayoral-election-winner-20260723173826440-3uP_Bubtg0a4.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 24
-  },
-  {
-   "id": "745517",
-   "title": "Osnabr\u00fcck Mayoral Election Winner",
-   "slug": "osnabruck-mayoral-election-winner-20260723172818472",
-   "createdAt": "2026-07-24T23:08:19.504177Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/osnabruck-mayoral-election-winner-20260723172818472-NMa2psp3MEG4.jpg",
-   "volume": 1547.963882,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Katharina P\u00f6tter",
-     0.765
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ]
-   ],
-   "nMarkets": 21
-  },
-  {
-   "id": "745455",
-   "title": "Will Trump praise Benjamin Netanyahu by July 31?",
-   "slug": "will-trump-praise-benjamin-netanyahu-by-july-31-20260724182749274",
-   "createdAt": "2026-07-24T22:50:29.171354Z",
-   "endDate": "2026-07-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-netanyahu-by-bQ2rBEuRo_dN.jpg",
-   "volume": 228.755451,
-   "tags": [
-    "Bibi",
-    "Gaza",
-    "Iran",
-    "Trump"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.515
-    ],
-    [
-     "No",
-     0.485
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "745454",
-   "title": "Will Russia enter Matiasheve by...?",
-   "slug": "will-russia-enter-matiasheve-byptptpt-20260724170338272",
-   "createdAt": "2026-07-24T22:49:54.111018Z",
-   "endDate": "2026-10-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-enter-dovha-balka-by-march-31-aP9PYGHkiy3d.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Geopolitics",
-    "Ukraine Map"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.615
-    ],
-    [
-     "August 31",
-     0.32
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "745446",
-   "title": "Will Ukraine re-enter Rodynske by...?",
-   "slug": "will-ukraine-re-enter-rodynske-byptptpt-20260724164113823",
-   "createdAt": "2026-07-24T22:46:41.140751Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
-   "volume": 1391.430587,
-   "tags": [
-    "Geopolitics",
-    "Ukraine Map"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.42
-    ],
-    [
-     "September 30",
-     0.245
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "745386",
-   "title": "Philippines, Cavite 4th Congressional District Special Election Winner",
-   "slug": "philippines-cavite-4th-congressional-district-special-election-winner-20260722170459932",
-   "createdAt": "2026-07-24T22:15:43.032866Z",
-   "endDate": "2026-08-29T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/phl-82ba00379d.jpg",
-   "volume": 4424.551313,
-   "tags": [
-    "Cavite",
-    "Politics",
-    "Elections",
-    "Philippines"
-   ],
-   "outcomes": [
-    [
-     "Jennifer Austria Barzaga",
-     0.9545
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "745344",
-   "title": "Kimi K4 released by\u2026?",
-   "slug": "kimi-k4-released-by-20260722184115883",
-   "createdAt": "2026-07-24T22:01:46.061491Z",
-   "endDate": "2026-12-31T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 1365.4813540000002,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Big Tech"
-   ],
-   "outcomes": [
-    [
-     "December 31, 2026",
-     0.18
-    ],
-    [
-     "October 31, 2026",
-     0.11
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "745230",
-   "title": "Next Kimi K model released by\u2026?",
-   "slug": "next-kimi-k-model-released-by-20260722183157724",
-   "createdAt": "2026-07-24T21:54:51.997961Z",
-   "endDate": "2026-12-31T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 1136.546835,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Big Tech"
-   ],
-   "outcomes": [
-    [
-     "December 31, 2026",
-     0.655
-    ],
-    [
-     "September 30, 2026",
-     0.42
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "745118",
-   "title": "Will CMI declare a Millennium Prize Problem solved by ___?",
-   "slug": "will-cmi-declare-a-millennium-prize-problem-solved-by-20260723160122979",
-   "createdAt": "2026-07-24T21:05:14.851586Z",
-   "endDate": "2029-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-a-millennium-prize-problem-be-solved-before-the-end-of-2025-o952nXYzhLWZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Culture",
-    "Science"
-   ],
-   "outcomes": [
-    [
-     "December 31, 2028",
-     0.27
-    ],
-    [
-     "December 31, 2027",
-     0.19
-    ],
-    [
-     "December 31, 2026",
-     0.17
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "744968",
-   "title": "Will Trump and Netanyahu hug on Tuesday?",
-   "slug": "will-trump-and-netanyahu-hug-on-tuesday-20260724181151719",
-   "createdAt": "2026-07-24T20:04:44.0963Z",
-   "endDate": "2026-07-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-netanyahu-hug-on-monday-CDUeua6KuFVE.jpg",
-   "volume": 1863.367135,
-   "tags": [
-    "Bibi",
-    "Gaza",
-    "Iran",
-    "Trump"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.85
-    ],
-    [
-     "Yes",
-     0.15
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "744937",
-   "title": "Will Netanyahu wear a Yarmulke at next meeting with Trump?",
-   "slug": "will-netanyahu-wear-a-yarmulke-at-next-meeting-with-trump-20260724180650962",
-   "createdAt": "2026-07-24T19:53:36.897659Z",
-   "endDate": "2026-07-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-netanyahu-wear-a-yarmulke-at-next-meeting-with-trump-dBBJJXUlkVl_.jpg",
-   "volume": 1471.448332,
-   "tags": [
-    "Bibi",
-    "Trump",
-    "Israel",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.989
-    ],
-    [
-     "Yes",
-     0.011
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

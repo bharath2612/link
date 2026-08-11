@@ -1,6 +1,504 @@
 {
- "generatedAt": "2026-08-10T05:16:51.376049+00:00",
+ "generatedAt": "2026-08-11T04:58:15.394564+00:00",
  "questions": [
+  {
+   "id": "829806",
+   "title": "CS2 EWC 2026: Will an Open Qualifier Team Finish Top 8 at EWC?",
+   "slug": "cs2-ewc-2026-will-an-open-qualifier-team-finish-top-8-at-ewc-20260810202722858",
+   "createdAt": "2026-08-10T20:27:43.918268Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/untitled-event-by-nicholasptochottapolymarketptcom-20260810162136256-HPySDFRkScDs.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.5
+    ],
+    [
+     "No",
+     0.5
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "829799",
+   "title": "EWC CS2 2026: Winning Team's Group",
+   "slug": "ewc-cs2-2026-winning-teams-group-20260810191935349",
+   "createdAt": "2026-08-10T20:26:45.505504Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/untitled-event-by-nicholasptochottapolymarketptcom-20260810162136256-HPySDFRkScDs.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Group A",
+     0.5
+    ],
+    [
+     "Group C",
+     0.5
+    ],
+    [
+     "E",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "829796",
+   "title": "EWC CS2 2026: IGL to Win a 1v3+ Clutch?",
+   "slug": "ewc-cs2-2026-igl-to-win-a-1v3-clutch-20260810191305825",
+   "createdAt": "2026-08-10T20:23:21.301187Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ewc-2026-cs2-winner-20260810160005076-mgOAmUO_fAoF.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.595
+    ],
+    [
+     "No",
+     0.405
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "829779",
+   "title": "EWC CS2 2026: Will Any Player End the Event with a 1.30+ Rating?",
+   "slug": "ewc-cs2-2026-will-any-player-end-the-event-with-a-1pt30-rating-20260810174821411",
+   "createdAt": "2026-08-10T20:22:00.36466Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/untitled-event-by-nicholasptochottapolymarketptcom-20260810162136256-HPySDFRkScDs.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.595
+    ],
+    [
+     "No",
+     0.405
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "829778",
+   "title": "Hamilton Mayoral Election",
+   "slug": "hamilton-mayoral-election-20260810192440416",
+   "createdAt": "2026-08-10T20:20:33.200003Z",
+   "endDate": "2026-10-26T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hamilton-on-2026-hamilton-on-flag-6b84c2d178.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "829742",
+   "title": "Next Regional Board Chair of \u00d6sterg\u00f6tland?",
+   "slug": "next-regional-board-chair-of-ostergotland-20260810084759076",
+   "createdAt": "2026-08-10T20:08:56.727143Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-regional-board-chair-of-ostergotland-20260810084759076-D1p2iOrcMbwV.png",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate D",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ],
+    [
+     "Candidate F",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "829741",
+   "title": "Next Regional Board Chair of \u00d6rebro?",
+   "slug": "next-regional-board-chair-of-orebro-20260810200723350",
+   "createdAt": "2026-08-10T20:08:07.334906Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-orebro-3f79821d48.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate F",
+     0.5
+    ],
+    [
+     "Candidate G",
+     0.5
+    ],
+    [
+     "Candidate H",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "829716",
+   "title": "Next Regional Board Chair of V\u00e4stra G\u00f6taland?",
+   "slug": "next-regional-board-chair-of-vastra-gotaland-20260810084724228",
+   "createdAt": "2026-08-10T20:07:05.667504Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-vastra-gotaland-51be2fe363.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate C",
+     0.5
+    ],
+    [
+     "Candidate D",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "829715",
+   "title": "Next Regional Board Chair of V\u00e4stmanland?",
+   "slug": "next-regional-board-chair-of-vastmanland-20260810084704952",
+   "createdAt": "2026-08-10T20:06:27.032033Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-vastmanland-75a2e64955.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate D",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ],
+    [
+     "Candidate F",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "829714",
+   "title": "Next Regional Board Chair of V\u00e4sternorrland?",
+   "slug": "next-regional-board-chair-of-vasternorrland-20260810084644138",
+   "createdAt": "2026-08-10T20:05:44.081519Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-vasternorrland-14bd645905.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ],
+    [
+     "Candidate D",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "829713",
+   "title": "Next Regional Board Chair of V\u00e4sterbotten?",
+   "slug": "next-regional-board-chair-of-vasterbotten-20260810084555417",
+   "createdAt": "2026-08-10T20:04:57.540996Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-vasterbotten-a17d399d97.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Anton Bergstr\u00f6m Nord",
+     0.5
+    ],
+    [
+     "Ewa-May Karlsson",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "829712",
+   "title": "Next Regional Board Chair of V\u00e4rmland?",
+   "slug": "next-regional-board-chair-of-varmland-20260810084516812",
+   "createdAt": "2026-08-10T20:04:03.523275Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-varmland-091b6ef313.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "\u00c5sa Johansson",
+     0.505
+    ],
+    [
+     "Candidate F",
+     0.5
+    ],
+    [
+     "Candidate G",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "829711",
+   "title": "Which club will Gilberto Mora play for next?",
+   "slug": "which-club-will-gilberto-mora-play-for-next",
+   "createdAt": "2026-08-10T20:03:58.900376Z",
+   "endDate": "2027-02-02T02:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-club-will-gilberto-mora-play-for-next-MFz7wOfVeT2R.png",
+   "volume": 0.0,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "transfer",
+    "Soccer Transfers"
+   ],
+   "outcomes": [
+    [
+     "Club Tijuana",
+     0.5
+    ],
+    [
+     "Team B",
+     0.5
+    ],
+    [
+     "Team C",
+     0.5
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "829710",
+   "title": "Next Regional Board Chair of Uppsala?",
+   "slug": "next-regional-board-chair-of-uppsala-20260810084452391",
+   "createdAt": "2026-08-10T20:03:19.834489Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-uppsala-68f24645b4.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate C",
+     0.5
+    ],
+    [
+     "Candidate D",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "829701",
+   "title": "Next Regional Board Chair of S\u00f6rmland?",
+   "slug": "next-regional-board-chair-of-sormland-20260810084413457",
+   "createdAt": "2026-08-10T20:02:28.387908Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-sormland-f5cf86716c.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ],
+    [
+     "Candidate D",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "829700",
+   "title": "Next Regional Board Chair of Stockholm?",
+   "slug": "next-regional-board-chair-of-stockholm-20260810084020022",
+   "createdAt": "2026-08-10T20:02:09.723704Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-stockholm-72dfad1686.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate F",
+     0.5
+    ],
+    [
+     "Candidate G",
+     0.5
+    ],
+    [
+     "Candidate H",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "829699",
+   "title": "Next Regional Board Chair of Kronoberg?",
+   "slug": "next-regional-board-chair-of-kronoberg-20260810083306995",
+   "createdAt": "2026-08-10T20:00:56.325719Z",
+   "endDate": "2026-09-13T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-region-arms-kronoberg-b27e82cf23.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate D",
+     0.5
+    ],
+    [
+     "Candidate E",
+     0.5
+    ],
+    [
+     "Candidate F",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
   {
    "id": "825383",
    "title": "What will Trump say during Tele-Rally with Darline Graham?",
@@ -7757,114 +8255,6 @@
     ]
    ],
    "nMarkets": 4
-  },
-  {
-   "id": "759222",
-   "title": "Will Iran target Ukraine by...?",
-   "slug": "will-iran-target-ukraine-byptptpt-20260727234956916",
-   "createdAt": "2026-07-28T03:26:43.095469Z",
-   "endDate": "2026-09-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-iran-target-ukraine-byptptpt-20260727234956916-D7vlTc4fUJhx.jpg",
-   "volume": 2020.1,
-   "tags": [
-    "Iran",
-    "Ukraine",
-    "Geopolitics",
-    "Military Actions"
-   ],
-   "outcomes": [
-    [
-     "August 31",
-     0.07
-    ],
-    [
-     "September 30",
-     0.07
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "759217",
-   "title": "Will Russia target Kyiv by...?",
-   "slug": "will-russia-target-kyiv-byptptpt-20260727233830630",
-   "createdAt": "2026-07-28T03:22:18.972668Z",
-   "endDate": "2026-08-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-strike-on-kyiv-municipality-on-252-C0oKISHzcJjp.jpg",
-   "volume": 30.0,
-   "tags": [
-    "Kyiv",
-    "Russia",
-    "Ukraine",
-    "zelensky"
-   ],
-   "outcomes": [
-    [
-     "August 31",
-     0.515
-    ],
-    [
-     "July 31",
-     0.5
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "759202",
-   "title": "Will Ukraine target Moscow by...?",
-   "slug": "will-ukraine-target-moscow-byptptpt-20260727233336447",
-   "createdAt": "2026-07-28T03:20:43.884385Z",
-   "endDate": "2026-08-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/st+basil's+target.png",
-   "volume": 132.15,
-   "tags": [
-    "putin",
-    "Moscow",
-    "Russia",
-    "Ukraine"
-   ],
-   "outcomes": [
-    [
-     "August 31",
-     0.865
-    ],
-    [
-     "July 31",
-     0.455
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "759173",
-   "title": "What will Trump say on Fox News: Fox & Friends?",
-   "slug": "what-will-trump-say-on-fox-news-fox-friends-20260728022316498",
-   "createdAt": "2026-07-28T03:09:37.390181Z",
-   "endDate": "2026-07-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-on-fox-news-fox-friends-20260728022316498-GF2HUyEes0KV.jpg",
-   "volume": 1966.035055,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Iran 3+ times",
-     0.725
-    ],
-    [
-     "Ukraine",
-     0.65
-    ],
-    [
-     "Putin",
-     0.62
-    ]
-   ],
-   "nMarkets": 17
   }
  ]
 }

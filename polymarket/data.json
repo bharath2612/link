@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-08-16T04:26:19.974376+00:00",
+ "generatedAt": "2026-08-17T04:32:25.954418+00:00",
  "questions": [
+  {
+   "id": "862219",
+   "title": "UFC: Islam Makhachev Next Fight",
+   "slug": "ufc-islam-makhachev-next-fight-1786908469816",
+   "createdAt": "2026-08-16T23:49:15.390266Z",
+   "endDate": "",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ufc-islam-makhachev-next-fight-1786908469816-KnFaj77cMkLW.png",
+   "volume": 0.0,
+   "tags": [
+    "UFC",
+    "mma",
+    "Sports",
+    "Combat Sports"
+   ],
+   "outcomes": [
+    [
+     "Carlos Prates",
+     0.65
+    ],
+    [
+     "Fighter A",
+     0.5
+    ],
+    [
+     "Fighter B",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
   {
    "id": "850821",
    "title": "Who will place first in the Alaska Governor primary?",

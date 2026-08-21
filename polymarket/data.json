@@ -1,6 +1,680 @@
 {
- "generatedAt": "2026-08-20T04:27:19.180898+00:00",
+ "generatedAt": "2026-08-21T04:28:40.297909+00:00",
  "questions": [
+  {
+   "id": "883054",
+   "title": "# of Fortnite losses during Kai and Speed's gaming gauntlet?",
+   "slug": "of-fortnite-losses-during-kai-and-speeds-gaming-gauntlet",
+   "createdAt": "2026-08-20T23:56:18.236276Z",
+   "endDate": "2026-08-21T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 284.99,
+   "tags": [
+    "Roblox",
+    "gaming",
+    "Culture",
+    "Fortnite"
+   ],
+   "outcomes": [
+    [
+     "30-39",
+     0.405
+    ],
+    [
+     "<20",
+     0.395
+    ],
+    [
+     "50-59",
+     0.385
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "882811",
+   "title": "Kai and Speed beat Rocket League within...?",
+   "slug": "kai-and-speed-beat-rocket-league-withinptptpt",
+   "createdAt": "2026-08-20T22:50:33.195816Z",
+   "endDate": "2026-08-21T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 88101.39698199999,
+   "tags": [
+    "Roblox",
+    "gaming",
+    "Culture",
+    "Fortnite"
+   ],
+   "outcomes": [
+    [
+     "10 hours",
+     0.9995
+    ],
+    [
+     "11 hours",
+     0.9995
+    ],
+    [
+     "14 hours",
+     0.9995
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "882810",
+   "title": "NBA: Bronny James to Play for the Lakers in 2026-27?",
+   "slug": "nba-bronny-james-to-play-for-the-lakers-in-2026-27",
+   "createdAt": "2026-08-20T22:48:58.123983Z",
+   "endDate": "2027-06-30T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-bronny-james-to-play-for-the-lakers-in-2026-27-6gMpQbPd4PBB.png",
+   "volume": 124.11111,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "bronny james"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.895
+    ],
+    [
+     "No",
+     0.105
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "882775",
+   "title": "Which countries will host an F1 race in 2026?",
+   "slug": "which-countries-will-host-an-f1-race-in-2026",
+   "createdAt": "2026-08-20T22:34:49.061125Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
+   "volume": 0.0,
+   "tags": [
+    "f1",
+    "Games",
+    "World",
+    "Sports"
+   ],
+   "outcomes": [
+    [
+     "Qatar",
+     0.5
+    ],
+    [
+     "Saudi Arabia",
+     0.5
+    ],
+    [
+     "UAE",
+     0.5
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "882757",
+   "title": "GeoGuessr World Championship 2026: Winner",
+   "slug": "geoguessr-world-championship-2026-winner",
+   "createdAt": "2026-08-20T22:25:48.613399Z",
+   "endDate": "2026-09-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/geo-8bed4c20a1.png",
+   "volume": 0.0,
+   "tags": [
+    "Games",
+    "Sports",
+    "Esports"
+   ],
+   "outcomes": [
+    [
+     "Blinky",
+     0.5
+    ],
+    [
+     "Consus",
+     0.5
+    ],
+    [
+     "Debre",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "882749",
+   "title": "BLAST Open Porto 2026: To Make Playoffs",
+   "slug": "blast-open-porto-2026-to-make-playoffs",
+   "createdAt": "2026-08-20T22:24:22.333126Z",
+   "endDate": "2026-08-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-winner-20260806201117422-eIzYVodWxoxg.png",
+   "volume": 2563.45205,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Falcons",
+     0.765
+    ],
+    [
+     "Spirit",
+     0.765
+    ],
+    [
+     "Vitality",
+     0.755
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "882748",
+   "title": "BLAST Open Porto 2026: To Make Grand Finals",
+   "slug": "blast-open-porto-2026-to-make-grand-finals",
+   "createdAt": "2026-08-20T22:22:49.830362Z",
+   "endDate": "2026-09-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-winner-20260806201117422-eIzYVodWxoxg.png",
+   "volume": 187.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "Falcons",
+     0.375
+    ],
+    [
+     "Spirit",
+     0.35
+    ],
+    [
+     "Vitality",
+     0.305
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "882747",
+   "title": "Will Sneyking join a China-based team in 2026?",
+   "slug": "will-sneyking-join-a-china-based-team-in-2026",
+   "createdAt": "2026-08-20T22:22:11.772067Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-sneyking-join-a-china-based-team-in-2026-pSnX6s-00Txx.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Dota 2",
+    "Sports",
+    "Esports"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.5
+    ],
+    [
+     "No",
+     0.5
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "882730",
+   "title": "Will Daniel Negreanu Profit at Hustler Casino Live on August 28?",
+   "slug": "will-daniel-negreanu-profit-at-hustler-casino-live-on-august-28",
+   "createdAt": "2026-08-20T22:20:18.243779Z",
+   "endDate": "2026-08-28T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hustler-casino-million-dollar-game-biggest-winner-friday-we2UndguZiTT.jpg",
+   "volume": 1.0204,
+   "tags": [
+    "HCL",
+    "Poker",
+    "Sports",
+    "Hustler Casino Live"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.5
+    ],
+    [
+     "No",
+     0.5
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "882721",
+   "title": "How long will Nick Kyrgios' suspension be?",
+   "slug": "how-long-will-nick-kyrgios-suspension-be",
+   "createdAt": "2026-08-20T22:15:30.846321Z",
+   "endDate": "2027-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Sports",
+    "Tennis"
+   ],
+   "outcomes": [
+    [
+     "<4 months",
+     0.495
+    ],
+    [
+     "4-11 months",
+     0.495
+    ],
+    [
+     "11+ months",
+     0.495
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "882624",
+   "title": "Dutch Grand Prix: Winning Margin",
+   "slug": "f1-dutch-grand-prix-winning-margin-2026-08-23",
+   "createdAt": "2026-08-20T21:44:40.18262Z",
+   "endDate": "2026-08-30T13:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
+   "volume": 0.0,
+   "tags": [
+    "f1",
+    "Games",
+    "Sports",
+    "Formula 1"
+   ],
+   "outcomes": [
+    [
+     "<5s",
+     0.495
+    ],
+    [
+     "15-20s",
+     0.495
+    ],
+    [
+     "20-25s",
+     0.495
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "882623",
+   "title": "Rhode Island Attorney General Democratic Primary Winner",
+   "slug": "rhode-island-attorney-general-democratic-primary-winner",
+   "createdAt": "2026-08-20T21:44:39.926511Z",
+   "endDate": "2026-09-09T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rhode-island-governor-democratic-primary-winner-GoZjdk4vzs3u.png",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "882622",
+   "title": "Heidi Overton confirmed as FDA Commissioner by...?",
+   "slug": "heidi-overton-confirmed-as-fda-commissioner-by",
+   "createdAt": "2026-08-20T21:43:28.024843Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/heidi-overton-confirmed-as-fda-commissioner-by-Oh87pq9nxh0d.jpg",
+   "volume": 608.0,
+   "tags": [
+    "FDA",
+    "Trump",
+    "health",
+    "Senate"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.73
+    ],
+    [
+     "November 30",
+     0.52
+    ],
+    [
+     "October 31",
+     0.515
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "882621",
+   "title": "Oklahoma Superintendent of Public Instruction Republican Primary Winner",
+   "slug": "oklahoma-superintendent-of-public-instruction-republican-primary-winner",
+   "createdAt": "2026-08-20T21:42:50.485423Z",
+   "endDate": "2026-08-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oklahoma-governor-democratic-primary-winner-i4qn60YRGI8I.png",
+   "volume": 1.149423,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "882612",
+   "title": "Oklahoma Commissioner of Labor Republican Primary Winner",
+   "slug": "oklahoma-commissioner-of-labor-republican-primary-winner",
+   "createdAt": "2026-08-20T21:41:59.802657Z",
+   "endDate": "2026-08-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oklahoma-governor-democratic-primary-winner-i4qn60YRGI8I.png",
+   "volume": 377.0,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "882611",
+   "title": "Oklahoma Commissioner of Insurance Republican Primary Winner",
+   "slug": "oklahoma-commissioner-of-insurance-republican-primary-winner",
+   "createdAt": "2026-08-20T21:41:12.627396Z",
+   "endDate": "2026-08-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oklahoma-governor-democratic-primary-winner-i4qn60YRGI8I.png",
+   "volume": 676.6099999999999,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Bob Sullivan",
+     0.57
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "882608",
+   "title": "Oklahoma Republican Governor Primary Runoff Margin of Victory",
+   "slug": "oklahoma-republican-governor-primary-runoff-margin-of-victory",
+   "createdAt": "2026-08-20T21:39:44.746213Z",
+   "endDate": "2026-08-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oklahoma-governor-democratic-primary-winner-i4qn60YRGI8I.png",
+   "volume": 190.0,
+   "tags": [
+    "Politics",
+    "oklahoma",
+    "Elections",
+    "Primaries"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Mazzei 10\u201315%",
+     0.445
+    ],
+    [
+     "Mazzei 5\u201310%",
+     0.44
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "882591",
+   "title": "Massachusetts Democratic Senate Primary Margin of Victory",
+   "slug": "massachusetts-democratic-senate-primary-margin-of-victory",
+   "createdAt": "2026-08-20T21:36:14.004214Z",
+   "endDate": "2026-09-01T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/massachusetts-democratic-senate-primary-winner-fbf55jTM3zXE.png",
+   "volume": 176.0,
+   "tags": [
+    "Margin",
+    "Senate",
+    "Midterms",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Markey 25\u201330%",
+     0.34
+    ],
+    [
+     "Markey 15\u201320%",
+     0.325
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "882557",
+   "title": "How many West Nile neuroinvasive disease cases will be reported among New York City residents in 2026?",
+   "slug": "west-nile-neuroinvasive-cases-nyc-2026-20260820104404",
+   "createdAt": "2026-08-20T21:18:23.175916Z",
+   "endDate": "2027-03-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/west-nile-neuroinvasive-cases-nyc-2026-20260820104404-u2zAg4ZYiHeI.png",
+   "volume": 0.0,
+   "tags": [
+    "Science",
+    "Weather",
+    "Outbreak",
+    "Pandemics"
+   ],
+   "outcomes": [
+    [
+     "35 to 49",
+     0.465
+    ],
+    [
+     "Fewer than 20",
+     0.46
+    ],
+    [
+     "20 to 34",
+     0.455
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "882342",
+   "title": "Kai and Speed beat gaming gauntlet within...?",
+   "slug": "kai-and-speed-beat-gaming-gauntlet-withinptptpt",
+   "createdAt": "2026-08-20T20:02:50.654613Z",
+   "endDate": "2026-08-21T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
+   "volume": 180064.56484399998,
+   "tags": [
+    "Roblox",
+    "gaming",
+    "Culture",
+    "Fortnite"
+   ],
+   "outcomes": [
+    [
+     "36 hours",
+     0.981
+    ],
+    [
+     "24 hours",
+     0.9685
+    ],
+    [
+     "22 hours",
+     0.935
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "882168",
+   "title": "When will XRP hit $2?",
+   "slug": "when-will-xrp-hit-2",
+   "createdAt": "2026-08-20T19:36:09.253342Z",
+   "endDate": "2028-01-01T05:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/XRP-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "XRP",
+    "Crypto",
+    "Crypto Prices",
+    "Price Milestone"
+   ],
+   "outcomes": [
+    [
+     "by December 31, 2027",
+     0.54
+    ],
+    [
+     "by June 30, 2027",
+     0.525
+    ],
+    [
+     "by March 31, 2027",
+     0.52
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "882154",
+   "title": "When will Solana hit $300?",
+   "slug": "when-will-solana-hit-300",
+   "createdAt": "2026-08-20T19:31:10.025953Z",
+   "endDate": "2028-01-01T05:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/SOL-logo.png",
+   "volume": 1.2424,
+   "tags": [
+    "Crypto",
+    "Solana",
+    "Crypto Prices",
+    "Price Milestone"
+   ],
+   "outcomes": [
+    [
+     "by March 31, 2027",
+     0.495
+    ],
+    [
+     "by June 30, 2027",
+     0.495
+    ],
+    [
+     "by September 30, 2027",
+     0.495
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "882153",
+   "title": "When will Solana hit $150?",
+   "slug": "when-will-solana-hit-150",
+   "createdAt": "2026-08-20T19:30:47.199007Z",
+   "endDate": "2028-01-01T05:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/SOL-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "Crypto",
+    "Solana",
+    "Crypto Prices",
+    "Price Milestone"
+   ],
+   "outcomes": [
+    [
+     "by September 30, 2027",
+     0.51
+    ],
+    [
+     "by June 30, 2027",
+     0.505
+    ],
+    [
+     "by March 31, 2027",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
   {
    "id": "878367",
    "title": "Will anyone insult Donald Trump during the 2026 Emmy Awards?",
@@ -7625,796 +8299,6 @@
     ],
     [
      "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "808791",
-   "title": "Berlin State Elections: AfD # of seats?",
-   "slug": "berlin-state-elections-afd-of-seats-20260805192827457",
-   "createdAt": "2026-08-07T01:02:12.566598Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-afd-8e824114cb.png",
-   "volume": 350.1304,
-   "tags": [
-    "Berlin",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "29-31",
-     0.36
-    ],
-    [
-     "26-28",
-     0.34
-    ],
-    [
-     "23-25",
-     0.24
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "808787",
-   "title": "Berlin State Elections: Linke # of seats?",
-   "slug": "berlin-state-elections-linke-of-seats-20260805192827457",
-   "createdAt": "2026-08-07T01:01:20.699818Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-linke-f78fbf312c.png",
-   "volume": 20.1,
-   "tags": [
-    "Berlin",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "<20",
-     0.345
-    ],
-    [
-     "20-24",
-     0.345
-    ],
-    [
-     "25-29",
-     0.335
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "808771",
-   "title": "Mecklenburg-Vorpommern Parliamentary Elections: SPD # of seats?",
-   "slug": "mecklenburg-vorpommern-parliamentary-elections-spd-of-seats-20260805193137880",
-   "createdAt": "2026-08-07T00:57:09.420482Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-spd-02a351d11c.png",
-   "volume": 22.333332,
-   "tags": [
-    "Germany",
-    "Politics",
-    "Elections",
-    "German Elections"
-   ],
-   "outcomes": [
-    [
-     "18-21",
-     0.32
-    ],
-    [
-     "22-25",
-     0.32
-    ],
-    [
-     "<18",
-     0.315
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "808770",
-   "title": "Mecklenburg-Vorpommern Parliamentary Elections: AfD # of seats?",
-   "slug": "mecklenburg-vorpommern-parliamentary-elections-afd-of-seats-20260805192827457",
-   "createdAt": "2026-08-07T00:56:22.217102Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-afd-8e824114cb.png",
-   "volume": 25.1,
-   "tags": [
-    "Germany",
-    "Politics",
-    "Elections",
-    "German Elections"
-   ],
-   "outcomes": [
-    [
-     "28-31",
-     0.42
-    ],
-    [
-     "20-23",
-     0.305
-    ],
-    [
-     "24-27",
-     0.3
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "808769",
-   "title": "Mecklenburg-Vorpommern Parliamentary Election: 3rd Place",
-   "slug": "mecklenburg-vorpommern-parliamentary-election-3rd-place-20260806103335438",
-   "createdAt": "2026-08-07T00:54:45.365095Z",
-   "endDate": "2026-09-20T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mecklenburg-vorpommern-parliamentary-election-winner-ehbYaMRJMGc4.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Party A",
-     0.5
-    ],
-    [
-     "Party B",
-     0.5
-    ],
-    [
-     "Party C",
-     0.5
-    ]
-   ],
-   "nMarkets": 24
-  },
-  {
-   "id": "808768",
-   "title": "Mecklenburg-Vorpommern Parliamentary Election: 2nd Place",
-   "slug": "mecklenburg-vorpommern-parliamentary-election-2nd-place-20260806103311321",
-   "createdAt": "2026-08-07T00:54:07.436995Z",
-   "endDate": "2026-09-20T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mecklenburg-vorpommern-parliamentary-election-winner-ehbYaMRJMGc4.jpg",
-   "volume": 173.93,
-   "tags": [
-    "World",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Party A",
-     0.5
-    ],
-    [
-     "Party B",
-     0.5
-    ],
-    [
-     "Party C",
-     0.5
-    ]
-   ],
-   "nMarkets": 24
-  },
-  {
-   "id": "808751",
-   "title": "Will AfD win an absolute majority of seats in Mecklenburg-Vorpommern?",
-   "slug": "will-afd-win-an-absolute-majority-of-seats-in-mecklenburg-vorpommern-20260806103954025",
-   "createdAt": "2026-08-07T00:51:26.13069Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-afd-win-the-most-seats-in-the-2026-baden-wrttemberg-parliamentary-elections-EH5fxjchr4It.png",
-   "volume": 0.0,
-   "tags": [
-    "Germany",
-    "Politics",
-    "Elections",
-    "German Elections"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.5
-    ],
-    [
-     "No",
-     0.5
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "808750",
-   "title": "Berlin State Election: Turnout Up or Down?",
-   "slug": "berlin-state-election-turnout-up-or-down-20260806112259580",
-   "createdAt": "2026-08-07T00:50:24.43243Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/berlin-state-election-winner-1CAHVXlT8kYr.png",
-   "volume": 0.0,
-   "tags": [
-    "Berlin",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Up",
-     0.5
-    ],
-    [
-     "Down",
-     0.5
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "808741",
-   "title": "Mecklenburg-Vorpommern Parliamentary Election: Turnout Up or Down?",
-   "slug": "mecklenburg-vorpommern-parliamentary-election-turnout-up-or-down-20260806112301060",
-   "createdAt": "2026-08-07T00:46:47.695974Z",
-   "endDate": "2026-09-20T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mecklenburg-vorpommern-parliamentary-election-winner-ehbYaMRJMGc4.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AfD",
-    "World",
-    "Germany",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Up",
-     0.51
-    ],
-    [
-     "Down",
-     0.49
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "808740",
-   "title": "Sachsen-Anhalt Parliamentary Election: Turnout Up or Down?",
-   "slug": "sachsen-anhalt-parliamentary-election-turnout-up-or-down-20260806110617592",
-   "createdAt": "2026-08-07T00:43:43.083295Z",
-   "endDate": "2026-09-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sachsen-anhalt-parliamentary-election-winner-YHHbQcKZp2Gq.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Germany",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Up",
-     0.51
-    ],
-    [
-     "Down",
-     0.49
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "808713",
-   "title": "Krak\u00f3w Mayoral Election Winner",
-   "slug": "krakow-mayoral-election-winner-20260807003532273",
-   "createdAt": "2026-08-07T00:37:32.122133Z",
-   "endDate": "2026-09-27T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/krakow-mayoral-election-winner-20260806114551227-W0jPt644Jz9u.png",
-   "volume": 1146.785,
-   "tags": [
-    "Krakao",
-    "Poland",
-    "Krak\u00f3w",
-    "Mayoral"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 44
-  },
-  {
-   "id": "808704",
-   "title": "ChatGPT Outage on...?",
-   "slug": "chatgpt-outage-onptptpt-20260806133118510",
-   "createdAt": "2026-08-07T00:31:42.482377Z",
-   "endDate": "2026-08-14T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/chatgpt-outage-by-F7WtDYLOvwrm.png",
-   "volume": 513.67211,
-   "tags": [
-    "AI",
-    "gpt",
-    "Tech",
-    "OpenAI"
-   ],
-   "outcomes": [
-    [
-     "August 11",
-     0.185
-    ],
-    [
-     "August 12",
-     0.16
-    ],
-    [
-     "August 13",
-     0.155
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "808157",
-   "title": "AR-04 House Election Margin of Victory",
-   "slug": "ar-04-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:38:23.16331Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AR.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "808156",
-   "title": "AR-03 House Election Margin of Victory",
-   "slug": "ar-03-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:37:56.587423Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AR.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 12
-  },
-  {
-   "id": "808155",
-   "title": "AR-02 House Election Margin of Victory",
-   "slug": "ar-02-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:37:54.547581Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AR.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 11
-  },
-  {
-   "id": "808138",
-   "title": "AR-01 House Election Margin of Victory",
-   "slug": "ar-01-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:37:28.496585Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AR.png",
-   "volume": 21.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "808137",
-   "title": "AL-07 House Election Margin of Victory",
-   "slug": "al-07-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:37:13.72315Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 12
-  },
-  {
-   "id": "808136",
-   "title": "AL-06 House Election Margin of Victory",
-   "slug": "al-06-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:36:58.339869Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "808135",
-   "title": "AL-04 House Election Margin of Victory",
-   "slug": "al-04-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:36:29.618721Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 21.52,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "808134",
-   "title": "AL-05 House Election Margin of Victory",
-   "slug": "al-05-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:36:14.021302Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 12
-  },
-  {
-   "id": "808133",
-   "title": "AL-03 House Election Margin of Victory",
-   "slug": "al-03-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:34:47.525012Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "808131",
-   "title": "AL-01 House Election Margin of Victory",
-   "slug": "al-01-house-margin-of-victory-2026",
-   "createdAt": "2026-08-06T21:34:42.459655Z",
-   "endDate": "2026-11-03T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/AL.png",
-   "volume": 0.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Midterm MOV"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Other",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
-  },
-  {
-   "id": "807735",
-   "title": "What will the announcers say during the Panthers vs Cardinals Hall of Fame Game?",
-   "slug": "what-will-the-announcers-say-during-the-panthers-vs-cardinals-hall-of-fame-game-20260806193230490",
-   "createdAt": "2026-08-06T19:47:56.125502Z",
-   "endDate": "2026-08-07T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-the-announcers-say-during-the-panthers-vs-cardinals-hall-of-fame-game-nImUNIEtdwhh.png",
-   "volume": 1917.218868,
-   "tags": [
-    "Sports",
-    "Culture",
-    "Mentions",
-    "football"
-   ],
-   "outcomes": [
-    [
-     "Flag 10+ times",
-     1.0
-    ],
-    [
-     "Record",
-     1.0
-    ],
-    [
-     "Schedule",
-     1.0
-    ]
-   ],
-   "nMarkets": 14
-  },
-  {
-   "id": "807700",
-   "title": "1996 McLaren F1 GTR Sale Price",
-   "slug": "1996-mclaren-f1-gtr-sale-price-20260804173205862",
-   "createdAt": "2026-08-06T19:31:44.523521Z",
-   "endDate": "2026-08-16T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/1996-mclaren-f1-gtr-sale-price-20260804173205862-_0EAso-ibd1r.jpg",
-   "volume": 5647.6630430000005,
-   "tags": [
-    "Art",
-    "Culture",
-    "auction",
-    "sotheby's"
-   ],
-   "outcomes": [
-    [
-     "$35m+",
-     0.695
-    ],
-    [
-     "$40m+",
-     0.575
-    ],
-    [
-     "$45m+",
-     0.27
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "807686",
-   "title": "Oscars 2027: Best Director Winner",
-   "slug": "oscars-2027-best-director-winner-20260727173335231",
-   "createdAt": "2026-08-06T19:25:04.526547Z",
-   "endDate": "2027-03-14T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oscars-2026-best-picture-nominations-uExlgIhppb3W.jpg",
-   "volume": 830.83294,
-   "tags": [
-    "Awards",
-    "Movies",
-    "Oscars",
-    "Culture"
-   ],
-   "outcomes": [
-    [
-     "Christopher Nolan",
-     0.53
-    ],
-    [
-     "Director A",
-     0.5
-    ],
-    [
-     "Director B",
-     0.5
-    ]
-   ],
-   "nMarkets": 41
-  },
-  {
-   "id": "807669",
-   "title": "Melanie and Sincere together during Love Island reunion?",
-   "slug": "melanie-and-sincere-together-during-love-island-reunion-20260804181845482",
-   "createdAt": "2026-08-06T19:22:11.491844Z",
-   "endDate": "2026-08-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/melanie-and-sincere-together-during-love-island-reunion-20260804181845482-wdnHkP7Zu4z5.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Culture",
-    "Celebrities",
-    "love island",
-    "relationships"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.52
-    ],
-    [
-     "No",
-     0.48
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "807659",
-   "title": "Oscars 2027: Best Visual Effects Winner",
-   "slug": "oscars-2027-best-visual-effects-winner-1754500000000",
-   "createdAt": "2026-08-06T19:15:59.85954Z",
-   "endDate": "2027-03-14T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oscars-2026-best-picture-nominations-uExlgIhppb3W.jpg",
-   "volume": 709.651575,
-   "tags": [
-    "Awards",
-    "Movies",
-    "Oscars",
-    "Culture"
-   ],
-   "outcomes": [
-    [
-     "Movie A",
-     0.5
-    ],
-    [
-     "Movie B",
-     0.5
-    ],
-    [
-     "Movie C",
      0.5
     ]
    ],

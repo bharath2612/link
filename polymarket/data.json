@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T04:22:42.276698+00:00",
+ "generatedAt": "2026-08-23T04:27:30.600629+00:00",
  "questions": [
   {
    "id": "887359",
@@ -7288,62 +7288,6 @@
     ]
    ],
    "nMarkets": 17
-  },
-  {
-   "id": "818500",
-   "title": "Will Kai or Speed have more in-game deaths?",
-   "slug": "will-kai-or-speed-have-more-in-game-deaths-20260808192817373",
-   "createdAt": "2026-08-09T01:03:31.994898Z",
-   "endDate": "2026-08-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
-   "volume": 183.964401,
-   "tags": [
-    "gaming",
-    "Culture",
-    "streamer",
-    "Minecraft"
-   ],
-   "outcomes": [
-    [
-     "Speed",
-     0.715
-    ],
-    [
-     "Kai",
-     0.285
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "818448",
-   "title": "Kai and Speed finish their Minecraft marathon by...?",
-   "slug": "kai-and-speed-finish-their-minecraft-marathon-byptptpt-20260808192512601",
-   "createdAt": "2026-08-09T00:46:29.915795Z",
-   "endDate": "2026-08-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kai-and-speed-beat-minecraft-challenge-byptptpt-20260805183110605-nXE-Irq8O8mt.jpg",
-   "volume": 5450.597925,
-   "tags": [
-    "gaming",
-    "Culture",
-    "streamer",
-    "Minecraft"
-   ],
-   "outcomes": [
-    [
-     "August 31",
-     0.925
-    ],
-    [
-     "August 26",
-     0.825
-    ],
-    [
-     "August 21",
-     0.665
-    ]
-   ],
-   "nMarkets": 7
   }
  ]
 }

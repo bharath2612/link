@@ -410,6 +410,7 @@
       document.getElementById("generated").textContent =
         "live refresh blocked here (" + err.message + ") — cron still updates daily";
     } finally {
+      // Re-enable manual retries whether the refresh succeeds or fails.
       btn.disabled = false;
       setTimeout(() => {
         btn.className = ""; lbl.textContent = "Refresh";

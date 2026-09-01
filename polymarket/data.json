@@ -1,6 +1,209 @@
 {
- "generatedAt": "2026-08-31T10:16:09.648398+00:00",
+ "generatedAt": "2026-09-01T09:00:42.814640+00:00",
  "questions": [
+  {
+   "id": "946116",
+   "title": "Luciano Darderi vs. Dalibor Svrcina - Exact Score",
+   "slug": "atp-darderi-svrcina-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:14.325038Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Luciano Darderi 3-0",
+     0.5
+    ],
+    [
+     "Luciano Darderi 3-1",
+     0.5
+    ],
+    [
+     "Luciano Darderi 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946115",
+   "title": "Ben Shelton vs. Hubert Hurkacz - Exact Score",
+   "slug": "atp-shelton-hurkacz-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:11.057246Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Ben Shelton 3-0",
+     0.5
+    ],
+    [
+     "Ben Shelton 3-1",
+     0.5
+    ],
+    [
+     "Ben Shelton 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946114",
+   "title": "Alexander Blockx vs. Marco Trungelliti - Exact Score",
+   "slug": "atp-blockx-trungel-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:09.619694Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Alexander Blockx 3-0",
+     0.5
+    ],
+    [
+     "Alexander Blockx 3-1",
+     0.5
+    ],
+    [
+     "Alexander Blockx 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946113",
+   "title": "Felix Auger-Aliassime vs. Karen Khachanov - Exact Score",
+   "slug": "atp-augeral-khachan-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:09.61901Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Felix Auger-Aliassime 3-0",
+     0.5
+    ],
+    [
+     "Felix Auger-Aliassime 3-1",
+     0.5
+    ],
+    [
+     "Felix Auger-Aliassime 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946112",
+   "title": "Jakub Mensik vs. Jurij Rodionov - Exact Score",
+   "slug": "atp-mensik-rodiono-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:09.618415Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Jakub Mensik 3-1",
+     0.5
+    ],
+    [
+     "Jakub Mensik 3-2",
+     0.5
+    ],
+    [
+     "Jurij Rodionov 3-0",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946111",
+   "title": "Alexei Popyrin vs. Alejandro Tabilo - Exact Score",
+   "slug": "atp-popyrin-tabilo-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:09.618232Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Alexei Popyrin 3-0",
+     0.5
+    ],
+    [
+     "Alexei Popyrin 3-1",
+     0.5
+    ],
+    [
+     "Alexei Popyrin 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "946110",
+   "title": "Rei Sakamoto vs. Frances Tiafoe - Exact Score",
+   "slug": "atp-sakamot-tiafoe-2026-09-02-exact-score",
+   "createdAt": "2026-09-01T05:44:09.604052Z",
+   "endDate": "2026-09-09T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Rei Sakamoto 3-0",
+     0.5
+    ],
+    [
+     "Rei Sakamoto 3-1",
+     0.5
+    ],
+    [
+     "Rei Sakamoto 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
   {
    "id": "940145",
    "title": "Juan Manuel Cerundolo vs. Arthur Gea - Exact Score",
@@ -6280,1142 +6483,6 @@
     ]
    ],
    "nMarkets": 3
-  },
-  {
-   "id": "868856",
-   "title": "VCT 2026: Tier 2 Team to Win a Stage 2 Title?",
-   "slug": "vct-2026-tier-2-team-to-win-a-stage-2-title",
-   "createdAt": "2026-08-18T03:51:08.198113Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/vct-2026-tier-2-team-to-win-a-stage-2-title--lL-9NioEhlP.jpg",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.5
-    ],
-    [
-     "No",
-     0.5
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868855",
-   "title": "VALORANT Champions 2026: Tier 2 Team to Qualify?",
-   "slug": "valorant-champions-2026-tier-2-team-to-qualify",
-   "createdAt": "2026-08-18T03:49:37.490697Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-champions-2026-tier-2-team-to-qualify-VB1dCb5f-HTe.jpg",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.62
-    ],
-    [
-     "Yes",
-     0.38
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868854",
-   "title": "VCT Americas 2026: Tier 2 Team to Win Stage 2?",
-   "slug": "vct-americas-2026-tier-2-team-to-win-stage-2",
-   "createdAt": "2026-08-18T03:49:16.003951Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/vct-americas-2026-tier-2-team-to-win-stage-2-ZQLtqgEff1mm.jpg",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.88
-    ],
-    [
-     "Yes",
-     0.12
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868848",
-   "title": "BLAST Open Porto 2026: 10+ Aces at the Event?",
-   "slug": "blast-open-porto-2026-10-aces-at-the-event",
-   "createdAt": "2026-08-18T03:48:44.120232Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.72
-    ],
-    [
-     "Yes",
-     0.28
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868839",
-   "title": "BLAST Open Porto 2026: Winner to Be a First-Time BLAST Champion?",
-   "slug": "blast-open-porto-2026-winner-to-be-a-first-time-blast-champion",
-   "createdAt": "2026-08-18T03:47:04.211885Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.73
-    ],
-    [
-     "Yes",
-     0.27
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868838",
-   "title": "BLAST Open Porto 2026: MVP to Be a First-Time MVP?",
-   "slug": "blast-open-porto-2026-mvp-to-be-a-first-time-mvp",
-   "createdAt": "2026-08-18T03:46:02.727107Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.83
-    ],
-    [
-     "Yes",
-     0.17
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868837",
-   "title": "BLAST Open Porto 2026: Cache Played 5+ Times in the Group Stage?",
-   "slug": "blast-open-porto-2026-cache-played-5-times-in-the-group-stage",
-   "createdAt": "2026-08-18T03:45:44.053475Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.68
-    ],
-    [
-     "Yes",
-     0.32
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868836",
-   "title": "BLAST Open Porto 2026: Bomb Defused with 0.3s or Less Left?",
-   "slug": "blast-open-porto-2026-bomb-defused-with-0pt3s-or-less-left",
-   "createdAt": "2026-08-18T03:44:57.098949Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.92
-    ],
-    [
-     "Yes",
-     0.08
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868835",
-   "title": "BLAST Open Porto 2026: Deagle Ace in the Playoffs?",
-   "slug": "blast-open-porto-2026-deagle-ace-in-the-playoffs",
-   "createdAt": "2026-08-18T03:43:33.880804Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.94
-    ],
-    [
-     "Yes",
-     0.06
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868834",
-   "title": "BLAST Open Porto 2026: 10+ Knife Kills at the Event?",
-   "slug": "blast-open-porto-2026-10-knife-kills-at-the-event",
-   "createdAt": "2026-08-18T03:42:46.135411Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.82
-    ],
-    [
-     "Yes",
-     0.18
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868823",
-   "title": "Will G2 Caps Go Bald in 2026?",
-   "slug": "will-g2-caps-go-bald-in-2026",
-   "createdAt": "2026-08-18T03:37:33.220324Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-g2-caps-go-bald-in-2026-TmG8vxYjWK95.jpg",
-   "volume": 0.0,
-   "tags": [
-    "lol",
-    "Sports",
-    "Esports",
-    "league of legends"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.94
-    ],
-    [
-     "Yes",
-     0.06
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868806",
-   "title": "Will Boaster Retire from Professional VALORANT in 2026?",
-   "slug": "will-boaster-retire-from-professional-valorant-in-2026",
-   "createdAt": "2026-08-18T03:36:16.970814Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-boaster-retire-from-professional-valorant-in-2026-8vExlPohO-7t.jpg",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.92
-    ],
-    [
-     "Yes",
-     0.08
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868805",
-   "title": "Dutch Grand Prix: Sprint Winner",
-   "slug": "f1-dutch-grand-prix-sprint-winner-2026-08-22",
-   "createdAt": "2026-08-18T03:35:51.65412Z",
-   "endDate": "2026-08-29T10:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
-   "volume": 0.0,
-   "tags": [
-    "Formula 1",
-    "f1",
-    "Sports",
-    "Grand Prix"
-   ],
-   "outcomes": [
-    [
-     "Pierre Gasly",
-     0.49
-    ],
-    [
-     "Fernando Alonso",
-     0.49
-    ],
-    [
-     "Alexander Albon",
-     0.49
-    ]
-   ],
-   "nMarkets": 28
-  },
-  {
-   "id": "868804",
-   "title": "Dutch Grand Prix: Sprint Qualifying Pole Winner",
-   "slug": "f1-dutch-grand-prix-sprint-qualifying-pole-winner-2026-08-21",
-   "createdAt": "2026-08-18T03:35:40.51948Z",
-   "endDate": "2026-08-28T14:30:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
-   "volume": 0.0,
-   "tags": [
-    "Formula 1",
-    "f1",
-    "Sports",
-    "Grand Prix"
-   ],
-   "outcomes": [
-    [
-     "Pierre Gasly",
-     0.49
-    ],
-    [
-     "Fernando Alonso",
-     0.49
-    ],
-    [
-     "Alexander Albon",
-     0.49
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "868803",
-   "title": "Dutch Grand Prix: Practice 1 Fastest Lap",
-   "slug": "f1-dutch-grand-prix-practice-1-fastest-lap-2026-08-21",
-   "createdAt": "2026-08-18T03:35:29.3282Z",
-   "endDate": "2026-08-28T10:30:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
-   "volume": 0.0,
-   "tags": [
-    "Formula 1",
-    "f1",
-    "Sports",
-    "Grand Prix"
-   ],
-   "outcomes": [
-    [
-     "Pierre Gasly",
-     0.49
-    ],
-    [
-     "Fernando Alonso",
-     0.49
-    ],
-    [
-     "Alexander Albon",
-     0.49
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "868802",
-   "title": "BLAST Open Porto 2026: Will Mirage be Played in Every Playoff Series",
-   "slug": "blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series",
-   "createdAt": "2026-08-18T03:35:18.795826Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.86
-    ],
-    [
-     "Yes",
-     0.14
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868801",
-   "title": "Dutch Grand Prix: Which Constructor Scores 1st?",
-   "slug": "f1-dutch-grand-prix-constructor-scores-1st-2026-08-23",
-   "createdAt": "2026-08-18T03:35:12.210687Z",
-   "endDate": "2026-08-30T13:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
-   "volume": 0.0,
-   "tags": [
-    "Formula 1",
-    "f1",
-    "Sports",
-    "Grand Prix"
-   ],
-   "outcomes": [
-    [
-     "Alpine",
-     0.49
-    ],
-    [
-     "Aston Martin",
-     0.49
-    ],
-    [
-     "Williams",
-     0.49
-    ]
-   ],
-   "nMarkets": 12
-  },
-  {
-   "id": "868800",
-   "title": "Dutch Grand Prix: Driver Winner",
-   "slug": "f1-dutch-grand-prix-winner-2026-08-23",
-   "createdAt": "2026-08-18T03:34:59.24596Z",
-   "endDate": "2026-08-30T13:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f1-constructors-champion-2025-PULWDiyoGXZ7.png",
-   "volume": 0.0,
-   "tags": [
-    "Formula 1",
-    "f1",
-    "Sports",
-    "Grand Prix"
-   ],
-   "outcomes": [
-    [
-     "Isack Hadjar",
-     0.495
-    ],
-    [
-     "Pierre Gasly",
-     0.49
-    ],
-    [
-     "Fernando Alonso",
-     0.49
-    ]
-   ],
-   "nMarkets": 28
-  },
-  {
-   "id": "868790",
-   "title": "BLAST Open Porto 2026: donk 1.40+ HLTV Rating?",
-   "slug": "blast-open-porto-2026-donk-1pt40-hltv-rating",
-   "createdAt": "2026-08-18T03:29:10.60959Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-donk-1pt40-hltv-rating-NuZEYHos8TzQ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "CS2",
-    "Sports",
-    "Esports",
-    "counter strike 2"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.61
-    ],
-    [
-     "Yes",
-     0.39
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868789",
-   "title": "BLAST Open Porto 2026: Player to Record 3+ HE Grenade Kills in a Map?",
-   "slug": "blast-open-porto-2026-player-to-record-3-he-grenade-kills-in-a-map",
-   "createdAt": "2026-08-18T03:27:43.670648Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blast-open-porto-2026-will-mirage-be-played-in-every-playoff-series-OOupONNmpJ8z.png",
-   "volume": 21.0,
-   "tags": [
-    "CS2",
-    "blast",
-    "Sports",
-    "Esports"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.675
-    ],
-    [
-     "Yes",
-     0.325
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "868080",
-   "title": "When will the next Google Gemini Pro model be released?",
-   "slug": "when-will-the-next-google-gemini-pro-model-be-released-20260817144359068",
-   "createdAt": "2026-08-17T23:32:01.095167Z",
-   "endDate": "2026-11-01T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
-   "volume": 47.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Gemini",
-    "google"
-   ],
-   "outcomes": [
-    [
-     "No release by November 1",
-     0.55
-    ],
-    [
-     "Prior to August 31",
-     0.245
-    ],
-    [
-     "September 7\u2013September 13",
-     0.24
-    ]
-   ],
-   "nMarkets": 11
-  },
-  {
-   "id": "868066",
-   "title": "Next Claude Opus Model: Humanity\u2019s Last Exam Debut?",
-   "slug": "next-claude-opus-model-humanitys-last-exam-debut-20261231",
-   "createdAt": "2026-08-17T23:25:20.466731Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
-   "volume": 587.75,
-   "tags": [
-    "AI",
-    "Tech",
-    "Claude",
-    "Anthropic"
-   ],
-   "outcomes": [
-    [
-     "50%+",
-     0.945
-    ],
-    [
-     "45%+",
-     0.94
-    ],
-    [
-     "55%+",
-     0.695
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "867670",
-   "title": "How low will Lake Powell drop?",
-   "slug": "how-low-will-lake-powell-drop-1786980780361",
-   "createdAt": "2026-08-17T21:49:45.392922Z",
-   "endDate": "2027-04-15T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-lake-powell-drop-1786980780360-rkz7FlpXCesT.png",
-   "volume": 213.610473,
-   "tags": [
-    "water",
-    "Drought",
-    "Weather",
-    "United States"
-   ],
-   "outcomes": [
-    [
-     "Below 3,490 ft",
-     0.47
-    ],
-    [
-     "3,500\u20133,510 ft",
-     0.32
-    ],
-    [
-     "Above 3,510 ft",
-     0.3
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "867669",
-   "title": "How low will Lake Mead drop?",
-   "slug": "how-low-will-lake-mead-drop-1786981653904",
-   "createdAt": "2026-08-17T21:48:50.050841Z",
-   "endDate": "2027-04-15T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-lake-mead-drop-1786981653903-istLpEcsVz8r.png",
-   "volume": 0.0,
-   "tags": [
-    "water",
-    "Drought",
-    "Weather",
-    "United States"
-   ],
-   "outcomes": [
-    [
-     "Above 1,038 ft",
-     0.465
-    ],
-    [
-     "1,033\u20131,038 ft",
-     0.465
-    ],
-    [
-     "1,028\u20131,033 ft",
-     0.465
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "867622",
-   "title": "Ligue 1: Team to qualify for the 2027-28 UEFA Champions League",
-   "slug": "ligue-1-team-to-qualify-for-the-2027-28-uefa-champions-league",
-   "createdAt": "2026-08-17T21:27:18.269518Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-1-team-to-qualify-for-uefa-champions-league-28OLD_PD-GIw.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Ligue 1",
-    "Qualification"
-   ],
-   "outcomes": [
-    [
-     "Paris Saint-Germain",
-     0.865
-    ],
-    [
-     "Lens",
-     0.565
-    ],
-    [
-     "Angers",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867621",
-   "title": "Ligue 1: Team to qualify for the 2027-28 UEFA Europa League",
-   "slug": "ligue-1-team-to-qualify-for-the-2027-28-uefa-europa-league",
-   "createdAt": "2026-08-17T21:27:15.270161Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-1-team-to-qualify-for-uefa-europa-league-1ZT0f7RFl76s.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Ligue 1",
-    "Qualifying"
-   ],
-   "outcomes": [
-    [
-     "Angers",
-     0.5
-    ],
-    [
-     "Auxerre",
-     0.5
-    ],
-    [
-     "Brest",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867620",
-   "title": "Ligue 1: Team to qualify for the 2027-28 UEFA Conference League",
-   "slug": "ligue-1-team-to-qualify-for-the-2027-28-uefa-conference-league",
-   "createdAt": "2026-08-17T21:27:09.253846Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ligue-1-team-to-qualify-for-uefa-conference-league-DIeJ1iXxxLIc.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Ligue 1",
-    "Qualification"
-   ],
-   "outcomes": [
-    [
-     "Angers",
-     0.5
-    ],
-    [
-     "Auxerre",
-     0.5
-    ],
-    [
-     "Brest",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867606",
-   "title": "Serie A: Team to qualify for the 2027-28 UEFA Conference League",
-   "slug": "serie-a-team-to-qualify-for-the-2027-28-uefa-conference-league",
-   "createdAt": "2026-08-17T21:24:14.022472Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-a-logo-3cc625b335.png",
-   "volume": 0.0,
-   "tags": [
-    "Sports",
-    "Serie A",
-    "Qualification",
-    "UEFA Conference League"
-   ],
-   "outcomes": [
-    [
-     "AC Milan",
-     0.5
-    ],
-    [
-     "Atalanta",
-     0.5
-    ],
-    [
-     "Bologna",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867605",
-   "title": "Serie A: Team to qualify for the 2027-28 UEFA Europa League",
-   "slug": "serie-a-team-to-qualify-for-the-2027-28-uefa-europa-league",
-   "createdAt": "2026-08-17T21:24:07.086224Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-a-a1a24e65c8.png",
-   "volume": 0.0,
-   "tags": [
-    "Sports",
-    "Serie A",
-    "Qualification",
-    "UEFA Europa League"
-   ],
-   "outcomes": [
-    [
-     "AC Milan",
-     0.5
-    ],
-    [
-     "Atalanta",
-     0.5
-    ],
-    [
-     "Bologna",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867604",
-   "title": "Serie A: Team to qualify for the 2027-28 UEFA Champions League",
-   "slug": "serie-a-team-to-qualify-for-the-2027-28-uefa-champions-league",
-   "createdAt": "2026-08-17T21:23:59.63954Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/serie-a-a1a24e65c8.png",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Serie A",
-    "Qualification"
-   ],
-   "outcomes": [
-    [
-     "Inter Milan",
-     0.71
-    ],
-    [
-     "AC Milan",
-     0.655
-    ],
-    [
-     "Atalanta",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867603",
-   "title": "Bundesliga: Team to qualify for the 2027-28 UEFA Conference League",
-   "slug": "bundesliga-team-to-qualify-for-the-2027-28-uefa-conference-league",
-   "createdAt": "2026-08-17T21:23:00.050661Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-team-to-qualify-for-uefa-conference-league-IYwr3GSjqwgf.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Qualification",
-    "UEFA Conference League"
-   ],
-   "outcomes": [
-    [
-     "Bayern Munich",
-     0.5
-    ],
-    [
-     "Bayer Leverkusen",
-     0.5
-    ],
-    [
-     "Borussia Dortmund",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867602",
-   "title": "Bundesliga: Team to qualify for the 2027-28 UEFA Europa League",
-   "slug": "bundesliga-team-to-qualify-for-the-2027-28-uefa-europa-league",
-   "createdAt": "2026-08-17T21:22:55.261505Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-team-to-qualify-for-uefa-europa-league-oTK6gLZSdszY.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "bundesliga",
-    "Qualification"
-   ],
-   "outcomes": [
-    [
-     "SV Elversberg",
-     0.505
-    ],
-    [
-     "Bayern Munich",
-     0.5
-    ],
-    [
-     "Bayer Leverkusen",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867569",
-   "title": "Bundesliga: Team to qualify for the 2027-28 UEFA Champions League",
-   "slug": "bundesliga-team-to-qualify-for-the-2027-28-uefa-champions-league",
-   "createdAt": "2026-08-17T21:13:40.017454Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bundesliga-team-to-qualify-for-uefa-champions-league-CJCriuV3gvND.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "bundesliga",
-    "Qualification"
-   ],
-   "outcomes": [
-    [
-     "Bayern Munich",
-     0.865
-    ],
-    [
-     "Borussia Dortmund",
-     0.665
-    ],
-    [
-     "RB Leipzig",
-     0.64
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "867560",
-   "title": "LaLiga: Team to qualify for the 2027-28 UEFA Conference League",
-   "slug": "laliga-team-to-qualify-for-the-2027-28-uefa-conference-league",
-   "createdAt": "2026-08-17T21:08:15.881239Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-team-to-qualify-for-uefa-europa-league-V17sHhOQxV4C.png",
-   "volume": 0.0,
-   "tags": [
-    "UECL",
-    "Soccer",
-    "Sports",
-    "La Liga"
-   ],
-   "outcomes": [
-    [
-     "Atl\u00e9tico de Madrid",
-     0.5
-    ],
-    [
-     "Real Madrid",
-     0.5
-    ],
-    [
-     "Athletic Club",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867559",
-   "title": "LaLiga: Team to qualify for the 2027-28 UEFA Europa League",
-   "slug": "laliga-team-to-qualify-for-the-2027-28-uefa-europa-league",
-   "createdAt": "2026-08-17T21:07:38.139819Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-team-to-qualify-for-uefa-europa-league-V17sHhOQxV4C.png",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "La Liga",
-    "Europa League"
-   ],
-   "outcomes": [
-    [
-     "Real Betis",
-     0.52
-    ],
-    [
-     "Villarreal",
-     0.52
-    ],
-    [
-     "Athletic Club",
-     0.515
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867558",
-   "title": "LaLiga: Team to qualify for the 2027-28 UEFA Champions League",
-   "slug": "laliga-team-to-qualify-for-the-2027-28-uefa-champions-league",
-   "createdAt": "2026-08-17T21:07:34.718358Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/laliga-team-to-qualify-for-uefa-champions-league-_0O54kKtg8Zp.png",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "La Liga",
-    "UEFA Champions League"
-   ],
-   "outcomes": [
-    [
-     "FC Barcelona",
-     0.89
-    ],
-    [
-     "Real Madrid",
-     0.89
-    ],
-    [
-     "Atl\u00e9tico de Madrid",
-     0.68
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867541",
-   "title": "EPL: Team to qualify for the 2027-28 UEFA Conference League",
-   "slug": "epl-team-to-qualify-for-the-2027-28-uefa-conference-league",
-   "createdAt": "2026-08-17T21:04:40.876203Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-team-to-qualify-for-uefa-conference-league-RvcJLDxJ8hcm.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Qualification",
-    "Premier League"
-   ],
-   "outcomes": [
-    [
-     "Aston Villa",
-     0.5
-    ],
-    [
-     "Bournemouth",
-     0.5
-    ],
-    [
-     "Brentford",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867540",
-   "title": "EPL: Team to qualify for the 2027-28 UEFA Europa League",
-   "slug": "epl-team-to-qualify-for-the-2027-28-uefa-europa-league",
-   "createdAt": "2026-08-17T21:04:36.873531Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-team-to-qualify-for-uefa-champions-league-1lFIIAsty0X6.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Qualification",
-    "Premier League"
-   ],
-   "outcomes": [
-    [
-     "Brentford",
-     0.505
-    ],
-    [
-     "Arsenal",
-     0.5
-    ],
-    [
-     "Aston Villa",
-     0.5
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "867405",
-   "title": "Will FURIA Make a Roster Change by December 31?",
-   "slug": "will-furia-make-a-roster-change-by-december-31",
-   "createdAt": "2026-08-17T20:18:31.650471Z",
-   "endDate": "",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-furia-make-a-roster-change-before-september-20260623155239418-mfz4B5ySx0Wl.png",
-   "volume": 142.0,
-   "tags": [
-    "CS2",
-    "Sports",
-    "Esports",
-    "Roster moves"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.64
-    ],
-    [
-     "No",
-     0.36
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "867346",
-   "title": "EPL: Team to qualify for the 2027-28 UEFA Champions League",
-   "slug": "epl-team-to-qualify-for-the-2027-28-uefa-champions-league",
-   "createdAt": "2026-08-17T20:00:48.434448Z",
-   "endDate": "2027-09-01T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-team-to-qualify-for-uefa-champions-league-1lFIIAsty0X6.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Soccer",
-    "Sports",
-    "Qualification",
-    "Premier League"
-   ],
-   "outcomes": [
-    [
-     "Arsenal",
-     0.89
-    ],
-    [
-     "Liverpool",
-     0.785
-    ],
-    [
-     "Chelsea",
-     0.745
-    ]
-   ],
-   "nMarkets": 20
   }
  ]
 }

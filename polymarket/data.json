@@ -1,6 +1,1927 @@
 {
- "generatedAt": "2026-09-02T08:14:22.008682+00:00",
+ "generatedAt": "2026-09-03T08:23:40.160199+00:00",
  "questions": [
+  {
+   "id": "957841",
+   "title": "Yibing Wu vs. Carlos Alcaraz - Exact Score",
+   "slug": "atp-wu-alcaraz-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.770414Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Yibing Wu 3-0",
+     0.5
+    ],
+    [
+     "Yibing Wu 3-1",
+     0.5
+    ],
+    [
+     "Yibing Wu 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957840",
+   "title": "Valentin Vacherot vs. Frances Tiafoe - Exact Score",
+   "slug": "atp-vachero-tiafoe-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.764244Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Valentin Vacherot 3-0",
+     0.5
+    ],
+    [
+     "Valentin Vacherot 3-1",
+     0.5
+    ],
+    [
+     "Valentin Vacherot 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957839",
+   "title": "Alexander Bublik vs. Tommy Paul - Exact Score",
+   "slug": "atp-bublik-paul-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.763496Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Alexander Bublik 3-0",
+     0.5
+    ],
+    [
+     "Alexander Bublik 3-1",
+     0.5
+    ],
+    [
+     "Alexander Bublik 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957838",
+   "title": "Tomas Etcheverry vs. Mariano Navone - Exact Score",
+   "slug": "atp-etcheve-navone-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.756581Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Tomas Etcheverry 3-0",
+     0.5
+    ],
+    [
+     "Tomas Etcheverry 3-1",
+     0.5
+    ],
+    [
+     "Tomas Etcheverry 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957837",
+   "title": "Jiri Lehecka vs. Stefanos Tsitsipas - Exact Score",
+   "slug": "atp-lehecka-tsitsip-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.754919Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Jiri Lehecka 3-0",
+     0.5
+    ],
+    [
+     "Jiri Lehecka 3-1",
+     0.5
+    ],
+    [
+     "Jiri Lehecka 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957836",
+   "title": "Ben Shelton vs. Denis Shapovalov - Exact Score",
+   "slug": "atp-shelton-shapova-2026-09-04-exact-score",
+   "createdAt": "2026-09-03T05:44:05.73849Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Ben Shelton 3-0",
+     0.5
+    ],
+    [
+     "Ben Shelton 3-1",
+     0.5
+    ],
+    [
+     "Ben Shelton 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "957767",
+   "title": "VALORANT Offseason: zekken Next Team",
+   "slug": "valorant-offseason-zekken-next-team-1788364450495",
+   "createdAt": "2026-09-03T05:14:38.958758Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
+   "volume": 0.0,
+   "tags": [
+    "val",
+    "Sports",
+    "Esports",
+    "Valorant"
+   ],
+   "outcomes": [
+    [
+     "Team A",
+     0.5
+    ],
+    [
+     "Team B",
+     0.5
+    ],
+    [
+     "Team C",
+     0.5
+    ]
+   ],
+   "nMarkets": 18
+  },
+  {
+   "id": "957250",
+   "title": "Lacy and Marlon # of Fortnite deaths during marathon? (Lower Strikes)",
+   "slug": "lacy-and-marlon-fortnite-deaths-during-marathon-lower-brackets",
+   "createdAt": "2026-09-03T02:43:49.613087Z",
+   "endDate": "2026-10-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lacymarlon-93f52bcde0.jpg",
+   "volume": 567.350743,
+   "tags": [
+    "Sports",
+    "gaming",
+    "stream",
+    "twitch"
+   ],
+   "outcomes": [
+    [
+     "100+",
+     0.235
+    ],
+    [
+     "70-79",
+     0.205
+    ],
+    [
+     "80-89",
+     0.205
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "957241",
+   "title": "Which mobs will eliminate Lacy or Marlon?",
+   "slug": "which-mobs-will-eliminate-lacy-or-marlon",
+   "createdAt": "2026-09-03T02:41:49.944422Z",
+   "endDate": "2026-10-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lacymarlon-93f52bcde0.jpg",
+   "volume": 2960.660012,
+   "tags": [
+    "COD",
+    "Sports",
+    "gaming",
+    "stream"
+   ],
+   "outcomes": [
+    [
+     "Creeper",
+     1.0
+    ],
+    [
+     "Enderman",
+     0.655
+    ],
+    [
+     "Skeleton",
+     0.575
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "957190",
+   "title": "Lacy and Marlon # of both-player Minecraft deaths during marathon?",
+   "slug": "lacy-and-marlon-of-both-player-minecraft-deaths-during-marathon",
+   "createdAt": "2026-09-03T02:22:00.131687Z",
+   "endDate": "2026-10-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lacymarlon-93f52bcde0.jpg",
+   "volume": 595.333823,
+   "tags": [
+    "COD",
+    "Sports",
+    "gaming",
+    "stream"
+   ],
+   "outcomes": [
+    [
+     "<2",
+     0.21
+    ],
+    [
+     "10-11",
+     0.205
+    ],
+    [
+     "12-13",
+     0.195
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956935",
+   "title": "How high will 5-year Treasury yield go in September?",
+   "slug": "how-high-will-5-year-treasury-yield-go-in-september",
+   "createdAt": "2026-09-03T01:05:54.758154Z",
+   "endDate": "2026-09-30T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-high-will-10-year-treasury-yield-go-in-2025-nKj-Uvwxqu0s.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "4.58%",
+     0.51
+    ],
+    [
+     "4.61%",
+     0.51
+    ],
+    [
+     "4.64%",
+     0.51
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956934",
+   "title": "How low will 30-year Treasury yield get in September?",
+   "slug": "how-low-will-30-year-treasury-yield-get-in-september",
+   "createdAt": "2026-09-03T01:05:51.961454Z",
+   "endDate": "2026-09-30T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-10-year-treasury-yield-get-in-2025-yNf76ihPd5I3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "Below 5.05%",
+     0.5
+    ],
+    [
+     "Below 5.15%",
+     0.5
+    ],
+    [
+     "Below 5.18%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956933",
+   "title": "How high will 30-year Treasury yield go in September?",
+   "slug": "how-high-will-30-year-treasury-yield-go-in-september",
+   "createdAt": "2026-09-03T01:05:48.606794Z",
+   "endDate": "2026-09-30T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-high-will-10-year-treasury-yield-go-in-2025-nKj-Uvwxqu0s.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "5.39%",
+     0.51
+    ],
+    [
+     "5.42%",
+     0.51
+    ],
+    [
+     "5.45%",
+     0.51
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956932",
+   "title": "How low will 5-year Treasury yield get before 2027?",
+   "slug": "how-low-will-5-year-treasury-yield-get-before-2027",
+   "createdAt": "2026-09-03T01:05:44.977105Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-10-year-treasury-yield-get-in-2025-yNf76ihPd5I3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "Below 4.35%",
+     0.5
+    ],
+    [
+     "Below 4.40%",
+     0.5
+    ],
+    [
+     "Below 4.45%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956931",
+   "title": "How high will 5-year Treasury yield go before 2027?",
+   "slug": "how-high-will-5-year-treasury-yield-go-before-2027",
+   "createdAt": "2026-09-03T01:05:19.225968Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-high-will-10-year-treasury-yield-go-in-2025-nKj-Uvwxqu0s.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "4.85%",
+     0.5
+    ],
+    [
+     "4.90%",
+     0.5
+    ],
+    [
+     "4.95%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956930",
+   "title": "How low will 30-year Treasury yield get before 2027?",
+   "slug": "how-low-will-30-year-treasury-yield-get-before-2027",
+   "createdAt": "2026-09-03T01:05:15.701783Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-10-year-treasury-yield-get-in-2025-yNf76ihPd5I3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "Below 4.95%",
+     0.5
+    ],
+    [
+     "Below 5.00%",
+     0.5
+    ],
+    [
+     "Below 5.05%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956929",
+   "title": "How high will 30-year Treasury yield go before 2027?",
+   "slug": "how-high-will-30-year-treasury-yield-go-before-2027",
+   "createdAt": "2026-09-03T01:05:13.671089Z",
+   "endDate": "2026-12-31T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-high-will-10-year-treasury-yield-go-in-2025-nKj-Uvwxqu0s.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "5.40%",
+     0.51
+    ],
+    [
+     "5.45%",
+     0.505
+    ],
+    [
+     "5.50%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956869",
+   "title": "How low will 5-year Treasury yield get in September?",
+   "slug": "how-low-will-5-year-treasury-yield-get-in-september",
+   "createdAt": "2026-09-03T00:45:25.366773Z",
+   "endDate": "2026-09-30T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-low-will-10-year-treasury-yield-get-in-2025-yNf76ihPd5I3.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Economy",
+    "Finance",
+    "Fed Rates",
+    "Treasuries"
+   ],
+   "outcomes": [
+    [
+     "Below 4.46%",
+     0.505
+    ],
+    [
+     "Below 4.49%",
+     0.505
+    ],
+    [
+     "Below 4.32%",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "956808",
+   "title": "What will John Ternus say during his Apple Keynote?",
+   "slug": "what-will-john-ternus-say-during-his-apple-keynote-20260902",
+   "createdAt": "2026-09-03T00:19:11.466915Z",
+   "endDate": "2026-09-09T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-john-ternus-say-during-his-apple-keynote-20260902--q_oqoJ6eL6V.png",
+   "volume": 329.21,
+   "tags": [
+    "Tech",
+    "Apple",
+    "Big Tech",
+    "Mentions"
+   ],
+   "outcomes": [
+    [
+     "Apple Intelligence",
+     0.49
+    ],
+    [
+     "Flexible",
+     0.455
+    ],
+    [
+     "Hardware",
+     0.455
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956790",
+   "title": "Apple Announces Foldable iPhone at \u201cSurprise and Shine\u201d Event?",
+   "slug": "apple-announces-foldable-iphone-at-surprise-and-shine-event",
+   "createdAt": "2026-09-03T00:11:39.868792Z",
+   "endDate": "2026-09-09T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/apple-announces-foldable-iphone-at-surprise-and-shine-event-7Uha3J1ZVSod.jpg",
+   "volume": 54.6,
+   "tags": [
+    "Tech",
+    "Apple",
+    "Big Tech",
+    "Apple Release"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.74
+    ],
+    [
+     "No",
+     0.26
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "956789",
+   "title": "Next Fable Model (5.2+) released by...?",
+   "slug": "next-fable-model-5pt2-released-byptptpt",
+   "createdAt": "2026-09-03T00:10:55.068813Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+   "volume": 0.0,
+   "tags": [
+    "AI",
+    "Tech",
+    "Fable",
+    "Claude"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.615
+    ],
+    [
+     "October 31",
+     0.31
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "956760",
+   "title": "US Treasury announces Bitcoin purchase by ___?",
+   "slug": "us-treasury-announces-bitcoin-purchase-by",
+   "createdAt": "2026-09-03T00:02:51.441371Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-national-bitcoin-reserve-in-2025-zDcUaQ5HLS7F.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Crypto",
+    "Bitcoin",
+    "Finance",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.495
+    ],
+    [
+     "December 31, 2026",
+     0.17
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "956751",
+   "title": "US announces another yen intervention by...?",
+   "slug": "us-announces-another-yen-intervention-byptptpt",
+   "createdAt": "2026-09-03T00:02:07.582935Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jpy-ae3a7ae256.png",
+   "volume": 0.0,
+   "tags": [
+    "Yen",
+    "Japan",
+    "Economy",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.495
+    ],
+    [
+     "September 30, 2026",
+     0.175
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "956665",
+   "title": "Zachary Svajda vs. Arthur Gea - Exact Score",
+   "slug": "atp-svajda-gea-2026-09-03-exact-score",
+   "createdAt": "2026-09-02T23:44:11.862599Z",
+   "endDate": "2026-09-10T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Zachary Svajda 3-0",
+     0.5
+    ],
+    [
+     "Zachary Svajda 3-1",
+     0.5
+    ],
+    [
+     "Zachary Svajda 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956664",
+   "title": "Botic van de Zandschulp vs. Alex de Minaur - Exact Score",
+   "slug": "atp-zandsch-minaur-2026-09-03-exact-score",
+   "createdAt": "2026-09-02T23:44:07.319185Z",
+   "endDate": "2026-09-10T20:30:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Botic van de Zandschulp 3-0",
+     0.5
+    ],
+    [
+     "Botic van de Zandschulp 3-1",
+     0.5
+    ],
+    [
+     "Botic van de Zandschulp 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956662",
+   "title": "Zizou Bergs vs. Jesper de Jong - Exact Score",
+   "slug": "atp-bergs-jong-2026-09-03-exact-score",
+   "createdAt": "2026-09-02T23:44:05.918379Z",
+   "endDate": "2026-09-10T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Zizou Bergs 3-0",
+     0.5
+    ],
+    [
+     "Zizou Bergs 3-1",
+     0.5
+    ],
+    [
+     "Zizou Bergs 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956661",
+   "title": "Alex Michelsen vs. Daniel Merida Aguilar - Exact Score",
+   "slug": "atp-michels-aguilar-2026-09-04-exact-score",
+   "createdAt": "2026-09-02T23:44:05.912925Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Alex Michelsen 3-0",
+     0.5
+    ],
+    [
+     "Alex Michelsen 3-1",
+     0.5
+    ],
+    [
+     "Alex Michelsen 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956660",
+   "title": "Benjamin Bonzi vs. Ignacio Buse - Exact Score",
+   "slug": "atp-bonzi-buse-2026-09-03-exact-score",
+   "createdAt": "2026-09-02T23:44:05.907104Z",
+   "endDate": "2026-09-10T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Benjamin Bonzi 3-0",
+     0.5
+    ],
+    [
+     "Benjamin Bonzi 3-1",
+     0.5
+    ],
+    [
+     "Benjamin Bonzi 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956659",
+   "title": "Yunchaokete Bu vs. Michael Zheng - Exact Score",
+   "slug": "atp-bu-zheng-2026-09-03-exact-score",
+   "createdAt": "2026-09-02T23:44:05.905104Z",
+   "endDate": "2026-09-10T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Yunchaokete Bu 3-0",
+     0.5
+    ],
+    [
+     "Yunchaokete Bu 3-1",
+     0.5
+    ],
+    [
+     "Yunchaokete Bu 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956658",
+   "title": "Daniil Medvedev vs. Arthur Rinderknech - Exact Score",
+   "slug": "atp-medvede-rinderk-2026-09-04-exact-score",
+   "createdAt": "2026-09-02T23:44:05.805397Z",
+   "endDate": "2026-09-11T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Daniil Medvedev 3-0",
+     0.5
+    ],
+    [
+     "Daniil Medvedev 3-1",
+     0.5
+    ],
+    [
+     "Daniil Medvedev 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "956597",
+   "title": "First to hit $1B FDV: ANSEM, CASHCAT, AI, or NET?",
+   "slug": "first-to-hit-1b-fdv-ansem-cashcat-ai-or-net-20260902214135",
+   "createdAt": "2026-09-02T23:21:32.91255Z",
+   "endDate": "2026-12-26T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/first-to-hit-1b-fdv-ansem-cashcat-ai-or-net-20260902214135-88e4e8452e.png",
+   "volume": 0.0,
+   "tags": [
+    "ansem",
+    "Crypto",
+    "netnet",
+    "cashcat"
+   ],
+   "outcomes": [
+    [
+     "None by December 25, 2026",
+     0.505
+    ],
+    [
+     "Cash Cat (CASHCAT)",
+     0.48
+    ],
+    [
+     "The Black Bull (ANSEM)",
+     0.46
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "956328",
+   "title": "NCAA Football: Team to Qualify for 2026 Sun Belt Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-sun-belt-championship-game",
+   "createdAt": "2026-09-02T21:58:40.238118Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Troy Trojans",
+     0.495
+    ],
+    [
+     "Marshall Thundering Herd",
+     0.49
+    ],
+    [
+     "App State Mountaineers",
+     0.475
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "956327",
+   "title": "NCAA Football: Team to Qualify for 2026 PAC-12 Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-pac-12-championship-game",
+   "createdAt": "2026-09-02T21:58:37.633875Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Colorado State Rams",
+     0.5
+    ],
+    [
+     "Oregon State Beavers",
+     0.49
+    ],
+    [
+     "Utah State Aggies",
+     0.49
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "956326",
+   "title": "NCAA Football: Team to Qualify for 2026 Mountain West Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-mountain-west-championship-game",
+   "createdAt": "2026-09-02T21:58:34.802664Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Northern Illinois Huskies",
+     0.5
+    ],
+    [
+     "San Jos\u00e9 State Spartans",
+     0.5
+    ],
+    [
+     "UNLV Rebels",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "956325",
+   "title": "NCAA Football: Team to Qualify for 2026 MAC Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-mac-championship-game",
+   "createdAt": "2026-09-02T21:58:31.350589Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Miami (OH) RedHawks",
+     0.485
+    ],
+    [
+     "Toledo Rockets",
+     0.485
+    ],
+    [
+     "Akron Zips",
+     0.48
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "956324",
+   "title": "NCAA Football: Team to Qualify for 2026 Conference USA Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-conference-usa-championship-game",
+   "createdAt": "2026-09-02T21:58:28.038519Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Delaware Blue Hens",
+     0.5
+    ],
+    [
+     "Florida International Panthers",
+     0.5
+    ],
+    [
+     "Jacksonville State Gamecocks",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "956323",
+   "title": "NCAA Football: Team to Qualify for 2026 American Conference Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-american-conference-championship-game",
+   "createdAt": "2026-09-02T21:58:23.440904Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Temple Owls",
+     0.505
+    ],
+    [
+     "Army Black Knights",
+     0.5
+    ],
+    [
+     "Charlotte 49ers",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "956322",
+   "title": "NCAA Football: Team to Qualify for 2026 SEC Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-sec-championship-game",
+   "createdAt": "2026-09-02T21:58:19.342066Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Alabama Crimson Tide",
+     0.5
+    ],
+    [
+     "Arkansas Razorbacks",
+     0.5
+    ],
+    [
+     "Auburn Tigers",
+     0.5
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956321",
+   "title": "NCAA Football: Team to Qualify for 2026 Big 12 Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-big-12-championship-game",
+   "createdAt": "2026-09-02T21:58:11.835291Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Texas Tech Red Raiders",
+     0.69
+    ],
+    [
+     "Arizona State Sun Devils",
+     0.5
+    ],
+    [
+     "Arizona Wildcats",
+     0.5
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956320",
+   "title": "NCAA Football: Team to Qualify for 2026 Big Ten Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-big-ten-championship-game",
+   "createdAt": "2026-09-02T21:58:06.687152Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Illinois Fighting Illini",
+     0.5
+    ],
+    [
+     "Indiana Hoosiers",
+     0.5
+    ],
+    [
+     "Iowa Hawkeyes",
+     0.5
+    ]
+   ],
+   "nMarkets": 18
+  },
+  {
+   "id": "956319",
+   "title": "NCAA Football: Team to Qualify for 2026 ACC Championship Game",
+   "slug": "ncaa-football-team-to-qualify-for-2026-acc-championship-game",
+   "createdAt": "2026-09-02T21:58:03.836907Z",
+   "endDate": "2026-12-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ncaa-football-conference-to-win-national-championship-20260731193220759-1MnpLC_TG3H7.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CFB",
+    "NCAAF",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Boston College Eagles",
+     0.5
+    ],
+    [
+     "California Golden Bears",
+     0.5
+    ],
+    [
+     "Clemson Tigers",
+     0.5
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "956318",
+   "title": "UEFA Europa League: Team to advance to 2027 semis",
+   "slug": "uefa-europa-league-team-to-advance-to-2027-semis",
+   "createdAt": "2026-09-02T21:57:59.743235Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+   "volume": 0.0,
+   "tags": [
+    "UEL",
+    "Soccer",
+    "Sports",
+    "Europa League"
+   ],
+   "outcomes": [
+    [
+     "Milan",
+     0.525
+    ],
+    [
+     "Juventus",
+     0.525
+    ],
+    [
+     "Bayer Leverkusen",
+     0.525
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "956317",
+   "title": "UEFA Europa League: Team to advance to 2027 quarters",
+   "slug": "uefa-europa-league-team-to-advance-to-2027-quarters",
+   "createdAt": "2026-09-02T21:57:56.430247Z",
+   "endDate": "2027-03-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+   "volume": 0.0,
+   "tags": [
+    "UEL",
+    "Soccer",
+    "Sports",
+    "Europa League"
+   ],
+   "outcomes": [
+    [
+     "Juventus",
+     0.545
+    ],
+    [
+     "Milan",
+     0.54
+    ],
+    [
+     "Bayer Leverkusen",
+     0.54
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "956316",
+   "title": "UEFA Europa League: Team to advance to 2027 Round of 16",
+   "slug": "uefa-europa-league-team-to-advance-to-2027-round-of-16",
+   "createdAt": "2026-09-02T21:57:52.649076Z",
+   "endDate": "2027-02-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uel.png",
+   "volume": 0.0,
+   "tags": [
+    "UEL",
+    "Soccer",
+    "Sports",
+    "Europa League"
+   ],
+   "outcomes": [
+    [
+     "Milan",
+     0.62
+    ],
+    [
+     "Juventus",
+     0.545
+    ],
+    [
+     "Bayer Leverkusen",
+     0.545
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "956315",
+   "title": "UEFA Champions League: Team to advance to 2027 semis",
+   "slug": "uefa-champions-league-team-to-advance-to-2027-semis",
+   "createdAt": "2026-09-02T21:57:49.452261Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png",
+   "volume": 0.0,
+   "tags": [
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League"
+   ],
+   "outcomes": [
+    [
+     "Real Madrid",
+     0.565
+    ],
+    [
+     "Barcelona",
+     0.55
+    ],
+    [
+     "Paris Saint-Germain",
+     0.525
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "956314",
+   "title": "UEFA Champions League: Team to advance to 2027 quarters",
+   "slug": "uefa-champions-league-team-to-advance-to-2027-quarters",
+   "createdAt": "2026-09-02T21:57:45.096719Z",
+   "endDate": "2027-03-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png",
+   "volume": 0.0,
+   "tags": [
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League"
+   ],
+   "outcomes": [
+    [
+     "Paris Saint-Germain",
+     0.545
+    ],
+    [
+     "Arsenal",
+     0.54
+    ],
+    [
+     "Barcelona",
+     0.535
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "956313",
+   "title": "UEFA Champions League: Team to advance to 2027 Round of 16",
+   "slug": "uefa-champions-league-team-to-advance-to-2027-round-of-16",
+   "createdAt": "2026-09-02T21:57:41.119677Z",
+   "endDate": "2027-02-28T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png",
+   "volume": 0.0,
+   "tags": [
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League"
+   ],
+   "outcomes": [
+    [
+     "Liverpool",
+     0.745
+    ],
+    [
+     "Atl\u00e9tico Madrid",
+     0.745
+    ],
+    [
+     "Paris Saint-Germain",
+     0.55
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "956304",
+   "title": "NHL Playoffs: Team to advance to Western Conference Finals",
+   "slug": "nhl-playoffs-team-to-advance-to-western-conference-finals",
+   "createdAt": "2026-09-02T21:55:57.961723Z",
+   "endDate": "2027-05-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+   "volume": 0.0,
+   "tags": [
+    "NHL",
+    "Hockey",
+    "Sports",
+    "NHL Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Colorado Avalanche",
+     0.505
+    ],
+    [
+     "Minnesota Wild",
+     0.505
+    ],
+    [
+     "Edmonton Oilers",
+     0.5
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956303",
+   "title": "NHL Playoffs: Eastern Conference Team to advance to Second Round",
+   "slug": "nhl-playoffs-eastern-conference-team-to-advance-to-second-round",
+   "createdAt": "2026-09-02T21:55:43.600246Z",
+   "endDate": "2027-05-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+   "volume": 0.0,
+   "tags": [
+    "NHL",
+    "Hockey",
+    "Sports",
+    "NHL Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Florida Panthers",
+     0.52
+    ],
+    [
+     "Carolina Hurricanes",
+     0.52
+    ],
+    [
+     "Montreal Canadiens",
+     0.5
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956302",
+   "title": "NHL Playoffs: Western Conference Team to advance to Second Round",
+   "slug": "nhl-playoffs-western-conference-team-to-advance-to-second-round",
+   "createdAt": "2026-09-02T21:55:39.893686Z",
+   "endDate": "2027-05-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+   "volume": 0.0,
+   "tags": [
+    "NHL",
+    "Hockey",
+    "Sports",
+    "NHL Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Chicago Blackhawks",
+     0.485
+    ],
+    [
+     "Colorado Avalanche",
+     0.485
+    ],
+    [
+     "Seattle Kraken",
+     0.48
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956301",
+   "title": "NHL Playoffs: Team to advance to Eastern Conference Finals",
+   "slug": "nhl-playoffs-team-to-advance-to-eastern-conference-finals",
+   "createdAt": "2026-09-02T21:55:32.754161Z",
+   "endDate": "2027-05-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nhl.png",
+   "volume": 0.0,
+   "tags": [
+    "NHL",
+    "Hockey",
+    "Sports",
+    "NHL Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Carolina Hurricanes",
+     0.53
+    ],
+    [
+     "Florida Panthers",
+     0.525
+    ],
+    [
+     "Tampa Bay Lightning",
+     0.505
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956300",
+   "title": "NBA Playoffs: Team to advance to Western Conference Finals",
+   "slug": "nba-playoffs-team-to-advance-to-western-conference-finals",
+   "createdAt": "2026-09-02T21:53:43.67564Z",
+   "endDate": "2027-05-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba.png",
+   "volume": 0.0,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "NBA Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Oklahoma City Thunder",
+     0.535
+    ],
+    [
+     "San Antonio Spurs",
+     0.535
+    ],
+    [
+     "Minnesota Timberwolves",
+     0.515
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956299",
+   "title": "NBA Playoffs: Team to advance to Eastern Conference Finals",
+   "slug": "nba-playoffs-team-to-advance-to-eastern-conference-finals",
+   "createdAt": "2026-09-02T21:53:20.361904Z",
+   "endDate": "2027-05-25T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba.png",
+   "volume": 0.0,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "NBA Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Philadelphia 76ers",
+     0.52
+    ],
+    [
+     "Boston Celtics",
+     0.515
+    ],
+    [
+     "New York Knicks",
+     0.515
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956298",
+   "title": "NBA Playoffs: Team to advance to Western Conference Semifinals",
+   "slug": "nba-playoffs-team-to-advance-to-western-conference-semifinals",
+   "createdAt": "2026-09-02T21:53:16.665385Z",
+   "endDate": "2027-05-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba.png",
+   "volume": 0.0,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "NBA Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Oklahoma City Thunder",
+     0.545
+    ],
+    [
+     "San Antonio Spurs",
+     0.545
+    ],
+    [
+     "Denver Nuggets",
+     0.515
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956297",
+   "title": "NBA Playoffs: Team to advance to Eastern Conference Semifinals",
+   "slug": "nba-playoffs-team-to-advance-to-eastern-conference-semifinals",
+   "createdAt": "2026-09-02T21:52:49.246164Z",
+   "endDate": "2027-05-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba.png",
+   "volume": 0.0,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "NBA Playoffs"
+   ],
+   "outcomes": [
+    [
+     "New York Knicks",
+     0.53
+    ],
+    [
+     "Philadelphia 76ers",
+     0.525
+    ],
+    [
+     "Boston Celtics",
+     0.515
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956269",
+   "title": "Pro Football: Team to advance to NFC Championship Game",
+   "slug": "pro-football-team-to-advance-to-nfc-championship-game",
+   "createdAt": "2026-09-02T21:51:30.342677Z",
+   "endDate": "2027-01-26T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "NFC",
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Los Angeles Rams",
+     0.545
+    ],
+    [
+     "Seattle Seahawks",
+     0.53
+    ],
+    [
+     "Dallas Cowboys",
+     0.525
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956268",
+   "title": "Pro Football: Team to advance to AFC Championship Game",
+   "slug": "pro-football-team-to-advance-to-afc-championship-game",
+   "createdAt": "2026-09-02T21:51:27.146982Z",
+   "endDate": "2027-01-26T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "AFC",
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Buffalo Bills",
+     0.535
+    ],
+    [
+     "Baltimore Ravens",
+     0.525
+    ],
+    [
+     "New England Patriots",
+     0.52
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956267",
+   "title": "Pro Football: NFC Team to advance to Divisional Round",
+   "slug": "pro-football-nfc-team-to-advance-to-divisional-round",
+   "createdAt": "2026-09-02T21:51:24.626544Z",
+   "endDate": "2027-01-19T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "NFC",
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Los Angeles Rams",
+     0.545
+    ],
+    [
+     "Seattle Seahawks",
+     0.535
+    ],
+    [
+     "Dallas Cowboys",
+     0.525
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956266",
+   "title": "Pro Football: AFC Team to advance to Divisional Round",
+   "slug": "pro-football-afc-team-to-advance-to-divisional-round",
+   "createdAt": "2026-09-02T21:51:13.492208Z",
+   "endDate": "2027-01-19T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 0.0,
+   "tags": [
+    "AFC",
+    "NFL",
+    "Sports",
+    "football"
+   ],
+   "outcomes": [
+    [
+     "Baltimore Ravens",
+     0.53
+    ],
+    [
+     "Houston Texans",
+     0.525
+    ],
+    [
+     "Denver Broncos",
+     0.525
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "956265",
+   "title": "MLB Playoffs: Team to advance to NLCS",
+   "slug": "mlb-playoffs-team-to-advance-to-nlcs",
+   "createdAt": "2026-09-02T21:50:25.732079Z",
+   "endDate": "2026-10-15T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/MLB.jpg",
+   "volume": 186.4,
+   "tags": [
+    "MLB",
+    "NLCS",
+    "Sports",
+    "baseball"
+   ],
+   "outcomes": [
+    [
+     "Los Angeles Dodgers",
+     0.545
+    ],
+    [
+     "Milwaukee Brewers",
+     0.54
+    ],
+    [
+     "Atlanta Braves",
+     0.525
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956264",
+   "title": "MLB Playoffs: Team to advance to ALCS",
+   "slug": "mlb-playoffs-team-to-advance-to-alcs",
+   "createdAt": "2026-09-02T21:50:23.690655Z",
+   "endDate": "2026-10-15T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/MLB.jpg",
+   "volume": 166.79,
+   "tags": [
+    "MLB",
+    "ALCS",
+    "Sports",
+    "baseball"
+   ],
+   "outcomes": [
+    [
+     "Tampa Bay Rays",
+     0.53
+    ],
+    [
+     "New York Yankees",
+     0.525
+    ],
+    [
+     "Boston Red Sox",
+     0.515
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956263",
+   "title": "MLB Playoffs: Team to advance to NLDS",
+   "slug": "mlb-playoffs-team-to-advance-to-nlds",
+   "createdAt": "2026-09-02T21:50:20.211439Z",
+   "endDate": "2026-10-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/MLB.jpg",
+   "volume": 30.0,
+   "tags": [
+    "MLB",
+    "Sports",
+    "baseball",
+    "MLB Playoffs"
+   ],
+   "outcomes": [
+    [
+     "Milwaukee Brewers",
+     0.555
+    ],
+    [
+     "Los Angeles Dodgers",
+     0.555
+    ],
+    [
+     "Atlanta Braves",
+     0.525
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956262",
+   "title": "MLB Playoffs: Team to advance to ALDS",
+   "slug": "mlb-playoffs-team-to-advance-to-alds",
+   "createdAt": "2026-09-02T21:50:04.682709Z",
+   "endDate": "2026-10-05T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/MLB.jpg",
+   "volume": 20.0,
+   "tags": [
+    "MLB",
+    "Sports",
+    "baseball",
+    "MLB Playoffs"
+   ],
+   "outcomes": [
+    [
+     "New York Yankees",
+     0.535
+    ],
+    [
+     "Boston Red Sox",
+     0.53
+    ],
+    [
+     "Tampa Bay Rays",
+     0.525
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "956238",
+   "title": "Israel x Lebanon Effective Ceasefire begins by...? (2 week pause)",
+   "slug": "israel-x-lebanon-effective-ceasefire-begins-byptptpt-2-week-pause",
+   "createdAt": "2026-09-02T21:39:05.345957Z",
+   "endDate": "2026-09-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-lebanon-diplomatic-meeting-by-Pfq2bjvystKh.jpg",
+   "volume": 17.58,
+   "tags": [
+    "Iran",
+    "Israel",
+    "Lebanon",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "September 11",
+     0.49
+    ],
+    [
+     "September 18",
+     0.48
+    ],
+    [
+     "September 30",
+     0.46
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "956093",
+   "title": "WA-10 House Election Margin of Victory",
+   "slug": "wa-10-house-margin-of-victory-2026",
+   "createdAt": "2026-09-02T20:51:38.117857Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/WA.png",
+   "volume": 9.99,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
   {
    "id": "952028",
    "title": "Gael Monfils vs. Learner Tien - Exact Score",
@@ -6288,376 +8209,6 @@
     ]
    ],
    "nMarkets": 6
-  },
-  {
-   "id": "878367",
-   "title": "Will anyone insult Donald Trump during the 2026 Emmy Awards?",
-   "slug": "will-anyone-insult-donald-trump-during-the-2026-emmy-awards",
-   "createdAt": "2026-08-20T01:25:22.738256Z",
-   "endDate": "2026-09-14T20:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/emmy-006cc5a200.jpg",
-   "volume": 887.88929,
-   "tags": [
-    "TV",
-    "Emmys",
-    "Trump",
-    "Culture"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.555
-    ],
-    [
-     "Yes",
-     0.445
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "878319",
-   "title": "What will JD Vance say during remarks in Ohio?",
-   "slug": "what-will-jd-vance-say-during-remarks-in-ohio",
-   "createdAt": "2026-08-20T01:09:09.715698Z",
-   "endDate": "2026-08-21T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Far Left",
-     0.59
-    ],
-    [
-     "Democrat 12+ times",
-     0.5
-    ],
-    [
-     "Job 8+ times",
-     0.5
-    ]
-   ],
-   "nMarkets": 16
-  },
-  {
-   "id": "878302",
-   "title": "What will Trump say during his rally with Darline Graham?",
-   "slug": "what-will-trump-say-during-his-rally-with-darline-graham",
-   "createdAt": "2026-08-20T01:06:47.876032Z",
-   "endDate": "2026-08-21T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 2759.847237,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Communist / Communism",
-     0.945
-    ],
-    [
-     "Save America Act",
-     0.905
-    ],
-    [
-     "Oil / Gas / Gasoline",
-     0.9
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "877802",
-   "title": "Will the Climate Clock's 1.5\u00b0C deadline change by...?",
-   "slug": "will-the-climate-clocks-1pt5c-deadline-change-byptptpt",
-   "createdAt": "2026-08-19T22:40:00.331685Z",
-   "endDate": "2029-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-climate-clock-1-5c-deadline-change-before-1787176334621-wt-rdQVN-31s.png",
-   "volume": 100.1,
-   "tags": [
-    "Science",
-    "Weather",
-    "climate",
-    "Climate Change"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.625
-    ],
-    [
-     "Yes",
-     0.375
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "877696",
-   "title": "Pro Football: New Team announced outside the United States by 2026-27 season end?",
-   "slug": "pro-football-new-team-announced-outside-the-united-states-by-2026-27-season-end",
-   "createdAt": "2026-08-19T22:00:53.283498Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 0.0,
-   "tags": [
-    "NFL",
-    "Sports",
-    "football",
-    "Football Culture"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.615
-    ],
-    [
-     "Yes",
-     0.385
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "877684",
-   "title": "Will LeBron's YouTube channel reach 1 million subscribers by August 31, 2026?",
-   "slug": "will-lebrons-youtube-channel-reach-1-million-subscribers-by-august-31-2026",
-   "createdAt": "2026-08-19T21:59:44.360804Z",
-   "endDate": "2026-08-31T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-lebron-get-traded-eM7FNYPwdM3a.png",
-   "volume": 568.444464,
-   "tags": [
-    "NBA",
-    "Sports",
-    "Culture",
-    "Basketball"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.73
-    ],
-    [
-     "Yes",
-     0.27
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "877683",
-   "title": "NBA: 2026 NBA Cup Winner",
-   "slug": "nba-2026-nba-cup-winner",
-   "createdAt": "2026-08-19T21:58:59.457236Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-cup-winner-KemNXNPun_Ox.jpg",
-   "volume": 3.235293,
-   "tags": [
-    "NBA",
-    "Sports",
-    "NBA Cup",
-    "futures"
-   ],
-   "outcomes": [
-    [
-     "Oklahoma City Thunder",
-     0.22
-    ],
-    [
-     "San Antonio Spurs",
-     0.22
-    ],
-    [
-     "Philadelphia 76ers",
-     0.2
-    ]
-   ],
-   "nMarkets": 30
-  },
-  {
-   "id": "877384",
-   "title": "French Senate Election: 2nd Most Seats?",
-   "slug": "french-senate-election-2nd-most-seats",
-   "createdAt": "2026-08-19T20:14:51.56862Z",
-   "endDate": "2026-10-12T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frsen-french-senate-855a34b41d.jpg",
-   "volume": 0.0,
-   "tags": [
-    "France",
-    "Politics",
-    "Elections",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "SER",
-     0.475
-    ],
-    [
-     "Union Centriste",
-     0.475
-    ],
-    [
-     "Les R\u00e9publicains",
-     0.12
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "877383",
-   "title": "French Senate Election: Most Seats?",
-   "slug": "french-senate-election-most-seats",
-   "createdAt": "2026-08-19T20:14:47.526278Z",
-   "endDate": "2026-10-12T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/frsen-french-senate-855a34b41d.jpg",
-   "volume": 111.193954,
-   "tags": [
-    "France",
-    "Politics",
-    "Elections",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "Les R\u00e9publicains",
-     0.835
-    ],
-    [
-     "Union Centriste",
-     0.115
-    ],
-    [
-     "SER",
-     0.11
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "877350",
-   "title": "Minnesota Senate and Governor Combo",
-   "slug": "minnesota-senate-and-governor-combo",
-   "createdAt": "2026-08-19T20:02:37.057351Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mi-f9cf816aa1.png",
-   "volume": 743.162941,
-   "tags": [
-    "Politics",
-    "election",
-    "US Election",
-    "Minnesota Midterm"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.89
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Dems win Gov, Reps win Senate",
-     0.075
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "877336",
-   "title": "Georgia Senate and Governor Combo",
-   "slug": "georgia-senate-and-governor-combo",
-   "createdAt": "2026-08-19T20:01:23.601537Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/georgia-senate-election-winner-utyVMToWeRqc.png",
-   "volume": 789.922478,
-   "tags": [
-    "Politics",
-    "election",
-    "Jon Ossoff",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.585
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps win Gov, Dems win Senate",
-     0.355
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "877283",
-   "title": "Kansas Senate and Governor Combo",
-   "slug": "kansas-senate-and-governor-combo",
-   "createdAt": "2026-08-19T19:59:13.592477Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-fd80a0b343.png",
-   "volume": 72.17818,
-   "tags": [
-    "Politics",
-    "election",
-    "US Election",
-    "Kansas Midterm"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps sweep",
-     0.495
-    ],
-    [
-     "Dems win Gov, Reps win Senate",
-     0.375
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "877282",
-   "title": "Merck & Moderna merger/acquisition announced in 2026?",
-   "slug": "merck-moderna-mergeracquisition-announced-in-2026",
-   "createdAt": "2026-08-19T19:58:17.446295Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mrkmrna-mrk-mrna-3be4eb3d5a.jpg",
-   "volume": 20.0,
-   "tags": [
-    "M&A",
-    "MRK",
-    "MRNA",
-    "Merck"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.805
-    ],
-    [
-     "Yes",
-     0.195
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

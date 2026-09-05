@@ -1,6 +1,393 @@
 {
- "generatedAt": "2026-09-04T08:19:38.127883+00:00",
+ "generatedAt": "2026-09-05T07:55:47.007186+00:00",
  "questions": [
+  {
+   "id": "968356",
+   "title": "Daniil Medvedev vs. Frances Tiafoe - Exact Score",
+   "slug": "atp-medvede-tiafoe-2026-09-06-exact-score",
+   "createdAt": "2026-09-05T05:44:01.690767Z",
+   "endDate": "2026-09-13T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Daniil Medvedev 3-0",
+     0.5
+    ],
+    [
+     "Daniil Medvedev 3-1",
+     0.5
+    ],
+    [
+     "Daniil Medvedev 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "968355",
+   "title": "Alex Michelsen vs. Tomas Etcheverry - Exact Score",
+   "slug": "atp-michels-etcheve-2026-09-06-exact-score",
+   "createdAt": "2026-09-05T05:44:01.689128Z",
+   "endDate": "2026-09-13T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Alex Michelsen 3-0",
+     0.5
+    ],
+    [
+     "Alex Michelsen 3-1",
+     0.5
+    ],
+    [
+     "Alex Michelsen 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "967166",
+   "title": "Tommy Paul vs. Carlos Alcaraz - Exact Score",
+   "slug": "atp-paul-alcaraz-2026-09-06-exact-score",
+   "createdAt": "2026-09-04T23:44:02.548817Z",
+   "endDate": "2026-09-13T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Tommy Paul 3-0",
+     0.5
+    ],
+    [
+     "Tommy Paul 3-1",
+     0.5
+    ],
+    [
+     "Tommy Paul 3-2",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "966905",
+   "title": "Israel Election: Yashar # of seats?",
+   "slug": "israel-election-yashar-of-seats",
+   "createdAt": "2026-09-04T22:17:31.72368Z",
+   "endDate": "2026-11-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/yashar-logo-white-11aec9af0c.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "20-21",
+     0.395
+    ],
+    [
+     "22-23",
+     0.395
+    ],
+    [
+     "<20",
+     0.38
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "966896",
+   "title": "Israel Election: RZP-Zehut # of seats?",
+   "slug": "israel-election-rzp-zehut-of-seats",
+   "createdAt": "2026-09-04T22:15:27.338397Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-rzp-zehut-789e45194e.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "8-9",
+     0.26
+    ],
+    [
+     "4-5",
+     0.255
+    ],
+    [
+     "6-7",
+     0.255
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966895",
+   "title": "Israel Election: Otzma # of seats?",
+   "slug": "israel-election-otzma-of-seats",
+   "createdAt": "2026-09-04T22:15:23.506187Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-otzma-2954c92a48.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "10+",
+     0.395
+    ],
+    [
+     "8-9",
+     0.39
+    ],
+    [
+     "4-5",
+     0.35
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966894",
+   "title": "Israel Election: Shas # of seats?",
+   "slug": "israel-election-shas-of-seats",
+   "createdAt": "2026-09-04T22:15:10.657288Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-shas-372e281171.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "6-7",
+     0.305
+    ],
+    [
+     "12+",
+     0.255
+    ],
+    [
+     "8-9",
+     0.215
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966893",
+   "title": "Israel Election: UTJ # of seats?",
+   "slug": "israel-election-utj-of-seats",
+   "createdAt": "2026-09-04T22:14:58.819071Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-utj-4179260bde.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "9-10",
+     0.44
+    ],
+    [
+     "7-8",
+     0.355
+    ],
+    [
+     "11+",
+     0.295
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "966892",
+   "title": "Israel Election: Yisrael Beiteinu # of seats?",
+   "slug": "israel-election-yisrael-beiteinu-of-seats",
+   "createdAt": "2026-09-04T22:14:54.587307Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-yisrael-beiteinu-8a83e45864.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "8-9",
+     0.36
+    ],
+    [
+     "10-11",
+     0.355
+    ],
+    [
+     "<6",
+     0.325
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966891",
+   "title": "Israel Election: Ra'am # of seats?",
+   "slug": "israel-election-raam-of-seats",
+   "createdAt": "2026-09-04T22:14:45.972964Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-raam-9b28401e82.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<4",
+     0.34
+    ],
+    [
+     "8+",
+     0.335
+    ],
+    [
+     "5",
+     0.305
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "966890",
+   "title": "Israel Election: Joint List # of seats?",
+   "slug": "israel-election-joint-list-of-seats",
+   "createdAt": "2026-09-04T22:14:32.128394Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-joint-list-eb49655533.jpg",
+   "volume": 10.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "6-7",
+     0.555
+    ],
+    [
+     "8-9",
+     0.25
+    ],
+    [
+     "10-11",
+     0.25
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966887",
+   "title": "Israel Election: Dems # of seats?",
+   "slug": "israel-election-dems-of-seats",
+   "createdAt": "2026-09-04T22:13:50.612055Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-dems-f14eb3c918.jpg",
+   "volume": 10.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "12-13",
+     0.4
+    ],
+    [
+     "8-9",
+     0.395
+    ],
+    [
+     "10-11",
+     0.31
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "966886",
+   "title": "Israel Election: Amcha Yisrael # of seats?",
+   "slug": "israel-election-amcha-yisrael-of-seats",
+   "createdAt": "2026-09-04T22:13:25.243072Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-amcha-yisrael-5fc7626787.jpg",
+   "volume": 4.44444,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "4-6",
+     0.42
+    ],
+    [
+     "7-9",
+     0.42
+    ],
+    [
+     "10+",
+     0.385
+    ]
+   ],
+   "nMarkets": 4
+  },
   {
    "id": "962983",
    "title": "Jakub Mensik vs. Learner Tien - Exact Score",
@@ -7091,1125 +7478,6 @@
     ]
    ],
    "nMarkets": 15
-  },
-  {
-   "id": "887359",
-   "title": "Natalie Harp out as Special Assistant to the President by December 31?",
-   "slug": "natalie-harp-out-as-special-assistant-to-the-president-by-december-31",
-   "createdAt": "2026-08-21T22:35:04.781235Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-natalie-harp-publicly-insult-jon-ossoff-by-august-31-copy-rdrCJiIv6JMu.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Trump",
-    "resign",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.825
-    ],
-    [
-     "Yes",
-     0.175
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "887046",
-   "title": "Taraba, Nigeria Governor Election Winner",
-   "slug": "taraba-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:07:58.610215Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-taraba-137a48dcc1.jpg",
-   "volume": 129.9,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Agbu Kefas",
-     0.665
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "887045",
-   "title": "Sokoto, Nigeria Governor Election Winner",
-   "slug": "sokoto-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:07:52.538267Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-sokoto-00e1508d0c.jpg",
-   "volume": 22.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Ahmed Aliyu",
-     0.665
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "887029",
-   "title": "Rivers, Nigeria Governor Election Winner",
-   "slug": "rivers-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:07:39.675428Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-rivers-a302df6090.jpg",
-   "volume": 0.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate C",
-     0.5
-    ],
-    [
-     "Candidate D",
-     0.5
-    ],
-    [
-     "Candidate E",
-     0.5
-    ]
-   ],
-   "nMarkets": 35
-  },
-  {
-   "id": "887027",
-   "title": "Zamfara, Nigeria Governor Election Winner",
-   "slug": "zamfara-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:06:28.124424Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-zamfara-6dc972e88b.jpg",
-   "volume": 279.08,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Dauda Lawal",
-     0.78
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "887026",
-   "title": "Yobe, Nigeria Governor Election Winner",
-   "slug": "yobe-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:05:45.290755Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-yobe-1b18bf0052.jpg",
-   "volume": 40.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Baba Wali",
-     0.665
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "887017",
-   "title": "Plateau, Nigeria Governor Election Winner",
-   "slug": "plateau-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:02:20.24596Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-plateau-ef2116b6fe.jpg",
-   "volume": 676.77,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Mutfwang Caleb Manasseh",
-     0.715
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "887016",
-   "title": "Oyo, Nigeria Governor Election Winner",
-   "slug": "oyo-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:01:37.879391Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-oyo-923d9d19b8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 34
-  },
-  {
-   "id": "887015",
-   "title": "Ogun, Nigeria Governor Election Winner",
-   "slug": "ogun-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T21:01:13.648639Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-ogun-0482a3345d.jpg",
-   "volume": 20.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Solomon Olamilekan Adeola",
-     0.66
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "886932",
-   "title": "Alaska passes ballot measure repealing ranked choice voting?",
-   "slug": "alaska-passes-ballot-measure-repealing-ranked-choice-voting",
-   "createdAt": "2026-08-21T20:36:17.819346Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-295615a533.png",
-   "volume": 20.99,
-   "tags": [
-    "alaska",
-    "Midterms",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.775
-    ],
-    [
-     "Yes",
-     0.225
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "886931",
-   "title": "RI-02 Republican Primary Winner",
-   "slug": "ri-02-republican-primary-winner",
-   "createdAt": "2026-08-21T20:33:47.339817Z",
-   "endDate": "2026-09-09T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f-c6a62bd691.png",
-   "volume": 0.0,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Stephen Skoly",
-     0.535
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "886922",
-   "title": "League City, Texas passes ballot measure approving the police use of Flock Cameras?",
-   "slug": "league-city-texas-passes-ballot-measure-approving-the-police-use-of-flock-cameras",
-   "createdAt": "2026-08-21T20:31:52.913635Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-any-state-restrict-flock-camera-police-use-by-december-31-HPneAZBa_dUl.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tech",
-    "texas",
-    "Midterms",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.5
-    ],
-    [
-     "No",
-     0.5
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "886921",
-   "title": "Niger, Nigeria Governor Election Winner",
-   "slug": "niger-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:31:35.37827Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-niger-55c8970810.jpg",
-   "volume": 216.204113,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 30
-  },
-  {
-   "id": "886905",
-   "title": "Lagos, Nigeria Governor Election Winner",
-   "slug": "lagos-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:29:30.447293Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-lagos-b4ef466b5c.jpg",
-   "volume": 0.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 37
-  },
-  {
-   "id": "886890",
-   "title": "Nasarawa, Nigeria Governor Election Winner",
-   "slug": "nasarawa-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:27:42.023545Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-nasarawa-53e1a521e4.jpg",
-   "volume": 41.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Aliyu Wadada Ahmed",
-     0.525
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "886889",
-   "title": "Trump issues Iran Sanctions Executive Order by Aug 28?",
-   "slug": "trump-issues-iran-sanctions-executive-order-by-aug-28",
-   "createdAt": "2026-08-21T20:27:39.640452Z",
-   "endDate": "2026-08-28T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-issues-iran-sanctions-executive-order-by-aug-28-aiaBYlV_PoON.png",
-   "volume": 0.0,
-   "tags": [
-    "Iran",
-    "Trump",
-    "Economy",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.575
-    ],
-    [
-     "Yes",
-     0.425
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "886880",
-   "title": "Republicans favored to win the Senate on Nate Silver's Bulletin by...?",
-   "slug": "republicans-favored-to-win-the-senate-on-nate-silvers-bulletin-byptptpt",
-   "createdAt": "2026-08-21T20:26:13.035079Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republicans-favored-to-win-the-senate-on-nate-silvers-bulletin-byptptpt-RoVNjC0luv8Y.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Senate",
-    "Midterms",
-    "Politics",
-    "Nate Silver"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.515
-    ],
-    [
-     "September 15",
-     0.51
-    ],
-    [
-     "September 30",
-     0.51
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "886879",
-   "title": "Kwara, Nigeria Governor Election Winner",
-   "slug": "kwara-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:25:21.501696Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-kwara-7f13d161e1.jpg",
-   "volume": 499.16126900000006,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Salihu Danladi",
-     0.7
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "886878",
-   "title": "US imposes new sanctions on Iran by Monday?",
-   "slug": "us-imposes-new-sanctions-on-iran-by-monday",
-   "createdAt": "2026-08-21T20:25:21.40302Z",
-   "endDate": "2026-08-24T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-imposes-new-sanctions-on-iran-by-friday-jBd35MqfKfH8.jpg",
-   "volume": 234.25,
-   "tags": [
-    "Iran",
-    "Trump",
-    "Economy",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.74
-    ],
-    [
-     "Yes",
-     0.26
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "886877",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Greenville County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-greenville-county-winner",
-   "createdAt": "2026-08-21T20:23:13.769202Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 3421.964278,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Ralph Norman",
-     0.935
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Darline Graham Nordone",
-     0.065
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886876",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Charleston County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-charleston-county-winner",
-   "createdAt": "2026-08-21T20:22:51.584057Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 3529.5156469999997,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Darline Graham Nordone",
-     0.62
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Ralph Norman",
-     0.385
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886859",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Richland County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-richland-county-winner",
-   "createdAt": "2026-08-21T20:22:29.92736Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 10483.243816,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Darline Graham Nordone",
-     0.875
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Ralph Norman",
-     0.135
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886858",
-   "title": "Kebbi, Nigeria Governor Election Winner",
-   "slug": "kebbi-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:22:00.902255Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-kebbi-82b6fd91a0.jpg",
-   "volume": 1589.7422999999997,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Nasir Idris",
-     0.92
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 29
-  },
-  {
-   "id": "886857",
-   "title": "Kano, Nigeria Governor Election Winner",
-   "slug": "kano-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:21:40.428209Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-kano-ef21f33438.jpg",
-   "volume": 108.5,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "886856",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Horry County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-horry-county-winner",
-   "createdAt": "2026-08-21T20:19:55.952568Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 1382.1413369999998,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Darline Graham Nordone",
-     0.905
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Ralph Norman",
-     0.065
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886855",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Spartanburg County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-spartanburg-county-winner",
-   "createdAt": "2026-08-21T20:19:11.852989Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 5543.558380999999,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Ralph Norman",
-     0.895
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Darline Graham Nordone",
-     0.105
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886854",
-   "title": "South Carolina Republican Senate Special Primary Runoff: Lexington County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-lexington-county-winner",
-   "createdAt": "2026-08-21T20:17:44.465234Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 11790.276442,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Darline Graham Nordone",
-     0.875
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Ralph Norman",
-     0.0535
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886836",
-   "title": "Kaduna, Nigeria Governor Election Winner",
-   "slug": "kaduna-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:11:35.74332Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-kaduna-54e208acb0.jpg",
-   "volume": 20.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Uba Sani",
-     0.54
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "886835",
-   "title": "South Carolina Republican Senate Special Primary Runoff: York County Winner",
-   "slug": "south-carolina-republican-senate-special-primary-runoff-york-county-winner",
-   "createdAt": "2026-08-21T20:09:43.65036Z",
-   "endDate": "2026-08-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scflag-cb9bfff76a.jpg",
-   "volume": 927.956415,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Ralph Norman",
-     0.935
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Darline Graham Nordone",
-     0.042
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "886834",
-   "title": "Jigawa, Nigeria Governor Election Winner",
-   "slug": "jigawa-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:08:37.541961Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-jigawa-258fc9ce0c.jpg",
-   "volume": 3070.4459150000002,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Namadi Umar Alhaji",
-     0.925
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 29
-  },
-  {
-   "id": "886803",
-   "title": "Enugu, Nigeria Governor Election Winner",
-   "slug": "enugu-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:07:33.973123Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-enugu-a5b3418349.jpg",
-   "volume": 413.9,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Mbah Peter Ndubuisi",
-     0.68
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "886802",
-   "title": "Gombe, Nigeria Governor Election Winner",
-   "slug": "gombe-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:06:51.442764Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-gombe-3f95daa0ea.jpg",
-   "volume": 0.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Jamilu Isyaku Gwamna",
-     0.67
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 29
-  },
-  {
-   "id": "886801",
-   "title": "Which Senate races will be within 1%?",
-   "slug": "which-senate-races-will-be-within-1",
-   "createdAt": "2026-08-21T20:05:50.737202Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-senate-pass-funding-bill-by-7NO2CCO7a2Mk.png",
-   "volume": 0.0,
-   "tags": [
-    "Senate",
-    "Midterms",
-    "Politics",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Michigan",
-     0.24
-    ],
-    [
-     "Maine",
-     0.225
-    ],
-    [
-     "Texas",
-     0.22
-    ]
-   ],
-   "nMarkets": 16
-  },
-  {
-   "id": "886799",
-   "title": "Ebonyi, Nigeria Governor Election Winner",
-   "slug": "ebonyi-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:02:55.119618Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-ebonyi-f8596380dc.jpg",
-   "volume": 1186.741937,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Nwifuru Francis Ogbonna",
-     0.885
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 30
-  },
-  {
-   "id": "886790",
-   "title": "Delta, Nigeria Governor Election Winner",
-   "slug": "delta-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T20:01:55.087446Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-delta-80e7c88271.jpg",
-   "volume": 46.22,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "886768",
-   "title": "Borno, Nigeria Governor Election Winner",
-   "slug": "borno-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T19:55:54.191346Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-borno-5e47dd70f7.jpg",
-   "volume": 327.361901,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Mustapha Gubio",
-     0.765
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 30
-  },
-  {
-   "id": "886677",
-   "title": "Benue, Nigeria Governor Election Winner",
-   "slug": "benue-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T19:53:44.31186Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-benue-078f212f3f.jpg",
-   "volume": 19.51,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "886660",
-   "title": "Bauchi, Nigeria Governor Election Winner",
-   "slug": "bauchi-nigeria-governor-election-winner",
-   "createdAt": "2026-08-21T19:53:23.737472Z",
-   "endDate": "2027-02-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nigeria-state-fullbleed-bauchi-e1396e800c.jpg",
-   "volume": 23.0,
-   "tags": [
-    "africa",
-    "Nigeria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ],
-    [
-     "Candidate C",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
   }
  ]
 }

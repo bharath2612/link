@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-09-05T07:55:47.007186+00:00",
+ "generatedAt": "2026-09-06T08:13:07.394989+00:00",
  "questions": [
+  {
+   "id": "974199",
+   "title": "Arthur Gea vs. Botic van de Zandschulp - Exact Score",
+   "slug": "atp-gea-zandsch-2026-09-07-exact-score",
+   "createdAt": "2026-09-06T05:44:17.891108Z",
+   "endDate": "2026-09-14T15:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Arthur Gea 3-1",
+     0.5
+    ],
+    [
+     "Arthur Gea 3-2",
+     0.5
+    ],
+    [
+     "Botic van de Zandschulp 3-0",
+     0.5
+    ]
+   ],
+   "nMarkets": 7
+  },
   {
    "id": "968356",
    "title": "Daniil Medvedev vs. Frances Tiafoe - Exact Score",

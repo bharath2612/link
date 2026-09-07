@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-09-06T08:13:07.394989+00:00",
+ "generatedAt": "2026-09-07T08:45:01.515111+00:00",
  "questions": [
+  {
+   "id": "981010",
+   "title": "Ben Shelton vs. Carlos Alcaraz - Exact Score",
+   "slug": "atp-shelton-alcaraz-2026-09-08-exact-score",
+   "createdAt": "2026-09-07T05:44:11.280138Z",
+   "endDate": "2026-09-15T15:30:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ],
+   "outcomes": [
+    [
+     "Ben Shelton 3-0",
+     0.495
+    ],
+    [
+     "Ben Shelton 3-1",
+     0.495
+    ],
+    [
+     "Ben Shelton 3-2",
+     0.495
+    ]
+   ],
+   "nMarkets": 7
+  },
   {
    "id": "974199",
    "title": "Arthur Gea vs. Botic van de Zandschulp - Exact Score",
@@ -7447,66 +7476,6 @@
     ]
    ],
    "nMarkets": 19
-  },
-  {
-   "id": "899101",
-   "title": "What will Scott Bessent say during press conference?",
-   "slug": "what-will-scott-bessent-say-during-press-conference",
-   "createdAt": "2026-08-24T01:32:44.117743Z",
-   "endDate": "2026-08-24T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-scott-bessent-say-during-the-next-white-house-press-briefing-BsmrbUydXfKu.jpg",
-   "volume": 24.31,
-   "tags": [
-    "Trump",
-    "Mentions",
-    "Politics",
-    "Trump Cabinet"
-   ],
-   "outcomes": [
-    [
-     "Oil / Gas / Gasoline",
-     0.8
-    ],
-    [
-     "Iran 10+ times",
-     0.745
-    ],
-    [
-     "President / Trump 10+ times",
-     0.5
-    ]
-   ],
-   "nMarkets": 16
-  },
-  {
-   "id": "899092",
-   "title": "What will JD Vance say during remarks in Maine?",
-   "slug": "what-will-jd-vance-say-during-remarks-in-maine",
-   "createdAt": "2026-08-24T01:31:13.163718Z",
-   "endDate": "2026-08-24T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
-   "volume": 24.21,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Tax 5+ times",
-     0.815
-    ],
-    [
-     "Illegal Alien",
-     0.745
-    ],
-    [
-     "Economy / Economic",
-     0.735
-    ]
-   ],
-   "nMarkets": 15
   }
  ]
 }

@@ -1,6 +1,812 @@
 {
- "generatedAt": "2026-09-08T08:26:04.272764+00:00",
+ "generatedAt": "2026-09-09T08:28:43.076753+00:00",
  "questions": [
+  {
+   "id": "991836",
+   "title": "WSCI 2026 Winning Region",
+   "slug": "lol-wsci-2026-winning-region",
+   "createdAt": "2026-09-09T02:50:01.603539Z",
+   "endDate": "2026-10-17T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lol-wsci-2026-winning-region-i5BtwNGOk7J4.png",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.475
+    ],
+    [
+     "Korea (LCK CL)",
+     0.47
+    ],
+    [
+     "China (AME / CHC)",
+     0.47
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "991833",
+   "title": "Demacia Cup Global Invitational 2026: Team to Make Grand Finals",
+   "slug": "demacia-cup-global-invitational-2026-team-to-make-grand-finals",
+   "createdAt": "2026-09-09T02:48:12.686988Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/demacia-21091b6c1d.png",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "KT Rolster",
+     0.5
+    ],
+    [
+     "BNK FEARX",
+     0.5
+    ],
+    [
+     "HANJIN BRION",
+     0.5
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "991811",
+   "title": "Demacia Cup Global Invitational 2026: Winner",
+   "slug": "demacia-cup-global-invitational-2026-winner",
+   "createdAt": "2026-09-09T02:41:56.128843Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/demacia-21091b6c1d.png",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "Team A",
+     0.5
+    ],
+    [
+     "Team B",
+     0.5
+    ],
+    [
+     "Team C",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "991810",
+   "title": "Worlds 2026: Winner",
+   "slug": "worlds-2026-winner",
+   "createdAt": "2026-09-09T02:41:20.695901Z",
+   "endDate": "2026-11-29T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/worlds-eb04c9bd7b.png",
+   "volume": 50.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "Bilibili Gaming",
+     0.55
+    ],
+    [
+     "Team A",
+     0.5
+    ],
+    [
+     "Team B",
+     0.5
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "991809",
+   "title": "Circuito Desafiante 2026 Split 2 Winner",
+   "slug": "circuito-desafiante-2026-split-2-winner-1788883386086",
+   "createdAt": "2026-09-09T02:40:47.712763Z",
+   "endDate": "2026-09-29T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/circuito-desafiante-2026-split-2-winner-1788883386086-KHYX9EOfw4cs.png",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "season winner"
+   ],
+   "outcomes": [
+    [
+     "Estral Esports",
+     0.54
+    ],
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "991806",
+   "title": "ESL Pro League Season 24: Winner",
+   "slug": "esl-pro-league-season-24-winner-1788882991655",
+   "createdAt": "2026-09-09T02:39:28.743442Z",
+   "endDate": "2026-10-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/esl-counter-strike-champion-2024-MiFuXKTOEJGJ.jpg",
+   "volume": 6.49,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "991805",
+   "title": "StarLadder StarSeries Fall 2026: Winner",
+   "slug": "starladder-starseries-fall-2026-winner-1788882991655",
+   "createdAt": "2026-09-09T02:38:52.170964Z",
+   "endDate": "2026-10-05T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-valve-add-cobblestone-to-the-map-pool-by-2-bW7NTmyFxLp9.jpg",
+   "volume": 0.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "991804",
+   "title": "FISSURE Playground 3: Winner",
+   "slug": "fissure-playground-3-winner-1788882991655",
+   "createdAt": "2026-09-09T02:38:04.99428Z",
+   "endDate": "2026-09-28T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-valve-add-cobblestone-to-the-map-pool-by-2-bW7NTmyFxLp9.jpg",
+   "volume": 16.0,
+   "tags": [
+    "CS2",
+    "Sports",
+    "Esports",
+    "counter strike 2"
+   ],
+   "outcomes": [
+    [
+     "A",
+     0.5
+    ],
+    [
+     "B",
+     0.5
+    ],
+    [
+     "C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "991802",
+   "title": "Which teams will reach the CBLOL 2026 Split 2 Finals?",
+   "slug": "which-teams-will-reach-the-cblol-2026-split-2-finals",
+   "createdAt": "2026-09-09T02:37:05.426815Z",
+   "endDate": "2026-10-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cblol-split-2-qualify-to-playoffs-20260804154923846-5ictRvZq7I9P.jpg",
+   "volume": 0.0,
+   "tags": [
+    "lol",
+    "Sports",
+    "Esports",
+    "league of legends"
+   ],
+   "outcomes": [
+    [
+     "LOUD",
+     0.5
+    ],
+    [
+     "LOS",
+     0.5
+    ],
+    [
+     "Keyd Stars",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "990922",
+   "title": "What price will CASHCAT hit in 2026?",
+   "slug": "what-price-will-cashcat-hit-in-2026",
+   "createdAt": "2026-09-08T21:37:48.681661Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-cashcat-hit-in-2026-DK3-34T6HoCx.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Crypto",
+    "Yearly",
+    "cashcat",
+    "Hit Price"
+   ],
+   "outcomes": [
+    [
+     "\u2191 0.30",
+     0.51
+    ],
+    [
+     "\u2191 0.25",
+     0.51
+    ],
+    [
+     "\u2191 0.40",
+     0.505
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "990857",
+   "title": "What price will $PONS hit in 2026?",
+   "slug": "what-price-will-pons-hit-in-2026",
+   "createdAt": "2026-09-08T21:10:49.874039Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-pons-hit-in-2026-j7AUT_E1qo3U.jpg",
+   "volume": 0.0,
+   "tags": [
+    "pons",
+    "Crypto",
+    "Yearly",
+    "Hit Price"
+   ],
+   "outcomes": [
+    [
+     "\u2191 $1",
+     0.52
+    ],
+    [
+     "\u2191 $1.5",
+     0.51
+    ],
+    [
+     "\u2193 $0.6",
+     0.51
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "990818",
+   "title": "Sweden Parliamentary Election: Vote Share Margin of Victory",
+   "slug": "sweden-parliamentary-election-vote-share-margin-of-victory",
+   "createdAt": "2026-09-08T20:58:49.414768Z",
+   "endDate": "2026-09-13T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sweden-parliamentary-election-winner-IocfiwWAt86R.png",
+   "volume": 1125.888818,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "S 4-7%",
+     0.38
+    ],
+    [
+     "S 7-10%",
+     0.37
+    ],
+    [
+     "S 10-13%",
+     0.27
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "990760",
+   "title": "Will Spider-Man: Brand New Day overtake Star Wars: The Force Awakens by...?",
+   "slug": "will-spider-man-brand-new-day-overtake-star-wars-the-force-awakens-by",
+   "createdAt": "2026-09-08T20:40:26.412729Z",
+   "endDate": "2026-09-21T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spider-man-brand-new-day-rotten-tomatoes-score-20260630144021976-EOnfqxtMTdxX.jpg",
+   "volume": 645.3676300000001,
+   "tags": [
+    "Movies",
+    "Culture",
+    "Box Office",
+    "Spider-Man"
+   ],
+   "outcomes": [
+    [
+     "September 21",
+     0.9695
+    ],
+    [
+     "September 19",
+     0.955
+    ],
+    [
+     "September 17",
+     0.73
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990727",
+   "title": "Missouri passes ballot measure to redistrict?",
+   "slug": "missouri-passes-ballot-measure-to-redistrict",
+   "createdAt": "2026-09-08T20:36:09.443275Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/missouri-senate-election-winner-3a7d2081-b967-45b1-9bcf-5a2f1e71dcbb.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Missouri",
+    "Politics",
+    "USA Election"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.61
+    ],
+    [
+     "Yes",
+     0.39
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "990725",
+   "title": "Peak Severe Drought in Minas Gerais during the Coffee Growing Season?",
+   "slug": "peak-severe-drought-in-minas-gerais-during-the-coffee-growing-season",
+   "createdAt": "2026-09-08T20:33:20.849491Z",
+   "endDate": "2027-05-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minas-gerais-peak-severe-drought-coverage-2026-27-coffee-season-e5nI_beVzZaX.png",
+   "volume": 178.79396799999998,
+   "tags": [
+    "Brazil",
+    "Drought",
+    "Weather",
+    "climate"
+   ],
+   "outcomes": [
+    [
+     "5% to 19.99%",
+     0.285
+    ],
+    [
+     "20% to 39.99%",
+     0.285
+    ],
+    [
+     "40% to 59.99%",
+     0.245
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990715",
+   "title": "What will Trump say during remarks at the Pentagon?",
+   "slug": "what-will-trump-say-during-remarks-at-the-pentagon",
+   "createdAt": "2026-09-08T20:31:53.741546Z",
+   "endDate": "2026-09-11T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
+   "volume": 5706.165002,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Department of War",
+     0.725
+    ],
+    [
+     "Iran",
+     0.72
+    ],
+    [
+     "American Flag",
+     0.685
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "990698",
+   "title": "Sweden Parliamentary Election: Turnout",
+   "slug": "sweden-parliamentary-election-turnout",
+   "createdAt": "2026-09-08T20:28:13.425936Z",
+   "endDate": "2026-09-13T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sweden-parliamentary-election-winner-IocfiwWAt86R.png",
+   "volume": 3039.7072610000005,
+   "tags": [
+    "Sweden",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "84-86%",
+     0.515
+    ],
+    [
+     "82-84%",
+     0.235
+    ],
+    [
+     "86-88%",
+     0.235
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990686",
+   "title": "Israel Election: Unity vote share?",
+   "slug": "israel-election-unity-vote-share",
+   "createdAt": "2026-09-08T20:26:53.314785Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 60.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<0.5%",
+     0.4
+    ],
+    [
+     "0.75-1%",
+     0.375
+    ],
+    [
+     "1-2%",
+     0.275
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990685",
+   "title": "Israel Election: Blue and White vote share?",
+   "slug": "israel-election-blue-and-white-vote-share",
+   "createdAt": "2026-09-08T20:26:32.454064Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "2-3.25%",
+     0.44
+    ],
+    [
+     "<0.75%",
+     0.42
+    ],
+    [
+     "1.25-2%",
+     0.35
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990684",
+   "title": "Israel Election: Amcha Yisrael vote share?",
+   "slug": "israel-election-amcha-yisrael-vote-share",
+   "createdAt": "2026-09-08T20:25:55.118719Z",
+   "endDate": "2026-11-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "3.25-4%",
+     0.45
+    ],
+    [
+     "<2.5%",
+     0.41
+    ],
+    [
+     "2.5-3.25%",
+     0.39
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990663",
+   "title": "Israel Election: United Arab List (Ra'am) vote share?",
+   "slug": "israel-election-united-arab-list-raam-vote-share",
+   "createdAt": "2026-09-08T20:18:53.263839Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 33.83766,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "3.25-4%",
+     0.415
+    ],
+    [
+     "4-4.75%",
+     0.415
+    ],
+    [
+     "4.75-5.5%",
+     0.385
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990662",
+   "title": "Israel Election: Otzma Yehudit vote share?",
+   "slug": "israel-election-otzma-yehudit-vote-share",
+   "createdAt": "2026-09-08T20:18:30.647101Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "5.5-6.5%",
+     0.42
+    ],
+    [
+     "6.5-7.5%",
+     0.41
+    ],
+    [
+     "4.5-5.5%",
+     0.375
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990661",
+   "title": "Israel Election: United Torah Judaism vote share?",
+   "slug": "israel-election-united-torah-judaism-vote-share",
+   "createdAt": "2026-09-08T20:17:55.035508Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 48.925515999999995,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<5%",
+     0.435
+    ],
+    [
+     "6-7%",
+     0.42
+    ],
+    [
+     "5-6%",
+     0.415
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990652",
+   "title": "Israel Election: Shas vote share?",
+   "slug": "israel-election-shas-vote-share",
+   "createdAt": "2026-09-08T20:17:19.973982Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "9%+",
+     0.415
+    ],
+    [
+     "<6%",
+     0.375
+    ],
+    [
+     "7-8%",
+     0.36
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990651",
+   "title": "Israel Election: Together vote share?",
+   "slug": "israel-election-together-vote-share",
+   "createdAt": "2026-09-08T20:17:06.695821Z",
+   "endDate": "2026-10-27T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<7%",
+     0.44
+    ],
+    [
+     "13%+",
+     0.425
+    ],
+    [
+     "9-11%",
+     0.41
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "990635",
+   "title": "Israel Election: Yashar vote share?",
+   "slug": "israel-election-yashar-vote-share",
+   "createdAt": "2026-09-08T20:16:14.691506Z",
+   "endDate": "2026-11-30T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "18-20%",
+     0.44
+    ],
+    [
+     "22-24%",
+     0.43
+    ],
+    [
+     "24%+",
+     0.425
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "990623",
+   "title": "Kolkata Municipal Election Winner",
+   "slug": "kolkata-municipal-election-winner",
+   "createdAt": "2026-09-08T20:15:28.035568Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kmc26fill-kolkata-flag-625a92c70c.jpg",
+   "volume": 1839.2806800000003,
+   "tags": [
+    "India",
+    "Politics",
+    "Main Election",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Bharatiya Janata Party (BJP)",
+     0.925
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
   {
    "id": "986903",
    "title": "Karen Khachanov vs. Alexander Blockx - Exact Score",
@@ -7296,62 +8102,6 @@
     ]
    ],
    "nMarkets": 15
-  },
-  {
-   "id": "913127",
-   "title": "Will any country join the Mecca Agreement by...?",
-   "slug": "will-any-country-join-the-mecca-agreement-byptptpt",
-   "createdAt": "2026-08-26T00:09:06.228707Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-any-country-join-the-mecca-agreement-byptptpt-PgYa9wo34Tec.png",
-   "volume": 0.0,
-   "tags": [
-    "saudi",
-    "Makkah",
-    "Turkey",
-    "Pakistan"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.54
-    ],
-    [
-     "October 31",
-     0.52
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "913087",
-   "title": "Which countries will join the Mecca Agreement by December 31?",
-   "slug": "which-countries-will-join-the-mecca-agreement-by-december-31",
-   "createdAt": "2026-08-25T23:59:52.666032Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-countries-will-join-the-mecca-agreement-by-december-31-hfwu-sChqN-5.png",
-   "volume": 7984.527126,
-   "tags": [
-    "saudi",
-    "Makkah",
-    "Turkey",
-    "Pakistan"
-   ],
-   "outcomes": [
-    [
-     "Sudan",
-     0.68
-    ],
-    [
-     "Iraq",
-     0.53
-    ],
-    [
-     "Egypt",
-     0.345
-    ]
-   ],
-   "nMarkets": 16
   }
  ]
 }

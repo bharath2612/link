@@ -378,6 +378,7 @@
     const lbl = btn.querySelector(".lbl");
     btn.disabled = true; btn.className = "spin"; lbl.textContent = "Fetching…";
     try {
+      // Collect every page before merging, so a fetch failure keeps the prior snapshot.
       const seen = {};
       for (let page = 0; page < 5; page++) {
         const url = `${GAMMA}/events?limit=100&offset=${page * 100}` +

@@ -1,6 +1,1034 @@
 {
- "generatedAt": "2026-09-14T09:23:11.494255+00:00",
+ "generatedAt": "2026-09-15T09:04:04.041318+00:00",
  "questions": [
+  {
+   "id": "1025748",
+   "title": "Tesla Roadster delivered by...?",
+   "slug": "tesla-roadster-delivered-byptptpt",
+   "createdAt": "2026-09-15T00:34:20.736171Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tesla-roadster-delivered-byptptpt-MjzYXmBXNf3l.jpg",
+   "volume": 882.103067,
+   "tags": [
+    "Tech",
+    "Tesla",
+    "Big Tech",
+    "Elon Musk"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.665
+    ],
+    [
+     "December 31, 2026",
+     0.06
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1025731",
+   "title": "Anthropic reports another AI sandbox escape by...?",
+   "slug": "anthropic-reports-another-ai-sandbox-escape-by",
+   "createdAt": "2026-09-15T00:26:53.585472Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-have-the-top-ai-model-on-february-28-2aPXb3voV_7Y.png",
+   "volume": 119.904638,
+   "tags": [
+    "AI",
+    "Tech",
+    "Claude",
+    "Anthropic"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.56
+    ],
+    [
+     "October 15",
+     0.5
+    ],
+    [
+     "September 30",
+     0.25
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1025730",
+   "title": "OpenAI reports another AI sandbox escape by...?",
+   "slug": "openai-reports-another-ai-sandbox-escape-by",
+   "createdAt": "2026-09-15T00:25:38.888534Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai+logo4.png",
+   "volume": 331.586137,
+   "tags": [
+    "AI",
+    "Tech",
+    "OpenAI",
+    "chatgpt"
+   ],
+   "outcomes": [
+    [
+     "October 15",
+     0.515
+    ],
+    [
+     "October 31",
+     0.495
+    ],
+    [
+     "September 30",
+     0.138
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1025713",
+   "title": "Which AI labs announce a training pause by October 31?",
+   "slug": "which-ai-labs-announce-a-training-pause-by-october-31",
+   "createdAt": "2026-09-15T00:21:10.461304Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-ai-labs-announce-a-training-pause-by-october-31--cpnNPCdwGnk.jpg",
+   "volume": 493.068483,
+   "tags": [
+    "AI",
+    "Tech",
+    "Big Tech",
+    "AI Regulation"
+   ],
+   "outcomes": [
+    [
+     "Meta",
+     0.835
+    ],
+    [
+     "Amazon",
+     0.49
+    ],
+    [
+     "Microsoft",
+     0.485
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1025656",
+   "title": "Frontier AI labs announce joint pacing agreement in 2026?",
+   "slug": "frontier-ai-labs-announce-new-joint-pacing-agreement-in-2026",
+   "createdAt": "2026-09-15T00:03:39.937619Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-company-has-best-ai-model-on-june-30-Zd-l6erPOlqW.jpg",
+   "volume": 0.0,
+   "tags": [
+    "AI",
+    "Tech",
+    "OpenAI",
+    "Big Tech"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.54
+    ],
+    [
+     "Yes",
+     0.46
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025426",
+   "title": "Holborn and St Pancras By-Election: Vote Share Margin of Victory",
+   "slug": "holborn-and-st-pancras-by-election-vote-share-margin-of-victory",
+   "createdAt": "2026-09-14T22:49:57.849547Z",
+   "endDate": "2026-10-08T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/makerfield-by-election-winner-1ceiGHP2i4dn.jpg",
+   "volume": 245.857717,
+   "tags": [
+    "UK",
+    "Starmer",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Another candidate wins",
+     0.5
+    ],
+    [
+     "Labour 10-15%",
+     0.29
+    ],
+    [
+     "Labour 5-10%",
+     0.225
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1025425",
+   "title": "Holborn and St Pancras By-Election: Green Vote Share?",
+   "slug": "holborn-and-st-pancras-by-election-green-vote-share",
+   "createdAt": "2026-09-14T22:49:52.524037Z",
+   "endDate": "2026-10-08T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/-hsp-green-a9953d61ea.jpg",
+   "volume": 213.120634,
+   "tags": [
+    "UK",
+    "Starmer",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<20%",
+     0.265
+    ],
+    [
+     "20-25%",
+     0.21
+    ],
+    [
+     "25-30%",
+     0.185
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1025424",
+   "title": "Holborn and St Pancras By-Election: Labour Vote Share?",
+   "slug": "holborn-and-st-pancras-by-election-labour-vote-share",
+   "createdAt": "2026-09-14T22:49:47.030567Z",
+   "endDate": "2026-10-08T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/-hsp-labour-e710b30519.jpg",
+   "volume": 213.46862900000002,
+   "tags": [
+    "UK",
+    "Starmer",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "35-40%",
+     0.3
+    ],
+    [
+     "30-35%",
+     0.245
+    ],
+    [
+     "50%+",
+     0.21
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1025423",
+   "title": "Berlin 2026 Election: How Large Will the Abgeordnetenhaus Be?",
+   "slug": "berlin-2026-election-how-large-will-the-abgeordnetenhaus-be",
+   "createdAt": "2026-09-14T22:47:55.027135Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/berlin-state-election-winner-1CAHVXlT8kYr.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Berlin",
+    "Germany",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "163+",
+     0.235
+    ],
+    [
+     "143\u2013147",
+     0.2
+    ],
+    [
+     "<143",
+     0.18
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1025414",
+   "title": "Elon Musk signs the Pacing the Frontier statement by September 30?",
+   "slug": "elon-musk-signs-the-pacing-the-frontier-statement-by-september-30",
+   "createdAt": "2026-09-14T22:46:08.022807Z",
+   "endDate": "2026-10-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-elon-musk-get-full-custody-of-the-st-clair-child-AsZR6actKe-y.jpg",
+   "volume": 3328.349979,
+   "tags": [
+    "AI",
+    "xAI",
+    "Tech",
+    "Elon Musk"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.855
+    ],
+    [
+     "Yes",
+     0.145
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025413",
+   "title": "Sam Altman signs the Pacing the Frontier statement by September 30?",
+   "slug": "sam-altman-signs-the-pacing-the-frontier-statement-by-september-30",
+   "createdAt": "2026-09-14T22:45:47.89007Z",
+   "endDate": "2026-10-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-sam-altman-get-equity-stake-in-openai-by-june-30-KUKNSX2jqtTN.jpg",
+   "volume": 2241.1715419999996,
+   "tags": [
+    "AI",
+    "Tech",
+    "OpenAI",
+    "sam altman"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.85
+    ],
+    [
+     "Yes",
+     0.15
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025381",
+   "title": "Scooter Braun and Sydney Sweeney engaged in 2026?",
+   "slug": "scooter-braun-and-sydney-sweeney-engaged-in-2026",
+   "createdAt": "2026-09-14T22:34:46.666732Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scooter-braun-and-sydney-sweeney-engaged-in-2026-FAA2I8PAC_pr.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Culture",
+    "engagement",
+    "Celebrities",
+    "relationships"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.67
+    ],
+    [
+     "Yes",
+     0.33
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025304",
+   "title": "2027 French Presidential Election: Knafo or Zemmour for Reconqu\u00eate?",
+   "slug": "2027-french-presidential-election-knafo-or-zemmour-for-reconquete",
+   "createdAt": "2026-09-14T22:09:37.336873Z",
+   "endDate": "2027-04-18T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 0.0,
+   "tags": [
+    "France",
+    "Politics",
+    "Elections",
+    "French Election"
+   ],
+   "outcomes": [
+    [
+     "Zemmour",
+     0.865
+    ],
+    [
+     "Knafo",
+     0.135
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025282",
+   "title": "Saxony-Anhalt snap election called in 2026?",
+   "slug": "saxony-anhalt-snap-election-called-in-2026",
+   "createdAt": "2026-09-14T22:03:44.096585Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/-sa-flag-43a9bbf356.jpg",
+   "volume": 28.216217,
+   "tags": [
+    "Germany",
+    "Politics",
+    "Elections",
+    "Saxony-Anhalt"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.815
+    ],
+    [
+     "Yes",
+     0.185
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025252",
+   "title": "Dancing With The Stars S35: Week 1 Eliminations?",
+   "slug": "dancing-with-the-stars-s35-week-1-eliminations",
+   "createdAt": "2026-09-14T21:56:03.175098Z",
+   "endDate": "2026-09-17T06:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-3boHJy-JMR6n.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Culture",
+    "Reality TV",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Guillermo Rodriguez",
+     0.52
+    ],
+    [
+     "Taylor Hanson",
+     0.52
+    ],
+    [
+     "Giada De Laurentiis",
+     0.51
+    ]
+   ],
+   "nMarkets": 16
+  },
+  {
+   "id": "1025194",
+   "title": "#2 Searched Person on Google 2026?",
+   "slug": "2-searched-person-on-google-this-year-20260914",
+   "createdAt": "2026-09-14T21:41:36.545335Z",
+   "endDate": "2026-12-31T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/1-searched-news-on-google-this-year-I4WFtqeVQkVH.png",
+   "volume": 2872.25,
+   "tags": [
+    "Tech",
+    "google",
+    "Culture",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Person 2",
+     0.5
+    ],
+    [
+     "Person 3",
+     0.5
+    ],
+    [
+     "Person 4",
+     0.5
+    ]
+   ],
+   "nMarkets": 93
+  },
+  {
+   "id": "1025145",
+   "title": "What will Trump say during remarks in North Carolina?",
+   "slug": "what-will-trump-say-during-remarks-in-north-carolina",
+   "createdAt": "2026-09-14T21:33:30.001362Z",
+   "endDate": "2026-09-16T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-healthcare-affordability-event-CoH7IgwluLe8.jpg",
+   "volume": 4869.331539999999,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Hottest",
+     0.935
+    ],
+    [
+     "Stock Market",
+     0.935
+    ],
+    [
+     "Healthcare",
+     0.905
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "1025144",
+   "title": "What will Melania say during remarks in North Carolina?",
+   "slug": "what-will-melania-say-during-remarks-in-north-carolina",
+   "createdAt": "2026-09-14T21:32:54.639643Z",
+   "endDate": "2026-09-15T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-melania-say-during-fostering-the-future-together-event-on-march-24-gtBY4Eg6rgid.jpg",
+   "volume": 1107.837661,
+   "tags": [
+    "Culture",
+    "melania",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "AI / Artificial Intelligence",
+     0.83
+    ],
+    [
+     "North Carolina / Ashe County",
+     0.745
+    ],
+    [
+     "Safe / Safer / Safety",
+     0.58
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1025096",
+   "title": "Russia Elections: A Just Russia (SR) Clears Duma Threshold?",
+   "slug": "russia-elections-a-just-russia-clears-duma-threshold",
+   "createdAt": "2026-09-14T21:12:49.689188Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/-ru-sr-white-9bb87ebbc4.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Russia",
+    "Politics",
+    "Elections",
+    "Russia Election"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.585
+    ],
+    [
+     "No",
+     0.415
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1025050",
+   "title": "Which AI labs commit to third party vetting by October 31?",
+   "slug": "which-ai-labs-commit-to-third-party-vetting-by-october-31",
+   "createdAt": "2026-09-14T20:59:33.677871Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-ai-labs-match-anthropics-evaluator-commitment-by-october-31-bWyRMr5ahTqq.jpg",
+   "volume": 27217.39282,
+   "tags": [
+    "AI",
+    "Tech",
+    "Big Tech",
+    "AI Regulation"
+   ],
+   "outcomes": [
+    [
+     "Google",
+     0.445
+    ],
+    [
+     "SpaceXAI",
+     0.445
+    ],
+    [
+     "Microsoft",
+     0.395
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1024961",
+   "title": "US x China agree to pace the AI frontier in 2026?",
+   "slug": "us-x-china-agree-to-pace-the-ai-frontier-in-2026",
+   "createdAt": "2026-09-14T20:40:08.24394Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-china-tariff-agreement-by-may-31-f4LqeJiDFWkV.jpg",
+   "volume": 4477.63433,
+   "tags": [
+    "AI",
+    "Tech",
+    "China",
+    "Trump"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.915
+    ],
+    [
+     "Yes",
+     0.085
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1024942",
+   "title": "How many Triple Crowns will Ben Johns win in the 2026-27 PPA Tour Season?",
+   "slug": "how-many-triple-crowns-will-ben-johns-win-in-the-2026-27-ppa-tour-season",
+   "createdAt": "2026-09-14T20:34:53.874535Z",
+   "endDate": "2027-05-16T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 0.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Two",
+     0.255
+    ],
+    [
+     "Three or more",
+     0.215
+    ],
+    [
+     "One",
+     0.21
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1024941",
+   "title": "How many Triple Crowns will Anna Leigh Waters win in the 2026-27 PPA Tour Season?",
+   "slug": "how-many-triple-crowns-will-anna-leigh-waters-win-in-the-2026-27-ppa-tour-season",
+   "createdAt": "2026-09-14T20:34:47.316518Z",
+   "endDate": "2027-05-16T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 0.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "One",
+     0.23
+    ],
+    [
+     "Six or more",
+     0.215
+    ],
+    [
+     "Zero",
+     0.195
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1024940",
+   "title": "PPA 2026-27 End of Year Rankings: Player to be Number 1 (Women's)",
+   "slug": "ppa-2026-27-end-of-year-rankings-player-to-be-number-1-womens",
+   "createdAt": "2026-09-14T20:34:34.628747Z",
+   "endDate": "2027-05-16T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 20.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Anna Leigh Waters",
+     0.765
+    ],
+    [
+     "Participant A",
+     0.5
+    ],
+    [
+     "Participant B",
+     0.5
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1024939",
+   "title": "PPA 2026-27 End of Year Rankings: Player to be Number 1 (Men's)",
+   "slug": "ppa-2026-27-end-of-year-rankings-player-to-be-number-1-mens",
+   "createdAt": "2026-09-14T20:34:22.838332Z",
+   "endDate": "2027-05-16T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 20.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Ben Johns",
+     0.56
+    ],
+    [
+     "Participant A",
+     0.5
+    ],
+    [
+     "Participant B",
+     0.5
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "1024938",
+   "title": "2027 PPA Tour Finals: To Reach the Final (Women's)",
+   "slug": "2027-ppa-tour-finals-to-reach-the-final-womens",
+   "createdAt": "2026-09-14T20:34:06.397661Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 2097.46,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Anna Bright",
+     0.725
+    ],
+    [
+     "Anna Leigh Waters",
+     0.61
+    ],
+    [
+     "Parris Todd",
+     0.56
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1024937",
+   "title": "2027 PPA Tour Finals: To Reach the Final (Men's)",
+   "slug": "2027-ppa-tour-finals-to-reach-the-final-mens",
+   "createdAt": "2026-09-14T20:34:05.460459Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 1813.43,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Andrei Daescu",
+     0.6
+    ],
+    [
+     "Federico Staksrud",
+     0.585
+    ],
+    [
+     "CJ Klinger",
+     0.565
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1024936",
+   "title": "2027 PPA Tour Finals: To Reach Semifinals (Women's)",
+   "slug": "2027-ppa-tour-finals-to-reach-semifinals-womens",
+   "createdAt": "2026-09-14T20:33:14.914401Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 1256.34,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Tyra Hurricane Black",
+     0.715
+    ],
+    [
+     "Rachel Rohrabacher",
+     0.715
+    ],
+    [
+     "Tina Pisnik",
+     0.575
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1024935",
+   "title": "2027 PPA Tour Finals: To Reach Semifinals (Men's)",
+   "slug": "2027-ppa-tour-finals-to-reach-semifinals-mens",
+   "createdAt": "2026-09-14T20:33:10.296734Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 787.9,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Hayden Patriquin",
+     0.725
+    ],
+    [
+     "Ben Johns",
+     0.72
+    ],
+    [
+     "Federico Staksrud",
+     0.72
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1024934",
+   "title": "2027 PPA Tour Finals: Player to Qualify (Women's)",
+   "slug": "2027-ppa-tour-finals-player-to-qualify-womens",
+   "createdAt": "2026-09-14T20:33:05.181334Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 3912.730354,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Anna Leigh Waters",
+     0.905
+    ],
+    [
+     "Jorja Johnson",
+     0.905
+    ],
+    [
+     "Anna Bright",
+     0.9
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1024933",
+   "title": "2027 PPA Tour Finals: Player to Qualify (Men's)",
+   "slug": "2027-ppa-tour-finals-player-to-qualify-mens",
+   "createdAt": "2026-09-14T20:32:59.732129Z",
+   "endDate": "2027-05-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 680.166667,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Christian Alshon",
+     0.75
+    ],
+    [
+     "Hayden Patriquin",
+     0.74
+    ],
+    [
+     "Ben Johns",
+     0.735
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1024932",
+   "title": "NFL Scorigami by Week: 2026-27 Season",
+   "slug": "nfl-scorigami-by-week-2026-27-season",
+   "createdAt": "2026-09-14T20:32:48.237104Z",
+   "endDate": "2027-01-11T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scorigami-in-nfl-week-2-JsYK2HakpDcR.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "scorigami"
+   ],
+   "outcomes": [
+    [
+     "Week 2",
+     0.505
+    ],
+    [
+     "Week 3",
+     0.5
+    ],
+    [
+     "Week 4",
+     0.5
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "1024931",
+   "title": "How many NFL Scorigamis in the 2026-27 regular season?",
+   "slug": "how-many-nfl-scorigamis-in-the-2026-27-regular-season",
+   "createdAt": "2026-09-14T20:32:42.184546Z",
+   "endDate": "2027-01-12T00:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scorigami-in-nfl-week-2-JsYK2HakpDcR.png",
+   "volume": 0.0,
+   "tags": [
+    "NFL",
+    "Sports",
+    "scorigami"
+   ],
+   "outcomes": [
+    [
+     "3+",
+     0.735
+    ],
+    [
+     "4+",
+     0.5
+    ],
+    [
+     "5+",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1024890",
+   "title": "2026 Veolia Arizona Open: Winner (Mixed Doubles)",
+   "slug": "2026-veolia-arizona-open-winner-mixed-doubles",
+   "createdAt": "2026-09-14T20:20:58.35205Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 0.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Participant A",
+     0.5
+    ],
+    [
+     "Participant B",
+     0.5
+    ],
+    [
+     "Participant C",
+     0.5
+    ]
+   ],
+   "nMarkets": 55
+  },
+  {
+   "id": "1024889",
+   "title": "2026 Veolia Arizona Open: To Reach the Final (Mixed Doubles)",
+   "slug": "2026-veolia-arizona-open-to-reach-the-final-mixed-doubles",
+   "createdAt": "2026-09-14T20:20:53.11131Z",
+   "endDate": "2026-09-20T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 80.0,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Ben Johns / Anna Leigh Waters",
+     0.74
+    ],
+    [
+     "Parris Todd / Andrei Daescu",
+     0.44
+    ],
+    [
+     "Rafa Hewett / Nicole Conard",
+     0.33
+    ]
+   ],
+   "nMarkets": 44
+  },
+  {
+   "id": "1024888",
+   "title": "2026 Veolia Arizona Open: To Reach Semifinals (Mixed Doubles)",
+   "slug": "2026-veolia-arizona-open-to-reach-semifinals-mixed-doubles",
+   "createdAt": "2026-09-14T20:20:48.430438Z",
+   "endDate": "2026-09-19T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pickleball-logo-e801fa084d.png",
+   "volume": 1079.326358,
+   "tags": [
+    "PPA",
+    "Sports",
+    "Pickleball"
+   ],
+   "outcomes": [
+    [
+     "Rachel Rohrabacher / Christian Alshon",
+     0.655
+    ],
+    [
+     "Parris Todd / Andrei Daescu",
+     0.59
+    ],
+    [
+     "Ben Johns / Anna Leigh Waters",
+     0.42
+    ]
+   ],
+   "nMarkets": 44
+  },
   {
    "id": "1020458",
    "title": "OpenAI resumes US ChatGPT Pro 20x signups by...?",
@@ -5675,209 +6703,6 @@
     [
      "September 7 (11:59 PM)",
      0.51
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946116",
-   "title": "Luciano Darderi vs. Dalibor Svrcina - Exact Score",
-   "slug": "atp-darderi-svrcina-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:14.325038Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Luciano Darderi 3-0",
-     0.5
-    ],
-    [
-     "Luciano Darderi 3-1",
-     0.5
-    ],
-    [
-     "Luciano Darderi 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946115",
-   "title": "Ben Shelton vs. Hubert Hurkacz - Exact Score",
-   "slug": "atp-shelton-hurkacz-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:11.057246Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Ben Shelton 3-0",
-     0.5
-    ],
-    [
-     "Ben Shelton 3-1",
-     0.5
-    ],
-    [
-     "Ben Shelton 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946114",
-   "title": "Alexander Blockx vs. Marco Trungelliti - Exact Score",
-   "slug": "atp-blockx-trungel-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:09.619694Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Alexander Blockx 3-0",
-     0.5
-    ],
-    [
-     "Alexander Blockx 3-1",
-     0.5
-    ],
-    [
-     "Alexander Blockx 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946113",
-   "title": "Felix Auger-Aliassime vs. Karen Khachanov - Exact Score",
-   "slug": "atp-augeral-khachan-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:09.61901Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Felix Auger-Aliassime 3-0",
-     0.5
-    ],
-    [
-     "Felix Auger-Aliassime 3-1",
-     0.5
-    ],
-    [
-     "Felix Auger-Aliassime 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946112",
-   "title": "Jakub Mensik vs. Jurij Rodionov - Exact Score",
-   "slug": "atp-mensik-rodiono-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:09.618415Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Jakub Mensik 3-1",
-     0.5
-    ],
-    [
-     "Jakub Mensik 3-2",
-     0.5
-    ],
-    [
-     "Jurij Rodionov 3-0",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946111",
-   "title": "Alexei Popyrin vs. Alejandro Tabilo - Exact Score",
-   "slug": "atp-popyrin-tabilo-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:09.618232Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Alexei Popyrin 3-0",
-     0.5
-    ],
-    [
-     "Alexei Popyrin 3-1",
-     0.5
-    ],
-    [
-     "Alexei Popyrin 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "946110",
-   "title": "Rei Sakamoto vs. Frances Tiafoe - Exact Score",
-   "slug": "atp-sakamot-tiafoe-2026-09-02-exact-score",
-   "createdAt": "2026-09-01T05:44:09.604052Z",
-   "endDate": "2026-09-09T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Rei Sakamoto 3-0",
-     0.5
-    ],
-    [
-     "Rei Sakamoto 3-1",
-     0.5
-    ],
-    [
-     "Rei Sakamoto 3-2",
-     0.5
     ]
    ],
    "nMarkets": 7

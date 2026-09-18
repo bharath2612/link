@@ -1,6 +1,527 @@
 {
- "generatedAt": "2026-09-17T09:01:11.116821+00:00",
+ "generatedAt": "2026-09-18T08:36:06.072767+00:00",
  "questions": [
+  {
+   "id": "1040843",
+   "title": "FTC opens investigation into AI book destruction in 2026?",
+   "slug": "ftc-opens-investigation-into-ai-book-destruction-in-2026",
+   "createdAt": "2026-09-18T01:29:54.028698Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sad-amodei-f3b12b2b49.jpg",
+   "volume": 158.331528,
+   "tags": [
+    "AI",
+    "ftc",
+    "Tech",
+    "Big Tech"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.62
+    ],
+    [
+     "Yes",
+     0.38
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1040598",
+   "title": "Supreme Court accepts AI copyright case before 2027?",
+   "slug": "supreme-court-accepts-ai-copyright-case-before-2027",
+   "createdAt": "2026-09-18T00:03:49.514068Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/scotus-accepts-sports-event-contract-case-by-july-31-2026-fYCnFfdr4Hha.jpg",
+   "volume": 140.705883,
+   "tags": [
+    "AI",
+    "Tech",
+    "legal",
+    "Courts"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.775
+    ],
+    [
+     "Yes",
+     0.225
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1040357",
+   "title": "What will be in the UK Budget?",
+   "slug": "what-will-be-in-the-uk-budget-20260914",
+   "createdAt": "2026-09-17T22:56:44.690627Z",
+   "endDate": "2026-10-29T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-uk-chancellor-of-the-exchequer-in-2026-20260621005319178-QSeuCgubaV-w.jpg",
+   "volume": 64.8,
+   "tags": [
+    "Taxes",
+    "budget",
+    "Economy",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "CGT increase",
+     0.695
+    ],
+    [
+     "Land value tax",
+     0.505
+    ],
+    [
+     "Fuel duty increase",
+     0.41
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1040305",
+   "title": "CoreWeave announces bankruptcy by...?",
+   "slug": "coreweave-announces-bankruptcy-by",
+   "createdAt": "2026-09-17T22:38:14.47246Z",
+   "endDate": "2030-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/coreweave-announces-bankruptcy-by-vRtKJP08SA3I.jpg",
+   "volume": 18466.30658,
+   "tags": [
+    "Tech",
+    "Finance",
+    "Business",
+    "Corporate Financials"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2029",
+     0.225
+    ],
+    [
+     "December 31, 2028",
+     0.165
+    ],
+    [
+     "December 31, 2027",
+     0.105
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1040304",
+   "title": "NuScale announces bankruptcy by...?",
+   "slug": "nuscale-announces-bankruptcy-by",
+   "createdAt": "2026-09-17T22:37:58.034881Z",
+   "endDate": "2030-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nuscale-announces-bankruptcy-by-WFF29XEGmPcr.png",
+   "volume": 31382.041112000003,
+   "tags": [
+    "Tech",
+    "Finance",
+    "Business",
+    "Corporate Financials"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2029",
+     0.235
+    ],
+    [
+     "December 31, 2028",
+     0.185
+    ],
+    [
+     "December 31, 2027",
+     0.085
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1040303",
+   "title": "Anthropic announces bankruptcy by...?",
+   "slug": "anthropic-announces-bankruptcy-by",
+   "createdAt": "2026-09-17T22:37:46.438505Z",
+   "endDate": "2030-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-announce-bankruptcy-before-2027-kuqe-I60SJVbXGoPg.png",
+   "volume": 26963.67,
+   "tags": [
+    "Tech",
+    "Finance",
+    "Business",
+    "Anthropic"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2029",
+     0.205
+    ],
+    [
+     "December 31, 2028",
+     0.155
+    ],
+    [
+     "December 31, 2027",
+     0.065
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1040302",
+   "title": "Who will be featured on GTA VI: The Album?",
+   "slug": "who-will-be-featured-on-gta-vi-the-album",
+   "createdAt": "2026-09-17T22:37:21.57249Z",
+   "endDate": "2026-11-27T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-featured-on-gta-vi-the-album-9SqoYdpZPC1X.jpg",
+   "volume": 706.601197,
+   "tags": [
+    "Music",
+    "album",
+    "GTA VI",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "Kodak Black",
+     0.445
+    ],
+    [
+     "Don Toliver",
+     0.44
+    ],
+    [
+     "Drake",
+     0.395
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1040267",
+   "title": "OpenAI announces bankruptcy by...?",
+   "slug": "openai-announces-bankruptcy-by",
+   "createdAt": "2026-09-17T22:28:45.780617Z",
+   "endDate": "2030-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-openai-announce-bankruptcy-before-2027-819-t_NjE5PvYbpR.png",
+   "volume": 25212.56,
+   "tags": [
+    "Tech",
+    "OpenAI",
+    "Finance",
+    "Business"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2029",
+     0.195
+    ],
+    [
+     "December 31, 2028",
+     0.155
+    ],
+    [
+     "December 31, 2027",
+     0.075
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1040241",
+   "title": "Dancing With The Stars S35: Week 2 Eliminations",
+   "slug": "dancing-with-the-stars-s35-week-2-eliminations",
+   "createdAt": "2026-09-17T22:19:08.528945Z",
+   "endDate": "2026-09-23T06:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-3boHJy-JMR6n.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Culture",
+    "Reality TV",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Guillermo Rodriguez",
+     0.5
+    ],
+    [
+     "Julia Stiles",
+     0.5
+    ],
+    [
+     "Giada De Laurentiis",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "1040198",
+   "title": "Trump meets with Netanyahu by...?",
+   "slug": "trump-meets-with-netanyahu-by-20260917",
+   "createdAt": "2026-09-17T22:03:59.961964Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-netanyahu-by-bQ2rBEuRo_dN.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Trump",
+    "Israel",
+    "Politics",
+    "netanyahu"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.59
+    ],
+    [
+     "October 31",
+     0.54
+    ],
+    [
+     "September 30",
+     0.48
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1040189",
+   "title": "Will Trump insult Xi by end of US Visit?",
+   "slug": "will-trump-insult-xi-by-end-of-us-visit",
+   "createdAt": "2026-09-17T22:02:33.778409Z",
+   "endDate": "2026-10-08T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-insult-xi-this-week-EvKQ1vIjqNQd.jpg",
+   "volume": 154.92945,
+   "tags": [
+    "China",
+    "Trump",
+    "Politics",
+    "xi jinping"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.95
+    ],
+    [
+     "Yes",
+     0.05
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1040188",
+   "title": "Tokenized stocks available on Robinhood by ___?",
+   "slug": "tokenized-stocks-available-on-robinhood-by",
+   "createdAt": "2026-09-17T22:00:31.320155Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-robinhood-chain-launch-a-token-by-20260727172111377-OrJuQUrFatJs.png",
+   "volume": 117.22720000000001,
+   "tags": [
+    "Crypto",
+    "Robinhood",
+    "Crypto Listings"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2027",
+     0.705
+    ],
+    [
+     "March 31, 2027",
+     0.69
+    ],
+    [
+     "December 31, 2026",
+     0.44
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1040187",
+   "title": "Tokenized stocks available on Coinbase by ___?",
+   "slug": "tokenized-stocks-available-on-coinbase-by",
+   "createdAt": "2026-09-17T22:00:26.952935Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tokenized-stocks-available-on-coinbase-by-apFk0YSCk-mM.jpg",
+   "volume": 168.8,
+   "tags": [
+    "Crypto",
+    "coinbase",
+    "Crypto Listings"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.705
+    ],
+    [
+     "June 30, 2027",
+     0.68
+    ],
+    [
+     "December 31, 2026",
+     0.135
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1040179",
+   "title": "First to list tokenized stocks in the US?",
+   "slug": "first-to-list-tokenized-stocks-in-the-us",
+   "createdAt": "2026-09-17T21:59:56.805902Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/first-to-list-tokenized-stocks-in-the-us-5Vgj6ebeUZwR.png",
+   "volume": 28.25,
+   "tags": [
+    "Crypto",
+    "coinbase",
+    "Robinhood",
+    "Crypto Listings"
+   ],
+   "outcomes": [
+    [
+     "Gemini",
+     0.235
+    ],
+    [
+     "No listing by December 31, 2027",
+     0.165
+    ],
+    [
+     "Robinhood",
+     0.155
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1040098",
+   "title": "What will JD Vance say during his Midterm Rally in Iowa?",
+   "slug": "what-will-jd-vance-say-during-his-midterm-rally-in-iowa",
+   "createdAt": "2026-09-17T21:37:29.900999Z",
+   "endDate": "2026-09-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
+   "volume": 473.7,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "America / American 10+ times",
+     0.835
+    ],
+    [
+     "Election",
+     0.8
+    ],
+    [
+     "President / Trump 5+ times",
+     0.77
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1040086",
+   "title": "What will Netanyahu say during the United Nations General Assembly?",
+   "slug": "what-will-netanyahu-say-during-the-united-nations-general-assembly",
+   "createdAt": "2026-09-17T21:29:43.833577Z",
+   "endDate": "2026-09-24T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-netanyahu-say-during-the-united-nations-general-assembly-6DBwJ9dI4AlO.jpg",
+   "volume": 60.33,
+   "tags": [
+    "Israel",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Nuclear",
+     0.815
+    ],
+    [
+     "Iran / Lebanon 5+ times",
+     0.765
+    ],
+    [
+     "Israel 10+ times",
+     0.76
+    ]
+   ],
+   "nMarkets": 19
+  },
+  {
+   "id": "1040000",
+   "title": "Comprehensive federal AI framework becomes US law before 2028?",
+   "slug": "comprehensive-federal-ai-framework-becomes-us-law-before-2028",
+   "createdAt": "2026-09-17T21:06:08.909486Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-enacts-ai-safety-bill-in-2025-BnBSEkkIK6TL.jpg",
+   "volume": 0.0,
+   "tags": [
+    "AI",
+    "Tech",
+    "Congress",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.55
+    ],
+    [
+     "Yes",
+     0.45
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1039908",
+   "title": "What will Trump say during the United Nations General Assembly?",
+   "slug": "what-will-trump-say-during-the-united-nations-general-assembly",
+   "createdAt": "2026-09-17T20:38:13.025675Z",
+   "endDate": "2026-09-22T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-united-nations-general-assembly-6egcDKOktpHz.jpg",
+   "volume": 6977.202647,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Terror / Terrorism",
+     0.895
+    ],
+    [
+     "AI / Artificial Intelligence",
+     0.805
+    ],
+    [
+     "Trump",
+     0.8
+    ]
+   ],
+   "nMarkets": 22
+  },
   {
    "id": "1035680",
    "title": "Ren Zhengfei confirmed outside China by...?",
@@ -3929,681 +4450,6 @@
     ]
    ],
    "nMarkets": 4
-  },
-  {
-   "id": "962983",
-   "title": "Jakub Mensik vs. Learner Tien - Exact Score",
-   "slug": "atp-mensik-tien-2026-09-05-exact-score",
-   "createdAt": "2026-09-04T05:44:03.957987Z",
-   "endDate": "2026-09-12T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Jakub Mensik 3-0",
-     0.5
-    ],
-    [
-     "Jakub Mensik 3-1",
-     0.5
-    ],
-    [
-     "Jakub Mensik 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "962982",
-   "title": "Zizou Bergs vs. Botic van de Zandschulp - Exact Score",
-   "slug": "atp-bergs-zandsch-2026-09-05-exact-score",
-   "createdAt": "2026-09-04T05:44:03.932591Z",
-   "endDate": "2026-09-12T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Zizou Bergs 3-0",
-     0.5
-    ],
-    [
-     "Zizou Bergs 3-1",
-     0.5
-    ],
-    [
-     "Zizou Bergs 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "962981",
-   "title": "Michael Zheng vs. Arthur Gea - Exact Score",
-   "slug": "atp-zheng-gea-2026-09-05-exact-score",
-   "createdAt": "2026-09-04T05:44:03.921688Z",
-   "endDate": "2026-09-12T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Michael Zheng 3-0",
-     0.5
-    ],
-    [
-     "Michael Zheng 3-1",
-     0.5
-    ],
-    [
-     "Michael Zheng 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "962643",
-   "title": "Pro Football: Falcons Week 1 Starting QB",
-   "slug": "pro-football-falcons-week-1-starting-qb",
-   "createdAt": "2026-09-04T04:12:10.413152Z",
-   "endDate": "2026-09-14T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 0.0,
-   "tags": [
-    "NFL",
-    "Sports",
-    "Team Futures",
-    "atlanta falcons"
-   ],
-   "outcomes": [
-    [
-     "Player A",
-     0.5
-    ],
-    [
-     "Player B",
-     0.5
-    ],
-    [
-     "Player C",
-     0.5
-    ]
-   ],
-   "nMarkets": 10
-  },
-  {
-   "id": "962632",
-   "title": "VALORANT Offseason: OXY Next Team",
-   "slug": "valorant-offseason-oxy-next-team-1788364450495",
-   "createdAt": "2026-09-04T04:08:55.95283Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Team A",
-     0.5
-    ],
-    [
-     "Team B",
-     0.5
-    ],
-    [
-     "Team C",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "962631",
-   "title": "VALORANT Offseason: Derke Next Team",
-   "slug": "valorant-offseason-derke-next-team-1788364450495",
-   "createdAt": "2026-09-04T04:08:42.688736Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Team A",
-     0.5
-    ],
-    [
-     "Team B",
-     0.5
-    ],
-    [
-     "Team C",
-     0.5
-    ]
-   ],
-   "nMarkets": 19
-  },
-  {
-   "id": "962630",
-   "title": "VALORANT Offseason: Chronicle Next Team",
-   "slug": "valorant-offseason-chronicle-next-team-1788364450495",
-   "createdAt": "2026-09-04T04:08:16.947973Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Team A",
-     0.5
-    ],
-    [
-     "Team B",
-     0.5
-    ],
-    [
-     "Team C",
-     0.5
-    ]
-   ],
-   "nMarkets": 19
-  },
-  {
-   "id": "962629",
-   "title": "VALORANT Offseason: Demon1 Next Team",
-   "slug": "valorant-offseason-demon1-next-team-1788364450495",
-   "createdAt": "2026-09-04T04:07:56.811254Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Team A",
-     0.5
-    ],
-    [
-     "Team B",
-     0.5
-    ],
-    [
-     "Team C",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "962604",
-   "title": "VALORANT Offseason: primmie Next Team",
-   "slug": "valorant-offseason-primmie-next-team-1788364450495",
-   "createdAt": "2026-09-04T04:07:31.481839Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/valorant-logo-6fab741a16.png",
-   "volume": 0.0,
-   "tags": [
-    "val",
-    "Sports",
-    "Esports",
-    "Valorant"
-   ],
-   "outcomes": [
-    [
-     "Team A",
-     0.5
-    ],
-    [
-     "Team B",
-     0.5
-    ],
-    [
-     "Team C",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "962603",
-   "title": "Pro Football: 2026-27 Best Regular Season Record",
-   "slug": "pro-football-2026-27-best-regular-season-record",
-   "createdAt": "2026-09-04T04:04:05.910833Z",
-   "endDate": "2027-01-10T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 0.0,
-   "tags": [
-    "NFL",
-    "Sports",
-    "football",
-    "Team Futures"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Buffalo Bills",
-     0.495
-    ],
-    [
-     "Miami Dolphins",
-     0.495
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "962594",
-   "title": "Pro Football: 2026-27 AFC #1 Seed",
-   "slug": "pro-football-2026-27-afc-1-seed",
-   "createdAt": "2026-09-04T04:02:16.8851Z",
-   "endDate": "2027-01-10T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 0.0,
-   "tags": [
-    "AFC",
-    "NFL",
-    "Sports",
-    "football"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "New York Jets",
-     0.455
-    ],
-    [
-     "Jacksonville Jaguars",
-     0.455
-    ]
-   ],
-   "nMarkets": 17
-  },
-  {
-   "id": "962593",
-   "title": "Pro Football: 2026-27 NFC #1 Seed",
-   "slug": "pro-football-2026-27-nfc-1-seed",
-   "createdAt": "2026-09-04T04:02:06.495072Z",
-   "endDate": "2027-01-10T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 0.0,
-   "tags": [
-    "NFC",
-    "NFL",
-    "Sports",
-    "football"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Los Angeles Rams",
-     0.455
-    ],
-    [
-     "Dallas Cowboys",
-     0.445
-    ]
-   ],
-   "nMarkets": 17
-  },
-  {
-   "id": "961840",
-   "title": "G\u00f6ttingen Mayoral Election Winner",
-   "slug": "gottingen-mayoral-election-winner",
-   "createdAt": "2026-09-04T00:32:43.849739Z",
-   "endDate": "2026-09-13T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gottingen-mayoral-election-winner-flag-78c9f8bb4c.jpg",
-   "volume": 753.036226,
-   "tags": [
-    "Germany",
-    "Mayoral",
-    "Politics",
-    "Lower Saxony"
-   ],
-   "outcomes": [
-    [
-     "Onyeka Oshionwu",
-     0.54
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "961782",
-   "title": "Pro Football: Fernando Mendoza named Raiders starting QB by...?",
-   "slug": "pro-football-fernando-mendoza-named-raiders-starting-qb-by",
-   "createdAt": "2026-09-04T00:19:50.283956Z",
-   "endDate": "2027-01-12T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fernando-mendoza-passing-yards-2026-27-kWKKTaYVZNcE.jpg",
-   "volume": 36.33,
-   "tags": [
-    "NFL",
-    "Sports",
-    "football",
-    "Fernando Mendoza"
-   ],
-   "outcomes": [
-    [
-     "Week 2",
-     0.5
-    ],
-    [
-     "Week 3",
-     0.5
-    ],
-    [
-     "Week 4",
-     0.5
-    ]
-   ],
-   "nMarkets": 18
-  },
-  {
-   "id": "961781",
-   "title": "Will Yordan Alvarez win Triple Crown?",
-   "slug": "will-yordan-alvarez-win-triple-crown",
-   "createdAt": "2026-09-04T00:19:38.338298Z",
-   "endDate": "2026-09-28T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-yordan-alvarez-win-triple-crown-gqpnqtCzKUXF.png",
-   "volume": 0.0,
-   "tags": [
-    "MLB",
-    "Awards",
-    "Sports",
-    "baseball"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.5
-    ],
-    [
-     "No",
-     0.5
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "961780",
-   "title": "Next Grok Model (4.7+) released on...?",
-   "slug": "next-grok-model-4pt7-released-onptptpt",
-   "createdAt": "2026-09-04T00:18:47.915087Z",
-   "endDate": "2026-09-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grok-4pt20-released-by-FREAnoCYA7aN.jpg",
-   "volume": 371.7408,
-   "tags": [
-    "AI",
-    "xAI",
-    "Grok",
-    "Tech"
-   ],
-   "outcomes": [
-    [
-     "September 13",
-     0.428
-    ],
-    [
-     "September 16",
-     0.415
-    ],
-    [
-     "September 18",
-     0.415
-    ]
-   ],
-   "nMarkets": 23
-  },
-  {
-   "id": "961779",
-   "title": "Next Grok Model (4.7+) released by...?",
-   "slug": "next-grok-model-4pt7-released-by",
-   "createdAt": "2026-09-04T00:18:09.631833Z",
-   "endDate": "2026-10-18T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grok-4pt20-released-by-FREAnoCYA7aN.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "xAI",
-    "Grok",
-    "Tech"
-   ],
-   "outcomes": [
-    [
-     "September 18",
-     0.73
-    ],
-    [
-     "September 14",
-     0.52
-    ],
-    [
-     "September 12",
-     0.255
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "961770",
-   "title": "Next Grok Model (4.7+): Text Arena Debut?",
-   "slug": "next-grok-model-4pt7-text-arena-debut",
-   "createdAt": "2026-09-04T00:15:57.158163Z",
-   "endDate": "2027-06-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grok-4pt20-released-by-FREAnoCYA7aN.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "xAI",
-    "Grok",
-    "Tech"
-   ],
-   "outcomes": [
-    [
-     "1460+",
-     0.52
-    ],
-    [
-     "1450+",
-     0.515
-    ],
-    [
-     "1470+",
-     0.505
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "961709",
-   "title": "Lindsay Clancy convicted of manslaughter?",
-   "slug": "lindsay-clancy-convicted-of-manslaughter",
-   "createdAt": "2026-09-04T00:05:58.62879Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lindsay-clancy-convicted-of-murder-copy-2p3uXeP4zEtT.jpg",
-   "volume": 5428.839098999999,
-   "tags": [
-    "Courts",
-    "Culture",
-    "Politics",
-    "court cases"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.81
-    ],
-    [
-     "Yes",
-     0.19
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "961653",
-   "title": "Taylor Fritz vs. Francisco Cerundolo - Exact Score",
-   "slug": "atp-fritz-cerundo-2026-09-04-exact-score",
-   "createdAt": "2026-09-03T23:44:04.701739Z",
-   "endDate": "2026-09-11T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Taylor Fritz 3-0",
-     0.5
-    ],
-    [
-     "Taylor Fritz 3-1",
-     0.5
-    ],
-    [
-     "Taylor Fritz 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "961651",
-   "title": "Karen Khachanov vs. Benjamin Bonzi - Exact Score",
-   "slug": "atp-khachan-bonzi-2026-09-04-exact-score",
-   "createdAt": "2026-09-03T23:44:04.686553Z",
-   "endDate": "2026-09-11T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Karen Khachanov 3-0",
-     0.5
-    ],
-    [
-     "Karen Khachanov 3-1",
-     0.5
-    ],
-    [
-     "Karen Khachanov 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "961652",
-   "title": "Luciano Darderi vs. Dane Sweeny - Exact Score",
-   "slug": "atp-darderi-sweeny-2026-09-04-exact-score",
-   "createdAt": "2026-09-03T23:44:04.686376Z",
-   "endDate": "2026-09-11T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Luciano Darderi 3-0",
-     0.5
-    ],
-    [
-     "Luciano Darderi 3-1",
-     0.5
-    ],
-    [
-     "Luciano Darderi 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "961650",
-   "title": "Alexander Blockx vs. Flavio Cobolli - Exact Score",
-   "slug": "atp-blockx-cobolli-2026-09-04-exact-score",
-   "createdAt": "2026-09-03T23:44:04.684999Z",
-   "endDate": "2026-09-11T15:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/atp-tour-b4390c4fb8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ],
-   "outcomes": [
-    [
-     "Alexander Blockx 3-0",
-     0.5
-    ],
-    [
-     "Alexander Blockx 3-1",
-     0.5
-    ],
-    [
-     "Alexander Blockx 3-2",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
   }
  ]
 }

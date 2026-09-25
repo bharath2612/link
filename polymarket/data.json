@@ -1,6 +1,91 @@
 {
- "generatedAt": "2026-09-24T08:51:51.314773+00:00",
+ "generatedAt": "2026-09-25T09:12:24.544427+00:00",
  "questions": [
+  {
+   "id": "1076462",
+   "title": "Which party will win white voters in the midterms?",
+   "slug": "which-party-will-win-white-voters-in-the-midterms",
+   "createdAt": "2026-09-24T22:53:29.384177Z",
+   "endDate": "2026-11-06T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-will-win-white-voters-in-the-midterms--JKAQz_ZohZ-.jpg",
+   "volume": 1290.258417,
+   "tags": [
+    "Polling",
+    "Midterms",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Republicans",
+     0.695
+    ],
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1076421",
+   "title": "Polo makes landfall in Mexico as a hurricane?",
+   "slug": "will-polo-make-landfall-in-mexico-as-a-hurricane-1790286699101",
+   "createdAt": "2026-09-24T22:43:45.619582Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-hurricane-imelda-make-landfall-in-the-us-nvI_VwXqUNAV.jpg",
+   "volume": 4391.695427,
+   "tags": [
+    "Mexico",
+    "Weather",
+    "climate",
+    "hurricane"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.785
+    ],
+    [
+     "No",
+     0.215
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1076279",
+   "title": "Pro Football: 2026-27 Last Winless Team",
+   "slug": "pro-football-2026-27-last-winless-team",
+   "createdAt": "2026-09-24T22:04:16.804404Z",
+   "endDate": "2027-01-10T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 20.6101,
+   "tags": [
+    "NFL (All)",
+    "Sports",
+    "football",
+    "Team Futures"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Miami Dolphins",
+     0.29
+    ],
+    [
+     "Tennessee Titans",
+     0.29
+    ]
+   ],
+   "nMarkets": 9
+  },
   {
    "id": "1073308",
    "title": "What will GPT Sol's output token price hit in 2026?",
@@ -3970,166 +4055,6 @@
     ]
    ],
    "nMarkets": 2
-  },
-  {
-   "id": "1001462",
-   "title": "Will a Western team win the Demacia Cup Global Invitational 2026?",
-   "slug": "will-a-western-team-win-the-demacia-cup-global-invitational-2026",
-   "createdAt": "2026-09-10T22:37:23.641069Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/demacia-21091b6c1d.png",
-   "volume": 0.0,
-   "tags": [
-    "lol",
-    "Sports",
-    "Esports",
-    "league of legends"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.615
-    ],
-    [
-     "Yes",
-     0.385
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1001461",
-   "title": "Will a Western team win Worlds 2026?",
-   "slug": "will-a-western-team-win-worlds-2026",
-   "createdAt": "2026-09-10T22:37:17.634232Z",
-   "endDate": "2026-11-29T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/worlds-eb04c9bd7b.png",
-   "volume": 0.0,
-   "tags": [
-    "lol",
-    "Sports",
-    "Esports",
-    "league of legends"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.82
-    ],
-    [
-     "Yes",
-     0.18
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1000989",
-   "title": "Will G2 Caps Get a Hair Transplant in 2026?",
-   "slug": "will-g2-caps-get-a-hair-transplant-in-2026",
-   "createdAt": "2026-09-10T20:16:26.250288Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-g2-caps-go-bald-in-2026-TmG8vxYjWK95.jpg",
-   "volume": 0.0,
-   "tags": [
-    "lol",
-    "Sports",
-    "Esports",
-    "league of legends"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.605
-    ],
-    [
-     "Yes",
-     0.395
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1000953",
-   "title": "Houthis seize an oil tanker by...?",
-   "slug": "houthis-seize-an-oil-tanker-by",
-   "createdAt": "2026-09-10T20:07:37.338197Z",
-   "endDate": "2026-10-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthis-seize-an-oil-tanker-by-IJwO3rlm9Hha.jpg",
-   "volume": 5074.873472999999,
-   "tags": [
-    "Oil",
-    "Iran",
-    "ship",
-    "Yemen"
-   ],
-   "outcomes": [
-    [
-     "September 30",
-     0.125
-    ],
-    [
-     "September 15",
-     0.065
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1000928",
-   "title": "Houthis enter Aden by...?",
-   "slug": "houthis-enter-aden-byptptpt",
-   "createdAt": "2026-09-10T20:05:15.65514Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthis-seize-aden-byptptpt-QdpqRYLFtvQh.jpg",
-   "volume": 8101.273234,
-   "tags": [
-    "Oil",
-    "Iran",
-    "Yemen",
-    "Houthis"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.145
-    ],
-    [
-     "October 31",
-     0.115
-    ],
-    [
-     "September 30",
-     0.085
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1000927",
-   "title": "Will an American player win the 2026 US Open?",
-   "slug": "will-an-american-player-win-the-2026-us-open",
-   "createdAt": "2026-09-10T20:02:42.868638Z",
-   "endDate": "2026-09-13T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-mens-us-open-winner-tennis-oSTkkDpgQu-b.png",
-   "volume": 2056.142058,
-   "tags": [
-    "ATP",
-    "WTA",
-    "Sports",
-    "Tennis"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.575
-    ],
-    [
-     "Yes",
-     0.425
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T09:39:27.090603+00:00",
+ "generatedAt": "2026-09-28T10:18:44.439354+00:00",
  "questions": [
   {
    "id": "1083788",
@@ -4254,36 +4254,6 @@
     ]
    ],
    "nMarkets": 44
-  },
-  {
-   "id": "1020458",
-   "title": "OpenAI resumes US ChatGPT Pro 20x signups by...?",
-   "slug": "openai-resumes-us-chatgpt-pro-20x-signups-byptptpt",
-   "createdAt": "2026-09-14T01:44:41.196985Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-announces-it-has-achieved-agi-in-2025-xKDwO2QRBchw.jpg",
-   "volume": 83.425171,
-   "tags": [
-    "AI",
-    "Tech",
-    "OpenAI",
-    "chatgpt"
-   ],
-   "outcomes": [
-    [
-     "October 31, 2026",
-     0.675
-    ],
-    [
-     "September 30, 2026",
-     0.46
-    ],
-    [
-     "September 23, 2026",
-     0.38
-    ]
-   ],
-   "nMarkets": 3
   }
  ]
 }

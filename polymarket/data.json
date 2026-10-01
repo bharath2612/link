@@ -1,6 +1,553 @@
 {
- "generatedAt": "2026-09-30T10:06:02.556121+00:00",
+ "generatedAt": "2026-10-01T10:34:22.138691+00:00",
  "questions": [
+  {
+   "id": "1111246",
+   "title": "Will OpenAI rename itself to OpenSI?",
+   "slug": "will-openai-rename-itself-to-opensi",
+   "createdAt": "2026-10-01T00:15:56.937071Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai.png",
+   "volume": 280.741133,
+   "tags": [
+    "AI",
+    "All",
+    "OpenAI",
+    "renaming"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.966
+    ],
+    [
+     "Yes",
+     0.034
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111229",
+   "title": "Next Claude Haiku (4.6+) released on...?",
+   "slug": "next-claude-haiku-model-4pt6-released-onptptpt-20260930",
+   "createdAt": "2026-10-01T00:11:46.690829Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+   "volume": 646.89695,
+   "tags": [
+    "AI",
+    "Tech",
+    "Haiku",
+    "Claude"
+   ],
+   "outcomes": [
+    [
+     "October 6",
+     0.47
+    ],
+    [
+     "October 8",
+     0.441
+    ],
+    [
+     "October 19",
+     0.42
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "1111228",
+   "title": "Next Claude Haiku Model (4.6+): Text Arena Debut?",
+   "slug": "next-claude-haiku-model-4pt6-text-arena-debut-20260930",
+   "createdAt": "2026-10-01T00:11:29.64221Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+   "volume": 2912.4569309999997,
+   "tags": [
+    "AI",
+    "Tech",
+    "Debut",
+    "Haiku"
+   ],
+   "outcomes": [
+    [
+     "1420+",
+     0.88
+    ],
+    [
+     "1400+",
+     0.845
+    ],
+    [
+     "1440+",
+     0.545
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1111150",
+   "title": "Will Talarico and Paxton debate live by October 15?",
+   "slug": "will-talarico-and-paxton-debate-live-by-october-15",
+   "createdAt": "2026-10-01T00:00:10.927715Z",
+   "endDate": "2026-10-16T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-talarico-and-paxton-debate-by-october-15-Yuzyzy7-6SvL.jpg",
+   "volume": 60.0,
+   "tags": [
+    "texas",
+    "Debate",
+    "Midterms",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.725
+    ],
+    [
+     "No",
+     0.275
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111141",
+   "title": "Closer Senate Race: Maine or Texas?",
+   "slug": "closer-senate-race-maine-or-texas",
+   "createdAt": "2026-09-30T23:58:54.176231Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/closer-senate-race-maine-or-texas-QsIfFePo1H4k.jpg",
+   "volume": 283.99,
+   "tags": [
+    "Senate",
+    "Midterms",
+    "Politics",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Texas",
+     0.635
+    ],
+    [
+     "Maine",
+     0.365
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111140",
+   "title": "Houthi military action against Saudi Arabia on...?",
+   "slug": "houthi-military-action-against-saudi-arabia-on-october-2026",
+   "createdAt": "2026-09-30T23:58:48.379125Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/houthis-invades-saudi-arabia-byptptpt-vTKjAO6uhTiZ.jpg",
+   "volume": 1851.848717,
+   "tags": [
+    "Iran",
+    "Yemen",
+    "Houthis",
+    "Military"
+   ],
+   "outcomes": [
+    [
+     "October 14",
+     0.405
+    ],
+    [
+     "October 1",
+     0.34
+    ],
+    [
+     "October 6",
+     0.265
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1111139",
+   "title": "Michigan Senate Election: Macomb County Winner",
+   "slug": "michigan-senate-election-macomb-county-winner",
+   "createdAt": "2026-09-30T23:58:34.558494Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mi-033e1ebb70.png",
+   "volume": 84.48051699999999,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Mike Rogers (R)",
+     0.78
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1111128",
+   "title": "West Virginia passes ballot measure banning noncitizens from voting?",
+   "slug": "west-virginia-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:56:30.295666Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/west-virginia-senate-election-winner-Rzc4Hx-FMss9.png",
+   "volume": 160.99,
+   "tags": [
+    "Politics",
+    "US Election",
+    "West Virginia",
+    "ballot initiative"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.905
+    ],
+    [
+     "No",
+     0.095
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111126",
+   "title": "South Dakota passes ballot measure banning noncitizens from voting?",
+   "slug": "south-dakota-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:55:52.664016Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-dakota-senate-election-winner-5jGUIOtQhFnG.png",
+   "volume": 945.113953,
+   "tags": [
+    "Politics",
+    "US Election",
+    "South Dakota",
+    "ballot initiative"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.9445
+    ],
+    [
+     "No",
+     0.0555
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111121",
+   "title": "Kansas passes ballot measure banning noncitizens from voting?",
+   "slug": "kansas-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:53:06.384916Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-senate-election-winner-ru0GkAefcGUq.png",
+   "volume": 714.1513330000001,
+   "tags": [
+    "Kansas",
+    "Politics",
+    "US Election",
+    "Kansas Midterm"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.905
+    ],
+    [
+     "No",
+     0.095
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111094",
+   "title": "Arkansas passes ballot measure banning noncitizens from voting?",
+   "slug": "arkansas-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:49:50.449993Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arkansas-senate-election-winner-GYBTtye-UCvw.png",
+   "volume": 221.0,
+   "tags": [
+    "Politics",
+    "arkansas",
+    "US Election",
+    "Arkansas Midterm"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.9
+    ],
+    [
+     "No",
+     0.1
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111093",
+   "title": "Arizona passes ballot measure banning noncitizens from voting?",
+   "slug": "arizona-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:47:56.258788Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arizona-governor-winner-2026-SDdP-Sa98nVk.png",
+   "volume": 615.638412,
+   "tags": [
+    "arizona",
+    "Politics",
+    "US Election",
+    "Arizona Midterm"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.61
+    ],
+    [
+     "No",
+     0.39
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1111084",
+   "title": "Alaska passes ballot measure banning noncitizens from voting?",
+   "slug": "alaska-passes-ballot-measure-banning-noncitizens-from-voting",
+   "createdAt": "2026-09-30T23:47:08.561623Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-295615a533.png",
+   "volume": 575.0,
+   "tags": [
+    "alaska",
+    "Politics",
+    "US Election",
+    "Alaska Midterm"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.925
+    ],
+    [
+     "No",
+     0.075
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1110998",
+   "title": "Any of the Cornell 7 charged with a felony sex crime?",
+   "slug": "any-of-the-cornell-7-charged-with-a-felony-sex-crime",
+   "createdAt": "2026-09-30T23:10:57.323073Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anyone-charged-with-rape-in-cornell-case-by-december-31-RAUtQzTTB1wg.png",
+   "volume": 14753.129188999997,
+   "tags": [
+    "Courts",
+    "Culture",
+    "college",
+    "cornell"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.535
+    ],
+    [
+     "Yes",
+     0.465
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1110637",
+   "title": "FlyDubai co-pilot transferred to Israel by Oct. 31?",
+   "slug": "flydubai-co-pilot-transferred-to-israel-by-octpt-31",
+   "createdAt": "2026-09-30T21:35:45.691591Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flydubai-co-pilot-transferred-to-israel-by-octpt-31-Xqu5hsU1NVVK.jpg",
+   "volume": 592.360458,
+   "tags": [
+    "plane",
+    "Israel",
+    "Politics",
+    "stabbing"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.9645
+    ],
+    [
+     "Yes",
+     0.0355
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1110635",
+   "title": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+   "slug": "israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31",
+   "createdAt": "2026-09-30T21:34:41.376544Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31-x3eitotdttzK.jpg",
+   "volume": 23817.425374999995,
+   "tags": [
+    "Iran",
+    "plane",
+    "Israel",
+    "flight"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.835
+    ],
+    [
+     "Yes",
+     0.165
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1110553",
+   "title": "Highest sea level in San Diego this winter?",
+   "slug": "highest-sea-level-in-san-diego-this-winter",
+   "createdAt": "2026-09-30T21:02:04.60179Z",
+   "endDate": "2027-04-01T07:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/peak-water-level-at-la-jolla-oct-2026-to-mar-2027-eypmqDJabrD6.png",
+   "volume": 80.0,
+   "tags": [
+    "Weather",
+    "climate",
+    "San Diego"
+   ],
+   "outcomes": [
+    [
+     "7.70 ft or more",
+     0.355
+    ],
+    [
+     "8.10 ft or more",
+     0.33
+    ],
+    [
+     "7.90 ft or more",
+     0.27
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1110484",
+   "title": "Highest 24-hour rainfall in Bangkok, October 4-10?",
+   "slug": "highest-24-hour-rainfall-in-bangkok-october-4-10",
+   "createdAt": "2026-09-30T20:41:24.39241Z",
+   "endDate": "2026-10-18T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/precipitation-in-hong-kong-in-march-ZJ5oq2Eiyz9P.jpg",
+   "volume": 20.0,
+   "tags": [
+    "Weather",
+    "Thailand",
+    "Precipitation",
+    "Climate & Science"
+   ],
+   "outcomes": [
+    [
+     "50-100mm",
+     0.36
+    ],
+    [
+     "20-50mm",
+     0.245
+    ],
+    [
+     "<20mm",
+     0.17
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1110461",
+   "title": "Will Valve release Dota 2 Dark Carnival Act 2 by December 31?",
+   "slug": "will-valve-release-dota-2-dark-carnival-act-2-by-december-31",
+   "createdAt": "2026-09-30T20:32:33.801747Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-valve-release-dota-2-dark-carnival-act-2-by-december-31-YB_8kGF4NEpw.png",
+   "volume": 0.0,
+   "tags": [
+    "Games",
+    "Valve",
+    "Dota 2",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.655
+    ],
+    [
+     "Yes",
+     0.345
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1110449",
+   "title": "Las Vegas NBA franchise and arena price?",
+   "slug": "las-vegas-nba-franchise-and-arena-price",
+   "createdAt": "2026-09-30T20:28:31.037838Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
+   "volume": 0.0,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Las Vegas",
+    "Basketball"
+   ],
+   "outcomes": [
+    [
+     "$11B-$12B",
+     0.38
+    ],
+    [
+     "$12B-$13B",
+     0.38
+    ],
+    [
+     "$13B-$14B",
+     0.38
+    ]
+   ],
+   "nMarkets": 6
+  },
   {
    "id": "1107864",
    "title": "Kimberly Guilfoyle out as U.S. Ambassador to Greece by...?",
@@ -3595,174 +4142,6 @@
     ]
    ],
    "nMarkets": 22
-  },
-  {
-   "id": "1035680",
-   "title": "Ren Zhengfei confirmed outside China by...?",
-   "slug": "ren-zhengfei-confirmed-outside-china-byptptpt",
-   "createdAt": "2026-09-16T23:52:10.698524Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ren-zhengfei-public-appearance-by-QhFUeoSawRhm.jpg",
-   "volume": 1670.801564,
-   "tags": [
-    "Tech",
-    "flee",
-    "China",
-    "World"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.21
-    ],
-    [
-     "October 31",
-     0.085
-    ],
-    [
-     "September 30",
-     0.06
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1035618",
-   "title": "Ren Zhengfei public appearance by...?",
-   "slug": "ren-zhengfei-public-appearance-by",
-   "createdAt": "2026-09-16T23:36:21.115407Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ren-zhengfei-public-appearance-by-QhFUeoSawRhm.jpg",
-   "volume": 4107.3251,
-   "tags": [
-    "Tech",
-    "China",
-    "World",
-    "Business"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.665
-    ],
-    [
-     "October 31",
-     0.48
-    ],
-    [
-     "September 30",
-     0.215
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1035310",
-   "title": "Trump endorses China's claim to Taiwan by end of Xi summit?",
-   "slug": "trump-endorses-chinas-claim-to-taiwan-by-end-of-xi-summit",
-   "createdAt": "2026-09-16T21:59:25.235799Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-insult-xi-this-week-EvKQ1vIjqNQd.jpg",
-   "volume": 146.475766,
-   "tags": [
-    "China",
-    "Trump",
-    "Taiwan",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.9545
-    ],
-    [
-     "Yes",
-     0.0455
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1035309",
-   "title": "How long will Trump and Xi shake hands?",
-   "slug": "how-long-will-trump-and-xi-shake-hands-20260916",
-   "createdAt": "2026-09-16T21:57:49.669231Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-long-will-trump-and-xi-shake-hands-for-when-they-meet-SpsNFvXQEwmJ.jpg",
-   "volume": 585.607172,
-   "tags": [
-    "China",
-    "Trump",
-    "Politics",
-    "xi jinping"
-   ],
-   "outcomes": [
-    [
-     "10\u201315s",
-     0.485
-    ],
-    [
-     "6\u201310s",
-     0.425
-    ],
-    [
-     "15s+",
-     0.325
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1035273",
-   "title": "Will Trump and Xi hug at their summit?",
-   "slug": "will-trump-and-xi-hug-at-their-summit-20260916",
-   "createdAt": "2026-09-16T21:49:15.334407Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-xi-kiss-at-their-summit-Lcju_6liHB_q.jpg",
-   "volume": 204.408591,
-   "tags": [
-    "China",
-    "Trump",
-    "Culture",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.87
-    ],
-    [
-     "Yes",
-     0.13
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1035270",
-   "title": "Will Trump and Xi kiss at their summit?",
-   "slug": "will-trump-and-xi-kiss-at-their-summit-20260916",
-   "createdAt": "2026-09-16T21:47:18.244909Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-xi-kiss-at-their-summit-Lcju_6liHB_q.jpg",
-   "volume": 179.555746,
-   "tags": [
-    "China",
-    "Trump",
-    "Culture",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.9865
-    ],
-    [
-     "Yes",
-     0.0135
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

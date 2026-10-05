@@ -1,6 +1,118 @@
 {
- "generatedAt": "2026-10-04T10:18:22.666967+00:00",
+ "generatedAt": "2026-10-05T10:59:48.334687+00:00",
  "questions": [
+  {
+   "id": "1134815",
+   "title": "NBA: LeBron James to Reach 45,000 Career Points in 2026-27?",
+   "slug": "nba-lebron-james-to-reach-45000-career-points-in-2026-27",
+   "createdAt": "2026-10-05T03:29:45.899663Z",
+   "endDate": "2027-04-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-lebron-james-next-team-nr9nNXh02DJY.jpg",
+   "volume": 1.0101,
+   "tags": [
+    "NBA",
+    "Sports",
+    "Basketball",
+    "Lebron James"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.84
+    ],
+    [
+     "Yes",
+     0.16
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1134814",
+   "title": "Barcelona UEFA Negreira verdict announced by...?",
+   "slug": "barcelona-uefa-negreira-verdict-announced-by",
+   "createdAt": "2026-10-05T03:29:31.019018Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/barcelona.png",
+   "volume": 1.0204,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "La Liga",
+    "UEFA Champions League"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.505
+    ],
+    [
+     "February 28, 2027",
+     0.505
+    ],
+    [
+     "March 31, 2027",
+     0.505
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1134813",
+   "title": "Will UEFA find FC Barcelona guilty in the Negreira case by December 31, 2027?",
+   "slug": "will-uefa-find-fc-barcelona-guilty-in-the-negreira-case-by-december-31-2027",
+   "createdAt": "2026-10-05T03:29:18.72186Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/barcelona.png",
+   "volume": 0.0,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "La Liga",
+    "UEFA Champions League"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.73
+    ],
+    [
+     "No",
+     0.27
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1134812",
+   "title": "Pro Football: Tyreek Hill Next Team",
+   "slug": "pro-football-tyreek-hill-next-team-2026",
+   "createdAt": "2026-10-05T03:29:07.268162Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/where-will-tyreek-hill-play-in-2026-pqWxfmXZu0G5.jpg",
+   "volume": 1.08695,
+   "tags": [
+    "NFL (All)",
+    "Sports",
+    "football",
+    "tyreek hill"
+   ],
+   "outcomes": [
+    [
+     "Kansas City Chiefs",
+     0.56
+    ],
+    [
+     "Team A",
+     0.5
+    ],
+    [
+     "Team B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
   {
    "id": "1121525",
    "title": "Saudi troops enter Taiz by...?",
@@ -3617,36 +3729,6 @@
     ]
    ],
    "nMarkets": 15
-  },
-  {
-   "id": "1056321",
-   "title": "What will JD Vance say during his rally in North Carolina?",
-   "slug": "what-will-jd-vance-say-during-his-rally-in-north-carolina",
-   "createdAt": "2026-09-21T00:48:51.072157Z",
-   "endDate": "2026-09-21T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
-   "volume": 7576.3080629999995,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Election",
-     0.92
-    ],
-    [
-     "Radical",
-     0.88
-    ],
-    [
-     "Afford / Affordable / Affordability",
-     0.865
-    ]
-   ],
-   "nMarkets": 17
   }
  ]
 }

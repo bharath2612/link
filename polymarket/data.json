@@ -1,6 +1,480 @@
 {
- "generatedAt": "2026-10-05T10:59:48.334687+00:00",
+ "generatedAt": "2026-10-06T10:54:44.858703+00:00",
  "questions": [
+  {
+   "id": "1142254",
+   "title": "Rio de Janeiro Governor Election Second Round: Margin of Victory",
+   "slug": "rio-de-janeiro-governor-election-second-round-margin-of-victory",
+   "createdAt": "2026-10-06T10:02:02.06896Z",
+   "endDate": "2026-10-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rio-de-janeiro-governor-election-winner-20260608202949176-i4xaMQiRjV57.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Ruas 15-20%",
+     0.355
+    ],
+    [
+     "Paes wins",
+     0.355
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1142253",
+   "title": "Federal District Governor Election Second Round: Margin of Victory",
+   "slug": "federal-district-governor-election-second-round-margin-of-victory",
+   "createdAt": "2026-10-06T10:00:45.776421Z",
+   "endDate": "2026-10-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-df-1fa7f8d066.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Celina 10-15%",
+     0.49
+    ],
+    [
+     "Celina 20-25%",
+     0.425
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1142243",
+   "title": "Acre Governor Election Second Round: Margin of Victory",
+   "slug": "acre-governor-election-second-round-margin-of-victory",
+   "createdAt": "2026-10-06T09:58:52.387879Z",
+   "endDate": "2026-10-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-ac-230f5a9d0a.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Mailza 10-15%",
+     0.485
+    ],
+    [
+     "Mailza 5-10%",
+     0.335
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1142234",
+   "title": "Brazil Presidential Election Second Round: Any Candidate Gets Most Votes Ever?",
+   "slug": "brazil-presidential-election-second-round-any-candidate-gets-most-votes-ever",
+   "createdAt": "2026-10-06T09:56:20.685273Z",
+   "endDate": "2026-10-26T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.51
+    ],
+    [
+     "No",
+     0.49
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1142232",
+   "title": "Lula x Fl\u00e1vio Bolsonaro debate before second round?",
+   "slug": "lula-x-flavio-bolsonaro-debate-before-second-round",
+   "createdAt": "2026-10-06T09:55:34.217668Z",
+   "endDate": "2026-10-24T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-debate-lula-flavio-bcf1ef3f6a.jpg",
+   "volume": 50.0,
+   "tags": [
+    "Brazil",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.71
+    ],
+    [
+     "No",
+     0.29
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1142212",
+   "title": "Israel Election: Likud or Yashar in Government?",
+   "slug": "israel-election-likud-or-yashar-in-government",
+   "createdAt": "2026-10-06T09:50:22.53019Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-likud-vs-yashar-944cdb77a9.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Yashar",
+     0.54
+    ],
+    [
+     "Likud",
+     0.46
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1142203",
+   "title": "Tennessee makes electric chair execution default in 2026?",
+   "slug": "tennessee-makes-electric-chair-execution-default-in-2026",
+   "createdAt": "2026-10-06T09:46:38.325124Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tennessee-announces-reintroduction-of-the-electric-chair-by-20261002142611133-ZOsM7P3WnPpT.jpg",
+   "volume": 20.0,
+   "tags": [
+    "law",
+    "crime",
+    "states",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.66
+    ],
+    [
+     "Yes",
+     0.34
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1142116",
+   "title": "Nobel Peace Prize 2026 awarded to an individual?",
+   "slug": "nobel-peace-prize-2026-awarded-to-an-individual",
+   "createdAt": "2026-10-06T09:07:15.071038Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
+   "volume": 200.0,
+   "tags": [
+    "Awards",
+    "Culture",
+    "nobel",
+    "Nobel Prize"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.545
+    ],
+    [
+     "No",
+     0.455
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1142093",
+   "title": "Nobel Economics Prize Winner 2026",
+   "slug": "nobel-economics-prize-winner-2026",
+   "createdAt": "2026-10-06T09:04:31.659536Z",
+   "endDate": "2026-10-13T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
+   "volume": 5429.61373,
+   "tags": [
+    "nobel",
+    "Awards",
+    "Culture",
+    "Nobel Prize"
+   ],
+   "outcomes": [
+    [
+     "Ariel Pakes",
+     0.35
+    ],
+    [
+     "Susan Athey",
+     0.195
+    ],
+    [
+     "Robert Barro",
+     0.16
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1142081",
+   "title": "Nobel Chemistry Prize Winner 2026",
+   "slug": "nobel-chemistry-prize-winner-2026",
+   "createdAt": "2026-10-06T09:00:17.082926Z",
+   "endDate": "2026-10-08T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
+   "volume": 1437.434546,
+   "tags": [
+    "nobel",
+    "Awards",
+    "Culture",
+    "Nobel Prize"
+   ],
+   "outcomes": [
+    [
+     "Shankar Balasubramanian",
+     0.14
+    ],
+    [
+     "Bonnie Bassler",
+     0.14
+    ],
+    [
+     "David Liu",
+     0.13
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1142080",
+   "title": "Nobel Physics Prize Winner 2026",
+   "slug": "nobel-physics-prize-winner-2026",
+   "createdAt": "2026-10-06T09:00:11.776907Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
+   "volume": 4873.948799,
+   "tags": [
+    "nobel",
+    "Awards",
+    "Culture",
+    "Nobel Prize"
+   ],
+   "outcomes": [
+    [
+     "Pablo Jarillo-Herrero",
+     0.235
+    ],
+    [
+     "John Preskill",
+     0.045
+    ],
+    [
+     "Eugene Mele",
+     0.02
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1141914",
+   "title": "Russia pneumonic plague spreads abroad?",
+   "slug": "russia-pneumonic-plague-spreads-abroad",
+   "createdAt": "2026-10-06T08:21:32.754962Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/new-pandemic-in-2025-LHjGCD7X6VYI.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Plague",
+    "Russia",
+    "Science",
+    "Pandemics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.765
+    ],
+    [
+     "Yes",
+     0.235
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1140336",
+   "title": "Will Ronaldo post about Messi by October 7?",
+   "slug": "will-ronaldo-post-about-messi-by-october-7",
+   "createdAt": "2026-10-06T01:13:34.256541Z",
+   "endDate": "2026-10-08T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-messi-and-ronaldo-shake-hands-during-world-cup-20260609221211643-Z04dVCOJP9Cw.jpg",
+   "volume": 126.528436,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "Argentina",
+    "Lionel Messi"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.66
+    ],
+    [
+     "Yes",
+     0.34
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1140335",
+   "title": "Will Messi get a guard of honour?",
+   "slug": "will-messi-get-a-guard-of-honour",
+   "createdAt": "2026-10-06T01:13:06.245083Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-lionel-messi-goals-20260611144827122-v2KyXU5G6wUz.jpg",
+   "volume": 12.16666,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "Argentina",
+    "Lionel Messi"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.805
+    ],
+    [
+     "No",
+     0.195
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1140326",
+   "title": "Will Messi's sons join him on the pitch?",
+   "slug": "will-messis-sons-join-him-on-the-pitch",
+   "createdAt": "2026-10-06T01:12:07.814101Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-lionel-messi-goals-20260611144827122-v2KyXU5G6wUz.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "Argentina",
+    "Lionel Messi"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.81
+    ],
+    [
+     "No",
+     0.19
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1140325",
+   "title": "Argentina vs. Benin: Messi Goals",
+   "slug": "argentina-vs-benin-messi-goals",
+   "createdAt": "2026-10-06T01:11:43.822477Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-lionel-messi-goals-20260611144827122-v2KyXU5G6wUz.jpg",
+   "volume": 49.0706,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "Argentina",
+    "Lionel Messi"
+   ],
+   "outcomes": [
+    [
+     "1+",
+     0.89
+    ],
+    [
+     "2+",
+     0.55
+    ],
+    [
+     "3+",
+     0.3
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1140324",
+   "title": "How many minutes will Messi play vs. Benin?",
+   "slug": "how-many-minutes-will-messi-play-vs-benin",
+   "createdAt": "2026-10-06T01:11:33.686071Z",
+   "endDate": "2026-10-07T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/world-cup-lionel-messi-goals-20260611144827122-v2KyXU5G6wUz.jpg",
+   "volume": 11.1616,
+   "tags": [
+    "Soccer",
+    "Sports",
+    "Argentina",
+    "Lionel Messi"
+   ],
+   "outcomes": [
+    [
+     "90",
+     0.495
+    ],
+    [
+     "86-89",
+     0.485
+    ],
+    [
+     "46-70",
+     0.38
+    ]
+   ],
+   "nMarkets": 6
+  },
   {
    "id": "1134815",
    "title": "NBA: LeBron James to Reach 45,000 Career Points in 2026-27?",
@@ -3274,461 +3748,6 @@
     ]
    ],
    "nMarkets": 4
-  },
-  {
-   "id": "1062184",
-   "title": "Clavicular arrested by...?",
-   "slug": "clavicular-arrested-byptptpt",
-   "createdAt": "2026-09-22T03:43:56.322474Z",
-   "endDate": "2026-10-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/clavicular-arrested-byptptpt-Q-4z3WAk8dEr.jpg",
-   "volume": 2167.464659,
-   "tags": [
-    "clav",
-    "Courts",
-    "Culture",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "September 30",
-     0.105
-    ],
-    [
-     "September 25",
-     0.036
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1062183",
-   "title": "Clavicular in jail by...?",
-   "slug": "clavicular-in-jail-by-september-30",
-   "createdAt": "2026-09-22T03:42:23.680473Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/clavicular-in-jail-by-january-31-jD8dt1O_FtHV.jpg",
-   "volume": 1488.478455,
-   "tags": [
-    "clav",
-    "arrest",
-    "Culture",
-    "charges"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.245
-    ],
-    [
-     "September 30",
-     0.095
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1062174",
-   "title": "Clavicular convicted of rape?",
-   "slug": "clavicular-convicted-of-rape",
-   "createdAt": "2026-09-22T03:41:49.549386Z",
-   "endDate": "2028-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/clavicular-arrested-byptptpt-Q-4z3WAk8dEr.jpg",
-   "volume": 2.083325,
-   "tags": [
-    "Courts",
-    "Culture",
-    "Clavicular"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.56
-    ],
-    [
-     "Yes",
-     0.44
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1062173",
-   "title": "Clavicular charges dropped by October 31?",
-   "slug": "clavicular-charges-dropped-by-october-31",
-   "createdAt": "2026-09-22T03:41:22.830283Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/clavicular-in-jail-by-january-31-jD8dt1O_FtHV.jpg",
-   "volume": 0.0,
-   "tags": [
-    "clav",
-    "arrest",
-    "Culture",
-    "charges"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.74
-    ],
-    [
-     "Yes",
-     0.26
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1061803",
-   "title": "Rubio flips Vance for GOP nomination by October 31?",
-   "slug": "rubio-flips-vance-for-gop-nomination-by-october-31",
-   "createdAt": "2026-09-22T01:40:23.953146Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marco-rubio-win-the-2028-us-presidential-election-snF_pVUw4Ymx.png",
-   "volume": 1891.401538,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.9505
-    ],
-    [
-     "Yes",
-     0.0495
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1061408",
-   "title": "What will the next Muse model family be named?",
-   "slug": "what-will-the-next-muse-model-family-be-named-20260903153257527",
-   "createdAt": "2026-09-21T23:12:47.978009Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/meta-release-llama-5-in-2025-zvazULg3wbGG.jpg",
-   "volume": 20.049859,
-   "tags": [
-    "AI",
-    "Meta",
-    "Tech",
-    "AI Releases"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Placeholder 1",
-     0.5
-    ],
-    [
-     "Placeholder 2",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
-  },
-  {
-   "id": "1061358",
-   "title": "Who will attend the White House state dinner for Xi Jinping?",
-   "slug": "who-will-attend-the-white-house-state-dinner-for-xi-jinping",
-   "createdAt": "2026-09-21T23:03:07.25848Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-attend-trumps-xi-summit-s8kkZcdqZHRv.jpg",
-   "volume": 10505.563701,
-   "tags": [
-    "AI",
-    "China",
-    "Trump",
-    "Big Tech"
-   ],
-   "outcomes": [
-    [
-     "Elon Musk",
-     0.9925
-    ],
-    [
-     "Jensen Huang",
-     0.989
-    ],
-    [
-     "Tim Cook",
-     0.953
-    ]
-   ],
-   "nMarkets": 10
-  },
-  {
-   "id": "1061349",
-   "title": "Which parties will be in the next Israeli government?",
-   "slug": "which-parties-will-be-in-the-next-israeli-government",
-   "createdAt": "2026-09-21T23:00:29.210768Z",
-   "endDate": "2027-06-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
-   "volume": 2456.594617,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Yashar",
-     0.69
-    ],
-    [
-     "Together",
-     0.665
-    ],
-    [
-     "Shas",
-     0.615
-    ]
-   ],
-   "nMarkets": 15
-  },
-  {
-   "id": "1061341",
-   "title": "When will Xi leave the USA?",
-   "slug": "when-will-xi-leave-the-usa-20260916",
-   "createdAt": "2026-09-21T22:57:11.076063Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-attend-trumps-xi-summit-s8kkZcdqZHRv.jpg",
-   "volume": 446.486733,
-   "tags": [
-    "China",
-    "Trump",
-    "Politics",
-    "xi jinping"
-   ],
-   "outcomes": [
-    [
-     "September 25",
-     0.94
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "September 26",
-     0.045
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1061332",
-   "title": "Serbia Parliamentary Election Winner",
-   "slug": "serbia-parliamentary-election-winner-2026",
-   "createdAt": "2026-09-21T22:56:00.964765Z",
-   "endDate": "2026-10-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
-   "volume": 4893.540445,
-   "tags": [
-    "Serbia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Aleksandar Vu\u010di\u0107 \u2013 United Serbia",
-     0.645
-    ],
-    [
-     "List A",
-     0.5
-    ],
-    [
-     "List B",
-     0.5
-    ]
-   ],
-   "nMarkets": 37
-  },
-  {
-   "id": "1061182",
-   "title": "US Announces Diesel Export ban by...?",
-   "slug": "us-announces-diesel-export-ban-byptptpt",
-   "createdAt": "2026-09-21T22:10:20.921616Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-diesel-export-ban-byptptpt-25VbWbFEGaE9.jpg",
-   "volume": 485.222264,
-   "tags": [
-    "gas",
-    "Trump",
-    "diesel",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.18
-    ],
-    [
-     "September 30",
-     0.105
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1061038",
-   "title": "Next GPT Luna Model (5.7+) released on...?",
-   "slug": "next-gpt-luna-model-5pt7-released-onptptpt-20260921193832425",
-   "createdAt": "2026-09-21T21:21:09.250507Z",
-   "endDate": "2026-10-15T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
-   "volume": 3663.508175,
-   "tags": [
-    "AI",
-    "gpt",
-    "Tech",
-    "OpenAI"
-   ],
-   "outcomes": [
-    [
-     "September 23",
-     0.425
-    ],
-    [
-     "September 24",
-     0.25
-    ],
-    [
-     "October 13",
-     0.17
-    ]
-   ],
-   "nMarkets": 25
-  },
-  {
-   "id": "1061037",
-   "title": "Next GPT Luna Model (5.7+): Text Arena Debut?",
-   "slug": "next-gpt-luna-model-5pt7-text-arena-debut-20260921193832425",
-   "createdAt": "2026-09-21T21:19:52.789641Z",
-   "endDate": "2027-06-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
-   "volume": 6860.408308,
-   "tags": [
-    "AI",
-    "gpt",
-    "Tech",
-    "Debut"
-   ],
-   "outcomes": [
-    [
-     "1430+",
-     0.78
-    ],
-    [
-     "1440+",
-     0.465
-    ],
-    [
-     "1450+",
-     0.3
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1061020",
-   "title": "How strong will Hurricane Polo be?",
-   "slug": "what-category-will-hurricane-polo-reach",
-   "createdAt": "2026-09-21T21:11:01.569473Z",
-   "endDate": "2026-10-16T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-category-will-hurricane-imelda-reach-4K4KXHqKhcbw.jpg",
-   "volume": 3546.418698,
-   "tags": [
-    "Weather",
-    "climate",
-    "hurricane",
-    "Hurricane Season"
-   ],
-   "outcomes": [
-    [
-     "Category 5",
-     0.805
-    ],
-    [
-     "Category 4",
-     0.15
-    ],
-    [
-     "Category 2",
-     0.025
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1061003",
-   "title": "Next GPT Sol Model (5.7+): Text Arena Debut?",
-   "slug": "next-gpt-sol-model-5pt7-text-arena-debut-20260921193139678",
-   "createdAt": "2026-09-21T21:07:26.489729Z",
-   "endDate": "2027-06-30T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
-   "volume": 9318.770149999998,
-   "tags": [
-    "AI",
-    "gpt",
-    "Tech",
-    "Debut"
-   ],
-   "outcomes": [
-    [
-     "1450+",
-     0.67
-    ],
-    [
-     "1460+",
-     0.28
-    ],
-    [
-     "1470+",
-     0.27
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1060994",
-   "title": "Next GPT Sol Model (5.7+) released on...?",
-   "slug": "next-gpt-sol-model-5pt7-released-onptptpt-20260921193139678",
-   "createdAt": "2026-09-21T21:01:32.431454Z",
-   "endDate": "2026-10-06T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
-   "volume": 12592.38957,
-   "tags": [
-    "AI",
-    "gpt",
-    "Tech",
-    "OpenAI"
-   ],
-   "outcomes": [
-    [
-     "On or prior to September 22",
-     0.415
-    ],
-    [
-     "September 23",
-     0.22
-    ],
-    [
-     "September 24",
-     0.215
-    ]
-   ],
-   "nMarkets": 15
   }
  ]
 }

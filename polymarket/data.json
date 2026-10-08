@@ -1,6 +1,315 @@
 {
- "generatedAt": "2026-10-07T10:42:09.482008+00:00",
+ "generatedAt": "2026-10-08T11:02:25.256661+00:00",
  "questions": [
+  {
+   "id": "1152863",
+   "title": "Syrian troops enter Yemen by...?",
+   "slug": "syrian-troops-enter-yemen-by",
+   "createdAt": "2026-10-08T09:10:17.722633Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/yesy-57eeac9739.png",
+   "volume": 237.53,
+   "tags": [
+    "Syria",
+    "Yemen",
+    "Military",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.235
+    ],
+    [
+     "October 31",
+     0.0425
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1151207",
+   "title": "Senate Three-Way Combo: Michigan, Minnesota, New Hampshire",
+   "slug": "senate-three-way-combo-michigan-minnesota-new-hampshire",
+   "createdAt": "2026-10-08T00:44:22.177404Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-three-way-combo-michigan-minnesota-new-hampshire-wo9dvXulHCIm.png",
+   "volume": 1878.746496,
+   "tags": [
+    "Politics",
+    "election",
+    "John Sununu",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Dems sweep",
+     0.645
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Dems MI & MN, Reps NH",
+     0.23
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1151206",
+   "title": "Senate Three-Way Combo: Ohio, Iowa, Maine",
+   "slug": "senate-three-way-combo-ohio-iowa-maine",
+   "createdAt": "2026-10-08T00:43:05.903988Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-three-way-combo-ohio-iowa-maine-ktPEOfjinn5H.png",
+   "volume": 60.0,
+   "tags": [
+    "Politics",
+    "election",
+    "Jon Husted",
+    "Josh Turek"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Dems sweep",
+     0.385
+    ],
+    [
+     "Reps OH & ME, Dems IA",
+     0.245
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1151169",
+   "title": "What will JD Vance say during his Midterm Rally in Ohio?",
+   "slug": "what-will-jd-vance-say-during-his-midterm-rally-in-ohio-october-9-vance",
+   "createdAt": "2026-10-08T00:31:20.689889Z",
+   "endDate": "2026-10-09T16:20:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
+   "volume": 393.21,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Border",
+     0.865
+    ],
+    [
+     "Tax on Tips / Tax on Overtime",
+     0.855
+    ],
+    [
+     "Election",
+     0.84
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1151166",
+   "title": "What will Trump say during his Midterm Rally in New York?",
+   "slug": "what-will-trump-say-during-his-midterm-rally-in-new-york-october-9",
+   "createdAt": "2026-10-08T00:30:19.40037Z",
+   "endDate": "2026-10-09T23:05:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
+   "volume": 2540.092971,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "1776",
+     0.865
+    ],
+    [
+     "Crime / Criminal 10+ times",
+     0.815
+    ],
+    [
+     "Micron",
+     0.805
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "1151066",
+   "title": "Will SI.gov launch by...?",
+   "slug": "will-siptgov-launch-by",
+   "createdAt": "2026-10-08T00:05:36.190774Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-government-bans-another-ai-model-in-2026-20260702220719625-AW1AQhcUGUan.jpg",
+   "volume": 1764.663304,
+   "tags": [
+    "AI",
+    "All",
+    "technology",
+    "artificial intelligence"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.59
+    ],
+    [
+     "October 15",
+     0.47
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1151065",
+   "title": "Will AI.gov be renamed to SI.gov by...?",
+   "slug": "will-aiptgov-be-renamed-to-siptgov-by",
+   "createdAt": "2026-10-08T00:04:21.83362Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-government-bans-another-ai-model-in-2026-20260702220719625-AW1AQhcUGUan.jpg",
+   "volume": 860.927715,
+   "tags": [
+    "AI",
+    "All",
+    "renaming",
+    "technology"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.37
+    ],
+    [
+     "October 15",
+     0.25
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1151056",
+   "title": "Ljubljana Mayoral Election Winner",
+   "slug": "ljubljana-mayoral-election-winner-2026",
+   "createdAt": "2026-10-08T00:01:30.384864Z",
+   "endDate": "2026-11-16T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/slovenian-parliamentary-election-winner-jNH0iUAqZJs-.jpg",
+   "volume": 1266.817529,
+   "tags": [
+    "Politics",
+    "Slovenia",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Zoran Jankovi\u0107",
+     0.59
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "1151012",
+   "title": "Will Trump meet with Marcos by December 31, 2026?",
+   "slug": "will-trump-meet-with-marcos-by-december-31-2026",
+   "createdAt": "2026-10-07T23:56:39.510076Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-marcos-by-december-31-2026-_1lvMISTBQr3.jpg",
+   "volume": 662.8664930000001,
+   "tags": [
+    "Trump",
+    "Politics",
+    "Geopolitics",
+    "Philippines"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.76
+    ],
+    [
+     "No",
+     0.24
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1150939",
+   "title": "Jair Bolsonaro released from custody by March 31, 2027?",
+   "slug": "jair-bolsonaro-released-from-custody-by-march-31-2027-1791185062998",
+   "createdAt": "2026-10-07T23:33:53.633391Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jair-bolsonaro-in-jail-in-2025-OSL7Q6W6dg2u.jpg",
+   "volume": 59.221796000000005,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.78
+    ],
+    [
+     "No",
+     0.22
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1150916",
+   "title": "Who will Putin meet bilaterally in Turkmenistan?",
+   "slug": "who-will-putin-meet-bilaterally-in-turkmenistan",
+   "createdAt": "2026-10-07T23:26:09.621171Z",
+   "endDate": "2026-10-11T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
+   "volume": 3247.011282,
+   "tags": [
+    "putin",
+    "Russia",
+    "Armenia",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Masoud Pezeshkian",
+     0.88
+    ],
+    [
+     "Alexander Lukashenko",
+     0.78
+    ],
+    [
+     "Ilham Aliyev",
+     0.525
+    ]
+   ],
+   "nMarkets": 8
+  },
   {
    "id": "1147575",
    "title": "UBS announces move out of Switzerland by...?",
@@ -3222,417 +3531,6 @@
     ]
    ],
    "nMarkets": 9
-  },
-  {
-   "id": "1073308",
-   "title": "What will GPT Sol's output token price hit in 2026?",
-   "slug": "what-will-gpt-sol-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:41:42.125373Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-announces-it-has-achieved-agi-in-2025-xKDwO2QRBchw.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "OpenAI",
-    "Compute"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $20",
-     0.5
-    ],
-    [
-     "\u2191 $15",
-     0.5
-    ],
-    [
-     "\u2193 $8",
-     0.5
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1073307",
-   "title": "What will GPT Astra's output token price hit in 2026?",
-   "slug": "what-will-gpt-astra-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:41:08.786924Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-announces-it-has-achieved-agi-in-2025-xKDwO2QRBchw.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "OpenAI",
-    "Compute"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $100",
-     0.5
-    ],
-    [
-     "\u2191 $75",
-     0.5
-    ],
-    [
-     "\u2191 $60",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1073288",
-   "title": "What will Claude Opus's output token price hit in 2026?",
-   "slug": "what-will-claude-opus-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:36:35.38179Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-acquired-in-2025-kX0mpsBdqxEL.png",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Claude",
-    "Compute"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $50",
-     0.5
-    ],
-    [
-     "\u2191 $30",
-     0.5
-    ],
-    [
-     "\u2191 $25",
-     0.5
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1073287",
-   "title": "What will Claude Sonnet's output token price hit in 2026?",
-   "slug": "what-will-claude-sonnet-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:36:25.649078Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-acquired-in-2025-kX0mpsBdqxEL.png",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Claude",
-    "Compute"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $20",
-     0.5
-    ],
-    [
-     "\u2191 $15",
-     0.5
-    ],
-    [
-     "\u2193 $8",
-     0.5
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1073286",
-   "title": "What will Claude Fable's output token price hit in 2026?",
-   "slug": "what-will-claude-fable-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:36:21.689997Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-acquired-in-2025-kX0mpsBdqxEL.png",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Claude",
-    "Compute"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $70",
-     0.5
-    ],
-    [
-     "\u2191 $60",
-     0.5
-    ],
-    [
-     "\u2191 $55",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1073269",
-   "title": "What will Anthropic's frontier output token price hit in 2026?",
-   "slug": "what-will-anthropics-frontier-output-token-price-hit-in-2026",
-   "createdAt": "2026-09-24T08:24:40.12468Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-acquired-in-2025-kX0mpsBdqxEL.png",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Compute",
-    "Anthropic"
-   ],
-   "outcomes": [
-    [
-     "\u2191 $75",
-     0.5
-    ],
-    [
-     "\u2191 $50",
-     0.5
-    ],
-    [
-     "\u2191 $30",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1073129",
-   "title": "Abiy Ahmed out as Prime Minister of Ethiopia in 2026?",
-   "slug": "abiy-ahmed-out-as-prime-minister-of-ethiopia-in-2026",
-   "createdAt": "2026-09-24T07:37:29.841869Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/abiy-ahmed-out-as-prime-minister-of-ethiopia-by-rv-m596hGAC8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "africa",
-    "Eritrea",
-    "Ethiopia",
-    "Geopolitics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.735
-    ],
-    [
-     "Yes",
-     0.265
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1073078",
-   "title": "Brazil Presidential Election First Round: Turnout",
-   "slug": "brazil-presidential-election-first-round-turnout",
-   "createdAt": "2026-09-24T07:26:00.14803Z",
-   "endDate": "2026-10-05T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "80-82%",
-     0.26
-    ],
-    [
-     "<76%",
-     0.255
-    ],
-    [
-     "76-78%",
-     0.255
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1071611",
-   "title": "What will the Fed rate be at the end of 2027?",
-   "slug": "what-will-the-fed-rate-be-at-the-end-of-2027",
-   "createdAt": "2026-09-23T23:30:35.414983Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-the-fed-rate-be-at-the-end-of-2026-uBdpbEcFD4RN.jpg",
-   "volume": 751.014378,
-   "tags": [
-    "Fed",
-    "Trump",
-    "Politics",
-    "Fed Chair"
-   ],
-   "outcomes": [
-    [
-     "5.25%",
-     0.28
-    ],
-    [
-     "3.25%",
-     0.245
-    ],
-    [
-     "3.75%",
-     0.24
-    ]
-   ],
-   "nMarkets": 15
-  },
-  {
-   "id": "1071370",
-   "title": "#1 Box Office This Weekend?",
-   "slug": "1-box-office-this-weekend",
-   "createdAt": "2026-09-23T22:09:25.332562Z",
-   "endDate": "2026-09-27T12:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/highest-grossing-movie-in-2025-23YRHKqq6Ete.jpg",
-   "volume": 12130.412283,
-   "tags": [
-    "Movies",
-    "Culture",
-    "Box Office"
-   ],
-   "outcomes": [
-    [
-     "Avengers: Endgame Encore",
-     0.59
-    ],
-    [
-     "Film A",
-     0.5
-    ],
-    [
-     "Film B",
-     0.5
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "1071264",
-   "title": "Taylor Swift \"Patient Zero\" First Week Streams?",
-   "slug": "taylor-swift-patient-zero-first-week-streams",
-   "createdAt": "2026-09-23T21:41:04.071686Z",
-   "endDate": "2026-10-02T16:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/taylor-swift-patient-zero-first-week-streams-C4WJgbQLh2FS.png",
-   "volume": 0.0,
-   "tags": [
-    "Music",
-    "Culture",
-    "Taylor Swift",
-    "The Life of a Showgirl"
-   ],
-   "outcomes": [
-    [
-     "50m+",
-     0.745
-    ],
-    [
-     "80m+",
-     0.51
-    ],
-    [
-     "60m+",
-     0.505
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1071234",
-   "title": "Will Spider-Man: Brand New Day reach $1B in domestic box office in 2026?",
-   "slug": "will-spider-man-brand-new-day-cross-1b-in-domestic-box-office",
-   "createdAt": "2026-09-23T21:29:03.365546Z",
-   "endDate": "2026-12-31T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spider-man-brand-new-day-rotten-tomatoes-score-20260630144021976-EOnfqxtMTdxX.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Movies",
-    "Culture",
-    "Box Office",
-    "Spider-Man"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.895
-    ],
-    [
-     "Yes",
-     0.105
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1071160",
-   "title": "Next US Senate Minority Leader?",
-   "slug": "next-us-senate-minority-leader",
-   "createdAt": "2026-09-23T21:01:13.009212Z",
-   "endDate": "2027-01-03T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-senate-majority-leader-oTQNnD2cgB18.png",
-   "volume": 66.25,
-   "tags": [
-    "Trump",
-    "Senate",
-    "Congress",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Person D",
-     0.5
-    ],
-    [
-     "Person E",
-     0.5
-    ],
-    [
-     "Person F",
-     0.5
-    ]
-   ],
-   "nMarkets": 59
-  },
-  {
-   "id": "1071009",
-   "title": "Bulgaria Presidential Election First Round: Margin of Victory",
-   "slug": "bulgaria-presidential-election-first-round-margin-of-victory",
-   "createdAt": "2026-09-23T20:14:11.309258Z",
-   "endDate": "2026-10-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bulgaria-election-scheduled-by-december-31-sj1lowFVfVXg.png",
-   "volume": 325.666667,
-   "tags": [
-    "World",
-    "Bulgaria",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Gyurov 10-20%",
-     0.25
-    ],
-    [
-     "Iotova 40%+",
-     0.23
-    ]
-   ],
-   "nMarkets": 10
   }
  ]
 }

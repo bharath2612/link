@@ -1,6 +1,720 @@
 {
- "generatedAt": "2026-10-08T11:02:25.256661+00:00",
+ "generatedAt": "2026-10-09T11:01:09.017633+00:00",
  "questions": [
+  {
+   "id": "1156890",
+   "title": "Will Starbucks acquire Chipotle in 2026?",
+   "slug": "will-starbucks-acquire-chipotle-in-2026",
+   "createdAt": "2026-10-09T02:12:32.841075Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-starbucks-acquire-chipotle-in-2026-TVoq7Qy-jz5E.jpg",
+   "volume": 5.4945,
+   "tags": [
+    "Economy",
+    "Finance",
+    "acquire",
+    "Starbucks"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.815
+    ],
+    [
+     "Yes",
+     0.185
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156721",
+   "title": "Closer Governor Race: Georgia or Wisconsin?",
+   "slug": "closer-governor-race-georgia-or-wisconsin",
+   "createdAt": "2026-10-09T01:22:33.66212Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/usgubclose-ga-wi-2026-11-03-ecf402df74.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "US Election",
+    "Georgia Midterm"
+   ],
+   "outcomes": [
+    [
+     "Georgia",
+     0.65
+    ],
+    [
+     "Wisconsin",
+     0.35
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156264",
+   "title": "Closer Governor Race: Pennsylvania or Illinois?",
+   "slug": "closer-governor-race-pennsylvania-or-illinois",
+   "createdAt": "2026-10-08T22:59:55.812274Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/usgubclose-pa-il-2026-11-03-6e90ed0bbb.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "US Election",
+    "Illinois Midterm"
+   ],
+   "outcomes": [
+    [
+     "Illinois",
+     0.505
+    ],
+    [
+     "Pennsylvania",
+     0.495
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156263",
+   "title": "Closer Governor Race: California or New York?",
+   "slug": "closer-governor-race-california-or-new-york",
+   "createdAt": "2026-10-08T22:57:46.707342Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/usgubclose-ca-ny-2026-11-03-69aedcd128.jpg",
+   "volume": 63.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "US Election",
+    "New York Midterm"
+   ],
+   "outcomes": [
+    [
+     "New York",
+     0.605
+    ],
+    [
+     "California",
+     0.395
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156254",
+   "title": "Closer Governor Race: New York or Pennsylvania?",
+   "slug": "closer-governor-race-new-york-or-pennsylvania",
+   "createdAt": "2026-10-08T22:57:19.371367Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/usgubclose-ny-pa-2026-11-03-ad0394f48b.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "US Election",
+    "New York Midterm"
+   ],
+   "outcomes": [
+    [
+     "New York",
+     0.57
+    ],
+    [
+     "Pennsylvania",
+     0.43
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156204",
+   "title": "Closer Senate Race: South Dakota or New Mexico?",
+   "slug": "closer-senate-race-south-dakota-or-new-mexico",
+   "createdAt": "2026-10-08T22:43:54.944431Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/closer-senate-race-south-dakota-or-new-mexico-ieW0O_Xh628a.jpg",
+   "volume": 30.0,
+   "tags": [
+    "Senate",
+    "Midterms",
+    "Politics",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "South Dakota",
+     0.735
+    ],
+    [
+     "New Mexico",
+     0.265
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156203",
+   "title": "Closer Senate Race: Iowa or Maine?",
+   "slug": "closer-senate-race-iowa-or-maine",
+   "createdAt": "2026-10-08T22:42:26.055871Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/closer-senate-race-iowa-or-maine-TC2q8XEwq35Y.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Senate",
+    "Midterms",
+    "Politics",
+    "Josh Turek"
+   ],
+   "outcomes": [
+    [
+     "Iowa",
+     0.55
+    ],
+    [
+     "Maine",
+     0.45
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1156174",
+   "title": "Riyadh airport closed to departures for 24 hours by...?",
+   "slug": "riyadh-airport-closed-to-departures-for-24-hours-byptptpt",
+   "createdAt": "2026-10-08T22:35:37.084444Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi+arabia+skyline+riyadh.png",
+   "volume": 1488.610856,
+   "tags": [
+    "Iran",
+    "Yemen",
+    "Houthis",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.23
+    ],
+    [
+     "October 15",
+     0.085
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1156124",
+   "title": "What will Trump say during his Midterm Rally in Ohio?",
+   "slug": "what-will-trump-say-during-his-midterm-rally-in-ohio-october-12",
+   "createdAt": "2026-10-08T22:13:13.757537Z",
+   "endDate": "2026-10-12T22:05:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
+   "volume": 1259.529167,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Fake News",
+     0.885
+    ],
+    [
+     "Transgender",
+     0.87
+    ],
+    [
+     "Steel",
+     0.77
+    ]
+   ],
+   "nMarkets": 19
+  },
+  {
+   "id": "1156087",
+   "title": "Maple Ridge-Pitt Meadows British Columbia Legislative Assembly Election Winner",
+   "slug": "maple-ridge-pitt-meadows-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:06:55.34399Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 868.236501,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156086",
+   "title": "Surrey-Newton British Columbia Legislative Assembly Election Winner",
+   "slug": "surrey-newton-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:06:31.432331Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 147.5351,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1156085",
+   "title": "Burnaby South-Metrotown British Columbia Legislative Assembly Election Winner",
+   "slug": "burnaby-south-metrotown-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:06:17.247138Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 230.971277,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156084",
+   "title": "North Island British Columbia Legislative Assembly Election Winner",
+   "slug": "north-island-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:06:03.253123Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Anna Kindy",
+     0.625
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156082",
+   "title": "Surrey-Guildford British Columbia Legislative Assembly Election Winner",
+   "slug": "surrey-guildford-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:05:17.727714Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 693.310583,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156081",
+   "title": "Kelowna Centre British Columbia Legislative Assembly Election Winner",
+   "slug": "kelowna-centre-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:04:49.357652Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 639.4633,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Kristina Loewen",
+     0.55
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1156080",
+   "title": "Coquitlam-Burke Mountain British Columbia Legislative Assembly Election Winner",
+   "slug": "coquitlam-burke-mountain-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:04:42.76919Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 245.975673,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Jodie Wickens",
+     0.65
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156079",
+   "title": "Richmond-Steveston British Columbia Legislative Assembly Election Winner",
+   "slug": "richmond-steveston-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:04:28.980864Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 176.32,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Gordon Zhang",
+     0.705
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "1156078",
+   "title": "Vernon-Lumby British Columbia Legislative Assembly Election Winner",
+   "slug": "vernon-lumby-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:04:11.695776Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 794.243641,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156077",
+   "title": "Surrey City Centre British Columbia Legislative Assembly Election Winner",
+   "slug": "surrey-city-centre-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:03:57.114978Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 717.788014,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156076",
+   "title": "Courtenay-Comox British Columbia Legislative Assembly Election Winner",
+   "slug": "courtenay-comox-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:03:41.941097Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 60.0,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Brennan Day",
+     0.5
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156075",
+   "title": "Vancouver-Langara British Columbia Legislative Assembly Election Winner",
+   "slug": "vancouver-langara-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:03:30.422298Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 191.78029899999999,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156074",
+   "title": "Vancouver-Yaletown British Columbia Legislative Assembly Election Winner",
+   "slug": "vancouver-yaletown-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:03:21.54332Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 981.29795,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "1156073",
+   "title": "Cowichan Valley British Columbia Legislative Assembly Election Winner",
+   "slug": "cowichan-valley-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:02:47.677038Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 58.59,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1156072",
+   "title": "Surrey-Fleetwood British Columbia Legislative Assembly Election Winner",
+   "slug": "surrey-fleetwood-british-columbia-legislative-assembly-election-winner",
+   "createdAt": "2026-10-08T22:02:33.766252Z",
+   "endDate": "2026-10-25T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bc26-flag-4ce1137620.jpg",
+   "volume": 79.9041,
+   "tags": [
+    "World",
+    "Canada",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 32
+  },
+  {
+   "id": "1156063",
+   "title": "Iran releases Trump Hormuz voicemail by...?",
+   "slug": "iran-releases-trump-hormuz-voicemail-byptptpt",
+   "createdAt": "2026-10-08T22:01:25.789434Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-releases-trump-hormuz-voicemail-byptptpt-iDWEpkeVl_1W.jpg",
+   "volume": 4643.76955,
+   "tags": [
+    "Iran",
+    "Trump",
+    "Politics",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.066
+    ],
+    [
+     "October 15",
+     0.043
+    ]
+   ],
+   "nMarkets": 2
+  },
   {
    "id": "1152863",
    "title": "Syrian troops enter Yemen by...?",
@@ -3446,91 +4160,6 @@
     ]
    ],
    "nMarkets": 37
-  },
-  {
-   "id": "1076462",
-   "title": "Which party will win white voters in the midterms?",
-   "slug": "which-party-will-win-white-voters-in-the-midterms",
-   "createdAt": "2026-09-24T22:53:29.384177Z",
-   "endDate": "2026-11-06T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-will-win-white-voters-in-the-midterms--JKAQz_ZohZ-.jpg",
-   "volume": 1290.258417,
-   "tags": [
-    "Polling",
-    "Midterms",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Republicans",
-     0.695
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1076421",
-   "title": "Polo makes landfall in Mexico as a hurricane?",
-   "slug": "will-polo-make-landfall-in-mexico-as-a-hurricane-1790286699101",
-   "createdAt": "2026-09-24T22:43:45.619582Z",
-   "endDate": "2026-10-07T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-hurricane-imelda-make-landfall-in-the-us-nvI_VwXqUNAV.jpg",
-   "volume": 4391.695427,
-   "tags": [
-    "Mexico",
-    "Weather",
-    "climate",
-    "hurricane"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.785
-    ],
-    [
-     "No",
-     0.215
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1076279",
-   "title": "Pro Football: 2026-27 Last Winless Team",
-   "slug": "pro-football-2026-27-last-winless-team",
-   "createdAt": "2026-09-24T22:04:16.804404Z",
-   "endDate": "2027-01-10T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 20.6101,
-   "tags": [
-    "NFL (All)",
-    "Sports",
-    "football",
-    "Team Futures"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Miami Dolphins",
-     0.29
-    ],
-    [
-     "Tennessee Titans",
-     0.29
-    ]
-   ],
-   "nMarkets": 9
   }
  ]
 }

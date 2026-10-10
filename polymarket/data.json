@@ -1,6 +1,295 @@
 {
- "generatedAt": "2026-10-09T11:01:09.017633+00:00",
+ "generatedAt": "2026-10-10T10:15:43.664248+00:00",
  "questions": [
+  {
+   "id": "1161680",
+   "title": "US imports Russian diesel by October 31?",
+   "slug": "us-imports-russian-diesel-by-october-31",
+   "createdAt": "2026-10-09T22:48:05.535094Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-imports-russian-diesel-by-october-31-_7i_ar2rMxHS.jpg",
+   "volume": 8952.939887000002,
+   "tags": [
+    "Oil",
+    "Trump",
+    "Russia",
+    "diesel"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.765
+    ],
+    [
+     "Yes",
+     0.235
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1161476",
+   "title": "Gyanesh Kumar out as Chief Election Commissioner of India by December 31?",
+   "slug": "gyanesh-kumar-out-as-chief-election-commissioner-of-india-by-december-31",
+   "createdAt": "2026-10-09T21:53:13.733693Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gyanesh-kumar-out-as-chief-election-commissioner-of-india-by-december-31-266jJm6Xk7jN.jpg",
+   "volume": 13.947366,
+   "tags": [
+    "India",
+    "Politics",
+    "cockroach party"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.73
+    ],
+    [
+     "Yes",
+     0.27
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1161466",
+   "title": "Turkish troops enter Yemen by...?",
+   "slug": "turkish-troops-enter-yemen-by",
+   "createdAt": "2026-10-09T21:52:09.465834Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/turkish+flag.jpeg",
+   "volume": 2718.845082,
+   "tags": [
+    "Yemen",
+    "Turkey",
+    "Military",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.175
+    ],
+    [
+     "October 31",
+     0.019
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1161448",
+   "title": "Will Swiss Parliament pass the UBS capital law by June 30, 2027?",
+   "slug": "will-swiss-parliament-pass-the-ubs-capital-law-by-june-30-2027",
+   "createdAt": "2026-10-09T21:51:19.279221Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/switzerlands-march-8-popular-vote-which-referendums-will-pass-kjuMz9X_LLrP.png",
+   "volume": 849.69,
+   "tags": [
+    "banks",
+    "Europe",
+    "Economy",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.86
+    ],
+    [
+     "No",
+     0.14
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1161446",
+   "title": "Israel Election: Which Bloc Wins More Seats?",
+   "slug": "israel-election-which-bloc-wins-more-seats",
+   "createdAt": "2026-10-09T21:50:28.269695Z",
+   "endDate": "2026-10-28T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-JlG6pTiX-iGy.png",
+   "volume": 247.98193,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Opp.",
+     0.535
+    ],
+    [
+     "Bibi",
+     0.465
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1161442",
+   "title": "Alberta Independence Referendum: Margin of Victory",
+   "slug": "alberta-independence-referendum-margin-of-victory",
+   "createdAt": "2026-10-09T21:49:18.13464Z",
+   "endDate": "2026-10-20T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alberta-vote-for-independence-in-2025-bKiHI7Wj8xyo.jpg",
+   "volume": 4270.791783,
+   "tags": [
+    "World",
+    "Canada",
+    "alberta",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Remain 40\u201360%",
+     0.655
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Remain 60\u201380%",
+     0.185
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1161433",
+   "title": "ICE Agent charged in NYC incident by December 31?",
+   "slug": "ice-agent-charged-in-nyc-incident-by-december-31-20261009212453188",
+   "createdAt": "2026-10-09T21:46:55.165045Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-renames-ice-to-nice-by-june-30-3BCRrN9XPSIr.jpg",
+   "volume": 829.7710260000001,
+   "tags": [
+    "DHS",
+    "ICE",
+    "Politics",
+    "New York City"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.805
+    ],
+    [
+     "Yes",
+     0.195
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1161421",
+   "title": "Russia lifts diesel export ban by...?",
+   "slug": "russia-lifts-diesel-export-ban-byptptpt",
+   "createdAt": "2026-10-09T21:41:42.250376Z",
+   "endDate": "2026-10-31T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-flag-9175004a30.jpg",
+   "volume": 1256.5109650000002,
+   "tags": [
+    "Oil",
+    "Russia",
+    "diesel",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "October 30",
+     0.948
+    ],
+    [
+     "October 15",
+     0.615
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1161400",
+   "title": "Ukraine lowers conscription age by...?",
+   "slug": "ukraine-lowers-conscription-age-byptptpt",
+   "createdAt": "2026-10-09T21:33:25.012529Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-lowers-conscription-age-before-june-EajZLMhNSnMm.jpg",
+   "volume": 2794.5365150000002,
+   "tags": [
+    "World",
+    "Ukraine",
+    "Politics",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "March 31",
+     0.155
+    ],
+    [
+     "December 31",
+     0.085
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1161387",
+   "title": "EU lifts ban on Russian diesel imports by...?",
+   "slug": "eu-lifts-ban-on-russian-diesel-imports-by-20261009201217742",
+   "createdAt": "2026-10-09T21:30:32.468645Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eu-increase-sanctions-on-russia-before-july-QHFKNbvZmtTq.png",
+   "volume": 1214.227124,
+   "tags": [
+    "eu",
+    "Oil",
+    "Europe",
+    "Russia"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.105
+    ],
+    [
+     "October 31",
+     0.05
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1161276",
+   "title": "Will Ledger announce compensation or reimbursement for affected users by\u2026",
+   "slug": "will-ledger-announce-compensation-or-reimbursement-for-affected-users-by",
+   "createdAt": "2026-10-09T20:54:31.792947Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ledger-ipo-closing-market-cap-above-jMYPvvVsP1p0.png",
+   "volume": 6335.494341999999,
+   "tags": [
+    "hack",
+    "Crypto",
+    "ledger",
+    "protocol-risk"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.225
+    ],
+    [
+     "October 16",
+     0.115
+    ]
+   ],
+   "nMarkets": 2
+  },
   {
    "id": "1156890",
    "title": "Will Starbucks acquire Chipotle in 2026?",
@@ -3794,372 +4083,6 @@
     ]
    ],
    "nMarkets": 10
-  },
-  {
-   "id": "1083788",
-   "title": "Manchester City punishment announced by...?",
-   "slug": "manchester-city-punishment-announced-by",
-   "createdAt": "2026-09-26T04:20:14.377587Z",
-   "endDate": "2026-12-19T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "November 6",
-     0.5
-    ],
-    [
-     "November 20",
-     0.5
-    ],
-    [
-     "December 4",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1083787",
-   "title": "Will Manchester City be relegated from the Premier League in 2026-27?",
-   "slug": "will-manchester-city-be-relegated-from-the-premier-league-in-2026-27",
-   "createdAt": "2026-09-26T04:17:40.568106Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.855
-    ],
-    [
-     "Yes",
-     0.145
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1083778",
-   "title": "Will Manchester City's 115 charges verdict be overturned by June 30, 2027?",
-   "slug": "will-manchester-citys-115-charges-verdict-be-overturned-by-june-30-2027",
-   "createdAt": "2026-09-26T04:17:29.969636Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.505
-    ],
-    [
-     "Yes",
-     0.495
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1083777",
-   "title": "How many Premier League points will Manchester City be deducted?",
-   "slug": "how-many-premier-league-points-will-manchester-city-be-deducted",
-   "createdAt": "2026-09-26T04:17:12.966753Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "Expelled",
-     0.49
-    ],
-    [
-     "0",
-     0.47
-    ],
-    [
-     "30-49",
-     0.46
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1083772",
-   "title": "Will Manchester City be stripped of a Premier League title by June 30, 2027?",
-   "slug": "will-manchester-city-be-stripped-of-a-premier-league-title-by-june-30-2027",
-   "createdAt": "2026-09-26T04:16:55.336159Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.555
-    ],
-    [
-     "Yes",
-     0.445
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1083771",
-   "title": "Will Manchester City be deducted Premier League points by June 30, 2027?",
-   "slug": "will-manchester-city-be-deducted-premier-league-points-by-june-30-2027",
-   "createdAt": "2026-09-26T04:16:18.258331Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epl-next-manchester-city-manager-Po4SxV72OClZ.jpg",
-   "volume": 0.0,
-   "tags": [
-    "EPL",
-    "Soccer",
-    "Sports",
-    "man city"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.72
-    ],
-    [
-     "No",
-     0.28
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1082782",
-   "title": "LA Mayoral Election: Margin of Victory?",
-   "slug": "la-mayoral-election-margin-of-victory",
-   "createdAt": "2026-09-25T23:28:13.868842Z",
-   "endDate": "2026-11-03T00:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/los-angeles-mayoral-election-117-lQx0FWLF3whu.jpg",
-   "volume": 975.388823,
-   "tags": [
-    "LA Mayor",
-    "Politics",
-    "Elections",
-    "Los Angeles"
-   ],
-   "outcomes": [
-    [
-     "Candidate A wins",
-     0.5
-    ],
-    [
-     "Other wins",
-     0.5
-    ],
-    [
-     "Raman 0-4%",
-     0.315
-    ]
-   ],
-   "nMarkets": 14
-  },
-  {
-   "id": "1082745",
-   "title": "Trump Admin held in contempt over press ban by October 31?",
-   "slug": "trump-admin-held-in-contempt-over-press-ban-by-october-31",
-   "createdAt": "2026-09-25T23:16:06.65364Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cnn-politico-or-msnow-unbanned-from-white-house-by-october-31-Jp-P4EP0LUze.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Trump",
-    "media",
-    "Courts",
-    "speech"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.755
-    ],
-    [
-     "Yes",
-     0.245
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1082733",
-   "title": "Which Dems will underperform Kamala?",
-   "slug": "which-dems-will-underperform-kamala",
-   "createdAt": "2026-09-25T23:09:35.450298Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-dems-underperform-kamala-YcUqV8uFVzCO.jpg",
-   "volume": 1385.404138,
-   "tags": [
-    "Senate",
-    "midterm",
-    "Politics",
-    "Josh Turek"
-   ],
-   "outcomes": [
-    [
-     "Tina Kotek: OR-Gov",
-     0.7
-    ],
-    [
-     "Kathy Hochul: NY-Gov",
-     0.635
-    ],
-    [
-     "Abdul El-Sayed: MI-Sen",
-     0.45
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1082585",
-   "title": "Will Republicans lose any \"Safe Republican\" Senate race?",
-   "slug": "will-republicans-lose-any-safe-republican-senate-race",
-   "createdAt": "2026-09-25T22:32:52.002247Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-republicans-lose-any-safe-republican-senate-race-5HEKJagpcbW9.jpg",
-   "volume": 156.0,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.675
-    ],
-    [
-     "Yes",
-     0.325
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1082278",
-   "title": "Serbia Election: Student List Vote Share?",
-   "slug": "serbia-election-student-list-vote-share",
-   "createdAt": "2026-09-25T21:30:13.306744Z",
-   "endDate": "2026-10-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
-   "volume": 312.870917,
-   "tags": [
-    "Serbia",
-    "Politics",
-    "Elections",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "40-45%",
-     0.49
-    ],
-    [
-     "35-40%",
-     0.26
-    ],
-    [
-     "45-50%",
-     0.195
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1082240",
-   "title": "Serbia Election: United Serbia Vote Share?",
-   "slug": "serbia-election-united-serbia-vote-share",
-   "createdAt": "2026-09-25T21:15:13.293651Z",
-   "endDate": "2026-10-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
-   "volume": 419.135706,
-   "tags": [
-    "Serbia",
-    "Politics",
-    "Elections",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "<35%",
-     0.265
-    ],
-    [
-     "35-40%",
-     0.265
-    ],
-    [
-     "40-45%",
-     0.26
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1082239",
-   "title": "Serbia Parliamentary Election: 3rd Place",
-   "slug": "serbia-parliamentary-election-3rd-place",
-   "createdAt": "2026-09-25T21:12:54.070263Z",
-   "endDate": "2026-10-25T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
-   "volume": 936.755597,
-   "tags": [
-    "Serbia",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "List A",
-     0.5
-    ],
-    [
-     "List B",
-     0.5
-    ],
-    [
-     "List C",
-     0.5
-    ]
-   ],
-   "nMarkets": 37
   }
  ]
 }

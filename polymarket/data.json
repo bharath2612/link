@@ -1,6 +1,92 @@
 {
- "generatedAt": "2026-10-20T09:00:03.949478+00:00",
+ "generatedAt": "2026-10-21T08:59:12.899195+00:00",
  "questions": [
+  {
+   "id": "1226916",
+   "title": "Toronto Mayoral Election: Margin of Victory?",
+   "slug": "toronto-mayoral-election-margin-of-victory-20261016143050914",
+   "createdAt": "2026-10-21T00:24:35.522104Z",
+   "endDate": "2026-10-27T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/toflag-51f961cdf4.png",
+   "volume": 27.0,
+   "tags": [
+    "Canada",
+    "Toronto",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate A wins",
+     0.5
+    ],
+    [
+     "Other wins",
+     0.5
+    ],
+    [
+     "Bradford 4-8%",
+     0.235
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1226915",
+   "title": "France defaults on debt by December 31, 2027?",
+   "slug": "france-defaults-on-debt-by-december-31-2027",
+   "createdAt": "2026-10-21T00:24:15.656137Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 26.05262,
+   "tags": [
+    "World",
+    "Europe",
+    "France",
+    "Economy"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.915
+    ],
+    [
+     "Yes",
+     0.085
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1226760",
+   "title": "Jynxzi beats Elden Ring DLC by...?",
+   "slug": "jynxzi-beats-elden-ring-dlc-by-20261020",
+   "createdAt": "2026-10-20T23:40:05.67849Z",
+   "endDate": "2026-11-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jynxzi-win-streamer-of-the-year-at-the-2026-streamer-awards-0k6cB37W-jMa.jpg",
+   "volume": 2240.841366,
+   "tags": [
+    "Jynxzi",
+    "gaming",
+    "Culture",
+    "streamer"
+   ],
+   "outcomes": [
+    [
+     "October 31",
+     0.7335
+    ],
+    [
+     "October 25",
+     0.63
+    ],
+    [
+     "October 24",
+     0.535
+    ]
+   ],
+   "nMarkets": 5
+  },
   {
    "id": "1202293",
    "title": "Kansas Senate Election: Sedgwick County Winner",
@@ -3221,406 +3307,6 @@
     ]
    ],
    "nMarkets": 1
-  },
-  {
-   "id": "1147379",
-   "title": "Rio Grande do Norte Governor Election Second Round: Margin of Victory",
-   "slug": "rio-grande-do-norte-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-07T08:45:29.964633Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-rn-f22ab6ddc3.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Cadu wins",
-     0.435
-    ],
-    [
-     "Allyson <3%",
-     0.42
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1147376",
-   "title": "Esp\u00edrito Santo Governor Election Second Round: Margin of Victory",
-   "slug": "espirito-santo-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-07T08:45:08.035438Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/espirito-santo-governor-election-winner-20260611183840001-I1gfK7NjUbMq.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Pazolini <5%",
-     0.265
-    ],
-    [
-     "Pazolini 5-10%",
-     0.26
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1147375",
-   "title": "Amazonas Governor Election Second Round: Margin of Victory",
-   "slug": "amazonas-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-07T08:44:34.513853Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-am-8d175f4c00.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Aziz 3-6%",
-     0.265
-    ],
-    [
-     "Aziz 15%+",
-     0.26
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1142254",
-   "title": "Rio de Janeiro Governor Election Second Round: Margin of Victory",
-   "slug": "rio-de-janeiro-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-06T10:02:02.06896Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/rio-de-janeiro-governor-election-winner-20260608202949176-i4xaMQiRjV57.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Ruas 15-20%",
-     0.355
-    ],
-    [
-     "Paes wins",
-     0.355
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1142253",
-   "title": "Federal District Governor Election Second Round: Margin of Victory",
-   "slug": "federal-district-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-06T10:00:45.776421Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-df-1fa7f8d066.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Celina 10-15%",
-     0.49
-    ],
-    [
-     "Celina 20-25%",
-     0.425
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1142243",
-   "title": "Acre Governor Election Second Round: Margin of Victory",
-   "slug": "acre-governor-election-second-round-margin-of-victory",
-   "createdAt": "2026-10-06T09:58:52.387879Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brgov-flag-ac-230f5a9d0a.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Mailza 10-15%",
-     0.485
-    ],
-    [
-     "Mailza 5-10%",
-     0.335
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1142234",
-   "title": "Brazil Presidential Election Second Round: Any Candidate Gets Most Votes Ever?",
-   "slug": "brazil-presidential-election-second-round-any-candidate-gets-most-votes-ever",
-   "createdAt": "2026-10-06T09:56:20.685273Z",
-   "endDate": "2026-10-26T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.51
-    ],
-    [
-     "No",
-     0.49
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1142232",
-   "title": "Lula x Fl\u00e1vio Bolsonaro debate before second round?",
-   "slug": "lula-x-flavio-bolsonaro-debate-before-second-round",
-   "createdAt": "2026-10-06T09:55:34.217668Z",
-   "endDate": "2026-10-24T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-debate-lula-flavio-bcf1ef3f6a.jpg",
-   "volume": 50.0,
-   "tags": [
-    "Brazil",
-    "Politics",
-    "Elections",
-    "Global Elections"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.71
-    ],
-    [
-     "No",
-     0.29
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1142212",
-   "title": "Israel Election: Likud or Yashar in Government?",
-   "slug": "israel-election-likud-or-yashar-in-government",
-   "createdAt": "2026-10-06T09:50:22.53019Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/il26-likud-vs-yashar-944cdb77a9.jpg",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Yashar",
-     0.54
-    ],
-    [
-     "Likud",
-     0.46
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1142203",
-   "title": "Tennessee makes electric chair execution default in 2026?",
-   "slug": "tennessee-makes-electric-chair-execution-default-in-2026",
-   "createdAt": "2026-10-06T09:46:38.325124Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tennessee-announces-reintroduction-of-the-electric-chair-by-20261002142611133-ZOsM7P3WnPpT.jpg",
-   "volume": 20.0,
-   "tags": [
-    "law",
-    "crime",
-    "states",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.66
-    ],
-    [
-     "Yes",
-     0.34
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1142116",
-   "title": "Nobel Peace Prize 2026 awarded to an individual?",
-   "slug": "nobel-peace-prize-2026-awarded-to-an-individual",
-   "createdAt": "2026-10-06T09:07:15.071038Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
-   "volume": 200.0,
-   "tags": [
-    "Awards",
-    "Culture",
-    "nobel",
-    "Nobel Prize"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.545
-    ],
-    [
-     "No",
-     0.455
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1142093",
-   "title": "Nobel Economics Prize Winner 2026",
-   "slug": "nobel-economics-prize-winner-2026",
-   "createdAt": "2026-10-06T09:04:31.659536Z",
-   "endDate": "2026-10-13T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
-   "volume": 5429.61373,
-   "tags": [
-    "nobel",
-    "Awards",
-    "Culture",
-    "Nobel Prize"
-   ],
-   "outcomes": [
-    [
-     "Ariel Pakes",
-     0.35
-    ],
-    [
-     "Susan Athey",
-     0.195
-    ],
-    [
-     "Robert Barro",
-     0.16
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1142081",
-   "title": "Nobel Chemistry Prize Winner 2026",
-   "slug": "nobel-chemistry-prize-winner-2026",
-   "createdAt": "2026-10-06T09:00:17.082926Z",
-   "endDate": "2026-10-08T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
-   "volume": 1437.434546,
-   "tags": [
-    "nobel",
-    "Awards",
-    "Culture",
-    "Nobel Prize"
-   ],
-   "outcomes": [
-    [
-     "Shankar Balasubramanian",
-     0.14
-    ],
-    [
-     "Bonnie Bassler",
-     0.14
-    ],
-    [
-     "David Liu",
-     0.13
-    ]
-   ],
-   "nMarkets": 30
-  },
-  {
-   "id": "1142080",
-   "title": "Nobel Physics Prize Winner 2026",
-   "slug": "nobel-physics-prize-winner-2026",
-   "createdAt": "2026-10-06T09:00:11.776907Z",
-   "endDate": "2026-10-07T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nobel-peace-prize-winner-2025-386lTPX7gsMl.jpg",
-   "volume": 4873.948799,
-   "tags": [
-    "nobel",
-    "Awards",
-    "Culture",
-    "Nobel Prize"
-   ],
-   "outcomes": [
-    [
-     "Pablo Jarillo-Herrero",
-     0.235
-    ],
-    [
-     "John Preskill",
-     0.045
-    ],
-    [
-     "Eugene Mele",
-     0.02
-    ]
-   ],
-   "nMarkets": 24
   }
  ]
 }

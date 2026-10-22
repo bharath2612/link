@@ -1,6 +1,2339 @@
 {
- "generatedAt": "2026-10-21T08:59:12.899195+00:00",
+ "generatedAt": "2026-10-22T09:01:41.929889+00:00",
  "questions": [
+  {
+   "id": "1232510",
+   "title": "Will Katie Zacharia be officially given a new role in the Trump administration by December 31?",
+   "slug": "will-katie-zacharia-be-officially-given-a-new-role-in-the-trump-administration-by-december-31-20261016153323657",
+   "createdAt": "2026-10-22T00:04:15.873247Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/katie-zacharia-out-as-press-secretary-by-october-31-5UTtL35WMk06.jpg",
+   "volume": 194.26048,
+   "tags": [
+    "Trump",
+    "Politics",
+    "Trump Cabinet"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.71
+    ],
+    [
+     "Yes",
+     0.29
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1232501",
+   "title": "Spain General Election: Ourense Winner",
+   "slug": "spain-general-election-ourense-winner",
+   "createdAt": "2026-10-22T00:03:31.718318Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 488.837021,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232500",
+   "title": "Spain General Election: Palencia Winner",
+   "slug": "spain-general-election-palencia-winner",
+   "createdAt": "2026-10-22T00:03:30.942791Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 837.2832370000001,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232499",
+   "title": "Spain General Election: Pontevedra Winner",
+   "slug": "spain-general-election-pontevedra-winner",
+   "createdAt": "2026-10-22T00:03:26.317331Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 718.127161,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.775
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232498",
+   "title": "Spain General Election: Salamanca Winner",
+   "slug": "spain-general-election-salamanca-winner",
+   "createdAt": "2026-10-22T00:03:08.719566Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 281.066966,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.775
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232497",
+   "title": "Spain General Election: Santa Cruz de Tenerife Winner",
+   "slug": "spain-general-election-santa-cruz-de-tenerife-winner",
+   "createdAt": "2026-10-22T00:03:07.92287Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 361.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232496",
+   "title": "Spain General Election: Segovia Winner",
+   "slug": "spain-general-election-segovia-winner",
+   "createdAt": "2026-10-22T00:02:56.730503Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 22.381283,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.645
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232495",
+   "title": "Spain General Election: Seville Winner",
+   "slug": "spain-general-election-seville-winner",
+   "createdAt": "2026-10-22T00:02:42.848123Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 332.140514,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232494",
+   "title": "Spain General Election: Soria Winner",
+   "slug": "spain-general-election-soria-winner",
+   "createdAt": "2026-10-22T00:02:38.052286Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 941.507189,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.77
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232493",
+   "title": "Spain General Election: Tarragona Winner",
+   "slug": "spain-general-election-tarragona-winner",
+   "createdAt": "2026-10-22T00:02:30.072617Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 826.370982,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.54
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232492",
+   "title": "Spain General Election: Teruel Winner",
+   "slug": "spain-general-election-teruel-winner",
+   "createdAt": "2026-10-22T00:02:26.103793Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 200.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.645
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232465",
+   "title": "Spain General Election: Navarre Winner",
+   "slug": "spain-general-election-navarre-winner",
+   "createdAt": "2026-10-22T00:00:50.511477Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1783.898848,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.815
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232463",
+   "title": "What will Trump say during his Midterm Rally in Iowa?",
+   "slug": "what-will-trump-say-during-his-midterm-rally-in-iowa-october-22",
+   "createdAt": "2026-10-22T00:00:31.925216Z",
+   "endDate": "2026-10-22T23:05:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
+   "volume": 6145.608525,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Midterms"
+   ],
+   "outcomes": [
+    [
+     "France / Paris",
+     0.87
+    ],
+    [
+     "Russia / Ukraine",
+     0.67
+    ],
+    [
+     "SI / Super Intelligence",
+     0.635
+    ]
+   ],
+   "nMarkets": 19
+  },
+  {
+   "id": "1232452",
+   "title": "Spain General Election: Murcia Winner",
+   "slug": "spain-general-election-murcia-winner",
+   "createdAt": "2026-10-21T23:58:24.142986Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 836.596558,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.75
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232451",
+   "title": "Spain General Election: Melilla Winner",
+   "slug": "spain-general-election-melilla-winner",
+   "createdAt": "2026-10-21T23:58:11.994745Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1349.958558,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.765
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232450",
+   "title": "Spain General Election: M\u00e1laga Winner",
+   "slug": "spain-general-election-malaga-winner",
+   "createdAt": "2026-10-21T23:58:03.339626Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 2289.818833,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.9295
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232440",
+   "title": "Spain General Election: Toledo Winner",
+   "slug": "spain-general-election-toledo-winner",
+   "createdAt": "2026-10-21T23:54:16.278605Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 511.5,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.57
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232439",
+   "title": "Spain General Election: Valencia Winner",
+   "slug": "spain-general-election-valencia-winner",
+   "createdAt": "2026-10-21T23:54:11.40762Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 10.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.705
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "1232438",
+   "title": "Spain General Election: Valladolid Winner",
+   "slug": "spain-general-election-valladolid-winner",
+   "createdAt": "2026-10-21T23:54:06.228054Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 3000.308423,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.94
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232437",
+   "title": "Spain General Election: Zamora Winner",
+   "slug": "spain-general-election-zamora-winner",
+   "createdAt": "2026-10-21T23:54:01.394826Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1951.791114,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.875
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232436",
+   "title": "Spain General Election: Zaragoza Winner",
+   "slug": "spain-general-election-zaragoza-winner",
+   "createdAt": "2026-10-21T23:53:54.576979Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 3211.663524,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.9075
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232435",
+   "title": "Spain General Election: Cuenca Winner",
+   "slug": "spain-general-election-cuenca-winner",
+   "createdAt": "2026-10-21T23:52:54.590793Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 301.83666700000003,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.51
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232434",
+   "title": "Spain General Election: Gipuzkoa Winner",
+   "slug": "spain-general-election-gipuzkoa-winner",
+   "createdAt": "2026-10-21T23:52:50.968445Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 135.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "EH Bildu",
+     0.625
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 38
+  },
+  {
+   "id": "1232433",
+   "title": "Spain General Election: Girona Winner",
+   "slug": "spain-general-election-girona-winner",
+   "createdAt": "2026-10-21T23:52:46.687887Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 841.61,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232432",
+   "title": "Spain General Election: Granada Winner",
+   "slug": "spain-general-election-granada-winner",
+   "createdAt": "2026-10-21T23:52:41.836071Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 701.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232431",
+   "title": "Spain General Election: Guadalajara Winner",
+   "slug": "spain-general-election-guadalajara-winner",
+   "createdAt": "2026-10-21T23:52:37.566463Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 526.00333,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.52
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232430",
+   "title": "Spain General Election: Huelva Winner",
+   "slug": "spain-general-election-huelva-winner",
+   "createdAt": "2026-10-21T23:52:33.018569Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 709.5137940000001,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.565
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232413",
+   "title": "Spain General Election: Huesca Winner",
+   "slug": "spain-general-election-huesca-winner",
+   "createdAt": "2026-10-21T23:52:29.840382Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 691.61,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.675
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232412",
+   "title": "Spain General Election: Ja\u00e9n Winner",
+   "slug": "spain-general-election-jaen-winner",
+   "createdAt": "2026-10-21T23:52:24.45393Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 170.01999999999998,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.655
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232411",
+   "title": "Spain General Election: La Rioja Winner",
+   "slug": "spain-general-election-la-rioja-winner",
+   "createdAt": "2026-10-21T23:52:19.846897Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 478.152766,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232407",
+   "title": "Spain General Election: Las Palmas Winner",
+   "slug": "spain-general-election-las-palmas-winner",
+   "createdAt": "2026-10-21T23:52:15.051118Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 668.08,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.665
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232405",
+   "title": "Spain General Election: Le\u00f3n Winner",
+   "slug": "spain-general-election-leon-winner",
+   "createdAt": "2026-10-21T23:52:10.23155Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 209.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232401",
+   "title": "Spain General Election: Lleida Winner",
+   "slug": "spain-general-election-lleida-winner",
+   "createdAt": "2026-10-21T23:52:05.755663Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 180.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.585
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232399",
+   "title": "Spain General Election: Lugo Winner",
+   "slug": "spain-general-election-lugo-winner",
+   "createdAt": "2026-10-21T23:51:58.637997Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1196.855586,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.88
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232398",
+   "title": "Spain General Election: Madrid Winner",
+   "slug": "spain-general-election-madrid-winner",
+   "createdAt": "2026-10-21T23:51:48.401857Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1172.43107,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.87
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232355",
+   "title": "Spain General Election: C\u00e1ceres Winner",
+   "slug": "spain-general-election-caceres-winner",
+   "createdAt": "2026-10-21T23:34:25.997061Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 276.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.67
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232354",
+   "title": "Spain General Election: C\u00e1diz Winner",
+   "slug": "spain-general-election-cadiz-winner",
+   "createdAt": "2026-10-21T23:34:21.675944Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 499.418546,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.61
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232353",
+   "title": "Spain General Election: Cantabria Winner",
+   "slug": "spain-general-election-cantabria-winner",
+   "createdAt": "2026-10-21T23:34:16.746639Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 643.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.545
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232352",
+   "title": "Spain General Election: Castell\u00f3n Winner",
+   "slug": "spain-general-election-castellon-winner",
+   "createdAt": "2026-10-21T23:34:12.272634Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 305.02,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.67
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "1232351",
+   "title": "Spain General Election: Ciudad Real Winner",
+   "slug": "spain-general-election-ciudad-real-winner",
+   "createdAt": "2026-10-21T23:34:02.951909Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 365.04,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.78
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232350",
+   "title": "Spain General Election: C\u00f3rdoba Winner",
+   "slug": "spain-general-election-cordoba-winner",
+   "createdAt": "2026-10-21T23:33:56.844169Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 550.317866,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232341",
+   "title": "Spain General Election: \u00c1lava Winner",
+   "slug": "spain-general-election-alava-winner",
+   "createdAt": "2026-10-21T23:30:55.710367Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1293.41,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.675
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 38
+  },
+  {
+   "id": "1232340",
+   "title": "Spain General Election: Albacete Winner",
+   "slug": "spain-general-election-albacete-winner",
+   "createdAt": "2026-10-21T23:30:51.212671Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 627.972973,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.705
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232339",
+   "title": "Spain General Election: Alicante Winner",
+   "slug": "spain-general-election-alicante-winner",
+   "createdAt": "2026-10-21T23:30:42.320969Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 209.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.675
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "1232338",
+   "title": "Spain General Election: Almer\u00eda Winner",
+   "slug": "spain-general-election-almeria-winner",
+   "createdAt": "2026-10-21T23:30:36.606267Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 831.230134,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.7
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232337",
+   "title": "Spain General Election: Asturias Winner",
+   "slug": "spain-general-election-asturias-winner",
+   "createdAt": "2026-10-21T23:30:30.253271Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 567.183847,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232336",
+   "title": "Spain General Election: \u00c1vila Winner",
+   "slug": "spain-general-election-avila-winner",
+   "createdAt": "2026-10-21T23:30:24.631644Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1365.482745,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.87
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232335",
+   "title": "Spain General Election: Badajoz Winner",
+   "slug": "spain-general-election-badajoz-winner",
+   "createdAt": "2026-10-21T23:30:16.198897Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 66.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.66
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232332",
+   "title": "Spain General Election: Balearic Islands Winner",
+   "slug": "spain-general-election-balearic-islands-winner",
+   "createdAt": "2026-10-21T23:30:09.751718Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 686.2,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232331",
+   "title": "Spain General Election: Barcelona Winner",
+   "slug": "spain-general-election-barcelona-winner",
+   "createdAt": "2026-10-21T23:29:57.890628Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 546.2,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ],
+    [
+     "Party C",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232330",
+   "title": "Spain General Election: Biscay Winner",
+   "slug": "spain-general-election-biscay-winner",
+   "createdAt": "2026-10-21T23:29:51.170651Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 464.71,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PNV",
+     0.52
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 38
+  },
+  {
+   "id": "1232329",
+   "title": "Spain General Election: Burgos Winner",
+   "slug": "spain-general-election-burgos-winner",
+   "createdAt": "2026-10-21T23:29:41.764107Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 447.04,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.645
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1232328",
+   "title": "Spain General Election: A Coru\u00f1a Winner",
+   "slug": "spain-general-election-a-coruna-winner",
+   "createdAt": "2026-10-21T23:28:15.037247Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 1362.482446,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PP",
+     0.845
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232316",
+   "title": "Spain General Election: Basque Country Winner",
+   "slug": "spain-general-election-basque-country-winner",
+   "createdAt": "2026-10-21T23:25:57.162383Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-flag-eus-384f3c7712.jpg",
+   "volume": 531.415385,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.595
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 35
+  },
+  {
+   "id": "1232310",
+   "title": "Spain General Election: Catalonia Winner",
+   "slug": "spain-general-election-catalonia-winner",
+   "createdAt": "2026-10-21T23:25:33.329304Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-flag-cat-3a877df117.jpg",
+   "volume": 919.9799999999999,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "PSOE",
+     0.615
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 37
+  },
+  {
+   "id": "1232093",
+   "title": "AP calls the Senate by...?",
+   "slug": "ap-calls-the-senate-byptptpt",
+   "createdAt": "2026-10-21T22:24:52.866052Z",
+   "endDate": "2027-01-05T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ap-calls-the-house-byptptpt-6jJfBVgG9q99.jpg",
+   "volume": 5267.621514,
+   "tags": [
+    "Senate",
+    "midterm",
+    "Politics",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "January 4, 11:59 PM",
+     0.9675
+    ],
+    [
+     "December 2, 11:59 PM",
+     0.915
+    ],
+    [
+     "November 18, 11:59 PM",
+     0.855
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1232033",
+   "title": "Spain General Election: CCa wins a seat?",
+   "slug": "spain-general-election-cca-wins-a-seat",
+   "createdAt": "2026-10-21T22:10:20.408734Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-cca-b0876e1234.jpg",
+   "volume": 170.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.525
+    ],
+    [
+     "No",
+     0.475
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1232032",
+   "title": "Spain General Election: SALF wins a seat?",
+   "slug": "spain-general-election-salf-wins-a-seat",
+   "createdAt": "2026-10-21T22:10:10.706855Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-salf-263697b3b6.jpg",
+   "volume": 437.969136,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.81
+    ],
+    [
+     "Yes",
+     0.19
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1232026",
+   "title": "Spain General Election: Adelante Andaluc\u00eda wins a seat?",
+   "slug": "spain-general-election-adelante-andalucia-wins-a-seat",
+   "createdAt": "2026-10-21T22:10:01.631124Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-aa-58611e0aa7.jpg",
+   "volume": 131.14461599999998,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.575
+    ],
+    [
+     "Yes",
+     0.425
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1232025",
+   "title": "Spain General Election: Vox wins a constituency?",
+   "slug": "spain-general-election-vox-wins-a-constituency",
+   "createdAt": "2026-10-21T22:09:51.871476Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-vox-d8444e6bfa.jpg",
+   "volume": 70.0,
+   "tags": [
+    "VOX",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.61
+    ],
+    [
+     "Yes",
+     0.39
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1232024",
+   "title": "Spain General Election: PSOE gains seats?",
+   "slug": "spain-general-election-psoe-gains-seats",
+   "createdAt": "2026-10-21T22:08:24.122843Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-psoe-99bb5820c4.jpg",
+   "volume": 278.542152,
+   "tags": [
+    "PSOE",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.79
+    ],
+    [
+     "Yes",
+     0.21
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1231999",
+   "title": "Spain General Election: Vox % of vote?",
+   "slug": "spain-general-election-vox-of-vote",
+   "createdAt": "2026-10-21T22:07:08.591854Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-vox-d8444e6bfa.jpg",
+   "volume": 1123.003448,
+   "tags": [
+    "VOX",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "16-18%",
+     0.28
+    ],
+    [
+     "18-20%",
+     0.28
+    ],
+    [
+     "20-22%",
+     0.235
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1231998",
+   "title": "Spain General Election: PSOE % of vote?",
+   "slug": "spain-general-election-psoe-of-vote",
+   "createdAt": "2026-10-21T22:07:04.353515Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-psoe-99bb5820c4.jpg",
+   "volume": 764.902048,
+   "tags": [
+    "PSOE",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "24-26%",
+     0.4
+    ],
+    [
+     "28-30%",
+     0.395
+    ],
+    [
+     "26-28%",
+     0.39
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1231997",
+   "title": "Spain General Election: PP % of vote?",
+   "slug": "spain-general-election-pp-of-vote",
+   "createdAt": "2026-10-21T22:06:56.901167Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-pp-d0f8023be4.jpg",
+   "volume": 1330.782352,
+   "tags": [
+    "PP",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "32-34%",
+     0.29
+    ],
+    [
+     "30-32%",
+     0.25
+    ],
+    [
+     "<28%",
+     0.17
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231994",
+   "title": "Spain General Election: BNG # of seats?",
+   "slug": "spain-general-election-bng-of-seats",
+   "createdAt": "2026-10-21T22:04:49.403388Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-bng-769e2b65d4.jpg",
+   "volume": 372.816902,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "0",
+     0.475
+    ],
+    [
+     "2",
+     0.28
+    ],
+    [
+     "3",
+     0.265
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1231993",
+   "title": "Spain General Election: PNV # of seats?",
+   "slug": "spain-general-election-pnv-of-seats",
+   "createdAt": "2026-10-21T22:04:45.561023Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-pnv-397389ff2d.jpg",
+   "volume": 30.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "<4",
+     0.295
+    ],
+    [
+     "4",
+     0.285
+    ],
+    [
+     "7+",
+     0.28
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1231992",
+   "title": "Spain General Election: EH Bildu # of seats?",
+   "slug": "spain-general-election-eh-bildu-of-seats",
+   "createdAt": "2026-10-21T22:04:39.973739Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-bildu-d43c8e45d5.jpg",
+   "volume": 159.99,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "8",
+     0.445
+    ],
+    [
+     "<5",
+     0.28
+    ],
+    [
+     "5",
+     0.275
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231991",
+   "title": "Spain General Election: Junts # of seats?",
+   "slug": "spain-general-election-junts-of-seats",
+   "createdAt": "2026-10-21T22:04:35.92746Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-junts-2bf411a638.jpg",
+   "volume": 457.426345,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "8+",
+     0.39
+    ],
+    [
+     "5",
+     0.375
+    ],
+    [
+     "4",
+     0.23
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231990",
+   "title": "Spain General Election: Podemos # of seats?",
+   "slug": "spain-general-election-podemos-of-seats",
+   "createdAt": "2026-10-21T22:04:31.849553Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-podemos-eceb5e25ec.jpg",
+   "volume": 331.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "0",
+     0.52
+    ],
+    [
+     "1",
+     0.26
+    ],
+    [
+     "4",
+     0.185
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231989",
+   "title": "Spain General Election: ERC # of seats?",
+   "slug": "spain-general-election-erc-of-seats",
+   "createdAt": "2026-10-21T22:04:26.868622Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-erc-ea284569ad.jpg",
+   "volume": 86.0,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Catalonia"
+   ],
+   "outcomes": [
+    [
+     "10-11",
+     0.41
+    ],
+    [
+     "12-13",
+     0.26
+    ],
+    [
+     "6-7",
+     0.225
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231988",
+   "title": "Spain General Election: Broad Front (FA) # of seats?",
+   "slug": "spain-general-election-broad-front-fa-of-seats",
+   "createdAt": "2026-10-21T22:04:23.166557Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-fa-5e53c8616d.jpg",
+   "volume": 162.325582,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "9-11",
+     0.405
+    ],
+    [
+     "<6",
+     0.285
+    ],
+    [
+     "12-14",
+     0.23
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231987",
+   "title": "Spain General Election: Vox # of seats?",
+   "slug": "spain-general-election-vox-of-seats",
+   "createdAt": "2026-10-21T22:04:15.677837Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-vox-d8444e6bfa.jpg",
+   "volume": 20.0,
+   "tags": [
+    "VOX",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "56-60",
+     0.29
+    ],
+    [
+     "76+",
+     0.29
+    ],
+    [
+     "<56",
+     0.26
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231986",
+   "title": "Spain General Election: PP # of seats?",
+   "slug": "spain-general-election-pp-of-seats",
+   "createdAt": "2026-10-21T22:04:12.192878Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-pp-d0f8023be4.jpg",
+   "volume": 0.0,
+   "tags": [
+    "PP",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "<120",
+     0.29
+    ],
+    [
+     "144+",
+     0.29
+    ],
+    [
+     "120-125",
+     0.275
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231977",
+   "title": "Spain General Election: PSOE # of seats?",
+   "slug": "spain-general-election-psoe-of-seats",
+   "createdAt": "2026-10-21T22:00:40.954607Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/es26-psoe-99bb5820c4.jpg",
+   "volume": 160.0,
+   "tags": [
+    "PSOE",
+    "Spain",
+    "World",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "102-107",
+     0.635
+    ],
+    [
+     "120+",
+     0.325
+    ],
+    [
+     "114-119",
+     0.275
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1231873",
+   "title": "Alaska Senate Election Margin of Victory (Final Round)",
+   "slug": "alaska-senate-election-margin-of-victory-final-round",
+   "createdAt": "2026-10-21T21:23:48.888468Z",
+   "endDate": "2026-11-03T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-295615a533.png",
+   "volume": 1260.307428,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Peltola 0-3%",
+     0.415
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1231872",
+   "title": "Maine Senate Election Margin of Victory (Final Round)",
+   "slug": "maine-senate-election-margin-of-victory-final-round",
+   "createdAt": "2026-10-21T21:23:02.561499Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maine-31b36d7c50.png",
+   "volume": 1622.75598,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Jackson 9-12%",
+     0.29
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1231854",
+   "title": "Israel x Iran ceasefire ends before Netanyahu out?",
+   "slug": "israel-x-iran-ceasefire-ends-before-netanyahu-out",
+   "createdAt": "2026-10-21T21:19:09.554697Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963-FEQHrNm5Q53X.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Iran",
+    "World",
+    "Israel",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.55
+    ],
+    [
+     "No",
+     0.45
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1231809",
+   "title": "Will Bryan Johnson dunk before 2027?",
+   "slug": "will-bryan-johnson-dunk-before-2027-2",
+   "createdAt": "2026-10-21T21:05:39.002273Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-bryan-johnson-dunk-by-2027-1xjBQEGDMtjj.jpg",
+   "volume": 2416.5974189999997,
+   "tags": [
+    "Sports",
+    "Culture",
+    "Basketball",
+    "Bryan Johnson"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.725
+    ],
+    [
+     "No",
+     0.275
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1231778",
+   "title": "1 million American kids get SpaceX shares by December 31, 2027?",
+   "slug": "1-million-american-kids-get-spacex-shares-by-december-31-2027",
+   "createdAt": "2026-10-21T20:55:59.145782Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spacex-ipo-closing-market-cap-eMcPLOPUo_Il.png",
+   "volume": 48.307114,
+   "tags": [
+    "SpaceX",
+    "Stocks",
+    "Economy",
+    "Business"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.545
+    ],
+    [
+     "Yes",
+     0.455
+    ]
+   ],
+   "nMarkets": 1
+  },
   {
    "id": "1226916",
    "title": "Toronto Mayoral Election: Margin of Victory?",
@@ -2891,422 +5224,6 @@
     ]
    ],
    "nMarkets": 2
-  },
-  {
-   "id": "1151207",
-   "title": "Senate Three-Way Combo: Michigan, Minnesota, New Hampshire",
-   "slug": "senate-three-way-combo-michigan-minnesota-new-hampshire",
-   "createdAt": "2026-10-08T00:44:22.177404Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-three-way-combo-michigan-minnesota-new-hampshire-wo9dvXulHCIm.png",
-   "volume": 1878.746496,
-   "tags": [
-    "Politics",
-    "election",
-    "John Sununu",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.645
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Dems MI & MN, Reps NH",
-     0.23
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1151206",
-   "title": "Senate Three-Way Combo: Ohio, Iowa, Maine",
-   "slug": "senate-three-way-combo-ohio-iowa-maine",
-   "createdAt": "2026-10-08T00:43:05.903988Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-three-way-combo-ohio-iowa-maine-ktPEOfjinn5H.png",
-   "volume": 60.0,
-   "tags": [
-    "Politics",
-    "election",
-    "Jon Husted",
-    "Josh Turek"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Dems sweep",
-     0.385
-    ],
-    [
-     "Reps OH & ME, Dems IA",
-     0.245
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1151169",
-   "title": "What will JD Vance say during his Midterm Rally in Ohio?",
-   "slug": "what-will-jd-vance-say-during-his-midterm-rally-in-ohio-october-9-vance",
-   "createdAt": "2026-10-08T00:31:20.689889Z",
-   "endDate": "2026-10-09T16:20:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-jd-vance-say-during-remarks-in-des-moines-UUF4T_p0Ypyu.jpg",
-   "volume": 393.21,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Border",
-     0.865
-    ],
-    [
-     "Tax on Tips / Tax on Overtime",
-     0.855
-    ],
-    [
-     "Election",
-     0.84
-    ]
-   ],
-   "nMarkets": 15
-  },
-  {
-   "id": "1151166",
-   "title": "What will Trump say during his Midterm Rally in New York?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-new-york-october-9",
-   "createdAt": "2026-10-08T00:30:19.40037Z",
-   "endDate": "2026-10-09T23:05:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
-   "volume": 2540.092971,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "1776",
-     0.865
-    ],
-    [
-     "Crime / Criminal 10+ times",
-     0.815
-    ],
-    [
-     "Micron",
-     0.805
-    ]
-   ],
-   "nMarkets": 17
-  },
-  {
-   "id": "1151066",
-   "title": "Will SI.gov launch by...?",
-   "slug": "will-siptgov-launch-by",
-   "createdAt": "2026-10-08T00:05:36.190774Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-government-bans-another-ai-model-in-2026-20260702220719625-AW1AQhcUGUan.jpg",
-   "volume": 1764.663304,
-   "tags": [
-    "AI",
-    "All",
-    "technology",
-    "artificial intelligence"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.59
-    ],
-    [
-     "October 15",
-     0.47
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1151065",
-   "title": "Will AI.gov be renamed to SI.gov by...?",
-   "slug": "will-aiptgov-be-renamed-to-siptgov-by",
-   "createdAt": "2026-10-08T00:04:21.83362Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-government-bans-another-ai-model-in-2026-20260702220719625-AW1AQhcUGUan.jpg",
-   "volume": 860.927715,
-   "tags": [
-    "AI",
-    "All",
-    "renaming",
-    "technology"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.37
-    ],
-    [
-     "October 15",
-     0.25
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1151056",
-   "title": "Ljubljana Mayoral Election Winner",
-   "slug": "ljubljana-mayoral-election-winner-2026",
-   "createdAt": "2026-10-08T00:01:30.384864Z",
-   "endDate": "2026-11-16T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/slovenian-parliamentary-election-winner-jNH0iUAqZJs-.jpg",
-   "volume": 1266.817529,
-   "tags": [
-    "Politics",
-    "Slovenia",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Zoran Jankovi\u0107",
-     0.59
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 35
-  },
-  {
-   "id": "1151012",
-   "title": "Will Trump meet with Marcos by December 31, 2026?",
-   "slug": "will-trump-meet-with-marcos-by-december-31-2026",
-   "createdAt": "2026-10-07T23:56:39.510076Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-marcos-by-december-31-2026-_1lvMISTBQr3.jpg",
-   "volume": 662.8664930000001,
-   "tags": [
-    "Trump",
-    "Politics",
-    "Geopolitics",
-    "Philippines"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.76
-    ],
-    [
-     "No",
-     0.24
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1150939",
-   "title": "Jair Bolsonaro released from custody by March 31, 2027?",
-   "slug": "jair-bolsonaro-released-from-custody-by-march-31-2027-1791185062998",
-   "createdAt": "2026-10-07T23:33:53.633391Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jair-bolsonaro-in-jail-in-2025-OSL7Q6W6dg2u.jpg",
-   "volume": 59.221796000000005,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.78
-    ],
-    [
-     "No",
-     0.22
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1150916",
-   "title": "Who will Putin meet bilaterally in Turkmenistan?",
-   "slug": "who-will-putin-meet-bilaterally-in-turkmenistan",
-   "createdAt": "2026-10-07T23:26:09.621171Z",
-   "endDate": "2026-10-11T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/putin-out-as-president-of-russia-in-2025-nWuurkC8qfbi.jpg",
-   "volume": 3247.011282,
-   "tags": [
-    "putin",
-    "Russia",
-    "Armenia",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Masoud Pezeshkian",
-     0.88
-    ],
-    [
-     "Alexander Lukashenko",
-     0.78
-    ],
-    [
-     "Ilham Aliyev",
-     0.525
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "1147575",
-   "title": "UBS announces move out of Switzerland by...?",
-   "slug": "ubs-announces-move-out-of-switzerland-by",
-   "createdAt": "2026-10-07T09:36:43.883193Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ubs-announces-move-out-of-switzerland-by-GwNDxKs2H156.png",
-   "volume": 0.0,
-   "tags": [
-    "Banking",
-    "Finance",
-    "Business"
-   ],
-   "outcomes": [
-    [
-     "June 30, 2027",
-     0.26
-    ],
-    [
-     "December 31, 2026",
-     0.165
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1147532",
-   "title": "Muse Charm released by...?",
-   "slug": "muse-charm-released-by",
-   "createdAt": "2026-10-07T09:21:41.479141Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/muse-charm-released-by-sKfPvftGrmaZ.jpg",
-   "volume": 64.839973,
-   "tags": [
-    "AI",
-    "Meta",
-    "Muse",
-    "Tech"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.485
-    ],
-    [
-     "December 15",
-     0.28
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1147472",
-   "title": "Another Codex outage in 2026?",
-   "slug": "another-codex-outage-in-2026",
-   "createdAt": "2026-10-07T09:14:39.913735Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/another-codex-outage-in-2026-0Myf1L07oIXE.png",
-   "volume": 120.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "Codex",
-    "OpenAI"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.64
-    ],
-    [
-     "No",
-     0.36
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1147445",
-   "title": "Military action against Saudi Oil Pipeline (East-West) by...?",
-   "slug": "military-action-against-saudi-oil-pipeline-east-west-byptptpt",
-   "createdAt": "2026-10-07T09:04:24.492714Z",
-   "endDate": "2026-11-30T20:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-oil-pipeline-east-west-restarts-byptptpt-K7iGFsFHJcu_.jpg",
-   "volume": 1473.491839,
-   "tags": [
-    "Oil",
-    "Iran",
-    "Yemen",
-    "Houthis"
-   ],
-   "outcomes": [
-    [
-     "November 30",
-     0.75
-    ],
-    [
-     "October 31",
-     0.465
-    ],
-    [
-     "October 15",
-     0.265
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1147434",
-   "title": "Israel Election: Any Coalition Wins a Majority?",
-   "slug": "israel-election-any-coalition-wins-a-majority",
-   "createdAt": "2026-10-07T09:00:23.945575Z",
-   "endDate": "2026-10-28T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-JlG6pTiX-iGy.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.785
-    ],
-    [
-     "Yes",
-     0.215
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

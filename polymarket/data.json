@@ -1,6 +1,230 @@
 {
- "generatedAt": "2026-10-23T08:56:37.631261+00:00",
+ "generatedAt": "2026-10-24T08:30:19.361022+00:00",
  "questions": [
+  {
+   "id": "1243971",
+   "title": "Kimi K3.1 Pro: Text Arena Rank Debut?",
+   "slug": "kimi-k3pt1-pro-text-arena-rank-debut-20261023",
+   "createdAt": "2026-10-24T03:36:08.202619Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 2872.2678690000002,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Debut"
+   ],
+   "outcomes": [
+    [
+     "Top 20",
+     0.645
+    ],
+    [
+     "Top 10",
+     0.385
+    ],
+    [
+     "Top 5",
+     0.155
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1243969",
+   "title": "Kimi K3.1 Pro: HLE-Diamond Debut?",
+   "slug": "kimi-k3pt1-pro-hle-diamond-debut-20261023",
+   "createdAt": "2026-10-24T03:35:39.498538Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 5970.284361,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Moonshot"
+   ],
+   "outcomes": [
+    [
+     "20%+",
+     0.885
+    ],
+    [
+     "25%+",
+     0.69
+    ],
+    [
+     "30%+",
+     0.385
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1243968",
+   "title": "Next Kimi K model (3.2+) released by...?",
+   "slug": "next-kimi-k-model-3pt2-released-byptptpt",
+   "createdAt": "2026-10-24T03:33:45.870383Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 0.0,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Moonshot"
+   ],
+   "outcomes": [
+    [
+     "February 28",
+     0.48
+    ],
+    [
+     "December 31",
+     0.475
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1243967",
+   "title": "Moonshot publishes Kimi K3.1 Pro weights by November 4?",
+   "slug": "moonshot-publishes-kimi-k3pt1-pro-weights-by-november-4",
+   "createdAt": "2026-10-24T03:32:47.495517Z",
+   "endDate": "2026-11-05T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 0.0,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "kimi 3"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.79
+    ],
+    [
+     "No",
+     0.21
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1243958",
+   "title": "Kimi K3.1 Pro: Text Arena Debut?",
+   "slug": "kimi-k3pt1-pro-text-arena-debut-20261023",
+   "createdAt": "2026-10-24T03:31:08.108714Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
+   "volume": 4000.927216,
+   "tags": [
+    "AI",
+    "Kimi",
+    "Tech",
+    "Debut"
+   ],
+   "outcomes": [
+    [
+     "1470+",
+     0.745
+    ],
+    [
+     "1480+",
+     0.625
+    ],
+    [
+     "1490+",
+     0.32
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1242924",
+   "title": "What will Trump say during his Midterm Rally in Michigan?",
+   "slug": "what-will-trump-say-during-his-midterm-rally-in-michigan-october-26",
+   "createdAt": "2026-10-23T22:15:36.733424Z",
+   "endDate": "2026-10-26T19:05:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
+   "volume": 1553.140626,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Midterms"
+   ],
+   "outcomes": [
+    [
+     "Russia / Ukraine",
+     0.775
+    ],
+    [
+     "Hormuz / Blockade",
+     0.725
+    ],
+    [
+     "Million / Billion / Trillion 30+ times",
+     0.65
+    ]
+   ],
+   "nMarkets": 20
+  },
+  {
+   "id": "1242781",
+   "title": "Marathon Fusion gold yield matches its simulation by...?",
+   "slug": "marathon-fusion-gold-yield-matches-simulation-byptptpt",
+   "createdAt": "2026-10-23T21:52:27.172603Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
+   "volume": 0.0,
+   "tags": [
+    "Gold",
+    "Tech",
+    "Science",
+    "physics"
+   ],
+   "outcomes": [
+    [
+     "June 30",
+     0.505
+    ],
+    [
+     "December 31",
+     0.5
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1242772",
+   "title": "Marathon Fusion gold yield of 0.1+ per fusion neutron confirmed by...?",
+   "slug": "marathon-fusion-gold-yield-of-0pt1-per-fusion-neutron-confirmed-byptptpt",
+   "createdAt": "2026-10-23T21:50:32.634091Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
+   "volume": 0.0,
+   "tags": [
+    "Gold",
+    "Tech",
+    "Science",
+    "physics"
+   ],
+   "outcomes": [
+    [
+     "June 30",
+     0.5
+    ],
+    [
+     "December 31",
+     0.495
+    ]
+   ],
+   "nMarkets": 2
+  },
   {
    "id": "1237580",
    "title": "Spain General Election: 3rd Place",
@@ -4393,295 +4617,6 @@
     ]
    ],
    "nMarkets": 42
-  },
-  {
-   "id": "1161680",
-   "title": "US imports Russian diesel by October 31?",
-   "slug": "us-imports-russian-diesel-by-october-31",
-   "createdAt": "2026-10-09T22:48:05.535094Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-imports-russian-diesel-by-october-31-_7i_ar2rMxHS.jpg",
-   "volume": 8952.939887000002,
-   "tags": [
-    "Oil",
-    "Trump",
-    "Russia",
-    "diesel"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.765
-    ],
-    [
-     "Yes",
-     0.235
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1161476",
-   "title": "Gyanesh Kumar out as Chief Election Commissioner of India by December 31?",
-   "slug": "gyanesh-kumar-out-as-chief-election-commissioner-of-india-by-december-31",
-   "createdAt": "2026-10-09T21:53:13.733693Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gyanesh-kumar-out-as-chief-election-commissioner-of-india-by-december-31-266jJm6Xk7jN.jpg",
-   "volume": 13.947366,
-   "tags": [
-    "India",
-    "Politics",
-    "cockroach party"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.73
-    ],
-    [
-     "Yes",
-     0.27
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1161466",
-   "title": "Turkish troops enter Yemen by...?",
-   "slug": "turkish-troops-enter-yemen-by",
-   "createdAt": "2026-10-09T21:52:09.465834Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/turkish+flag.jpeg",
-   "volume": 2718.845082,
-   "tags": [
-    "Yemen",
-    "Turkey",
-    "Military",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.175
-    ],
-    [
-     "October 31",
-     0.019
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1161448",
-   "title": "Will Swiss Parliament pass the UBS capital law by June 30, 2027?",
-   "slug": "will-swiss-parliament-pass-the-ubs-capital-law-by-june-30-2027",
-   "createdAt": "2026-10-09T21:51:19.279221Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/switzerlands-march-8-popular-vote-which-referendums-will-pass-kjuMz9X_LLrP.png",
-   "volume": 849.69,
-   "tags": [
-    "banks",
-    "Europe",
-    "Economy",
-    "Finance"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.86
-    ],
-    [
-     "No",
-     0.14
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1161446",
-   "title": "Israel Election: Which Bloc Wins More Seats?",
-   "slug": "israel-election-which-bloc-wins-more-seats",
-   "createdAt": "2026-10-09T21:50:28.269695Z",
-   "endDate": "2026-10-28T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-JlG6pTiX-iGy.png",
-   "volume": 247.98193,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Opp.",
-     0.535
-    ],
-    [
-     "Bibi",
-     0.465
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1161442",
-   "title": "Alberta Independence Referendum: Margin of Victory",
-   "slug": "alberta-independence-referendum-margin-of-victory",
-   "createdAt": "2026-10-09T21:49:18.13464Z",
-   "endDate": "2026-10-20T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alberta-vote-for-independence-in-2025-bKiHI7Wj8xyo.jpg",
-   "volume": 4270.791783,
-   "tags": [
-    "World",
-    "Canada",
-    "alberta",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Remain 40\u201360%",
-     0.655
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Remain 60\u201380%",
-     0.185
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1161433",
-   "title": "ICE Agent charged in NYC incident by December 31?",
-   "slug": "ice-agent-charged-in-nyc-incident-by-december-31-20261009212453188",
-   "createdAt": "2026-10-09T21:46:55.165045Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-renames-ice-to-nice-by-june-30-3BCRrN9XPSIr.jpg",
-   "volume": 829.7710260000001,
-   "tags": [
-    "DHS",
-    "ICE",
-    "Politics",
-    "New York City"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.805
-    ],
-    [
-     "Yes",
-     0.195
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1161421",
-   "title": "Russia lifts diesel export ban by...?",
-   "slug": "russia-lifts-diesel-export-ban-byptptpt",
-   "createdAt": "2026-10-09T21:41:42.250376Z",
-   "endDate": "2026-10-31T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-flag-9175004a30.jpg",
-   "volume": 1256.5109650000002,
-   "tags": [
-    "Oil",
-    "Russia",
-    "diesel",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "October 30",
-     0.948
-    ],
-    [
-     "October 15",
-     0.615
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1161400",
-   "title": "Ukraine lowers conscription age by...?",
-   "slug": "ukraine-lowers-conscription-age-byptptpt",
-   "createdAt": "2026-10-09T21:33:25.012529Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-lowers-conscription-age-before-june-EajZLMhNSnMm.jpg",
-   "volume": 2794.5365150000002,
-   "tags": [
-    "World",
-    "Ukraine",
-    "Politics",
-    "Geopolitics"
-   ],
-   "outcomes": [
-    [
-     "March 31",
-     0.155
-    ],
-    [
-     "December 31",
-     0.085
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1161387",
-   "title": "EU lifts ban on Russian diesel imports by...?",
-   "slug": "eu-lifts-ban-on-russian-diesel-imports-by-20261009201217742",
-   "createdAt": "2026-10-09T21:30:32.468645Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eu-increase-sanctions-on-russia-before-july-QHFKNbvZmtTq.png",
-   "volume": 1214.227124,
-   "tags": [
-    "eu",
-    "Oil",
-    "Europe",
-    "Russia"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.105
-    ],
-    [
-     "October 31",
-     0.05
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1161276",
-   "title": "Will Ledger announce compensation or reimbursement for affected users by\u2026",
-   "slug": "will-ledger-announce-compensation-or-reimbursement-for-affected-users-by",
-   "createdAt": "2026-10-09T20:54:31.792947Z",
-   "endDate": "2026-11-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ledger-ipo-closing-market-cap-above-jMYPvvVsP1p0.png",
-   "volume": 6335.494341999999,
-   "tags": [
-    "hack",
-    "Crypto",
-    "ledger",
-    "protocol-risk"
-   ],
-   "outcomes": [
-    [
-     "October 31",
-     0.225
-    ],
-    [
-     "October 16",
-     0.115
-    ]
-   ],
-   "nMarkets": 2
   }
  ]
 }

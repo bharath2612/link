@@ -1,6 +1,411 @@
 {
- "generatedAt": "2026-10-27T09:27:00.185566+00:00",
+ "generatedAt": "2026-10-28T10:09:23.585259+00:00",
  "questions": [
+  {
+   "id": "1270335",
+   "title": "Next Israeli government a minority government?",
+   "slug": "next-israeli-government-a-minority-government",
+   "createdAt": "2026-10-28T05:42:24.634255Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 32.299588,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.71
+    ],
+    [
+     "Yes",
+     0.29
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1269774",
+   "title": "Israel Election: Arab party and Likud in coalition?",
+   "slug": "israel-election-arab-party-and-likud-in-coalition",
+   "createdAt": "2026-10-28T03:12:50.311327Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 187.521646,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.895
+    ],
+    [
+     "Yes",
+     0.105
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1269646",
+   "title": "Quito Mayoral Election Winner",
+   "slug": "quito-mayoral-election-winner-2026",
+   "createdAt": "2026-10-28T02:38:41.347853Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+ecuador.png",
+   "volume": 977.580664,
+   "tags": [
+    "Ecuador",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 41
+  },
+  {
+   "id": "1269645",
+   "title": "Will the US grant Fl\u00e1vio Bolsonaro political asylum in 2026?",
+   "slug": "will-the-us-grant-flavio-bolsonaro-political-asylum-in-2026",
+   "createdAt": "2026-10-28T02:37:36.405867Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flavio-bolsonaro-charged-or-arrested-by-september-30-20260609144215531-0MRU-7w_dEGF.jpg",
+   "volume": 66.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "asylum",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.6
+    ],
+    [
+     "No",
+     0.4
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1269626",
+   "title": "How many US births in 2026?",
+   "slug": "how-many-us-births-in-2026-20261026033533965",
+   "createdAt": "2026-10-28T02:34:29.905671Z",
+   "endDate": "2027-05-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-fertility-rate-up-in-q1-2025-9QR3kDVV15bt.png",
+   "volume": 611.0404,
+   "tags": [
+    "Culture",
+    "Economy",
+    "Science",
+    "Demographics"
+   ],
+   "outcomes": [
+    [
+     "3.56M\u20133.59M",
+     0.36
+    ],
+    [
+     "3.53M\u20133.56M",
+     0.165
+    ],
+    [
+     "3.59M\u20133.62M",
+     0.155
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1268870",
+   "title": "BBC Sports Personality of the Year Winner 2026",
+   "slug": "bbc-sports-personality-of-the-year-winner-2026",
+   "createdAt": "2026-10-27T23:16:22.160462Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bbc-sports-personality-of-the-year-winner-2026-PlGcSlP250zp.jpg",
+   "volume": 4880.8363739999995,
+   "tags": [
+    "UK",
+    "Awards",
+    "Sports"
+   ],
+   "outcomes": [
+    [
+     "Harry Kane",
+     0.595
+    ],
+    [
+     "Placeholder 1",
+     0.5
+    ],
+    [
+     "Placeholder 2",
+     0.5
+    ]
+   ],
+   "nMarkets": 92
+  },
+  {
+   "id": "1268798",
+   "title": "What will Trump say during his Midterm Rally in South Carolina?",
+   "slug": "what-will-trump-say-during-his-midterm-rally-in-south-carolina-october-29-sc",
+   "createdAt": "2026-10-27T23:00:14.076421Z",
+   "endDate": "2026-10-29T16:35:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
+   "volume": 997.567851,
+   "tags": [
+    "Trump",
+    "Culture",
+    "Mentions",
+    "Midterms"
+   ],
+   "outcomes": [
+    [
+     "America First",
+     0.83
+    ],
+    [
+     "Russia / Ukraine",
+     0.63
+    ],
+    [
+     "Transgender 7+ times",
+     0.615
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "1268621",
+   "title": "Brazil declares emergency rule in Bras\u00edlia by January 31, 2027?",
+   "slug": "brazil-declares-emergency-rule-in-brasilia-by-january-31-2027",
+   "createdAt": "2026-10-27T22:10:09.88701Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brsen-flag-df-1111c33bb0.jpg",
+   "volume": 3.22222,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.825
+    ],
+    [
+     "Yes",
+     0.175
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1268618",
+   "title": "NATO downs another Russian drone before Russia x Ukraine peace talks?",
+   "slug": "nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
+   "createdAt": "2026-10-27T22:08:29.323836Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
+   "volume": 1246.871837,
+   "tags": [
+    "NATO",
+    "putin",
+    "Poland",
+    "Russia"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.635
+    ],
+    [
+     "Yes",
+     0.365
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1268614",
+   "title": "US imports Russian diesel before Russia x Ukraine peace talks?",
+   "slug": "us-imports-russian-diesel-before-russia-x-ukraine-peace-talks",
+   "createdAt": "2026-10-27T22:07:41.53109Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-imports-russian-diesel-by-october-31-_7i_ar2rMxHS.jpg",
+   "volume": 1043.918894,
+   "tags": [
+    "Oil",
+    "Trump",
+    "Russia",
+    "diesel"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.745
+    ],
+    [
+     "No",
+     0.255
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1268612",
+   "title": "Netanyahu out before the next Israel x Lebanon diplomatic meeting?",
+   "slug": "netanyahu-out-before-the-next-israel-x-lebanon-diplomatic-meeting",
+   "createdAt": "2026-10-27T22:06:26.132982Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/netanyahu-out-in-2025-Vc7bE4GtiJzM.jpg",
+   "volume": 292.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Lebanon",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.695
+    ],
+    [
+     "Yes",
+     0.305
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1268580",
+   "title": "Will Ilhan Omar resign by December 31, 2026?",
+   "slug": "will-ilhan-omar-resign-by-december-31-2026",
+   "createdAt": "2026-10-27T21:56:56.330337Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ilhan-omar-be-deported-in-2026-UhDTFP5BIShZ.jpg",
+   "volume": 1825.30666,
+   "tags": [
+    "Politics",
+    "Ilhan Omar",
+    "resignation",
+    "house of representatives"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.955
+    ],
+    [
+     "Yes",
+     0.045
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1268579",
+   "title": "Another commercial vessel struck in Black Sea by\u2026?",
+   "slug": "another-commercial-vessel-struck-in-black-sea-by",
+   "createdAt": "2026-10-27T21:55:51.875701Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-strikes-another-tanker-in-black-sea-by-december-31-dwHA5Sn4sKMu.jpg",
+   "volume": 1460.677993,
+   "tags": [
+    "putin",
+    "Russia",
+    "Ukraine",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "November 30",
+     0.81
+    ],
+    [
+     "November 15",
+     0.765
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1268577",
+   "title": "Melania Trump meets with ___ by December 31, 2026?",
+   "slug": "melania-trump-meets-with-by-december-31-2026",
+   "createdAt": "2026-10-27T21:53:51.863463Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/melania-trump-meets-with-by-december-31-2026-_adMYv42jLzN.jpg",
+   "volume": 752.414485,
+   "tags": [
+    "Trump",
+    "Russia",
+    "Ukraine",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Zelenskyy",
+     0.415
+    ],
+    [
+     "Putin",
+     0.17
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1268400",
+   "title": "Will DoorDash acquire Instacart in 2026?",
+   "slug": "will-doordash-acquire-instacart-in-2026",
+   "createdAt": "2026-10-27T20:57:28.979306Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dash-quarterly-earnings-gaap-eps-05-06-2026-0pt36-WFPVhZ8gE09B.png",
+   "volume": 178.9663,
+   "tags": [
+    "Economy",
+    "Finance",
+    "acquire",
+    "DoorDash"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.735
+    ],
+    [
+     "No",
+     0.265
+    ]
+   ],
+   "nMarkets": 1
+  },
   {
    "id": "1243971",
    "title": "Kimi K3.1 Pro: Text Arena Rank Debut?",
@@ -3505,354 +3910,6 @@
     ]
    ],
    "nMarkets": 1
-  },
-  {
-   "id": "1185922",
-   "title": "Who will the OpenAI spy be accused of working for in 2026?",
-   "slug": "who-will-the-openai-spy-be-accused-of-working-for-in-2026",
-   "createdAt": "2026-10-14T01:54:49.287224Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-openai-have-the-top-ai-model-on-february-28-3eaAmSON076D.jpg",
-   "volume": 60981.918745,
-   "tags": [
-    "AI",
-    "FBI",
-    "Tech",
-    "Courts"
-   ],
-   "outcomes": [
-    [
-     "China",
-     0.095
-    ],
-    [
-     "Saudi Arabia",
-     0.095
-    ],
-    [
-     "Russia",
-     0.085
-    ]
-   ],
-   "nMarkets": 10
-  },
-  {
-   "id": "1185836",
-   "title": "Keisha Lance Bottoms runs behind Jon Ossoff by...? (First Round)",
-   "slug": "keisha-lance-bottoms-runs-behind-jon-ossoff-by-first-round",
-   "createdAt": "2026-10-14T01:26:11.68893Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/georgia-governor-winner-2026-YH03ZTf-qiRW.png",
-   "volume": 120.0,
-   "tags": [
-    "Senate",
-    "georgia",
-    "midterm",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "6-9 points behind",
-     0.28
-    ],
-    [
-     "3-6 points behind",
-     0.255
-    ],
-    [
-     "0-3 points behind",
-     0.22
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1185818",
-   "title": "Troy Jackson runs behind Hannah Pingree by...? (First Round)",
-   "slug": "troy-jackson-runs-behind-hannah-pingree-by-first-round",
-   "createdAt": "2026-10-14T01:21:47.806534Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maine-31b36d7c50.png",
-   "volume": 108.0,
-   "tags": [
-    "maine",
-    "Senate",
-    "midterm",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "6-9 points behind",
-     0.245
-    ],
-    [
-     "9+ points behind",
-     0.17
-    ],
-    [
-     "0-3 points behind",
-     0.13
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1185817",
-   "title": "Abdul El-Sayed runs behind Jocelyn Benson by...?",
-   "slug": "abdul-el-sayed-runs-behind-jocelyn-benson-by",
-   "createdAt": "2026-10-14T01:21:37.136471Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mi-033e1ebb70.png",
-   "volume": 15.0,
-   "tags": [
-    "Senate",
-    "midterm",
-    "Politics",
-    "michigan"
-   ],
-   "outcomes": [
-    [
-     "0-3 points behind",
-     0.285
-    ],
-    [
-     "3-6 points behind",
-     0.275
-    ],
-    [
-     "6-9 points behind",
-     0.2
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1185815",
-   "title": "Peggy Flanagan runs behind Amy Klobuchar by...?",
-   "slug": "peggy-flanagan-runs-behind-amy-klobuchar-by",
-   "createdAt": "2026-10-14T01:20:40.27399Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minnesota-republican-senate-primary-winner-PkZ5Qd2-6UN2.png",
-   "volume": 176.0,
-   "tags": [
-    "Senate",
-    "midterm",
-    "Politics",
-    "minnesota"
-   ],
-   "outcomes": [
-    [
-     "0-3 points behind",
-     0.32
-    ],
-    [
-     "6-9 points behind",
-     0.285
-    ],
-    [
-     "3-6 points behind",
-     0.225
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1185814",
-   "title": "Blue mega-tsunami in 2026?",
-   "slug": "blue-mega-tsunami-in-2026",
-   "createdAt": "2026-10-14T01:17:21.944534Z",
-   "endDate": "2027-01-05T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/blue-mega-tsunami-in-2026-ozZMuLQ4fAf9.png",
-   "volume": 0.0,
-   "tags": [
-    "Parlays",
-    "Congress",
-    "Midterms",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.88
-    ],
-    [
-     "Yes",
-     0.12
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1185729",
-   "title": "First Round Outright Winner in the Vermont Governor Election?",
-   "slug": "first-round-outright-winner-in-the-vermont-governor-election",
-   "createdAt": "2026-10-14T00:56:58.405991Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/vermont-governor-democratic-primary-winner-Bubbf7hVjNsv.png",
-   "volume": 959.649203,
-   "tags": [
-    "vermont",
-    "Midterms",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.675
-    ],
-    [
-     "No",
-     0.325
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1185512",
-   "title": "Klitschko out as Kyiv mayor by...?",
-   "slug": "klitschko-out-as-kyiv-mayor-by",
-   "createdAt": "2026-10-13T23:46:10.116276Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/klitschko-out-as-kyiv-mayor-by-ghfu6lKtr2Yv.jpg",
-   "volume": 2177.900513,
-   "tags": [
-    "World",
-    "Ukraine",
-    "Politics",
-    "Geopolitics"
-   ],
-   "outcomes": [
-    [
-     "June 30, 2027",
-     0.295
-    ],
-    [
-     "December 31, 2026",
-     0.08
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1185506",
-   "title": "What will Trump say during his Midterm Rally in Montana?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-montana-october-14",
-   "createdAt": "2026-10-13T23:43:58.358945Z",
-   "endDate": "2026-10-15T00:20:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
-   "volume": 4277.1354,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Coal / Diesel",
-     0.755
-    ],
-    [
-     "Shit / Ass",
-     0.735
-    ],
-    [
-     "Job 13+ times",
-     0.67
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "1185505",
-   "title": "What will Trump say during his Midterm Rally in Arizona?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-arizona-october-14",
-   "createdAt": "2026-10-13T23:43:07.649029Z",
-   "endDate": "2026-10-14T19:50:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 4286.109178,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Shit / Ass",
-     0.81
-    ],
-    [
-     "Nevada",
-     0.705
-    ],
-    [
-     "Iran 5+ times",
-     0.65
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "1185457",
-   "title": "Golden Joystick Awards: Ultimate Game of the Year Winner",
-   "slug": "golden-joystick-awards-ultimate-game-of-the-year-winner",
-   "createdAt": "2026-10-13T23:25:00.210286Z",
-   "endDate": "2026-12-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-joystick-awards-ultimate-game-of-the-year-winner-esQDBYPfV4ty.jpg",
-   "volume": 40.0,
-   "tags": [
-    "Games",
-    "Awards",
-    "Culture",
-    "video games"
-   ],
-   "outcomes": [
-    [
-     "Game A",
-     0.5
-    ],
-    [
-     "Game B",
-     0.5
-    ],
-    [
-     "Game C",
-     0.5
-    ]
-   ],
-   "nMarkets": 29
-  },
-  {
-   "id": "1185083",
-   "title": "How strong will Trudy be?",
-   "slug": "what-category-will-trudy-reach",
-   "createdAt": "2026-10-13T21:29:04.332015Z",
-   "endDate": "2026-10-27T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-category-will-hurricane-imelda-reach-4K4KXHqKhcbw.jpg",
-   "volume": 2216.311896,
-   "tags": [
-    "Weather",
-    "climate",
-    "hurricane",
-    "Hurricane Season"
-   ],
-   "outcomes": [
-    [
-     "Category 4",
-     0.52
-    ],
-    [
-     "Category 3",
-     0.245
-    ],
-    [
-     "Category 5",
-     0.175
-    ]
-   ],
-   "nMarkets": 5
   }
  ]
 }

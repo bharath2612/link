@@ -1,6 +1,182 @@
 {
- "generatedAt": "2026-10-28T10:09:23.585259+00:00",
+ "generatedAt": "2026-10-29T10:34:32.370605+00:00",
  "questions": [
+  {
+   "id": "1274601",
+   "title": "Israel tourism plunges below 40K by January?",
+   "slug": "israel-tourism-plunges-below-40k-by-january",
+   "createdAt": "2026-10-28T23:41:30.701205Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-countries-will-recognize-israel-by-june-30-A3GnpL5vZoZL.jpg",
+   "volume": 3009.759038,
+   "tags": [
+    "World",
+    "Israel",
+    "Economy",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.785
+    ],
+    [
+     "Yes",
+     0.215
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1274386",
+   "title": "House Minority Leader of the next Congress?",
+   "slug": "house-minority-leader-of-the-next-congress",
+   "createdAt": "2026-10-28T22:42:46.257376Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/house-minority-leader-of-the-next-congress-9SywbTNuS_DU.jpg",
+   "volume": 354.454833,
+   "tags": [
+    "Speaker",
+    "Congress",
+    "Midterms",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Person E",
+     0.5
+    ],
+    [
+     "Person F",
+     0.5
+    ],
+    [
+     "Person G",
+     0.5
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1274374",
+   "title": "Senate Combo: Michigan, Texas, Ohio",
+   "slug": "senate-combo-michigan-texas-ohio",
+   "createdAt": "2026-10-28T22:39:16.992467Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-texas-ohio-tVYsBvhs3soZ.png",
+   "volume": 684.619759,
+   "tags": [
+    "Politics",
+    "election",
+    "Jon Husted",
+    "Ken Paxton"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Reps MI & TX, Dems OH",
+     0.455
+    ],
+    [
+     "Dems sweep",
+     0.435
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1274373",
+   "title": "Senate Combo: Michigan and Texas",
+   "slug": "senate-combo-michigan-texas",
+   "createdAt": "2026-10-28T22:38:53.553605Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-texas-djlZE_wNh8U7.png",
+   "volume": 960.315692,
+   "tags": [
+    "Politics",
+    "election",
+    "Ken Paxton",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Dems sweep",
+     0.645
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Reps MI, Dems TX",
+     0.265
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1274356",
+   "title": "Senate Combo: Michigan and Ohio",
+   "slug": "senate-combo-michigan-ohio",
+   "createdAt": "2026-10-28T22:36:33.930254Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-ohio-gSjmAOEfLoEo.png",
+   "volume": 613.4074549999999,
+   "tags": [
+    "Politics",
+    "election",
+    "Jon Husted",
+    "Ohio Senate"
+   ],
+   "outcomes": [
+    [
+     "Dems sweep",
+     0.525
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Reps MI, Dems OH",
+     0.165
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1274355",
+   "title": "Senate Combo: Ohio and Texas",
+   "slug": "senate-combo-ohio-texas",
+   "createdAt": "2026-10-28T22:35:27.580633Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-ohio-texas-am-y4XZk2rrD.png",
+   "volume": 219.916327,
+   "tags": [
+    "Politics",
+    "election",
+    "Jon Husted",
+    "Ken Paxton"
+   ],
+   "outcomes": [
+    [
+     "Dems sweep",
+     0.53
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Reps OH, Dems TX",
+     0.275
+    ]
+   ],
+   "nMarkets": 5
+  },
   {
    "id": "1270335",
    "title": "Next Israeli government a minority government?",
@@ -3828,88 +4004,6 @@
     ]
    ],
    "nMarkets": 36
-  },
-  {
-   "id": "1191104",
-   "title": "What will Trump say during his Midterm Rally in Georgia?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-georgia-october-16",
-   "createdAt": "2026-10-14T23:04:09.478178Z",
-   "endDate": "2026-10-16T19:05:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 6326.722297,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Clay",
-     0.875
-    ],
-    [
-     "Pee-wee / Peewee",
-     0.83
-    ],
-    [
-     "Tax 25+ times",
-     0.75
-    ]
-   ],
-   "nMarkets": 21
-  },
-  {
-   "id": "1191092",
-   "title": "Next Gemini Argon released by...?",
-   "slug": "next-gemini-argon-released-byptptpt-20261014",
-   "createdAt": "2026-10-14T23:01:08.567169Z",
-   "endDate": "2027-02-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
-   "volume": 1006.3761910000001,
-   "tags": [
-    "AI",
-    "Tech",
-    "Argon",
-    "Gemini"
-   ],
-   "outcomes": [
-    [
-     "January 31",
-     0.53
-    ],
-    [
-     "December 31",
-     0.435
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1191004",
-   "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-   "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
-   "createdAt": "2026-10-14T22:46:29.592062Z",
-   "endDate": "2026-10-16T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tesla-roadster-delivered-byptptpt-MjzYXmBXNf3l.jpg",
-   "volume": 12077.309916999979,
-   "tags": [
-    "Tech",
-    "Tesla",
-    "Big Tech",
-    "Elon Musk"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.805
-    ],
-    [
-     "Yes",
-     0.195
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

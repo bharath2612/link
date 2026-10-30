@@ -1,6 +1,442 @@
 {
- "generatedAt": "2026-10-29T10:34:32.370605+00:00",
+ "generatedAt": "2026-10-30T10:34:58.812991+00:00",
  "questions": [
+  {
+   "id": "1280751",
+   "title": "Next Brazilian Minister of Defense?",
+   "slug": "next-brazilian-minister-of-defense",
+   "createdAt": "2026-10-30T01:19:01.805572Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
+   "volume": 412.78,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person F",
+     0.5
+    ],
+    [
+     "Person G",
+     0.5
+    ],
+    [
+     "Person H",
+     0.5
+    ]
+   ],
+   "nMarkets": 97
+  },
+  {
+   "id": "1280750",
+   "title": "Next Brazilian Minister of Justice and Public Security?",
+   "slug": "next-brazilian-minister-of-justice-and-public-security",
+   "createdAt": "2026-10-30T01:18:54.176483Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
+   "volume": 211.851585,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person G",
+     0.5
+    ],
+    [
+     "Person H",
+     0.5
+    ],
+    [
+     "Person I",
+     0.5
+    ]
+   ],
+   "nMarkets": 97
+  },
+  {
+   "id": "1280749",
+   "title": "Next Brazilian Chief of Staff?",
+   "slug": "next-brazilian-chief-of-staff",
+   "createdAt": "2026-10-30T01:18:39.175208Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person H",
+     0.5
+    ],
+    [
+     "Person I",
+     0.5
+    ],
+    [
+     "Person J",
+     0.5
+    ]
+   ],
+   "nMarkets": 97
+  },
+  {
+   "id": "1280748",
+   "title": "Next Brazilian Minister of Foreign Affairs?",
+   "slug": "next-brazilian-minister-of-foreign-affairs",
+   "createdAt": "2026-10-30T01:18:38.041847Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
+   "volume": 256.185566,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person G",
+     0.5
+    ],
+    [
+     "Person H",
+     0.5
+    ],
+    [
+     "Person I",
+     0.5
+    ]
+   ],
+   "nMarkets": 97
+  },
+  {
+   "id": "1280747",
+   "title": "Next Brazilian Minister of Finance?",
+   "slug": "next-brazilian-minister-of-finance",
+   "createdAt": "2026-10-30T01:17:38.881268Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
+   "volume": 641.3812,
+   "tags": [
+    "World",
+    "Brazil",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Person K",
+     0.5
+    ],
+    [
+     "Person L",
+     0.5
+    ],
+    [
+     "Person M",
+     0.5
+    ]
+   ],
+   "nMarkets": 97
+  },
+  {
+   "id": "1280726",
+   "title": "Punjab Legislative Assembly Election Winner",
+   "slug": "punjab-legislative-assembly-election-winner",
+   "createdAt": "2026-10-30T01:11:08.47024Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/in27-pb-seal-65e2a2cfa5.jpg",
+   "volume": 899.506807,
+   "tags": [
+    "India",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "AAP",
+     0.71
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1280724",
+   "title": "Uttar Pradesh Legislative Assembly Election Winner",
+   "slug": "uttar-pradesh-legislative-assembly-election-winner",
+   "createdAt": "2026-10-30T01:09:37.149196Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/in27-up-seal-4d5e0dfc00.jpg",
+   "volume": 2088.101623,
+   "tags": [
+    "India",
+    "Politics",
+    "Elections",
+    "Main Election"
+   ],
+   "outcomes": [
+    [
+     "BJP",
+     0.8
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 31
+  },
+  {
+   "id": "1280622",
+   "title": "Which coalition will form the next Israeli government?",
+   "slug": "next-israeli-government-coalition",
+   "createdAt": "2026-10-30T00:52:17.110093Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 2073.774275,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Y + T + B + D + S + U",
+     0.3395
+    ],
+    [
+     "No government formed",
+     0.325
+    ],
+    [
+     "Y + T + D + S + U + R",
+     0.295
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1280275",
+   "title": "Will Ukraine re-enter Oleshky by...?",
+   "slug": "will-ukraine-re-enter-oleshky-by",
+   "createdAt": "2026-10-29T23:13:46.60352Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+   "volume": 7598.848041,
+   "tags": [
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "November 30",
+     0.027
+    ],
+    [
+     "December 31",
+     0.0255
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1280274",
+   "title": "Next Israeli government # of seats?",
+   "slug": "next-israeli-government-of-seats",
+   "createdAt": "2026-10-29T23:12:55.401387Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 80.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "64-66",
+     0.405
+    ],
+    [
+     "67-69",
+     0.385
+    ],
+    [
+     "73+",
+     0.345
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1280261",
+   "title": "Elon Musk meets with Putin by...?",
+   "slug": "elon-musk-meets-with-putin-by",
+   "createdAt": "2026-10-29T23:10:01.375428Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-meets-with-putin-by-LVgqNUV89z2V.jpg",
+   "volume": 2438.826686,
+   "tags": [
+    "Tech",
+    "Russia",
+    "Politics",
+    "Elon Musk"
+   ],
+   "outcomes": [
+    [
+     "March 31",
+     0.22
+    ],
+    [
+     "December 31",
+     0.0745
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1279928",
+   "title": "Iran blockade lifted before US x Iran ceasefire ends?",
+   "slug": "iran-blockade-lifted-before-us-x-iran-ceasefire-ends",
+   "createdAt": "2026-10-29T21:33:23.327088Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-blockade-on-iran-byptptpt-20260622191049039-hE3ZTZ51JJy3.jpg",
+   "volume": 38.0,
+   "tags": [
+    "Oil",
+    "Iran",
+    "Trump",
+    "Blockade"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.56
+    ],
+    [
+     "Yes",
+     0.44
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1279913",
+   "title": "Major airlines suspend Ben Gurion flights by...?",
+   "slug": "major-airlines-suspend-ben-gurion-flights-byptptpt",
+   "createdAt": "2026-10-29T21:28:29.127849Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israels-ben-gurion-airport-reopen-before-july-4fx3rNi0c660.jpg",
+   "volume": 8588.829368,
+   "tags": [
+    "Iran",
+    "World",
+    "Israel",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.54
+    ],
+    [
+     "December 31, 2026",
+     0.35
+    ],
+    [
+     "November 30, 2026",
+     0.23
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1279883",
+   "title": "Brazil's top courts strike down oil export tax by...?",
+   "slug": "brazils-top-courts-strike-down-oil-export-tax-byptptpt",
+   "createdAt": "2026-10-29T21:18:04.579957Z",
+   "endDate": "2028-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Brazil_Oil-3c1dda0419.jpg",
+   "volume": 11373.131524,
+   "tags": [
+    "Oil",
+    "Taxes",
+    "World",
+    "Brazil"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2028",
+     0.39
+    ],
+    [
+     "December 31, 2027",
+     0.245
+    ],
+    [
+     "June 30, 2027",
+     0.115
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1279789",
+   "title": "Pro Football: Next Head Coach Fired",
+   "slug": "pro-football-next-head-coach-fired-2026-27",
+   "createdAt": "2026-10-29T20:53:39.242154Z",
+   "endDate": "2027-02-16T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 2240.0,
+   "tags": [
+    "Sports",
+    "football",
+    "NFL (All)",
+    "Head coach"
+   ],
+   "outcomes": [
+    [
+     "Coach A",
+     0.5
+    ],
+    [
+     "Coach B",
+     0.5
+    ],
+    [
+     "Coach C",
+     0.5
+    ]
+   ],
+   "nMarkets": 38
+  },
   {
    "id": "1274601",
    "title": "Israel tourism plunges below 40K by January?",
@@ -3572,438 +4008,6 @@
     ]
    ],
    "nMarkets": 33
-  },
-  {
-   "id": "1197714",
-   "title": "Osborn flips Ricketts for Nebraska Senate by November 2?",
-   "slug": "osborn-flips-ricketts-for-nebraska-senate-by-november-2",
-   "createdAt": "2026-10-16T03:00:36.782784Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ne-6caa4b4798.png",
-   "volume": 3183.5599999999995,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.675
-    ],
-    [
-     "Yes",
-     0.325
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197713",
-   "title": "Sullivan flips Peltola for Alaska Senate by November 2?",
-   "slug": "sullivan-flips-peltola-for-alaska-senate-by-november-2",
-   "createdAt": "2026-10-16T03:00:23.873711Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/a-295615a533.png",
-   "volume": 3800.671726,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.715
-    ],
-    [
-     "Yes",
-     0.285
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197695",
-   "title": "2028 presidential odds leader on November 30?",
-   "slug": "2028-presidential-odds-leader-on-november-30",
-   "createdAt": "2026-10-16T02:56:12.950279Z",
-   "endDate": "2026-11-30T17:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/presidential-election-winner-2024-afdda358-219d-448a-abb5-ba4d14118d71.png",
-   "volume": 809.9165280000001,
-   "tags": [
-    "Politics",
-    "Elections",
-    "United States",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "JD Vance",
-     0.775
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1197694",
-   "title": "Hamilton flips Marshall for Kansas Senate by November 2?",
-   "slug": "hamilton-flips-marshall-for-kansas-senate-by-november-2",
-   "createdAt": "2026-10-16T02:55:49.147726Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-fd80a0b343.png",
-   "volume": 2741.0055559999996,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.72
-    ],
-    [
-     "Yes",
-     0.28
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197693",
-   "title": "Talarico Texas Senate odds hit __ by November 2?",
-   "slug": "talarico-texas-senate-odds-hit-by-november-2",
-   "createdAt": "2026-10-16T02:55:45.153708Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f-74dbca06af.png",
-   "volume": 1234.5,
-   "tags": [
-    "Politics",
-    "Elections",
-    "United States",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "\u2191 75%",
-     0.33
-    ],
-    [
-     "\u2191 70%",
-     0.325
-    ],
-    [
-     "\u2191 80%",
-     0.075
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1197692",
-   "title": "Collins flips Jackson for Maine Senate by November 2?",
-   "slug": "collins-flips-jackson-for-maine-senate-by-november-2",
-   "createdAt": "2026-10-16T02:55:09.525526Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maine-31b36d7c50.png",
-   "volume": 725.97,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.545
-    ],
-    [
-     "Yes",
-     0.455
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197691",
-   "title": "Turek flips Hinson for Iowa Senate by November 2?",
-   "slug": "turek-flips-hinson-for-iowa-senate-by-november-2",
-   "createdAt": "2026-10-16T02:55:09.3828Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/io-ffe3e675ae.png",
-   "volume": 3477.8900000000003,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.57
-    ],
-    [
-     "Yes",
-     0.43
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197690",
-   "title": "Rogers flips El-Sayed for Michigan Senate by November 2?",
-   "slug": "rogers-flips-el-sayed-for-michigan-senate-by-november-2",
-   "createdAt": "2026-10-16T02:55:07.084818Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mi-033e1ebb70.png",
-   "volume": 402.920998,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.89
-    ],
-    [
-     "Yes",
-     0.11
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197688",
-   "title": "Paxton flips Talarico for Texas Senate by November 2?",
-   "slug": "paxton-flips-talarico-for-texas-senate-by-november-2",
-   "createdAt": "2026-10-16T02:54:43.605624Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f-74dbca06af.png",
-   "volume": 2476.86,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.59
-    ],
-    [
-     "Yes",
-     0.41
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197687",
-   "title": "Michigan Senate favorite on November 2?",
-   "slug": "michigan-senate-favorite-on-november-2",
-   "createdAt": "2026-10-16T02:54:41.015374Z",
-   "endDate": "2026-11-03T04:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mi-033e1ebb70.png",
-   "volume": 157.760864,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "El-Sayed",
-     0.73
-    ],
-    [
-     "Rogers",
-     0.27
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197686",
-   "title": "Husted flips Brown for Ohio Senate by November 2?",
-   "slug": "husted-flips-brown-for-ohio-senate-by-november-2",
-   "createdAt": "2026-10-16T02:54:39.388601Z",
-   "endDate": "2026-11-03T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fg-226eaa95c5.png",
-   "volume": 1520.7190059999998,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.64
-    ],
-    [
-     "Yes",
-     0.36
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197685",
-   "title": "Texas Senate favorite on November 2?",
-   "slug": "texas-senate-favorite-on-november-2",
-   "createdAt": "2026-10-16T02:54:37.07288Z",
-   "endDate": "2026-11-03T04:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/f-74dbca06af.png",
-   "volume": 290.431035,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "Talarico",
-     0.575
-    ],
-    [
-     "Paxton",
-     0.425
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197684",
-   "title": "Ohio Senate favorite on November 2?",
-   "slug": "ohio-senate-favorite-on-november-2",
-   "createdAt": "2026-10-16T02:53:58.153355Z",
-   "endDate": "2026-11-03T04:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fg-226eaa95c5.png",
-   "volume": 1149.181726,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections",
-    "Derivatives"
-   ],
-   "outcomes": [
-    [
-     "Brown",
-     0.825
-    ],
-    [
-     "Husted",
-     0.175
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197657",
-   "title": "Hike 25 bps flips No change for October Fed by October 27?",
-   "slug": "hike-25-bps-flips-no-change-for-october-fed-by-october-27",
-   "createdAt": "2026-10-16T02:51:15.742028Z",
-   "endDate": "2026-10-28T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
-   "volume": 709.057632,
-   "tags": [
-    "Fed",
-    "fomc",
-    "Economy",
-    "Fed Rates"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.775
-    ],
-    [
-     "Yes",
-     0.225
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1197002",
-   "title": "What will Trump say during his Midterm Rally in Kentucky?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-kentucky-october-17",
-   "createdAt": "2026-10-15T23:17:40.14209Z",
-   "endDate": "2026-10-17T18:05:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
-   "volume": 3941.416855,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Massie / Rand",
-     0.895
-    ],
-    [
-     "Truck",
-     0.705
-    ],
-    [
-     "Data Center / Electric / Electricity",
-     0.7
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "1196748",
-   "title": "Next President of FIFA",
-   "slug": "next-president-of-fifa-20261015100426413",
-   "createdAt": "2026-10-15T21:53:12.500401Z",
-   "endDate": "2027-03-19T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fifa-logo-fifa-logo-event-8f1b010f90.jpg",
-   "volume": 1704.735046,
-   "tags": [
-    "FIFA",
-    "Soccer",
-    "Sports",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Gianni Infantino",
-     0.83
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ]
-   ],
-   "nMarkets": 36
   }
  ]
 }

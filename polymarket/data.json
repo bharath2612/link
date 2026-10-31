@@ -1,6 +1,303 @@
 {
- "generatedAt": "2026-10-30T10:34:58.812991+00:00",
+ "generatedAt": "2026-10-31T10:03:02.698656+00:00",
  "questions": [
+  {
+   "id": "1285915",
+   "title": "Marshall retakes Kansas Senate odds lead by November 1?",
+   "slug": "marshall-retakes-kansas-senate-odds-lead-by-november-1",
+   "createdAt": "2026-10-31T00:02:56.312011Z",
+   "endDate": "2026-11-02T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-fd80a0b343.png",
+   "volume": 0.0,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Derivatives"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.515
+    ],
+    [
+     "No",
+     0.485
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285556",
+   "title": "El Salvador ends Haiti deployment by...?",
+   "slug": "el-salvador-ends-haiti-deployment-by",
+   "createdAt": "2026-10-30T22:30:12.551201Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sv27-flag-a500ff696c.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "haiti",
+    "Politics",
+    "Geopolitics"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.51
+    ],
+    [
+     "March 31, 2027",
+     0.505
+    ],
+    [
+     "June 30, 2027",
+     0.49
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1285555",
+   "title": "\u015awi\u0119czkowski reinstated as Constitutional Tribunal President by...?",
+   "slug": "swieczkowski-reinstated-as-constitutional-tribunal-president-by",
+   "createdAt": "2026-10-30T22:28:56.573761Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pl-bogdan-swieczkowski-95bca29f0b.jpg",
+   "volume": 1474.481477,
+   "tags": [
+    "World",
+    "Courts",
+    "Poland",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.315
+    ],
+    [
+     "December 31, 2026",
+     0.245
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1285554",
+   "title": "\u015awi\u0119czkowski charged by December 31?",
+   "slug": "swieczkowski-charged-by-december-31-2026",
+   "createdAt": "2026-10-30T22:28:38.50027Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pl-bogdan-swieczkowski-95bca29f0b.jpg",
+   "volume": 15.014416,
+   "tags": [
+    "crime",
+    "Courts",
+    "Poland",
+    "indict"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.58
+    ],
+    [
+     "No",
+     0.42
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285516",
+   "title": "What % of Anthropic will be sold in its IPO?",
+   "slug": "what-percent-of-anthropic-will-be-sold-in-its-ipo",
+   "createdAt": "2026-10-30T22:14:04.19888Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
+   "volume": 183.326322,
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Dario"
+   ],
+   "outcomes": [
+    [
+     "4% to 5%",
+     0.375
+    ],
+    [
+     "5% to 6%",
+     0.26
+    ],
+    [
+     "7% to 8%",
+     0.155
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1285348",
+   "title": "Nawrocki out by December 31?",
+   "slug": "nawrocki-out-by-december-31-2026",
+   "createdAt": "2026-10-30T21:49:06.117244Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pl-karol-nawrocki-f6e7e93f91.jpg",
+   "volume": 7336.712882,
+   "tags": [
+    "World",
+    "Poland",
+    "resign",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.935
+    ],
+    [
+     "Yes",
+     0.065
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285347",
+   "title": "Tusk out by December 31?",
+   "slug": "tusk-out-by-december-31-2026",
+   "createdAt": "2026-10-30T21:48:37.79458Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pl-donald-tusk-e172b70bf4.jpg",
+   "volume": 6904.053027,
+   "tags": [
+    "World",
+    "Poland",
+    "resign",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.915
+    ],
+    [
+     "Yes",
+     0.085
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285268",
+   "title": "JetBlue announces bankruptcy by...?",
+   "slug": "jetblue-announces-bankruptcy-by",
+   "createdAt": "2026-10-30T21:18:09.44555Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jetblue-announce-bankruptcy-by-december-31-JxBPZS9AgyHY.png",
+   "volume": 1.075257,
+   "tags": [
+    "Finance",
+    "Business",
+    "Earn 3.25%",
+    "Corporate Financials"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.39
+    ],
+    [
+     "June 30, 2027",
+     0.36
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1285255",
+   "title": "Aryeh Deri out as Shas Leader by December 31?",
+   "slug": "aryeh-deri-out-as-shas-leader-by-december-31-mvtsmcct",
+   "createdAt": "2026-10-30T21:12:41.874507Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-aryeh-deri-resign-aryeh-deri-f4adf09bfb.jpg",
+   "volume": 67.25,
+   "tags": [
+    "Israel",
+    "resign",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.655
+    ],
+    [
+     "Yes",
+     0.345
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285246",
+   "title": "Michael Barr officially out as Fed Governor by December 31?",
+   "slug": "michael-barr-officially-out-as-fed-governor-by-december-31",
+   "createdAt": "2026-10-30T21:11:47.434311Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-gov-out-michael-barr-48e5624047.jpg",
+   "volume": 360.93,
+   "tags": [
+    "Fed",
+    "Trump",
+    "Finance",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.745
+    ],
+    [
+     "Yes",
+     0.255
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1285245",
+   "title": "Next Israeli election called by...?",
+   "slug": "next-israeli-election-called-by",
+   "createdAt": "2026-10-30T21:10:54.704592Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-JlG6pTiX-iGy.png",
+   "volume": 206.11565,
+   "tags": [
+    "Israel",
+    "Politics",
+    "Elections",
+    "Middle East"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.645
+    ],
+    [
+     "March 31, 2027",
+     0.475
+    ],
+    [
+     "December 31, 2026",
+     0.205
+    ]
+   ],
+   "nMarkets": 3
+  },
   {
    "id": "1280751",
    "title": "Next Brazilian Minister of Defense?",
@@ -3858,156 +4155,6 @@
     ]
    ],
    "nMarkets": 5
-  },
-  {
-   "id": "1202293",
-   "title": "Kansas Senate Election: Sedgwick County Winner",
-   "slug": "kansas-senate-election-sedgwick-county-winner",
-   "createdAt": "2026-10-16T23:05:46.651544Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-fd80a0b343.png",
-   "volume": 3581.074612,
-   "tags": [
-    "Senate",
-    "Midterms",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Roger Marshall (R)",
-     0.5
-    ],
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1202292",
-   "title": "Kansas Senate Election: Leavenworth County Winner",
-   "slug": "kansas-senate-election-leavenworth-county-winner",
-   "createdAt": "2026-10-16T23:05:40.01664Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-fd80a0b343.png",
-   "volume": 127.85157000000001,
-   "tags": [
-    "Senate",
-    "Midterms",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Person C",
-     0.5
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1202280",
-   "title": "Which of these people will be impeached first by the end of 2027?",
-   "slug": "which-of-these-people-will-be-impeached-first-by-the-end-of-2027",
-   "createdAt": "2026-10-16T23:05:06.660191Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-impeached-first-by-the-end-of-2027-J0zJ-wgZMIQd.jpg",
-   "volume": 797.15,
-   "tags": [
-    "Trump",
-    "RFK Jr",
-    "Hegseth",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Pete Hegseth",
-     0.375
-    ],
-    [
-     "Nobody",
-     0.34
-    ],
-    [
-     "Howard Lutnick",
-     0.235
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1202277",
-   "title": "Kentucky Governor Republican Primary Winner (2027)",
-   "slug": "kentucky-governor-republican-primary-winner-2027",
-   "createdAt": "2026-10-16T23:03:06.858127Z",
-   "endDate": "2027-05-19T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kentucky-senate-election-winner-eniVX4tBx2R8.jpg",
-   "volume": 1256.783637,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "James Comer",
-     0.625
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Candidate A",
-     0.5
-    ]
-   ],
-   "nMarkets": 39
-  },
-  {
-   "id": "1202276",
-   "title": "Kentucky Governor Democratic Primary Winner (2027)",
-   "slug": "kentucky-governor-democratic-primary-winner-2027",
-   "createdAt": "2026-10-16T23:02:35.144367Z",
-   "endDate": "2027-05-19T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kentucky-senate-election-winner-eniVX4tBx2R8.jpg",
-   "volume": 0.0,
-   "tags": [
-    "Politics",
-    "Elections",
-    "Primaries",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Candidate A",
-     0.5
-    ],
-    [
-     "Candidate B",
-     0.5
-    ]
-   ],
-   "nMarkets": 33
   }
  ]
 }

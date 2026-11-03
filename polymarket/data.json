@@ -1,6 +1,388 @@
 {
- "generatedAt": "2026-11-02T11:50:52.336189+00:00",
+ "generatedAt": "2026-11-03T11:28:48.606446+00:00",
  "questions": [
+  {
+   "id": "1305832",
+   "title": "GPT Astra 6.1+ released on...?",
+   "slug": "gpt-astra-6pt1-released-onptptpt",
+   "createdAt": "2026-11-03T04:53:12.783658Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+   "volume": 1382.7021,
+   "tags": [
+    "AI",
+    "gpt",
+    "Tech",
+    "Astra"
+   ],
+   "outcomes": [
+    [
+     "November 9",
+     0.342
+    ],
+    [
+     "November 26",
+     0.3395
+    ],
+    [
+     "November 27",
+     0.337
+    ]
+   ],
+   "nMarkets": 29
+  },
+  {
+   "id": "1305501",
+   "title": "Spain General Election: Left-Right Seat Margin of Victory",
+   "slug": "spain-general-election-left-right-seat-margin-of-victory",
+   "createdAt": "2026-11-03T03:26:25.611993Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 171.093166,
+   "tags": [
+    "Spain",
+    "World",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Left 1+ seats",
+     0.42
+    ],
+    [
+     "Right 60-69 seats",
+     0.415
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1305459",
+   "title": "Will Republicans lose any \"Solid / Likely R\" House race?",
+   "slug": "will-republicans-lose-any-solid-likely-r-house-race",
+   "createdAt": "2026-11-03T03:12:38.987404Z",
+   "endDate": "2026-11-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-republicans-lose-any-safe-republican-senate-race-5HEKJagpcbW9.jpg",
+   "volume": 299.32545500000003,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "House Races"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.92
+    ],
+    [
+     "No",
+     0.08
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1305449",
+   "title": "Spain General Election: PP-PSOE Seat Margin of Victory",
+   "slug": "spain-general-election-pp-psoe-seat-margin-of-victory",
+   "createdAt": "2026-11-03T03:08:42.275537Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 271.98,
+   "tags": [
+    "PP",
+    "PSOE",
+    "Spain",
+    "World"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "PP 15-21 seats",
+     0.42
+    ],
+    [
+     "PP 22-28 seats",
+     0.41
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1305426",
+   "title": "Swiss Federal Council By-Election Winner",
+   "slug": "swiss-federal-council-by-election-winner",
+   "createdAt": "2026-11-03T03:07:30.702851Z",
+   "endDate": "2026-12-10T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ch-fc26-flag-919a3ab8f9.jpg",
+   "volume": 8.11785,
+   "tags": [
+    "Europe",
+    "Politics",
+    "Elections",
+    "Switzerland"
+   ],
+   "outcomes": [
+    [
+     "Marco Chiesa",
+     0.53
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 29
+  },
+  {
+   "id": "1305379",
+   "title": "Will any 2027 Oscar award result in a tie?",
+   "slug": "will-any-2027-oscar-award-result-in-a-tie",
+   "createdAt": "2026-11-03T03:01:23.135454Z",
+   "endDate": "2027-03-15T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/oscars-810eefffe5.jpg",
+   "volume": 2101.7248170000003,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Oscars",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.825
+    ],
+    [
+     "Yes",
+     0.175
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1305365",
+   "title": "Senate MOV Ranking: Texas, Ohio, Kansas, Alaska",
+   "slug": "senate-mov-ranking-texas-ohio-kansas-alaska",
+   "createdAt": "2026-11-03T02:59:58.276052Z",
+   "endDate": "2026-11-03T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-the-senate-in-the-2026-midterms-OXeDuHUkn3kf.png",
+   "volume": 448.824165,
+   "tags": [
+    "Politics",
+    "election",
+    "Ohio Senate",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "AK < TX < KS < OH",
+     0.11
+    ],
+    [
+     "TX < AK < OH < KS",
+     0.095
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "1305364",
+   "title": "Yorkton\u2014Melville By-Election Winner",
+   "slug": "yorktonmelville-by-election-winner-1793634154133",
+   "createdAt": "2026-11-03T02:59:39.491028Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 265.521561,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "Nelson Pohl",
+     0.835
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 29
+  },
+  {
+   "id": "1305363",
+   "title": "Scarborough North By-Election Winner",
+   "slug": "scarborough-north-by-election-winner-1793634153133",
+   "createdAt": "2026-11-03T02:59:33.259657Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 139.43333,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "James Li",
+     0.65
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 28
+  },
+  {
+   "id": "1305362",
+   "title": "Saint-Hyacinthe\u2014Bagot\u2014Acton By-Election Winner",
+   "slug": "saint-hyacinthebagotacton-by-election-winner-1793634152133",
+   "createdAt": "2026-11-03T02:59:25.225754Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 241.89091,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "Caroline \u00c9mond",
+     0.665
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1305361",
+   "title": "Rosemont\u2014La Petite-Patrie By-Election Winner",
+   "slug": "rosemontla-petite-patrie-by-election-winner-1793634151133",
+   "createdAt": "2026-11-03T02:59:18.677315Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 0.0,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1305343",
+   "title": "Laurier\u2014Sainte-Marie By-Election Winner",
+   "slug": "lauriersainte-marie-by-election-winner-1793634150133",
+   "createdAt": "2026-11-03T02:59:08.841565Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 4.409031000000001,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "Guy Cormier",
+     0.705
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1305327",
+   "title": "Brantford\u2014Brant South By-Election Winner",
+   "slug": "brantfordbrant-south-by-election-winner-1793634149133",
+   "createdAt": "2026-11-03T02:58:51.227196Z",
+   "endDate": "2026-12-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/north-vancouvercapilano-by-election-winner-20260729185730213-VtM65YY3vjgN.png",
+   "volume": 5.0,
+   "tags": [
+    "Canada",
+    "Politics",
+    "Elections",
+    "by election"
+   ],
+   "outcomes": [
+    [
+     "Joy O'Donnell",
+     0.62
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
   {
    "id": "1293565",
    "title": "WTA Tennis: Hong Kong, Hong Kong Winner",

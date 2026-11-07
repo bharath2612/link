@@ -1,6 +1,1025 @@
 {
- "generatedAt": "2026-11-06T11:41:28.416765+00:00",
+ "generatedAt": "2026-11-07T10:47:31.505245+00:00",
  "questions": [
+  {
+   "id": "1329454",
+   "title": "Next Qwen Max (3.9+) released on...?",
+   "slug": "next-qwen-max-3pt9-released-onptptpt-20261106",
+   "createdAt": "2026-11-07T04:03:08.059217Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alibaba-have-the-best-ai-agent-at-the-end-of-august-2026-20260716210803638-HGGGQOL-fYvS.png",
+   "volume": 100.546542,
+   "tags": [
+    "AI",
+    "Qwen",
+    "Tech",
+    "Alibaba"
+   ],
+   "outcomes": [
+    [
+     "November 20",
+     0.465
+    ],
+    [
+     "November 16",
+     0.46
+    ],
+    [
+     "November 18",
+     0.46
+    ]
+   ],
+   "nMarkets": 26
+  },
+  {
+   "id": "1329453",
+   "title": "Next Qwen Max Model (3.9+): Text Arena Debut?",
+   "slug": "next-qwen-max-model-3pt9-text-arena-debut-20261106",
+   "createdAt": "2026-11-07T04:02:09.136239Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alibaba-have-the-best-ai-agent-at-the-end-of-august-2026-20260716210803638-HGGGQOL-fYvS.png",
+   "volume": 4103.616197,
+   "tags": [
+    "AI",
+    "Qwen",
+    "Tech",
+    "Debut"
+   ],
+   "outcomes": [
+    [
+     "1460+",
+     0.855
+    ],
+    [
+     "1480+",
+     0.725
+    ],
+    [
+     "1500+",
+     0.425
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1329415",
+   "title": "Another commercial vessel struck in Black Sea by\u2026?",
+   "slug": "another-commercial-vessel-struck-in-black-sea-by-20261106",
+   "createdAt": "2026-11-07T03:57:15.292664Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-strikes-another-tanker-in-black-sea-by-december-31-dwHA5Sn4sKMu.jpg",
+   "volume": 281.083725,
+   "tags": [
+    "putin",
+    "Russia",
+    "Ukraine",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.955
+    ],
+    [
+     "November 30",
+     0.81
+    ],
+    [
+     "November 15",
+     0.645
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1329400",
+   "title": "Aleksandar Vu\u010di\u0107 arrested by...?",
+   "slug": "aleksandar-vucic-arrested-byptptpt",
+   "createdAt": "2026-11-07T03:54:46.520607Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/vucic-sad-00ff34a947.png",
+   "volume": 105.634858,
+   "tags": [
+    "Serbia",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.355
+    ],
+    [
+     "November 30, 2026",
+     0.055
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1328444",
+   "title": "Vincent van Gogh's \u201cCh\u00e2taigniers en fleurs\u201d Sale Price",
+   "slug": "van-gogh-chataigniers-en-fleurs-sale-price",
+   "createdAt": "2026-11-07T00:28:01.077663Z",
+   "endDate": "2026-11-19T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-vangogh-89a19fbc5d.jpg",
+   "volume": 3311.418988,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "sotheby's"
+   ],
+   "outcomes": [
+    [
+     "$175m-$200m",
+     0.44
+    ],
+    [
+     "$200m-$225m",
+     0.34
+    ],
+    [
+     "$225m+",
+     0.16
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328443",
+   "title": "Claude Monet's \u201cLe Jardin des Tuileries\u201d Sale Price",
+   "slug": "monet-le-jardin-des-tuileries-sale-price",
+   "createdAt": "2026-11-07T00:27:51.145955Z",
+   "endDate": "2026-11-19T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-monet-a614a879fa.jpg",
+   "volume": 1442.487688,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "sotheby's"
+   ],
+   "outcomes": [
+    [
+     "$18m-$21m",
+     0.41
+    ],
+    [
+     "$21m-$24m",
+     0.35
+    ],
+    [
+     "$15m-$18m",
+     0.18
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328442",
+   "title": "Roy Lichtenstein's \u201cReflections on \u2018Painter and Model\u2019\u201d Sale Price",
+   "slug": "lichtenstein-reflections-on-painter-and-model-sale-price",
+   "createdAt": "2026-11-07T00:27:37.985032Z",
+   "endDate": "2026-11-17T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-lichtenstein-c7bd220d33.jpg",
+   "volume": 2462.982678,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "sotheby's"
+   ],
+   "outcomes": [
+    [
+     "$25m-$30m",
+     0.36
+    ],
+    [
+     "$30m-$35m",
+     0.24
+    ],
+    [
+     "$35m+",
+     0.18
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328433",
+   "title": "Amedeo Modigliani's \u201cT\u00eate\u201d Sale Price",
+   "slug": "modigliani-tete-sale-price",
+   "createdAt": "2026-11-07T00:27:27.79569Z",
+   "endDate": "2026-11-18T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-modigliani-00faff560c.jpg",
+   "volume": 64.11785,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "art auction"
+   ],
+   "outcomes": [
+    [
+     "$33m-$38m",
+     0.52
+    ],
+    [
+     "$28m-$33m",
+     0.46
+    ],
+    [
+     "$43m+",
+     0.46
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328432",
+   "title": "Jean-Michel Basquiat's \u201cUntitled (Leonardo and His Five Grotesque Heads)\u201d Sale Price",
+   "slug": "basquiat-untitled-leonardo-and-his-five-grotesque-heads-sale-price",
+   "createdAt": "2026-11-07T00:27:23.230014Z",
+   "endDate": "2026-11-20T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-basquiat-d5acb156d1.jpg",
+   "volume": 43.11785,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "art auction"
+   ],
+   "outcomes": [
+    [
+     "$30m-$40m",
+     0.605
+    ],
+    [
+     "$60m+",
+     0.56
+    ],
+    [
+     "$50m-$60m",
+     0.475
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328431",
+   "title": "Pablo Picasso's \u201cLe Baiser\u201d Sale Price",
+   "slug": "picasso-le-baiser-sale-price",
+   "createdAt": "2026-11-07T00:27:14.741523Z",
+   "endDate": "2026-11-18T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-picasso-86f7712c69.jpg",
+   "volume": 41.0204,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "art auction"
+   ],
+   "outcomes": [
+    [
+     "$70m+",
+     0.56
+    ],
+    [
+     "$50m-$60m",
+     0.485
+    ],
+    [
+     "$60m-$70m",
+     0.47
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328430",
+   "title": "Gustav Klimt's \u201cLitzlbergkeller\u201d Sale Price",
+   "slug": "klimt-litzlbergkeller-sale-price",
+   "createdAt": "2026-11-07T00:27:04.066365Z",
+   "endDate": "2026-11-18T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-klimt-640faf0e20.jpg",
+   "volume": 61.0309,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "art auction"
+   ],
+   "outcomes": [
+    [
+     "$90m-$105m",
+     0.485
+    ],
+    [
+     "$60m-$75m",
+     0.47
+    ],
+    [
+     "$75m-$90m",
+     0.47
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328429",
+   "title": "Wassily Kandinsky's \u201cBetonte Ecken\u201d Sale Price",
+   "slug": "kandinsky-betonte-ecken-sale-price",
+   "createdAt": "2026-11-07T00:26:56.231578Z",
+   "endDate": "2026-11-18T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-kandinsky-fe979499b3.jpg",
+   "volume": 21.226566,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "art auction"
+   ],
+   "outcomes": [
+    [
+     "$60m-$75m",
+     0.47
+    ],
+    [
+     "$105m+",
+     0.47
+    ],
+    [
+     "$75m-$90m",
+     0.465
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1328374",
+   "title": "French presidential election delayed?",
+   "slug": "french-presidential-election-delayed",
+   "createdAt": "2026-11-07T00:20:24.001323Z",
+   "endDate": "2027-04-19T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 402.065673,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.945
+    ],
+    [
+     "Yes",
+     0.055
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1328365",
+   "title": "Who leaves the Trump administration first: Rubio or Hegseth?",
+   "slug": "who-leaves-the-trump-administration-first-rubio-or-hegseth",
+   "createdAt": "2026-11-07T00:18:29.983444Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-leave-trump-administration-in-2025-I6Rk9u0UMDav.jpg",
+   "volume": 367.332332,
+   "tags": [
+    "Trump",
+    "rubio",
+    "Politics",
+    "marco rubio"
+   ],
+   "outcomes": [
+    [
+     "Rubio",
+     0.5
+    ],
+    [
+     "Hegseth",
+     0.5
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1328335",
+   "title": "Eurovision Asia 2026: Top 3",
+   "slug": "eurovision-asia-2026-top-3",
+   "createdAt": "2026-11-07T00:11:59.493049Z",
+   "endDate": "2026-11-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/esc-asia-eurovision-asia-2026-05f29c0c01.jpg",
+   "volume": 1106.968366,
+   "tags": [
+    "Asia",
+    "Music",
+    "Awards",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "Thailand",
+     0.805
+    ],
+    [
+     "Malaysia",
+     0.755
+    ],
+    [
+     "Laos",
+     0.51
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1328333",
+   "title": "Who will receive the second mandate to form Israel's next government?",
+   "slug": "who-will-receive-the-second-mandate-to-form-israels-next-government-20261105190000000",
+   "createdAt": "2026-11-07T00:10:28.682668Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-next-prime-minister-of-israel-after-the-2026-election-lWDmU0z7U_Vj.png",
+   "volume": 3265.672256,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person 1",
+     0.5
+    ],
+    [
+     "Person 2",
+     0.5
+    ]
+   ],
+   "nMarkets": 102
+  },
+  {
+   "id": "1328303",
+   "title": "Next US president's age at inauguration?",
+   "slug": "next-us-president-age-at-inauguration",
+   "createdAt": "2026-11-07T00:06:36.440845Z",
+   "endDate": "2029-01-21T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-old-will-the-2028-presidential-nominee-be-wrcxdGYV8a7I.jpg",
+   "volume": 6290.988374999999,
+   "tags": [
+    "Politics",
+    "Elections",
+    "US Election",
+    "2028 Election"
+   ],
+   "outcomes": [
+    [
+     "50+",
+     0.39
+    ],
+    [
+     "60+",
+     0.16
+    ],
+    [
+     "70+",
+     0.135
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1328280",
+   "title": "Which parties will support the new Israeli government in the vote of confidence by February 28?",
+   "slug": "which-parties-will-support-the-new-israeli-government-in-the-vote-of-confidence-by-february-28",
+   "createdAt": "2026-11-07T00:04:55.598843Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 60.0,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Yashar",
+     0.52
+    ],
+    [
+     "Balad",
+     0.52
+    ],
+    [
+     "Zehut",
+     0.505
+    ]
+   ],
+   "nMarkets": 17
+  },
+  {
+   "id": "1328271",
+   "title": "French Presidential Election: United Right & Center Primary Announced?",
+   "slug": "french-presidential-election-united-right-center-primary-announced",
+   "createdAt": "2026-11-07T00:01:01.889109Z",
+   "endDate": "2027-04-18T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 20.0,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.54
+    ],
+    [
+     "Yes",
+     0.46
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1328205",
+   "title": "Will Liam Lawson have an F1 seat in 2027?",
+   "slug": "will-liam-lawson-have-an-f1-seat-in-2027",
+   "createdAt": "2026-11-06T23:49:48.844999Z",
+   "endDate": "2027-03-02T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-liam-lawson-have-an-f1-seat-in-2027-YT96bR4jaqFR.jpg",
+   "volume": 5.230766,
+   "tags": [
+    "f1",
+    "Sports",
+    "Formula 1"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.58
+    ],
+    [
+     "Yes",
+     0.42
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1328090",
+   "title": "Riksdag approves Swedish Prime Minister by...?",
+   "slug": "riksdag-approves-swedish-prime-minister-by-20261106",
+   "createdAt": "2026-11-06T23:21:33.350443Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/seschool-sweden-flag-4f2ad098a8.jpg",
+   "volume": 1092.517661,
+   "tags": [
+    "World",
+    "Sweden",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2027",
+     0.895
+    ],
+    [
+     "February 28, 2027",
+     0.755
+    ],
+    [
+     "December 31, 2026",
+     0.67
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1328075",
+   "title": "Will Hasbulla attend a UFC event by May 31, 2027?",
+   "slug": "will-hasbulla-attend-a-ufc-event-by-may-31-2027",
+   "createdAt": "2026-11-06T23:16:55.632569Z",
+   "endDate": "2027-06-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hasbulla-ufc-event-5db6b49d58.jpg",
+   "volume": 21.406627,
+   "tags": [
+    "UFC",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.63
+    ],
+    [
+     "No",
+     0.37
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1328044",
+   "title": "How many U.S. reps vote to impeach Hegseth by December 31?",
+   "slug": "how-many-uptspt-reps-vote-to-impeach-hegseth-by-december-31",
+   "createdAt": "2026-11-06T23:09:43.883649Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pete-hegseth-impeached-by-june-30-dhxZQrHUmJ9x.jpg",
+   "volume": 291.717764,
+   "tags": [
+    "Hegseth",
+    "Congress",
+    "Politics",
+    "impeachment"
+   ],
+   "outcomes": [
+    [
+     "No vote",
+     0.38
+    ],
+    [
+     "220-224",
+     0.33
+    ],
+    [
+     "235-239",
+     0.31
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1328043",
+   "title": "The Streamer Awards: Best IRL Streamer",
+   "slug": "the-streamer-awards-best-irl-streamer-2026",
+   "createdAt": "2026-11-06T23:07:36.656481Z",
+   "endDate": "2026-11-13T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-streamer-awards-streamer-of-the-year-Y0TLIarXCEKy.png",
+   "volume": 19.25,
+   "tags": [
+    "Games",
+    "Awards",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "streamer a",
+     0.5
+    ],
+    [
+     "streamer b",
+     0.5
+    ],
+    [
+     "streamer c",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1328023",
+   "title": "The Streamer Awards: Best Content Group",
+   "slug": "the-streamer-awards-best-content-group-2026",
+   "createdAt": "2026-11-06T23:07:29.978784Z",
+   "endDate": "2026-11-13T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-streamer-awards-streamer-of-the-year-Y0TLIarXCEKy.png",
+   "volume": 0.0,
+   "tags": [
+    "Games",
+    "Awards",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "group a",
+     0.5
+    ],
+    [
+     "group b",
+     0.5
+    ],
+    [
+     "group c",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1327936",
+   "title": "Who will be the next to leave the Trump Cabinet?",
+   "slug": "who-will-be-the-next-to-leave-the-trump-cabinet-before-2029",
+   "createdAt": "2026-11-06T22:58:30.873947Z",
+   "endDate": "2029-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-the-first-to-leave-the-trump-cabinet-7yoh_QeiiNXH.jpg",
+   "volume": 4116.882536,
+   "tags": [
+    "Trump",
+    "Politics",
+    "Trump Cabinet",
+    "Cabinet Shakeup"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "1327850",
+   "title": "French Presidential Election First Round: # of Candidates on Ballot?",
+   "slug": "french-presidential-election-first-round-of-candidates-on-ballot",
+   "createdAt": "2026-11-06T22:39:01.618548Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "9",
+     0.49
+    ],
+    [
+     "10",
+     0.47
+    ],
+    [
+     "8",
+     0.365
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1327833",
+   "title": "French Presidential Election First Round: M\u00e9lenchon hits __% in any poll?",
+   "slug": "french-presidential-election-first-round-jean-luc-melenchon-hits-in-any-poll",
+   "createdAt": "2026-11-06T22:37:19.69537Z",
+   "endDate": "2027-04-17T21:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fr27-jean-luc-melenchon-57ef66203b.jpg",
+   "volume": 116.0989,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "20%",
+     0.785
+    ],
+    [
+     "22%",
+     0.505
+    ],
+    [
+     "25%",
+     0.18
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1327832",
+   "title": "French Presidential Election First Round: Le Pen hits __% in any poll?",
+   "slug": "french-presidential-election-first-round-marine-le-pen-hits-in-any-poll",
+   "createdAt": "2026-11-06T22:37:04.721981Z",
+   "endDate": "2027-04-17T21:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+   "volume": 21.182785,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "38%",
+     0.605
+    ],
+    [
+     "42%",
+     0.5
+    ],
+    [
+     "40%",
+     0.49
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1327825",
+   "title": "French Presidential Election First Round: Glucksmann Vote Share?",
+   "slug": "french-presidential-election-first-round-raphael-glucksmann-vote-share",
+   "createdAt": "2026-11-06T22:34:24.986299Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fr27-raphael-glucksmann-c0032d60f6.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "13-16%",
+     0.38
+    ],
+    [
+     "<7%",
+     0.365
+    ],
+    [
+     "7-10%",
+     0.355
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1327824",
+   "title": "French Presidential Election First Round: M\u00e9lenchon Vote Share?",
+   "slug": "french-presidential-election-first-round-jean-luc-melenchon-vote-share",
+   "createdAt": "2026-11-06T22:34:19.100446Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fr27-jean-luc-melenchon-57ef66203b.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "21-24%",
+     0.41
+    ],
+    [
+     "12-15%",
+     0.36
+    ],
+    [
+     "24%+",
+     0.355
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1327823",
+   "title": "French Presidential Election First Round: Le Pen Vote Share?",
+   "slug": "french-presidential-election-first-round-marine-le-pen-vote-share",
+   "createdAt": "2026-11-06T22:33:12.33807Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-marine-le-pen-win-the-2027-french-presidential-election-8hg67PHSk27M.jpg",
+   "volume": 0.0,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "37-40%",
+     0.4
+    ],
+    [
+     "28-31%",
+     0.385
+    ],
+    [
+     "40%+",
+     0.375
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1327822",
+   "title": "Next Senator in Klobuchar's Minnesota seat?",
+   "slug": "next-senator-in-klobuchars-minnesota-seat",
+   "createdAt": "2026-11-06T22:33:05.046757Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/MN.png",
+   "volume": 1620.824603,
+   "tags": [
+    "Senate",
+    "Politics",
+    "Elections",
+    "minnesota"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 45
+  },
+  {
+   "id": "1327813",
+   "title": "French Presidential Election First Round: 4th Place",
+   "slug": "french-presidential-election-first-round-4th-place",
+   "createdAt": "2026-11-06T22:31:27.657317Z",
+   "endDate": "2027-04-18T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 250.094135,
+   "tags": [
+    "World",
+    "France",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Candidate A",
+     0.5
+    ],
+    [
+     "Candidate B",
+     0.5
+    ],
+    [
+     "Candidate C",
+     0.5
+    ]
+   ],
+   "nMarkets": 43
+  },
+  {
+   "id": "1327625",
+   "title": "Balance of Power: 2028 Election",
+   "slug": "balance-of-power-2028-election",
+   "createdAt": "2026-11-06T21:50:22.648719Z",
+   "endDate": "2028-11-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/balance-of-power-2024-election-r-Fp-y4ONJBS.jpg",
+   "volume": 2358.335486,
+   "tags": [
+    "Politics",
+    "Elections",
+    "US Election",
+    "2028 Election"
+   ],
+   "outcomes": [
+    [
+     "Democratic Trifecta",
+     0.61
+    ],
+    [
+     "Option A",
+     0.5
+    ],
+    [
+     "Option B",
+     0.5
+    ]
+   ],
+   "nMarkets": 59
+  },
   {
    "id": "1322441",
    "title": "Next Senator in Blackburn's Tennessee seat?",
@@ -2242,230 +3261,6 @@
     ]
    ],
    "nMarkets": 1
-  },
-  {
-   "id": "1243971",
-   "title": "Kimi K3.1 Pro: Text Arena Rank Debut?",
-   "slug": "kimi-k3pt1-pro-text-arena-rank-debut-20261023",
-   "createdAt": "2026-10-24T03:36:08.202619Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 2872.2678690000002,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Debut"
-   ],
-   "outcomes": [
-    [
-     "Top 20",
-     0.645
-    ],
-    [
-     "Top 10",
-     0.385
-    ],
-    [
-     "Top 5",
-     0.155
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1243969",
-   "title": "Kimi K3.1 Pro: HLE-Diamond Debut?",
-   "slug": "kimi-k3pt1-pro-hle-diamond-debut-20261023",
-   "createdAt": "2026-10-24T03:35:39.498538Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 5970.284361,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Moonshot"
-   ],
-   "outcomes": [
-    [
-     "20%+",
-     0.885
-    ],
-    [
-     "25%+",
-     0.69
-    ],
-    [
-     "30%+",
-     0.385
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1243968",
-   "title": "Next Kimi K model (3.2+) released by...?",
-   "slug": "next-kimi-k-model-3pt2-released-byptptpt",
-   "createdAt": "2026-10-24T03:33:45.870383Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Moonshot"
-   ],
-   "outcomes": [
-    [
-     "February 28",
-     0.48
-    ],
-    [
-     "December 31",
-     0.475
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1243967",
-   "title": "Moonshot publishes Kimi K3.1 Pro weights by November 4?",
-   "slug": "moonshot-publishes-kimi-k3pt1-pro-weights-by-november-4",
-   "createdAt": "2026-10-24T03:32:47.495517Z",
-   "endDate": "2026-11-05T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 0.0,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "kimi 3"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.79
-    ],
-    [
-     "No",
-     0.21
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1243958",
-   "title": "Kimi K3.1 Pro: Text Arena Debut?",
-   "slug": "kimi-k3pt1-pro-text-arena-debut-20261023",
-   "createdAt": "2026-10-24T03:31:08.108714Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kimi-k3-released-by-1F1VsyMXhK4q.jpg",
-   "volume": 4000.927216,
-   "tags": [
-    "AI",
-    "Kimi",
-    "Tech",
-    "Debut"
-   ],
-   "outcomes": [
-    [
-     "1470+",
-     0.745
-    ],
-    [
-     "1480+",
-     0.625
-    ],
-    [
-     "1490+",
-     0.32
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1242924",
-   "title": "What will Trump say during his Midterm Rally in Michigan?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-michigan-october-26",
-   "createdAt": "2026-10-23T22:15:36.733424Z",
-   "endDate": "2026-10-26T19:05:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 1553.140626,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Russia / Ukraine",
-     0.775
-    ],
-    [
-     "Hormuz / Blockade",
-     0.725
-    ],
-    [
-     "Million / Billion / Trillion 30+ times",
-     0.65
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "1242781",
-   "title": "Marathon Fusion gold yield matches its simulation by...?",
-   "slug": "marathon-fusion-gold-yield-matches-simulation-byptptpt",
-   "createdAt": "2026-10-23T21:52:27.172603Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
-   "volume": 0.0,
-   "tags": [
-    "Gold",
-    "Tech",
-    "Science",
-    "physics"
-   ],
-   "outcomes": [
-    [
-     "June 30",
-     0.505
-    ],
-    [
-     "December 31",
-     0.5
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1242772",
-   "title": "Marathon Fusion gold yield of 0.1+ per fusion neutron confirmed by...?",
-   "slug": "marathon-fusion-gold-yield-of-0pt1-per-fusion-neutron-confirmed-byptptpt",
-   "createdAt": "2026-10-23T21:50:32.634091Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
-   "volume": 0.0,
-   "tags": [
-    "Gold",
-    "Tech",
-    "Science",
-    "physics"
-   ],
-   "outcomes": [
-    [
-     "June 30",
-     0.5
-    ],
-    [
-     "December 31",
-     0.495
-    ]
-   ],
-   "nMarkets": 2
   }
  ]
 }

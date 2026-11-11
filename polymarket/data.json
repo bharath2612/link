@@ -1,6 +1,616 @@
 {
- "generatedAt": "2026-11-10T11:56:53.861472+00:00",
+ "generatedAt": "2026-11-11T11:34:49.872366+00:00",
  "questions": [
+  {
+   "id": "1360482",
+   "title": "What will the next Gemini model family be named?",
+   "slug": "what-will-the-next-gemini-model-family-be-named-20261110",
+   "createdAt": "2026-11-11T01:19:22.887158Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 2772.815582,
+   "tags": [
+    "AI",
+    "Tech",
+    "google",
+    "AI Releases"
+   ],
+   "outcomes": [
+    [
+     "Gemini Hydrogen",
+     0.845
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Placeholder 1",
+     0.5
+    ]
+   ],
+   "nMarkets": 34
+  },
+  {
+   "id": "1360459",
+   "title": "Gemini Krypton released by...?",
+   "slug": "gemini-krypton-released-byptptpt-20261110",
+   "createdAt": "2026-11-11T01:15:08.22367Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 49.166667,
+   "tags": [
+    "AI",
+    "Tech",
+    "Gemini",
+    "google"
+   ],
+   "outcomes": [
+    [
+     "March 31",
+     0.725
+    ],
+    [
+     "December 31",
+     0.715
+    ],
+    [
+     "January 31",
+     0.525
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1360458",
+   "title": "Gemini Hydrogen released by...?",
+   "slug": "gemini-hydrogen-released-byptptpt-20261110",
+   "createdAt": "2026-11-11T01:14:52.642544Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 291.0,
+   "tags": [
+    "AI",
+    "Tech",
+    "Gemini",
+    "google"
+   ],
+   "outcomes": [
+    [
+     "November 30",
+     0.805
+    ],
+    [
+     "December 31",
+     0.775
+    ],
+    [
+     "January 31",
+     0.73
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1360457",
+   "title": "Gemini Krypton: HLE-Diamond Debut?",
+   "slug": "gemini-krypton-hle-diamond-debut-20261110",
+   "createdAt": "2026-11-11T01:14:38.012455Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 12775.956005,
+   "tags": [
+    "AI",
+    "Tech",
+    "Gemini",
+    "google"
+   ],
+   "outcomes": [
+    [
+     "50%+",
+     0.935
+    ],
+    [
+     "55%+",
+     0.855
+    ],
+    [
+     "60%+",
+     0.74
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1360360",
+   "title": "Gemini Krypton: Text Arena Rank Debut?",
+   "slug": "gemini-krypton-text-arena-rank-debut-20261110",
+   "createdAt": "2026-11-11T00:55:50.069551Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 7552.65813,
+   "tags": [
+    "AI",
+    "Tech",
+    "Debut",
+    "Gemini"
+   ],
+   "outcomes": [
+    [
+     "Top 10",
+     0.845
+    ],
+    [
+     "Top 5",
+     0.735
+    ],
+    [
+     "Top 1",
+     0.41
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1360353",
+   "title": "Gemini Krypton: Text Arena Debut?",
+   "slug": "gemini-krypton-text-arena-debut-20261110",
+   "createdAt": "2026-11-11T00:54:21.70563Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 5012.530863,
+   "tags": [
+    "AI",
+    "Tech",
+    "Debut",
+    "Gemini"
+   ],
+   "outcomes": [
+    [
+     "1520+",
+     0.715
+    ],
+    [
+     "1540+",
+     0.495
+    ],
+    [
+     "1560+",
+     0.225
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1360328",
+   "title": "Gemini Hydrogen: HLE-Diamond Debut?",
+   "slug": "gemini-hydrogen-hle-diamond-debut-20261110",
+   "createdAt": "2026-11-11T00:51:32.432106Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 3678.381362,
+   "tags": [
+    "AI",
+    "Tech",
+    "Gemini",
+    "google"
+   ],
+   "outcomes": [
+    [
+     "30%+",
+     0.755
+    ],
+    [
+     "35%+",
+     0.675
+    ],
+    [
+     "40%+",
+     0.545
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1360327",
+   "title": "Gemini Hydrogen: Text Arena Rank Debut?",
+   "slug": "gemini-hydrogen-text-arena-rank-debut-20261110",
+   "createdAt": "2026-11-11T00:51:16.734975Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 6278.071985,
+   "tags": [
+    "AI",
+    "Tech",
+    "Debut",
+    "Gemini"
+   ],
+   "outcomes": [
+    [
+     "Top 10",
+     0.755
+    ],
+    [
+     "Top 5",
+     0.515
+    ],
+    [
+     "Top 3",
+     0.305
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1360326",
+   "title": "Gemini Hydrogen: Text Arena Debut?",
+   "slug": "gemini-hydrogen-text-arena-debut-20261110",
+   "createdAt": "2026-11-11T00:50:58.34802Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
+   "volume": 5403.01884,
+   "tags": [
+    "AI",
+    "Tech",
+    "Debut",
+    "Gemini"
+   ],
+   "outcomes": [
+    [
+     "1480+",
+     0.895
+    ],
+    [
+     "1500+",
+     0.695
+    ],
+    [
+     "1520+",
+     0.345
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1360311",
+   "title": "Will Trump insult Xi during the APEC trip?",
+   "slug": "will-trump-insult-xi-during-the-apec-trip",
+   "createdAt": "2026-11-11T00:47:23.165731Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-insult-xi-this-week-EvKQ1vIjqNQd.jpg",
+   "volume": 129.86757799999998,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.976
+    ],
+    [
+     "Yes",
+     0.024
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1360279",
+   "title": "Trump endorses China's claim to Taiwan by end of APEC trip?",
+   "slug": "trump-endorses-chinas-claim-to-taiwan-by-end-of-apec-trip",
+   "createdAt": "2026-11-11T00:39:21.860353Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-insult-xi-this-week-EvKQ1vIjqNQd.jpg",
+   "volume": 723.6736339999999,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Taiwan"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.9775
+    ],
+    [
+     "Yes",
+     0.0225
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1360233",
+   "title": "When will Trump leave China?",
+   "slug": "when-will-trump-leave-china-20261110",
+   "createdAt": "2026-11-11T00:29:39.225376Z",
+   "endDate": "2026-11-23T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-trump-leave-china-rmZ8n2FKq0LS.jpg",
+   "volume": 113.728267,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "November 20",
+     0.635
+    ],
+    [
+     "November 19",
+     0.445
+    ],
+    [
+     "November 21",
+     0.34
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1360224",
+   "title": "2027 Louisiana Governor Election Winner",
+   "slug": "2027-louisiana-governor-election-winner",
+   "createdAt": "2026-11-11T00:26:39.576884Z",
+   "endDate": "2027-11-21T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/g-d86250fdcf.png",
+   "volume": 6.08695,
+   "tags": [
+    "Politics",
+    "Elections",
+    "Louisiana",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Republican Party",
+     0.57
+    ],
+    [
+     "Option A",
+     0.5
+    ],
+    [
+     "Option B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1360166",
+   "title": "How long will Trump and Xi shake hands at APEC?",
+   "slug": "how-long-will-trump-and-xi-shake-hands-at-apec",
+   "createdAt": "2026-11-11T00:21:40.938418Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-long-will-trump-and-xi-shake-hands-for-when-they-meet-SpsNFvXQEwmJ.jpg",
+   "volume": 209.023036,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "2\u20136s",
+     0.41
+    ],
+    [
+     "6\u201310s",
+     0.285
+    ],
+    [
+     "15s+",
+     0.155
+    ]
+   ],
+   "nMarkets": 7
+  },
+  {
+   "id": "1360165",
+   "title": "2027 Mississippi Governor Election Winner",
+   "slug": "2027-mississippi-governor-election-winner",
+   "createdAt": "2026-11-11T00:21:30.675811Z",
+   "endDate": "2027-11-03T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mississippi-senate-election-winner-n6_3JmG2VDn8.png",
+   "volume": 46.534655,
+   "tags": [
+    "Politics",
+    "Elections",
+    "US Election",
+    "mississippi"
+   ],
+   "outcomes": [
+    [
+     "Republican Party",
+     0.69
+    ],
+    [
+     "Option A",
+     0.5
+    ],
+    [
+     "Option B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1360158",
+   "title": "Will Trump and Xi hug at APEC?",
+   "slug": "will-trump-and-xi-hug-at-apec",
+   "createdAt": "2026-11-11T00:18:54.63259Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-xi-kiss-at-their-summit-Lcju_6liHB_q.jpg",
+   "volume": 847.979213,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.965
+    ],
+    [
+     "Yes",
+     0.035
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1360157",
+   "title": "Will Trump and Xi kiss at APEC?",
+   "slug": "will-trump-and-xi-kiss-at-apec",
+   "createdAt": "2026-11-11T00:17:42.642232Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-xi-kiss-at-their-summit-Lcju_6liHB_q.jpg",
+   "volume": 585.463522,
+   "tags": [
+    "APEC",
+    "China",
+    "Trump",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.9965
+    ],
+    [
+     "Yes",
+     0.0035
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1360134",
+   "title": "Who will join Trump at APEC in China?",
+   "slug": "who-will-join-trump-at-apec-in-china",
+   "createdAt": "2026-11-11T00:14:05.358313Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-attend-trumps-xi-summit-s8kkZcdqZHRv.jpg",
+   "volume": 4363.543917,
+   "tags": [
+    "Xi",
+    "APEC",
+    "China",
+    "Trump"
+   ],
+   "outcomes": [
+    [
+     "Scott Bessent",
+     0.946
+    ],
+    [
+     "Marco Rubio",
+     0.8
+    ],
+    [
+     "Barron Trump",
+     0.495
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "1360126",
+   "title": "Russia x Ukraine energy ceasefire agreement by...?",
+   "slug": "russia-x-ukraine-energy-ceasefire-agreement-by",
+   "createdAt": "2026-11-11T00:12:33.03136Z",
+   "endDate": "2026-12-31T21:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+   "volume": 68568.464338,
+   "tags": [
+    "Trump",
+    "putin",
+    "Russia",
+    "energy"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.335
+    ],
+    [
+     "November 30",
+     0.17
+    ],
+    [
+     "November 15",
+     0.065
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1359578",
+   "title": "Trump meets with Kim Jong Un by...?",
+   "slug": "trump-meets-with-kim-jong-un-by",
+   "createdAt": "2026-11-10T22:13:40.963801Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/5477d0c8a9-b860769d12.jpg",
+   "volume": 357.738766,
+   "tags": [
+    "Trump",
+    "Politics",
+    "Geopolitics",
+    "Kim Jong Un"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.315
+    ],
+    [
+     "June 30, 2027",
+     0.27
+    ],
+    [
+     "December 31, 2026",
+     0.055
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1359534",
+   "title": "Congress Passes Iran War Powers Resolution by...?",
+   "slug": "congress-passes-iran-war-powers-resolution-by",
+   "createdAt": "2026-11-10T22:03:27.623695Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-2bQZeTmuft7e.jpg",
+   "volume": 111.588889,
+   "tags": [
+    "Iran",
+    "Trump",
+    "Congress",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.425
+    ],
+    [
+     "December 31, 2026",
+     0.16
+    ]
+   ],
+   "nMarkets": 2
+  },
   {
    "id": "1353629",
    "title": "Grammys 2027: Best Pop Solo Performance Winner",
@@ -3730,411 +4340,6 @@
     ]
    ],
    "nMarkets": 5
-  },
-  {
-   "id": "1270335",
-   "title": "Next Israeli government a minority government?",
-   "slug": "next-israeli-government-a-minority-government",
-   "createdAt": "2026-10-28T05:42:24.634255Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
-   "volume": 32.299588,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.71
-    ],
-    [
-     "Yes",
-     0.29
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1269774",
-   "title": "Israel Election: Arab party and Likud in coalition?",
-   "slug": "israel-election-arab-party-and-likud-in-coalition",
-   "createdAt": "2026-10-28T03:12:50.311327Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
-   "volume": 187.521646,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.895
-    ],
-    [
-     "Yes",
-     0.105
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1269646",
-   "title": "Quito Mayoral Election Winner",
-   "slug": "quito-mayoral-election-winner-2026",
-   "createdAt": "2026-10-28T02:38:41.347853Z",
-   "endDate": "2026-11-30T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+ecuador.png",
-   "volume": 977.580664,
-   "tags": [
-    "Ecuador",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Person C",
-     0.5
-    ]
-   ],
-   "nMarkets": 41
-  },
-  {
-   "id": "1269645",
-   "title": "Will the US grant Fl\u00e1vio Bolsonaro political asylum in 2026?",
-   "slug": "will-the-us-grant-flavio-bolsonaro-political-asylum-in-2026",
-   "createdAt": "2026-10-28T02:37:36.405867Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flavio-bolsonaro-charged-or-arrested-by-september-30-20260609144215531-0MRU-7w_dEGF.jpg",
-   "volume": 66.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "asylum",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.6
-    ],
-    [
-     "No",
-     0.4
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1269626",
-   "title": "How many US births in 2026?",
-   "slug": "how-many-us-births-in-2026-20261026033533965",
-   "createdAt": "2026-10-28T02:34:29.905671Z",
-   "endDate": "2027-05-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-fertility-rate-up-in-q1-2025-9QR3kDVV15bt.png",
-   "volume": 611.0404,
-   "tags": [
-    "Culture",
-    "Economy",
-    "Science",
-    "Demographics"
-   ],
-   "outcomes": [
-    [
-     "3.56M\u20133.59M",
-     0.36
-    ],
-    [
-     "3.53M\u20133.56M",
-     0.165
-    ],
-    [
-     "3.59M\u20133.62M",
-     0.155
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1268870",
-   "title": "BBC Sports Personality of the Year Winner 2026",
-   "slug": "bbc-sports-personality-of-the-year-winner-2026",
-   "createdAt": "2026-10-27T23:16:22.160462Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/bbc-sports-personality-of-the-year-winner-2026-PlGcSlP250zp.jpg",
-   "volume": 4880.8363739999995,
-   "tags": [
-    "UK",
-    "Awards",
-    "Sports"
-   ],
-   "outcomes": [
-    [
-     "Harry Kane",
-     0.595
-    ],
-    [
-     "Placeholder 1",
-     0.5
-    ],
-    [
-     "Placeholder 2",
-     0.5
-    ]
-   ],
-   "nMarkets": 92
-  },
-  {
-   "id": "1268798",
-   "title": "What will Trump say during his Midterm Rally in South Carolina?",
-   "slug": "what-will-trump-say-during-his-midterm-rally-in-south-carolina-october-29-sc",
-   "createdAt": "2026-10-27T23:00:14.076421Z",
-   "endDate": "2026-10-29T16:35:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-his-midterm-rally-in-alabama-october-2-QLCYcFjaMxRe.jpg",
-   "volume": 997.567851,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "America First",
-     0.83
-    ],
-    [
-     "Russia / Ukraine",
-     0.63
-    ],
-    [
-     "Transgender 7+ times",
-     0.615
-    ]
-   ],
-   "nMarkets": 17
-  },
-  {
-   "id": "1268621",
-   "title": "Brazil declares emergency rule in Bras\u00edlia by January 31, 2027?",
-   "slug": "brazil-declares-emergency-rule-in-brasilia-by-january-31-2027",
-   "createdAt": "2026-10-27T22:10:09.88701Z",
-   "endDate": "2027-02-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brsen-flag-df-1111c33bb0.jpg",
-   "volume": 3.22222,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Geopolitics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.825
-    ],
-    [
-     "Yes",
-     0.175
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1268618",
-   "title": "NATO downs another Russian drone before Russia x Ukraine peace talks?",
-   "slug": "nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
-   "createdAt": "2026-10-27T22:08:29.323836Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
-   "volume": 1246.871837,
-   "tags": [
-    "NATO",
-    "putin",
-    "Poland",
-    "Russia"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.635
-    ],
-    [
-     "Yes",
-     0.365
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1268614",
-   "title": "US imports Russian diesel before Russia x Ukraine peace talks?",
-   "slug": "us-imports-russian-diesel-before-russia-x-ukraine-peace-talks",
-   "createdAt": "2026-10-27T22:07:41.53109Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-imports-russian-diesel-by-october-31-_7i_ar2rMxHS.jpg",
-   "volume": 1043.918894,
-   "tags": [
-    "Oil",
-    "Trump",
-    "Russia",
-    "diesel"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.745
-    ],
-    [
-     "No",
-     0.255
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1268612",
-   "title": "Netanyahu out before the next Israel x Lebanon diplomatic meeting?",
-   "slug": "netanyahu-out-before-the-next-israel-x-lebanon-diplomatic-meeting",
-   "createdAt": "2026-10-27T22:06:26.132982Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/netanyahu-out-in-2025-Vc7bE4GtiJzM.jpg",
-   "volume": 292.0,
-   "tags": [
-    "World",
-    "Israel",
-    "Lebanon",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.695
-    ],
-    [
-     "Yes",
-     0.305
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1268580",
-   "title": "Will Ilhan Omar resign by December 31, 2026?",
-   "slug": "will-ilhan-omar-resign-by-december-31-2026",
-   "createdAt": "2026-10-27T21:56:56.330337Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ilhan-omar-be-deported-in-2026-UhDTFP5BIShZ.jpg",
-   "volume": 1825.30666,
-   "tags": [
-    "Politics",
-    "Ilhan Omar",
-    "resignation",
-    "house of representatives"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.955
-    ],
-    [
-     "Yes",
-     0.045
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1268579",
-   "title": "Another commercial vessel struck in Black Sea by\u2026?",
-   "slug": "another-commercial-vessel-struck-in-black-sea-by",
-   "createdAt": "2026-10-27T21:55:51.875701Z",
-   "endDate": "2026-12-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ukraine-strikes-another-tanker-in-black-sea-by-december-31-dwHA5Sn4sKMu.jpg",
-   "volume": 1460.677993,
-   "tags": [
-    "putin",
-    "Russia",
-    "Ukraine",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "November 30",
-     0.81
-    ],
-    [
-     "November 15",
-     0.765
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1268577",
-   "title": "Melania Trump meets with ___ by December 31, 2026?",
-   "slug": "melania-trump-meets-with-by-december-31-2026",
-   "createdAt": "2026-10-27T21:53:51.863463Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/melania-trump-meets-with-by-december-31-2026-_adMYv42jLzN.jpg",
-   "volume": 752.414485,
-   "tags": [
-    "Trump",
-    "Russia",
-    "Ukraine",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Zelenskyy",
-     0.415
-    ],
-    [
-     "Putin",
-     0.17
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1268400",
-   "title": "Will DoorDash acquire Instacart in 2026?",
-   "slug": "will-doordash-acquire-instacart-in-2026",
-   "createdAt": "2026-10-27T20:57:28.979306Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dash-quarterly-earnings-gaap-eps-05-06-2026-0pt36-WFPVhZ8gE09B.png",
-   "volume": 178.9663,
-   "tags": [
-    "Economy",
-    "Finance",
-    "acquire",
-    "DoorDash"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.735
-    ],
-    [
-     "No",
-     0.265
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }

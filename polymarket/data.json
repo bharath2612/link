@@ -1,6 +1,596 @@
 {
- "generatedAt": "2026-11-11T11:34:49.872366+00:00",
+ "generatedAt": "2026-11-12T11:59:03.825626+00:00",
  "questions": [
+  {
+   "id": "1367931",
+   "title": "Will Jensen Huang join a new company by December 31, 2026?",
+   "slug": "will-jensen-huang-join-a-new-company-by-december-31-2026",
+   "createdAt": "2026-11-12T00:35:28.247174Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 15829.99321,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "Big Tech",
+    "Business"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.895
+    ],
+    [
+     "Yes",
+     0.105
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367910",
+   "title": "The Voice Season 30: 3rd Place",
+   "slug": "the-voice-season-30-3rd-place",
+   "createdAt": "2026-11-12T00:30:39.417477Z",
+   "endDate": "2026-12-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-voice-s30-voice-s30-key-b07c17838c.jpg",
+   "volume": 497.417401,
+   "tags": [
+    "Culture",
+    "Reality TV",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Contestant 1",
+     0.5
+    ],
+    [
+     "Contestant 2",
+     0.5
+    ],
+    [
+     "Contestant 3",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "1367909",
+   "title": "The Voice Season 30: 2nd Place",
+   "slug": "the-voice-season-30-2nd-place",
+   "createdAt": "2026-11-12T00:30:38.7741Z",
+   "endDate": "2026-12-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-voice-s30-voice-s30-key-b07c17838c.jpg",
+   "volume": 456.315687,
+   "tags": [
+    "Culture",
+    "Reality TV",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Contestant 1",
+     0.5
+    ],
+    [
+     "Contestant 2",
+     0.5
+    ],
+    [
+     "Contestant 3",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "1367894",
+   "title": "The Voice S30: Winner?",
+   "slug": "who-will-win-the-voice-season-30",
+   "createdAt": "2026-11-12T00:30:21.64152Z",
+   "endDate": "2026-12-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/the-voice-s30-voice-s30-key-b07c17838c.jpg",
+   "volume": 1251.748638,
+   "tags": [
+    "Culture",
+    "Reality TV",
+    "Celebrities"
+   ],
+   "outcomes": [
+    [
+     "Contestant 1",
+     0.5
+    ],
+    [
+     "Contestant 2",
+     0.5
+    ],
+    [
+     "Contestant 3",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "1367884",
+   "title": "Will Jensen Huang join SpaceX by December 31, 2026?",
+   "slug": "will-jensen-huang-join-spacex-by-december-31-2026",
+   "createdAt": "2026-11-12T00:25:48.182727Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 15544.655879999998,
+   "tags": [
+    "AI",
+    "Tech",
+    "NVIDIA",
+    "Big Tech"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.9565
+    ],
+    [
+     "Yes",
+     0.0435
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367877",
+   "title": "New NVIDIA CEO named by December 31, 2026?",
+   "slug": "new-nvidia-ceo-named-by-december-31-2026",
+   "createdAt": "2026-11-12T00:25:22.54954Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 3434.3806740000005,
+   "tags": [
+    "ceo",
+    "Tech",
+    "NVIDIA",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.585
+    ],
+    [
+     "Yes",
+     0.415
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367782",
+   "title": "Jensen Huang announced resignation or removal from NVIDIA board by...?",
+   "slug": "jensen-huang-announced-resignation-or-removal-from-nvidia-board-byptptpt",
+   "createdAt": "2026-11-12T00:13:28.879042Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 6955.028446,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "resign",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.43
+    ],
+    [
+     "November 30, 2026",
+     0.41
+    ],
+    [
+     "November 13, 2026",
+     0.19
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1367767",
+   "title": "Jensen Huang arrested by...?",
+   "slug": "jensen-huang-arrested-byptptpt",
+   "createdAt": "2026-11-12T00:10:05.442896Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 16244.098823,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "arrest",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.043
+    ],
+    [
+     "November 30, 2026",
+     0.0175
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1367682",
+   "title": "What will Caedrel say during his Worlds 2026 Final stream?",
+   "slug": "what-will-caedrel-say-during-his-worlds-2026-final-stream",
+   "createdAt": "2026-11-12T00:00:21.265108Z",
+   "endDate": "2026-11-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/caedrel-caedrel-worlds-mentions-bd6d573f40.jpg",
+   "volume": 1421.803552,
+   "tags": [
+    "Culture",
+    "Esports",
+    "Mentions",
+    "streamer"
+   ],
+   "outcomes": [
+    [
+     "Draft 5+ times",
+     0.905
+    ],
+    [
+     "Grub 3+ times",
+     0.71
+    ],
+    [
+     "Dragon / Drake 20+ times",
+     0.7
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1367619",
+   "title": "Will a single person become TIME's 2026 Person of the Year?",
+   "slug": "will-a-single-person-become-times-2026-person-of-the-year",
+   "createdAt": "2026-11-11T23:48:12.25511Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/time-2024-person-of-the-year-opFCUnLfR7Sv.png",
+   "volume": 1716.870207,
+   "tags": [
+    "poty",
+    "Culture",
+    "magazine",
+    "Time POTY"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.71
+    ],
+    [
+     "No",
+     0.29
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367610",
+   "title": "Jensen Huang resigned or removed & Nvidia above $4T end of 2026?",
+   "slug": "jensen-huang-resigned-or-removed-and-nvidia-market-cap-above-4t-end-of-2026",
+   "createdAt": "2026-11-11T23:46:54.883395Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 22997.337021,
+   "tags": [
+    "ceo",
+    "Tech",
+    "NVIDIA",
+    "resign"
+   ],
+   "outcomes": [
+    [
+     "Resigned/removed; Over $4T",
+     0.375
+    ],
+    [
+     "Resigned/removed; Under $4T",
+     0.355
+    ],
+    [
+     "Not resigned/removed; Over $4T",
+     0.125
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1367609",
+   "title": "Will the D66\u2013VVD\u2013CDA Dutch coalition break in 2026?",
+   "slug": "will-the-d66-vvd-cda-dutch-coalition-break-in-2026",
+   "createdAt": "2026-11-11T23:45:28.938999Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-d66-vvd-cda-dutch-coalition-break-in-2026-jdgiZZzTVHmV.png",
+   "volume": 237.232687,
+   "tags": [
+    "World",
+    "Politics",
+    "Netherlands"
+   ],
+   "outcomes": [
+    [
+     "Yes",
+     0.71
+    ],
+    [
+     "No",
+     0.29
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367594",
+   "title": "Will Jensen Huang join Anthropic or OpenAI by December 31, 2026?",
+   "slug": "will-jensen-huang-join-anthropic-or-openai-by-december-31-2026",
+   "createdAt": "2026-11-11T23:43:10.14433Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 2369.865371,
+   "tags": [
+    "AI",
+    "Tech",
+    "NVIDIA",
+    "OpenAI"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.9655
+    ],
+    [
+     "Yes",
+     0.0345
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1367559",
+   "title": "Mark Rothko's \u201cUntitled\u201d Sale Price",
+   "slug": "rothko-untitled-sale-price",
+   "createdAt": "2026-11-11T23:36:20.507367Z",
+   "endDate": "2026-11-18T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/auction-sale-price-rothko-untitled-4955d2660a.jpg",
+   "volume": 612.956466,
+   "tags": [
+    "Art",
+    "Culture",
+    "auction",
+    "sotheby's"
+   ],
+   "outcomes": [
+    [
+     "$4.5m-$5.5m",
+     0.455
+    ],
+    [
+     "$5.5m-$6.5m",
+     0.34
+    ],
+    [
+     "$3.5m-$4.5m",
+     0.32
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1367558",
+   "title": "Najib Razak released from house arrest by...?",
+   "slug": "najib-razak-released-from-house-arrest-by",
+   "createdAt": "2026-11-11T23:35:50.443075Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/najib-najib-razak-2a90a5d996.jpg",
+   "volume": 31.0509,
+   "tags": [
+    "Asia",
+    "World",
+    "Malaysia",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2027",
+     0.225
+    ],
+    [
+     "December 31, 2026",
+     0.0765
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1367485",
+   "title": "2026 Taiwanese Mayoral Elections: Party Winner",
+   "slug": "2026-taiwanese-mayoral-elections-party-winner-20261103233705422",
+   "createdAt": "2026-11-11T23:19:20.852893Z",
+   "endDate": "2026-11-29T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-taiwanese-local-elections-party-winner-xa504WGpUTD4.jpg",
+   "volume": 1256.674287,
+   "tags": [
+    "Taiwan",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Kuomintang (KMT)",
+     0.515
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Party A",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1367484",
+   "title": "2026 Taipei Mayoral Election: Margin of Victory",
+   "slug": "2026-taipei-mayoral-election-margin-of-victory-20261103233704870",
+   "createdAt": "2026-11-11T23:19:19.443419Z",
+   "endDate": "2026-11-29T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tw2026-city-taipei-3c45f7a4d7.jpg",
+   "volume": 231.03165,
+   "tags": [
+    "Taiwan",
+    "Politics",
+    "Elections",
+    "Global Elections"
+   ],
+   "outcomes": [
+    [
+     "Chiang Wan-an 4-8%",
+     0.42
+    ],
+    [
+     "Chiang Wan-an <4%",
+     0.42
+    ],
+    [
+     "Puma Shen <4%",
+     0.42
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1367271",
+   "title": "NVIDIA VP Kimberly Powell announced resignation or removal by...?",
+   "slug": "nvidia-vp-kimberly-powell-announced-resignation-or-removal-byptptpt",
+   "createdAt": "2026-11-11T22:36:28.755133Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/misc-kimberly-powell-a3ecb6d98c.jpg",
+   "volume": 7862.701226,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "resign",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.53
+    ],
+    [
+     "November 30, 2026",
+     0.36
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1367062",
+   "title": "2028 Presidential Election: Alabama Winner",
+   "slug": "2028-presidential-election-alabama-winner",
+   "createdAt": "2026-11-11T21:57:57.072545Z",
+   "endDate": "2028-11-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/alabama-presidential-election-winner-217caae9-ea6d-4bc1-b17d-045169abefb0.png",
+   "volume": 1278.4715849999998,
+   "tags": [
+    "alabama",
+    "Politics",
+    "Elections",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Republican Party",
+     0.855
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1367061",
+   "title": "2028 Presidential Election: Arkansas Winner",
+   "slug": "2028-presidential-election-arkansas-winner",
+   "createdAt": "2026-11-11T21:57:53.70344Z",
+   "endDate": "2028-11-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/arkansas-presidential-election-winner-a857922c-f5b7-45ff-a694-302fca2fdf77.png",
+   "volume": 581.036337,
+   "tags": [
+    "Politics",
+    "arkansas",
+    "Elections",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Republican Party",
+     0.915
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1367060",
+   "title": "2028 Presidential Election: California Winner",
+   "slug": "2028-presidential-election-california-winner",
+   "createdAt": "2026-11-11T21:57:50.384305Z",
+   "endDate": "2028-11-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+california+square.png",
+   "volume": 156.90984100000003,
+   "tags": [
+    "Politics",
+    "Elections",
+    "California",
+    "US Election"
+   ],
+   "outcomes": [
+    [
+     "Democratic Party",
+     0.945
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
   {
    "id": "1360482",
    "title": "What will the next Gemini model family be named?",
@@ -4164,182 +4754,6 @@
     ]
    ],
    "nMarkets": 38
-  },
-  {
-   "id": "1274601",
-   "title": "Israel tourism plunges below 40K by January?",
-   "slug": "israel-tourism-plunges-below-40k-by-january",
-   "createdAt": "2026-10-28T23:41:30.701205Z",
-   "endDate": "2027-02-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-countries-will-recognize-israel-by-june-30-A3GnpL5vZoZL.jpg",
-   "volume": 3009.759038,
-   "tags": [
-    "World",
-    "Israel",
-    "Economy",
-    "Geopolitics"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.785
-    ],
-    [
-     "Yes",
-     0.215
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1274386",
-   "title": "House Minority Leader of the next Congress?",
-   "slug": "house-minority-leader-of-the-next-congress",
-   "createdAt": "2026-10-28T22:42:46.257376Z",
-   "endDate": "2026-11-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/house-minority-leader-of-the-next-congress-9SywbTNuS_DU.jpg",
-   "volume": 354.454833,
-   "tags": [
-    "Speaker",
-    "Congress",
-    "Midterms",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Person E",
-     0.5
-    ],
-    [
-     "Person F",
-     0.5
-    ],
-    [
-     "Person G",
-     0.5
-    ]
-   ],
-   "nMarkets": 27
-  },
-  {
-   "id": "1274374",
-   "title": "Senate Combo: Michigan, Texas, Ohio",
-   "slug": "senate-combo-michigan-texas-ohio",
-   "createdAt": "2026-10-28T22:39:16.992467Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-texas-ohio-tVYsBvhs3soZ.png",
-   "volume": 684.619759,
-   "tags": [
-    "Politics",
-    "election",
-    "Jon Husted",
-    "Ken Paxton"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps MI & TX, Dems OH",
-     0.455
-    ],
-    [
-     "Dems sweep",
-     0.435
-    ]
-   ],
-   "nMarkets": 9
-  },
-  {
-   "id": "1274373",
-   "title": "Senate Combo: Michigan and Texas",
-   "slug": "senate-combo-michigan-texas",
-   "createdAt": "2026-10-28T22:38:53.553605Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-texas-djlZE_wNh8U7.png",
-   "volume": 960.315692,
-   "tags": [
-    "Politics",
-    "election",
-    "Ken Paxton",
-    "US Election"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.645
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps MI, Dems TX",
-     0.265
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1274356",
-   "title": "Senate Combo: Michigan and Ohio",
-   "slug": "senate-combo-michigan-ohio",
-   "createdAt": "2026-10-28T22:36:33.930254Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-michigan-ohio-gSjmAOEfLoEo.png",
-   "volume": 613.4074549999999,
-   "tags": [
-    "Politics",
-    "election",
-    "Jon Husted",
-    "Ohio Senate"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.525
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps MI, Dems OH",
-     0.165
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1274355",
-   "title": "Senate Combo: Ohio and Texas",
-   "slug": "senate-combo-ohio-texas",
-   "createdAt": "2026-10-28T22:35:27.580633Z",
-   "endDate": "2026-11-03T23:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/senate-combo-ohio-texas-am-y4XZk2rrD.png",
-   "volume": 219.916327,
-   "tags": [
-    "Politics",
-    "election",
-    "Jon Husted",
-    "Ken Paxton"
-   ],
-   "outcomes": [
-    [
-     "Dems sweep",
-     0.53
-    ],
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Reps OH, Dems TX",
-     0.275
-    ]
-   ],
-   "nMarkets": 5
   }
  ]
 }

@@ -1,6 +1,2012 @@
 {
- "generatedAt": "2026-11-12T11:59:03.825626+00:00",
+ "generatedAt": "2026-11-13T11:43:45.913058+00:00",
  "questions": [
+  {
+   "id": "1376067",
+   "title": "Golden Globes 2027: Best Performance in Stand-Up Comedy on Television Winner",
+   "slug": "golden-globes-2027-best-performance-in-stand-up-comedy-on-television-winner-20261112",
+   "createdAt": "2026-11-13T01:37:12.501877Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 3.109,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Comedian A",
+     0.5
+    ],
+    [
+     "Comedian B",
+     0.5
+    ],
+    [
+     "Comedian C",
+     0.5
+    ]
+   ],
+   "nMarkets": 26
+  },
+  {
+   "id": "1376060",
+   "title": "Grammys 2027: Best Rap Song Winner",
+   "slug": "grammys-2027-best-rap-song-winner-20261112",
+   "createdAt": "2026-11-13T01:35:00.87522Z",
+   "endDate": "2027-02-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grammys-album-of-the-year-nominations-9vEtmFPLWXgp.jpg",
+   "volume": 27.5,
+   "tags": [
+    "Music",
+    "Awards",
+    "Culture",
+    "Grammys"
+   ],
+   "outcomes": [
+    [
+     "Placeholder a - TBD Artist",
+     0.5
+    ],
+    [
+     "Placeholder b - TBD Artist",
+     0.5
+    ],
+    [
+     "Placeholder c - TBD Artist",
+     0.5
+    ]
+   ],
+   "nMarkets": 39
+  },
+  {
+   "id": "1376059",
+   "title": "Grammys 2027: Best R&B Collaboration or Duo/Group Performance Winner",
+   "slug": "grammys-2027-best-randb-collaboration-or-duo-group-performance-winner-20261112",
+   "createdAt": "2026-11-13T01:34:57.045709Z",
+   "endDate": "2027-02-07T23:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/grammys-album-of-the-year-nominations-9vEtmFPLWXgp.jpg",
+   "volume": 286.681538,
+   "tags": [
+    "Music",
+    "Awards",
+    "Culture",
+    "Grammys"
+   ],
+   "outcomes": [
+    [
+     "is it cool? - Steve Lacy feat. SZA",
+     0.5
+    ],
+    [
+     "Placeholder a - TBD Artist",
+     0.5
+    ],
+    [
+     "Placeholder b - TBD Artist",
+     0.5
+    ]
+   ],
+   "nMarkets": 33
+  },
+  {
+   "id": "1376006",
+   "title": "Russia-Ukraine-EU Trilateral Diplomatic Meeting by...?",
+   "slug": "russia-ukraine-eu-trilateral-diplomatic-meeting-byptptpt",
+   "createdAt": "2026-11-13T01:22:30.170628Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-diplomatic-meeting-by-2anNp08yc15i.jpg",
+   "volume": 2317.6455619999997,
+   "tags": [
+    "putin",
+    "Russia",
+    "Ukraine",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.25
+    ],
+    [
+     "November 30, 2026",
+     0.115
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1375827",
+   "title": "Finland Parliamentary Election Winner",
+   "slug": "finland-parliamentary-election-winner",
+   "createdAt": "2026-11-13T00:43:04.513157Z",
+   "endDate": "2027-04-19T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fi27-fi27-finland-flag-0d39e30584.jpg",
+   "volume": 2226.989033,
+   "tags": [
+    "World",
+    "Finland",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "Social Democratic Party",
+     0.72
+    ],
+    [
+     "Party A",
+     0.5
+    ],
+    [
+     "Party B",
+     0.5
+    ]
+   ],
+   "nMarkets": 36
+  },
+  {
+   "id": "1375826",
+   "title": "Who will be in the 2026 NFL Christmas Day halftime show?",
+   "slug": "who-will-be-in-the-2026-nfl-christmas-day-halftime-show",
+   "createdAt": "2026-11-13T00:42:55.056746Z",
+   "endDate": "2026-12-26T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+   "volume": 30724.470420999998,
+   "tags": [
+    "Music",
+    "Culture",
+    "Christmas",
+    "NFL (All)"
+   ],
+   "outcomes": [
+    [
+     "Michael Bubl\u00e9",
+     0.5
+    ],
+    [
+     "EJAE",
+     0.395
+    ],
+    [
+     "Adele",
+     0.21
+    ]
+   ],
+   "nMarkets": 18
+  },
+  {
+   "id": "1375825",
+   "title": "Who will appear in a 2027 Big Game commercial?",
+   "slug": "who-will-appear-in-a-2027-big-game-commercial",
+   "createdAt": "2026-11-13T00:42:52.846908Z",
+   "endDate": "2027-02-15T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-companies-will-run-ads-during-super-bowl-lx-WiV5aF42RNFp.jpg",
+   "volume": 15714.627501,
+   "tags": [
+    "Culture",
+    "Big Game",
+    "NFL (All)",
+    "Super Bowl"
+   ],
+   "outcomes": [
+    [
+     "Peyton Manning",
+     0.805
+    ],
+    [
+     "Ben Affleck",
+     0.745
+    ],
+    [
+     "Tom Brady",
+     0.7315
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1375790",
+   "title": "Golden Globes 2027: Best Performance in Stand-Up Comedy on Television Nominees",
+   "slug": "golden-globes-2027-best-performance-in-stand-up-comedy-on-television-nominees",
+   "createdAt": "2026-11-13T00:35:56.456287Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Taylor Tomlinson",
+     0.5
+    ],
+    [
+     "Trevor Noah",
+     0.5
+    ],
+    [
+     "Wanda Sykes",
+     0.5
+    ]
+   ],
+   "nMarkets": 14
+  },
+  {
+   "id": "1375789",
+   "title": "Golden Globes 2027: Best Podcast Winner",
+   "slug": "golden-globes-2027-best-podcast-winner",
+   "createdAt": "2026-11-13T00:35:51.495357Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 4.109,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Podcast A",
+     0.5
+    ],
+    [
+     "Podcast B",
+     0.5
+    ],
+    [
+     "Podcast C",
+     0.5
+    ]
+   ],
+   "nMarkets": 42
+  },
+  {
+   "id": "1375788",
+   "title": "Golden Globes 2027: Best Podcast Nominees",
+   "slug": "golden-globes-2027-best-podcast-nominees",
+   "createdAt": "2026-11-13T00:35:43.943022Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Bad Friends",
+     0.5
+    ],
+    [
+     "Behind the Bastards",
+     0.5
+    ],
+    [
+     "Call Her Daddy",
+     0.5
+    ]
+   ],
+   "nMarkets": 30
+  },
+  {
+   "id": "1375787",
+   "title": "Golden Globes 2027: Cinematic and Box Office Achievement Winner",
+   "slug": "golden-globes-2027-cinematic-and-box-office-achievement-winner",
+   "createdAt": "2026-11-13T00:35:36.945106Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1375786",
+   "title": "Golden Globes 2027: Cinematic and Box Office Achievement Nominees",
+   "slug": "golden-globes-2027-cinematic-and-box-office-achievement-nominees",
+   "createdAt": "2026-11-13T00:35:29.514642Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "The Odyssey",
+     0.52
+    ],
+    [
+     "Michael",
+     0.5
+    ],
+    [
+     "Spider-Man: Brand New Day",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1375779",
+   "title": "Golden Globes 2027: Best Original Song \u2013 Motion Picture Winner",
+   "slug": "golden-globes-2027-best-original-song-motion-picture-winner",
+   "createdAt": "2026-11-13T00:35:23.086496Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Song A",
+     0.5
+    ],
+    [
+     "Song B",
+     0.5
+    ],
+    [
+     "Song C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375778",
+   "title": "Golden Globes 2027: Best Original Song \u2013 Motion Picture Nominees",
+   "slug": "golden-globes-2027-best-original-song-motion-picture-nominees",
+   "createdAt": "2026-11-13T00:35:14.626111Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "I Knew It, I Knew You - Toy Story 5",
+     0.5
+    ],
+    [
+     "This City May Have Chewed Me Up (But It Hasn't Spit Me Out) - The Debut",
+     0.5
+    ],
+    [
+     "Shape of a Woman - The Devil Wears Prada 2",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375777",
+   "title": "Golden Globes 2027: Best Original Score \u2013 Motion Picture Winner",
+   "slug": "golden-globes-2027-best-original-score-motion-picture-winner",
+   "createdAt": "2026-11-13T00:35:03.869649Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375768",
+   "title": "Golden Globes 2027: Best Original Score \u2013 Motion Picture Nominees",
+   "slug": "golden-globes-2027-best-original-score-motion-picture-nominees",
+   "createdAt": "2026-11-13T00:31:54.193887Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 1.0204,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "The Odyssey",
+     0.575
+    ],
+    [
+     "Dune: Part Three",
+     0.5
+    ],
+    [
+     "Project Hail Mary",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375767",
+   "title": "Golden Globes 2027: Best Motion Picture - Non-English Language Winner",
+   "slug": "golden-globes-2027-best-motion-picture-non-english-language-winner",
+   "createdAt": "2026-11-13T00:31:16.240056Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1375766",
+   "title": "Golden Globes 2027: Best Motion Picture - Non-English Language Nominees",
+   "slug": "golden-globes-2027-best-motion-picture-non-english-language-nominees",
+   "createdAt": "2026-11-13T00:31:10.65137Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "La Bola Negra",
+     0.5
+    ],
+    [
+     "Fjord",
+     0.5
+    ],
+    [
+     "Minotaur",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1375765",
+   "title": "Golden Globes 2027: Best Supporting Actress \u2013 Television Winner",
+   "slug": "golden-globes-2027-best-supporting-actress-television-winner",
+   "createdAt": "2026-11-13T00:31:04.978458Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375764",
+   "title": "Golden Globes 2027: Best Actress \u2013 Limited Series Winner",
+   "slug": "golden-globes-2027-best-actress-limited-series-winner",
+   "createdAt": "2026-11-13T00:31:01.556389Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375763",
+   "title": "Golden Globes 2027: Best Supporting Actor \u2013 Television Winner",
+   "slug": "golden-globes-2027-best-supporting-actor-television-winner",
+   "createdAt": "2026-11-13T00:30:57.301454Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375762",
+   "title": "Golden Globes 2027: Best Actor \u2013 Limited Series Winner",
+   "slug": "golden-globes-2027-best-actor-limited-series-winner",
+   "createdAt": "2026-11-13T00:30:45.631918Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 1.0204,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375761",
+   "title": "Golden Globes 2027: Best Television Limited Series Winner",
+   "slug": "golden-globes-2027-best-television-limited-series-winner",
+   "createdAt": "2026-11-13T00:30:36.964567Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Series A",
+     0.5
+    ],
+    [
+     "Series B",
+     0.5
+    ],
+    [
+     "Series C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375760",
+   "title": "Golden Globes 2027: Best Television Series \u2013 Drama Winner",
+   "slug": "golden-globes-2027-best-television-series-drama-winner",
+   "createdAt": "2026-11-13T00:30:29.828173Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Series A",
+     0.5
+    ],
+    [
+     "Series B",
+     0.5
+    ],
+    [
+     "Series C",
+     0.5
+    ]
+   ],
+   "nMarkets": 21
+  },
+  {
+   "id": "1375747",
+   "title": "Golden Globes 2027: Best Actress \u2013 Television Drama Winner",
+   "slug": "golden-globes-2027-best-actress-television-drama-winner",
+   "createdAt": "2026-11-13T00:30:20.302865Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1375746",
+   "title": "Golden Globes 2027: Best Actor \u2013 Television Drama Winner",
+   "slug": "golden-globes-2027-best-actor-television-drama-winner",
+   "createdAt": "2026-11-13T00:30:11.499903Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375745",
+   "title": "Golden Globes 2027: Best Television Series \u2013 Comedy or Musical Winner",
+   "slug": "golden-globes-2027-best-television-series-comedy-or-musical-winner",
+   "createdAt": "2026-11-13T00:30:06.284938Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Series A",
+     0.5
+    ],
+    [
+     "Series B",
+     0.5
+    ],
+    [
+     "Series C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375744",
+   "title": "Golden Globes 2027: Best Actress \u2013 Television Musical or Comedy Winner",
+   "slug": "golden-globes-2027-best-actress-television-musical-or-comedy-winner",
+   "createdAt": "2026-11-13T00:29:54.951631Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "1375743",
+   "title": "Golden Globes 2027: Best Actor \u2013 Television Musical or Comedy Winner",
+   "slug": "golden-globes-2027-best-actor-television-musical-or-comedy-winner",
+   "createdAt": "2026-11-13T00:29:49.172872Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375742",
+   "title": "Golden Globes 2027: Best Screenplay \u2013 Motion Picture Winner",
+   "slug": "golden-globes-2027-best-screenplay-motion-picture-winner",
+   "createdAt": "2026-11-13T00:29:43.135911Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375741",
+   "title": "Golden Globes 2027: Best Supporting Actress \u2013 Motion Picture Winner",
+   "slug": "golden-globes-2027-best-supporting-actress-motion-picture-winner",
+   "createdAt": "2026-11-13T00:29:35.321329Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "1375740",
+   "title": "Golden Globes 2027: Best Supporting Actor \u2013 Motion Picture Winner",
+   "slug": "golden-globes-2027-best-supporting-actor-motion-picture-winner",
+   "createdAt": "2026-11-13T00:29:26.387705Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1375739",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Drama Winner",
+   "slug": "golden-globes-2027-best-motion-picture-drama-winner",
+   "createdAt": "2026-11-13T00:29:18.15286Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "1375738",
+   "title": "Golden Globes 2027: Best Director Winner",
+   "slug": "golden-globes-2027-best-director-winner",
+   "createdAt": "2026-11-13T00:29:10.657527Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375737",
+   "title": "Golden Globes 2027: Best Actress \u2013 Drama Winner",
+   "slug": "golden-globes-2027-best-actress-drama-winner",
+   "createdAt": "2026-11-13T00:29:01.495219Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 23
+  },
+  {
+   "id": "1375736",
+   "title": "Golden Globes 2027: Best Actor \u2013 Drama Winner",
+   "slug": "golden-globes-2027-best-actor-drama-winner",
+   "createdAt": "2026-11-13T00:28:52.954848Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1375735",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Musical or Comedy Winner",
+   "slug": "golden-globes-2027-best-motion-picture-musical-or-comedy-winner",
+   "createdAt": "2026-11-13T00:28:43.084434Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 1.0101,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 27
+  },
+  {
+   "id": "1375734",
+   "title": "Golden Globes 2027: Best Actress \u2013 Musical or Comedy Winner",
+   "slug": "golden-globes-2027-best-actress-musical-or-comedy-winner",
+   "createdAt": "2026-11-13T00:28:34.493114Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 24
+  },
+  {
+   "id": "1375733",
+   "title": "Golden Globes 2027: Best Actor \u2013 Musical or Comedy Winner",
+   "slug": "golden-globes-2027-best-actor-musical-or-comedy-winner",
+   "createdAt": "2026-11-13T00:28:27.038457Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ],
+    [
+     "Person C",
+     0.5
+    ]
+   ],
+   "nMarkets": 25
+  },
+  {
+   "id": "1375732",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Animated Winner",
+   "slug": "golden-globes-2027-best-motion-picture-animated-winner",
+   "createdAt": "2026-11-13T00:28:21.393504Z",
+   "endDate": "2027-01-11T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Film A",
+     0.5
+    ],
+    [
+     "Film B",
+     0.5
+    ],
+    [
+     "Film C",
+     0.5
+    ]
+   ],
+   "nMarkets": 22
+  },
+  {
+   "id": "1375731",
+   "title": "Golden Globes 2027: Best Supporting Actress \u2013 Television Nominees",
+   "slug": "golden-globes-2027-best-supporting-actress-television-nominees",
+   "createdAt": "2026-11-13T00:28:09.891822Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Kate O\u2019Flynn",
+     0.5
+    ],
+    [
+     "Hannah Einbinder",
+     0.5
+    ],
+    [
+     "Linda Cardellini",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375730",
+   "title": "Golden Globes 2027: Best Supporting Actor \u2013 Television Nominees",
+   "slug": "golden-globes-2027-best-supporting-actor-television-nominees",
+   "createdAt": "2026-11-13T00:27:59.52353Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 1.0204,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Stephen Root",
+     0.5
+    ],
+    [
+     "Charles Melton",
+     0.5
+    ],
+    [
+     "Patrick Ball",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375729",
+   "title": "Golden Globes 2027: Best Actress \u2013 Limited Series Nominees",
+   "slug": "golden-globes-2027-best-actress-limited-series-nominees",
+   "createdAt": "2026-11-13T00:27:56.847273Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Florence Pugh",
+     0.5
+    ],
+    [
+     "Carey Mulligan",
+     0.5
+    ],
+    [
+     "Sally Field",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375728",
+   "title": "Golden Globes 2027: Best Actor \u2013 Limited Series Nominees",
+   "slug": "golden-globes-2027-best-actor-limited-series-nominees",
+   "createdAt": "2026-11-13T00:27:47.102779Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Christopher Abbott",
+     0.5
+    ],
+    [
+     "Oscar Isaac",
+     0.5
+    ],
+    [
+     "Javier Bardem",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375727",
+   "title": "Golden Globes 2027: Best Television Limited Series Nominees",
+   "slug": "golden-globes-2027-best-television-limited-series-nominees",
+   "createdAt": "2026-11-13T00:27:38.011275Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "East of Eden",
+     0.5
+    ],
+    [
+     "DTF St. Louis",
+     0.5
+    ],
+    [
+     "Beef",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375726",
+   "title": "Golden Globes 2027: Best Television Series \u2013 Drama Nominees",
+   "slug": "golden-globes-2027-best-television-series-drama-nominees",
+   "createdAt": "2026-11-13T00:27:33.246756Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "The Diplomat",
+     0.5
+    ],
+    [
+     "The Pitt",
+     0.5
+    ],
+    [
+     "Slow Horses",
+     0.5
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1375717",
+   "title": "Golden Globes 2027: Best Actress \u2013 Television Drama Nominees",
+   "slug": "golden-globes-2027-best-actress-television-drama-nominees",
+   "createdAt": "2026-11-13T00:27:25.309768Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Keri Russell",
+     0.5
+    ],
+    [
+     "Zendaya",
+     0.5
+    ],
+    [
+     "Chase Infiniti",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1375716",
+   "title": "Golden Globes 2027: Best Actor \u2013 Television Drama Nominees",
+   "slug": "golden-globes-2027-best-actor-television-drama-nominees",
+   "createdAt": "2026-11-13T00:27:15.661963Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Gary Oldman",
+     0.5
+    ],
+    [
+     "Noah Wyle",
+     0.5
+    ],
+    [
+     "Sterling K. Brown",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375715",
+   "title": "Golden Globes 2027: Best Television Series \u2013 Comedy or Musical Nominees",
+   "slug": "golden-globes-2027-best-television-series-comedy-or-musical-nominees",
+   "createdAt": "2026-11-13T00:27:10.04105Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Widow\u2019s Bay",
+     0.5
+    ],
+    [
+     "Hacks",
+     0.5
+    ],
+    [
+     "Only Murders in the Building",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375714",
+   "title": "Golden Globes 2027: Best Actress \u2013 Television Musical or Comedy Nominees",
+   "slug": "golden-globes-2027-best-actress-television-musical-or-comedy-nominees",
+   "createdAt": "2026-11-13T00:27:06.214465Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Jean Smart",
+     0.5
+    ],
+    [
+     "Elle Fanning",
+     0.5
+    ],
+    [
+     "Lisa Kudrow",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1375713",
+   "title": "Golden Globes 2027: Best Actor \u2013 Television Musical or Comedy Nominees",
+   "slug": "golden-globes-2027-best-actor-television-musical-or-comedy-nominees",
+   "createdAt": "2026-11-13T00:26:54.789867Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Matthew Rhys",
+     0.5
+    ],
+    [
+     "Martin Short",
+     0.5
+    ],
+    [
+     "Steve Carell",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375712",
+   "title": "Golden Globes 2027: Best Screenplay \u2013 Motion Picture Nominees",
+   "slug": "golden-globes-2027-best-screenplay-motion-picture-nominees",
+   "createdAt": "2026-11-13T00:26:47.843029Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "La Bola Negra",
+     0.5
+    ],
+    [
+     "Wild Horse Nine",
+     0.5
+    ],
+    [
+     "The Invite",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375711",
+   "title": "Golden Globes 2027: Best Supporting Actress \u2013 Motion Picture Nominees",
+   "slug": "golden-globes-2027-best-supporting-actress-motion-picture-nominees",
+   "createdAt": "2026-11-13T00:26:42.303374Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Anne Hathaway",
+     0.5
+    ],
+    [
+     "Pen\u00e9lope Cruz",
+     0.5
+    ],
+    [
+     "Samantha Morton",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1375710",
+   "title": "Golden Globes 2027: Best Supporting Actor \u2013 Motion Picture Nominees",
+   "slug": "golden-globes-2027-best-supporting-actor-motion-picture-nominees",
+   "createdAt": "2026-11-13T00:26:32.935452Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Paul Giamatti",
+     0.5
+    ],
+    [
+     "Edward Norton",
+     0.5
+    ],
+    [
+     "Sam Rockwell",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1375709",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Drama Nominees",
+   "slug": "golden-globes-2027-best-motion-picture-drama-nominees",
+   "createdAt": "2026-11-13T00:26:26.782485Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "The Odyssey",
+     0.5
+    ],
+    [
+     "La Bola Negra",
+     0.5
+    ],
+    [
+     "Elsinore",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1375708",
+   "title": "Golden Globes 2027: Best Director Nominees",
+   "slug": "golden-globes-2027-best-director-nominees",
+   "createdAt": "2026-11-13T00:26:21.647047Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Denis Villeneuve",
+     0.795
+    ],
+    [
+     "Christopher Nolan",
+     0.5
+    ],
+    [
+     "Javier Ambrossi and Javier Calvo",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375707",
+   "title": "Golden Globes 2027: Best Actress \u2013 Drama Nominees",
+   "slug": "golden-globes-2027-best-actress-drama-nominees",
+   "createdAt": "2026-11-13T00:26:15.067146Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Virginie Efira",
+     0.5
+    ],
+    [
+     "Sandra H\u00fcller",
+     0.5
+    ],
+    [
+     "Renate Reinsve",
+     0.5
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1375706",
+   "title": "Golden Globes 2027: Best Actor \u2013 Drama Nominees",
+   "slug": "golden-globes-2027-best-actor-drama-nominees",
+   "createdAt": "2026-11-13T00:26:05.710986Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Matt Damon",
+     0.5
+    ],
+    [
+     "Andrew Scott",
+     0.5
+    ],
+    [
+     "John Turturro",
+     0.5
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1375705",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Musical or Comedy Nominees",
+   "slug": "golden-globes-2027-best-motion-picture-musical-or-comedy-nominees",
+   "createdAt": "2026-11-13T00:25:55.12506Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "The Invite",
+     0.5
+    ],
+    [
+     "Wild Horse Nine",
+     0.5
+    ],
+    [
+     "The Debut",
+     0.5
+    ]
+   ],
+   "nMarkets": 15
+  },
+  {
+   "id": "1375704",
+   "title": "Golden Globes 2027: Best Actress \u2013 Musical or Comedy Nominees",
+   "slug": "golden-globes-2027-best-actress-musical-or-comedy-nominees",
+   "createdAt": "2026-11-13T00:25:46.195448Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Julianne Moore",
+     0.5
+    ],
+    [
+     "Olivia Wilde",
+     0.5
+    ],
+    [
+     "Inde Navarrette",
+     0.5
+    ]
+   ],
+   "nMarkets": 12
+  },
+  {
+   "id": "1375703",
+   "title": "Golden Globes 2027: Best Actor \u2013 Musical or Comedy Nominees",
+   "slug": "golden-globes-2027-best-actor-musical-or-comedy-nominees",
+   "createdAt": "2026-11-13T00:25:30.23554Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Tom Cruise",
+     0.525
+    ],
+    [
+     "John Malkovich",
+     0.5
+    ],
+    [
+     "Anthony Ippolito",
+     0.5
+    ]
+   ],
+   "nMarkets": 13
+  },
+  {
+   "id": "1375696",
+   "title": "Golden Globes 2027: Best Motion Picture \u2013 Animated Nominees",
+   "slug": "golden-globes-2027-best-motion-picture-animated-nominees",
+   "createdAt": "2026-11-13T00:25:14.66235Z",
+   "endDate": "2026-12-08T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/golden-globe-9508a7163e.png",
+   "volume": 0.0,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Golden Globes"
+   ],
+   "outcomes": [
+    [
+     "Toy Story 5",
+     0.5
+    ],
+    [
+     "Wildwood",
+     0.5
+    ],
+    [
+     "Hoppers",
+     0.5
+    ]
+   ],
+   "nMarkets": 10
+  },
+  {
+   "id": "1375240",
+   "title": "Will Jensen Huang post again on X by...?",
+   "slug": "will-jensen-huang-post-again-on-x-by",
+   "createdAt": "2026-11-12T22:53:25.380712Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 7056.783938,
+   "tags": [
+    "X",
+    "Tech",
+    "NVIDIA",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.475
+    ],
+    [
+     "November 30",
+     0.29
+    ],
+    [
+     "November 15",
+     0.055
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1375212",
+   "title": "Anthropic closing share price on IPO day?",
+   "slug": "anthropic-closing-share-price-on-ipo-day",
+   "createdAt": "2026-11-12T22:51:24.055672Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
+   "volume": 550.0,
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Dario"
+   ],
+   "outcomes": [
+    [
+     "$110 to $120",
+     0.405
+    ],
+    [
+     "$120+",
+     0.395
+    ],
+    [
+     "<$70",
+     0.375
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1375205",
+   "title": "How much will Anthropic's stock move on IPO day?",
+   "slug": "how-much-will-anthropics-stock-move-on-ipo-day",
+   "createdAt": "2026-11-12T22:50:20.017615Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
+   "volume": 10.0,
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Dario"
+   ],
+   "outcomes": [
+    [
+     "Up 0% to 10%",
+     0.38
+    ],
+    [
+     "Up 10% to 20%",
+     0.37
+    ],
+    [
+     "Up 30% to 50%",
+     0.36
+    ]
+   ],
+   "nMarkets": 8
+  },
+  {
+   "id": "1375184",
+   "title": "Where will Jensen Huang work next?",
+   "slug": "where-will-jensen-huang-work-next",
+   "createdAt": "2026-11-12T22:43:14.432033Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 6166.868455,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "Big Tech",
+    "Business"
+   ],
+   "outcomes": [
+    [
+     "Company A",
+     0.5
+    ],
+    [
+     "Company B",
+     0.5
+    ],
+    [
+     "Company C",
+     0.5
+    ]
+   ],
+   "nMarkets": 38
+  },
+  {
+   "id": "1375151",
+   "title": "How many Jensen Huang affairs will be reported by December 31?",
+   "slug": "how-many-jensen-huang-affairs-will-be-reported-by-december-31",
+   "createdAt": "2026-11-12T22:35:29.728725Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jensen-huang-divorce-in-2026-TwqKa0CMsYm6.jpg",
+   "volume": 75248.972573,
+   "tags": [
+    "AI",
+    "Tech",
+    "NVIDIA",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "3",
+     0.515
+    ],
+    [
+     "4",
+     0.295
+    ],
+    [
+     "5",
+     0.06
+    ]
+   ],
+   "nMarkets": 5
+  },
   {
    "id": "1367931",
    "title": "Will Jensen Huang join a new company by December 31, 2026?",
@@ -4318,442 +6324,6 @@
     ]
    ],
    "nMarkets": 3
-  },
-  {
-   "id": "1280751",
-   "title": "Next Brazilian Minister of Defense?",
-   "slug": "next-brazilian-minister-of-defense",
-   "createdAt": "2026-10-30T01:19:01.805572Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
-   "volume": 412.78,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person F",
-     0.5
-    ],
-    [
-     "Person G",
-     0.5
-    ],
-    [
-     "Person H",
-     0.5
-    ]
-   ],
-   "nMarkets": 97
-  },
-  {
-   "id": "1280750",
-   "title": "Next Brazilian Minister of Justice and Public Security?",
-   "slug": "next-brazilian-minister-of-justice-and-public-security",
-   "createdAt": "2026-10-30T01:18:54.176483Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
-   "volume": 211.851585,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person G",
-     0.5
-    ],
-    [
-     "Person H",
-     0.5
-    ],
-    [
-     "Person I",
-     0.5
-    ]
-   ],
-   "nMarkets": 97
-  },
-  {
-   "id": "1280749",
-   "title": "Next Brazilian Chief of Staff?",
-   "slug": "next-brazilian-chief-of-staff",
-   "createdAt": "2026-10-30T01:18:39.175208Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
-   "volume": 0.0,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person H",
-     0.5
-    ],
-    [
-     "Person I",
-     0.5
-    ],
-    [
-     "Person J",
-     0.5
-    ]
-   ],
-   "nMarkets": 97
-  },
-  {
-   "id": "1280748",
-   "title": "Next Brazilian Minister of Foreign Affairs?",
-   "slug": "next-brazilian-minister-of-foreign-affairs",
-   "createdAt": "2026-10-30T01:18:38.041847Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
-   "volume": 256.185566,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person G",
-     0.5
-    ],
-    [
-     "Person H",
-     0.5
-    ],
-    [
-     "Person I",
-     0.5
-    ]
-   ],
-   "nMarkets": 97
-  },
-  {
-   "id": "1280747",
-   "title": "Next Brazilian Minister of Finance?",
-   "slug": "next-brazilian-minister-of-finance",
-   "createdAt": "2026-10-30T01:17:38.881268Z",
-   "endDate": "2027-03-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+brazil.png",
-   "volume": 641.3812,
-   "tags": [
-    "World",
-    "Brazil",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Person K",
-     0.5
-    ],
-    [
-     "Person L",
-     0.5
-    ],
-    [
-     "Person M",
-     0.5
-    ]
-   ],
-   "nMarkets": 97
-  },
-  {
-   "id": "1280726",
-   "title": "Punjab Legislative Assembly Election Winner",
-   "slug": "punjab-legislative-assembly-election-winner",
-   "createdAt": "2026-10-30T01:11:08.47024Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/in27-pb-seal-65e2a2cfa5.jpg",
-   "volume": 899.506807,
-   "tags": [
-    "India",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "AAP",
-     0.71
-    ],
-    [
-     "Party A",
-     0.5
-    ],
-    [
-     "Party B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "1280724",
-   "title": "Uttar Pradesh Legislative Assembly Election Winner",
-   "slug": "uttar-pradesh-legislative-assembly-election-winner",
-   "createdAt": "2026-10-30T01:09:37.149196Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/in27-up-seal-4d5e0dfc00.jpg",
-   "volume": 2088.101623,
-   "tags": [
-    "India",
-    "Politics",
-    "Elections",
-    "Main Election"
-   ],
-   "outcomes": [
-    [
-     "BJP",
-     0.8
-    ],
-    [
-     "Party A",
-     0.5
-    ],
-    [
-     "Party B",
-     0.5
-    ]
-   ],
-   "nMarkets": 31
-  },
-  {
-   "id": "1280622",
-   "title": "Which coalition will form the next Israeli government?",
-   "slug": "next-israeli-government-coalition",
-   "createdAt": "2026-10-30T00:52:17.110093Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
-   "volume": 2073.774275,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "Y + T + B + D + S + U",
-     0.3395
-    ],
-    [
-     "No government formed",
-     0.325
-    ],
-    [
-     "Y + T + D + S + U + R",
-     0.295
-    ]
-   ],
-   "nMarkets": 22
-  },
-  {
-   "id": "1280275",
-   "title": "Will Ukraine re-enter Oleshky by...?",
-   "slug": "will-ukraine-re-enter-oleshky-by",
-   "createdAt": "2026-10-29T23:13:46.60352Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
-   "volume": 7598.848041,
-   "tags": [
-    "Geopolitics",
-    "Ukraine Map"
-   ],
-   "outcomes": [
-    [
-     "November 30",
-     0.027
-    ],
-    [
-     "December 31",
-     0.0255
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1280274",
-   "title": "Next Israeli government # of seats?",
-   "slug": "next-israeli-government-of-seats",
-   "createdAt": "2026-10-29T23:12:55.401387Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
-   "volume": 80.0,
-   "tags": [
-    "World",
-    "Israel",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "64-66",
-     0.405
-    ],
-    [
-     "67-69",
-     0.385
-    ],
-    [
-     "73+",
-     0.345
-    ]
-   ],
-   "nMarkets": 7
-  },
-  {
-   "id": "1280261",
-   "title": "Elon Musk meets with Putin by...?",
-   "slug": "elon-musk-meets-with-putin-by",
-   "createdAt": "2026-10-29T23:10:01.375428Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-meets-with-putin-by-LVgqNUV89z2V.jpg",
-   "volume": 2438.826686,
-   "tags": [
-    "Tech",
-    "Russia",
-    "Politics",
-    "Elon Musk"
-   ],
-   "outcomes": [
-    [
-     "March 31",
-     0.22
-    ],
-    [
-     "December 31",
-     0.0745
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1279928",
-   "title": "Iran blockade lifted before US x Iran ceasefire ends?",
-   "slug": "iran-blockade-lifted-before-us-x-iran-ceasefire-ends",
-   "createdAt": "2026-10-29T21:33:23.327088Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-announces-blockade-on-iran-byptptpt-20260622191049039-hE3ZTZ51JJy3.jpg",
-   "volume": 38.0,
-   "tags": [
-    "Oil",
-    "Iran",
-    "Trump",
-    "Blockade"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.56
-    ],
-    [
-     "Yes",
-     0.44
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1279913",
-   "title": "Major airlines suspend Ben Gurion flights by...?",
-   "slug": "major-airlines-suspend-ben-gurion-flights-byptptpt",
-   "createdAt": "2026-10-29T21:28:29.127849Z",
-   "endDate": "2027-02-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-israels-ben-gurion-airport-reopen-before-july-4fx3rNi0c660.jpg",
-   "volume": 8588.829368,
-   "tags": [
-    "Iran",
-    "World",
-    "Israel",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "January 31, 2027",
-     0.54
-    ],
-    [
-     "December 31, 2026",
-     0.35
-    ],
-    [
-     "November 30, 2026",
-     0.23
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1279883",
-   "title": "Brazil's top courts strike down oil export tax by...?",
-   "slug": "brazils-top-courts-strike-down-oil-export-tax-byptptpt",
-   "createdAt": "2026-10-29T21:18:04.579957Z",
-   "endDate": "2028-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/Brazil_Oil-3c1dda0419.jpg",
-   "volume": 11373.131524,
-   "tags": [
-    "Oil",
-    "Taxes",
-    "World",
-    "Brazil"
-   ],
-   "outcomes": [
-    [
-     "June 30, 2028",
-     0.39
-    ],
-    [
-     "December 31, 2027",
-     0.245
-    ],
-    [
-     "June 30, 2027",
-     0.115
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1279789",
-   "title": "Pro Football: Next Head Coach Fired",
-   "slug": "pro-football-next-head-coach-fired-2026-27",
-   "createdAt": "2026-10-29T20:53:39.242154Z",
-   "endDate": "2027-02-16T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
-   "volume": 2240.0,
-   "tags": [
-    "Sports",
-    "football",
-    "NFL (All)",
-    "Head coach"
-   ],
-   "outcomes": [
-    [
-     "Coach A",
-     0.5
-    ],
-    [
-     "Coach B",
-     0.5
-    ],
-    [
-     "Coach C",
-     0.5
-    ]
-   ],
-   "nMarkets": 38
   }
  ]
 }

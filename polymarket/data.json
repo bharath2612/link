@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T11:05:25.678037+00:00",
+ "generatedAt": "2026-11-15T11:39:55.154944+00:00",
  "questions": [
   {
    "id": "1384926",
@@ -6380,35 +6380,6 @@
     ]
    ],
    "nMarkets": 30
-  },
-  {
-   "id": "1293565",
-   "title": "WTA Tennis: Hong Kong, Hong Kong Winner",
-   "slug": "wta-tournament-winner-2026-136332",
-   "createdAt": "2026-11-01T08:24:02.15032Z",
-   "endDate": "2026-11-09T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wta-logo-41f331bdf1.png",
-   "volume": 0.0,
-   "tags": [
-    "WTA",
-    "Sports",
-    "Tennis"
-   ],
-   "outcomes": [
-    [
-     "Sorana Cirstea",
-     0.495
-    ],
-    [
-     "Maria Timofeeva",
-     0.495
-    ],
-    [
-     "Venus Williams",
-     0.495
-    ]
-   ],
-   "nMarkets": 53
   }
  ]
 }

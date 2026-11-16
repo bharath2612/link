@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-11-15T11:39:55.154944+00:00",
+ "generatedAt": "2026-11-16T12:16:57.958408+00:00",
  "questions": [
+  {
+   "id": "1398870",
+   "title": "Paul C\u00e9zanne's \u201cArlequin\u201d Sale Price",
+   "slug": "paul-cezannes-arlequin-sale-price",
+   "createdAt": "2026-11-16T01:53:07.425988Z",
+   "endDate": "2026-11-19T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/paul-cezannes-arlequin-sale-price-f78p2UgiRYmu.jpg",
+   "volume": 4066.239158,
+   "tags": [
+    "Art",
+    "Culture",
+    "sotheby's"
+   ],
+   "outcomes": [
+    [
+     "$140m+",
+     0.4845
+    ],
+    [
+     "$130m-$140m",
+     0.295
+    ],
+    [
+     "$120m-$130m",
+     0.135
+    ]
+   ],
+   "nMarkets": 6
+  },
   {
    "id": "1384926",
    "title": "How many Anthropic shares will trade on IPO day?",

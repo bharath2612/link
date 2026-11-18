@@ -1,6 +1,263 @@
 {
- "generatedAt": "2026-11-17T12:38:33.614695+00:00",
+ "generatedAt": "2026-11-18T12:28:47.829032+00:00",
  "questions": [
+  {
+   "id": "1413774",
+   "title": "Jensen Huang named NVIDIA CEO & Nvidia above $4T end of 2026?",
+   "slug": "jensen-huang-named-nvidia-ceo-and-nvidia-market-cap-above-4t-end-of-2026",
+   "createdAt": "2026-11-18T02:58:11.365527Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
+   "volume": 1683.8335169999998,
+   "tags": [
+    "ceo",
+    "Tech",
+    "NVIDIA",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "Not named CEO; Over $4T",
+     0.475
+    ],
+    [
+     "Not named CEO; Under $4T",
+     0.46
+    ],
+    [
+     "Named CEO; Under $4T",
+     0.05
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1413765",
+   "title": "Spain Combo: Election Winner and Next Prime Minister",
+   "slug": "spain-combo-election-winner-and-next-prime-minister",
+   "createdAt": "2026-11-18T02:56:04.09243Z",
+   "endDate": "2028-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 2824.45578,
+   "tags": [
+    "Spain",
+    "Politics",
+    "Elections",
+    "Spain Elections"
+   ],
+   "outcomes": [
+    [
+     "PP winner, Feij\u00f3o PM",
+     0.715
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "PSOE winner, Feij\u00f3o PM",
+     0.18
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1413751",
+   "title": "Who will receive the first mandate to form Spain's next government?",
+   "slug": "who-will-receive-the-first-mandate-to-form-spains-next-government",
+   "createdAt": "2026-11-18T02:51:39.166234Z",
+   "endDate": "2026-11-30T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spainflagcrestcentre-241f86d478.jpg",
+   "volume": 9325.733727,
+   "tags": [
+    "Spain",
+    "World",
+    "Europe",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Alberto N\u00fa\u00f1ez Feij\u00f3o",
+     0.845
+    ],
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Person 1",
+     0.5
+    ]
+   ],
+   "nMarkets": 101
+  },
+  {
+   "id": "1413728",
+   "title": "Will Israel have an Alternate Prime Minister by February 28, 2027?",
+   "slug": "will-israel-have-an-alternate-prime-minister-by-february-28-2027",
+   "createdAt": "2026-11-18T02:49:10.371638Z",
+   "endDate": "2027-03-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 3.24718,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.61
+    ],
+    [
+     "Yes",
+     0.39
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1413727",
+   "title": "Will anyone flip Le Pen's French presidential odds before the first round?",
+   "slug": "will-anyone-flip-le-pens-french-presidential-odds-before-the-first-round",
+   "createdAt": "2026-11-18T02:47:38.316201Z",
+   "endDate": "2027-04-18T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/france-presidential-election-2027-U5QY3acvfubZ.png",
+   "volume": 530.6747700000001,
+   "tags": [
+    "France",
+    "Politics",
+    "Elections",
+    "Derivatives"
+   ],
+   "outcomes": [
+    [
+     "No",
+     0.83
+    ],
+    [
+     "Yes",
+     0.17
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1413267",
+   "title": "Kai Cenat finishes GTA VI marathon by...?",
+   "slug": "kai-cenat-finishes-gta-vi-marathon-by",
+   "createdAt": "2026-11-18T01:02:18.268128Z",
+   "endDate": "2026-12-02T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-kai-cenat-hit-1-million-twitch-subscribers-by-september-15th-UXPuOA5d-0WR.jpg",
+   "volume": 32022.735659,
+   "tags": [
+    "GTA",
+    "Kai",
+    "gaming",
+    "Culture"
+   ],
+   "outcomes": [
+    [
+     "December 1",
+     0.865
+    ],
+    [
+     "November 28",
+     0.74
+    ],
+    [
+     "November 26",
+     0.515
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1412957",
+   "title": "Which cities will get more snow than average this winter?",
+   "slug": "which-cities-will-get-more-snow-than-average-this-winter-2026-2027",
+   "createdAt": "2026-11-18T00:03:38.269241Z",
+   "endDate": "2027-04-30T12:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-cities-will-have-a-white-christmas-0-QoxIx_skp0.jpg",
+   "volume": 3420.5119710000004,
+   "tags": [
+    "SNOW",
+    "Weather",
+    "snowfall",
+    "Snow Storm"
+   ],
+   "outcomes": [
+    [
+     "Salt Lake City",
+     0.33
+    ],
+    [
+     "Philadelphia",
+     0.315
+    ],
+    [
+     "New York City",
+     0.3
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1412821",
+   "title": "Arctic sea ice max in winter 2026-2027?",
+   "slug": "arctic-sea-ice-max-in-winter-2026-2027",
+   "createdAt": "2026-11-17T23:36:45.188193Z",
+   "endDate": "2027-04-02T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/max-arctic-sea-ice-extent-this-winter-F26olrf7CGaV.jpg",
+   "volume": 1.12359,
+   "tags": [
+    "Weather",
+    "climate",
+    "Climate Change"
+   ],
+   "outcomes": [
+    [
+     "14.2m-14.5m",
+     0.43
+    ],
+    [
+     "14.5m-14.8m",
+     0.31
+    ],
+    [
+     "Less than 14.2m",
+     0.26
+    ]
+   ],
+   "nMarkets": 4
+  },
+  {
+   "id": "1412730",
+   "title": "Take-Two (TTWO) Up or Down on Nov 19 (GTA VI launch)?",
+   "slug": "ttwo-up-or-down-on-november-19-2026",
+   "createdAt": "2026-11-17T23:15:59.640012Z",
+   "endDate": "2026-11-19T21:00:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-take-two-q4-net-bookings-be-above-0FJJPaKbY9Rw.png",
+   "volume": 145.18678699999998,
+   "tags": [
+    "Daily",
+    "GTA VI",
+    "Stocks",
+    "Finance"
+   ],
+   "outcomes": [
+    [
+     "Up",
+     0.615
+    ],
+    [
+     "Down",
+     0.385
+    ]
+   ],
+   "nMarkets": 1
+  },
   {
    "id": "1406380",
    "title": "Next Bond girl?",
@@ -6117,177 +6374,6 @@
     ]
    ],
    "nMarkets": 9
-  },
-  {
-   "id": "1312156",
-   "title": "US-Iran effective ceasefire continues through...?",
-   "slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
-   "createdAt": "2026-11-04T06:07:20.106076Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-ceasefire-continues-throughptptpt-fKOnupyGfr2q.jpg",
-   "volume": 48241.091133,
-   "tags": [
-    "Iran",
-    "Trump",
-    "Israel",
-    "Military"
-   ],
-   "outcomes": [
-    [
-     "November 5",
-     0.963
-    ],
-    [
-     "November 6",
-     0.905
-    ],
-    [
-     "November 8",
-     0.805
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1311759",
-   "title": "Will the 120th Congress Speaker be elected on the first ballot?",
-   "slug": "will-the-120th-congress-speaker-be-elected-on-the-first-ballot",
-   "createdAt": "2026-11-04T04:17:49.531221Z",
-   "endDate": "2027-01-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us+house+of+representatives.png",
-   "volume": 510.0,
-   "tags": [
-    "house",
-    "Speaker",
-    "Politics",
-    "us government"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.81
-    ],
-    [
-     "No",
-     0.19
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1311681",
-   "title": "What will Trump say on November 4?",
-   "slug": "what-will-trump-say-on-november-4",
-   "createdAt": "2026-11-04T03:52:46.991061Z",
-   "endDate": "2026-11-05T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-this-week-may-31-963-g0Dw5XSfwMFg.png",
-   "volume": 285.21867,
-   "tags": [
-    "Trump",
-    "Mentions",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Congratulations / Congrats",
-     0.59
-    ],
-    [
-     "Impeach / Impeachment / Impeached",
-     0.515
-    ],
-    [
-     "Fake News",
-     0.505
-    ]
-   ],
-   "nMarkets": 19
-  },
-  {
-   "id": "1311119",
-   "title": "Will Trump veto a bill by February 1, 2027?",
-   "slug": "will-trump-veto-a-bill-by-february-1-2027",
-   "createdAt": "2026-11-04T01:27:24.191105Z",
-   "endDate": "2027-02-02T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-veto-a-bill-by-february-1-2027-nCvlBkAkUQgJ.jpg",
-   "volume": 6817.22603,
-   "tags": [
-    "veto",
-    "Trump",
-    "Congress",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "Yes",
-     0.755
-    ],
-    [
-     "No",
-     0.245
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1311118",
-   "title": "How many Trump vetoes overridden by December 31, 2027?",
-   "slug": "how-many-trump-vetoes-overridden-by-december-31-2027",
-   "createdAt": "2026-11-04T01:26:58.617052Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-trump-vetoes-overridden-by-december-31-2027-ZRCqVWv6ML_R.jpg",
-   "volume": 122.34310099999999,
-   "tags": [
-    "veto",
-    "Trump",
-    "Congress",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "1",
-     0.46
-    ],
-    [
-     "2",
-     0.405
-    ],
-    [
-     "3+",
-     0.405
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1311117",
-   "title": "How many Trump vetoes by December 31, 2027?",
-   "slug": "how-many-trump-vetoes-by-december-31-2027",
-   "createdAt": "2026-11-04T01:26:25.032213Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-trump-vetoes-by-december-31-2027-LvvJgkuOSq1s.jpg",
-   "volume": 0.0,
-   "tags": [
-    "veto",
-    "Trump",
-    "Congress",
-    "Politics"
-   ],
-   "outcomes": [
-    [
-     "10-14",
-     0.385
-    ],
-    [
-     "15-19",
-     0.385
-    ],
-    [
-     "5-9",
-     0.36
-    ]
-   ],
-   "nMarkets": 7
   }
  ]
 }

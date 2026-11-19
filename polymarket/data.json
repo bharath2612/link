@@ -1,6 +1,92 @@
 {
- "generatedAt": "2026-11-18T12:28:47.829032+00:00",
+ "generatedAt": "2026-11-19T12:19:51.253128+00:00",
  "questions": [
+  {
+   "id": "1421387",
+   "title": "LA-05 House Runoff Margin of Victory",
+   "slug": "la-05-house-runoff-margin-of-victory-2026",
+   "createdAt": "2026-11-19T02:32:14.207927Z",
+   "endDate": "2026-12-13T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/LA.png",
+   "volume": 263.0309,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Firment (R) 8-12%",
+     0.33
+    ],
+    [
+     "Firment (R) 0-4%",
+     0.31
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1421386",
+   "title": "LA-06 House Runoff Margin of Victory",
+   "slug": "la-06-house-runoff-margin-of-victory-2026",
+   "createdAt": "2026-11-19T02:32:02.212631Z",
+   "endDate": "2026-12-13T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/LA.png",
+   "volume": 417.422132,
+   "tags": [
+    "Midterms",
+    "Politics",
+    "Elections",
+    "Midterm MOV"
+   ],
+   "outcomes": [
+    [
+     "Other",
+     0.5
+    ],
+    [
+     "Miguez (R) 8-12%",
+     0.33
+    ],
+    [
+     "Miguez (R) 20-24%",
+     0.32
+    ]
+   ],
+   "nMarkets": 11
+  },
+  {
+   "id": "1421361",
+   "title": "China Chip Manufacturing Export Restrictions (MATCH ACT) become law by...?",
+   "slug": "china-chip-manufacturing-export-restrictions-match-act-become-law-byptptpt",
+   "createdAt": "2026-11-19T02:28:35.547741Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/did-deepseek-use-banned-nvidia-chips-9IUnqSZQ1gar.jpg",
+   "volume": 39.268767,
+   "tags": [
+    "AI",
+    "Tech",
+    "China",
+    "us law"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.48
+    ],
+    [
+     "June 30, 2027",
+     0.23
+    ]
+   ],
+   "nMarkets": 2
+  },
   {
    "id": "1413774",
    "title": "Jensen Huang named NVIDIA CEO & Nvidia above $4T end of 2026?",
@@ -6088,292 +6174,6 @@
     ]
    ],
    "nMarkets": 13
-  },
-  {
-   "id": "1317474",
-   "title": "AP calls the Alaska Senate race by...?",
-   "slug": "ap-calls-the-alaska-senate-race",
-   "createdAt": "2026-11-05T02:27:31.347393Z",
-   "endDate": "2026-12-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ap-calls-the-alaska-senate-race-by-mDKWd61Xkdj5.png",
-   "volume": 2352.954468,
-   "tags": [
-    "Midterms",
-    "Politics",
-    "Elections"
-   ],
-   "outcomes": [
-    [
-     "November 30",
-     0.745
-    ],
-    [
-     "November 22",
-     0.72
-    ],
-    [
-     "November 15",
-     0.26
-    ]
-   ],
-   "nMarkets": 5
-  },
-  {
-   "id": "1317468",
-   "title": "Who will be impeached by June 30, 2027?",
-   "slug": "who-will-be-impeached-by-june-30-2027",
-   "createdAt": "2026-11-05T02:25:44.903137Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-be-impeached-by-june-30-2027-PDP0MNMUIVgB.jpg",
-   "volume": 69.345411,
-   "tags": [
-    "Trump",
-    "Politics",
-    "Trump Presidency"
-   ],
-   "outcomes": [
-    [
-     "Pete Hegseth - Secretary of Defense",
-     0.595
-    ],
-    [
-     "Todd Blanche - Attorney General",
-     0.48
-    ],
-    [
-     "Marco Rubio - Secretary of State",
-     0.48
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "1317425",
-   "title": "New Senate confirms a Trump Cabinet or federal judge nominee by...?",
-   "slug": "new-senate-confirms-a-trump-cabinet-or-federal-judge-nominee-byptptpt",
-   "createdAt": "2026-11-05T02:12:11.344447Z",
-   "endDate": "2027-07-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-signs-a-bill-from-new-congress-byptptpt-ALaSga44ELqE.jpg",
-   "volume": 842.459565,
-   "tags": [
-    "Trump",
-    "Congress",
-    "Politics",
-    "Trump Cabinet"
-   ],
-   "outcomes": [
-    [
-     "June 30, 2027",
-     0.65
-    ],
-    [
-     "March 31, 2027",
-     0.26
-    ],
-    [
-     "January 31, 2027",
-     0.245
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1317423",
-   "title": "Trump signs a bill from new Congress by...?",
-   "slug": "trump-signs-a-bill-from-new-congress-byptptpt",
-   "createdAt": "2026-11-05T02:10:05.577752Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-signs-a-bill-from-new-congress-byptptpt-hzg1cpFV2X-0.jpg",
-   "volume": 267.379194,
-   "tags": [
-    "Trump",
-    "Congress",
-    "Politics",
-    "Trump Presidency"
-   ],
-   "outcomes": [
-    [
-     "March 31",
-     0.865
-    ],
-    [
-     "January 31",
-     0.63
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1317398",
-   "title": "What will Trump say at Cape Canaveral?",
-   "slug": "what-will-trump-say-at-cape-canaveral-november-6",
-   "createdAt": "2026-11-05T02:05:47.327612Z",
-   "endDate": "2026-11-06T22:35:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-trump-say-during-the-tribute-to-america-rally-on-july-4th-202606301606--gS0PyQJyV7a.jpg",
-   "volume": 917.912386,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Mentions",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "Space Force",
-     0.895
-    ],
-    [
-     "Moon",
-     0.84
-    ],
-    [
-     "China",
-     0.735
-    ]
-   ],
-   "nMarkets": 20
-  },
-  {
-   "id": "1317369",
-   "title": "Will Trump insult Hegseth by December 31?",
-   "slug": "will-trump-insult-hegseth-by-december-31",
-   "createdAt": "2026-11-05T01:58:26.293518Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pete-hegseth-out-as-secretary-of-defense-by-friday-RWimpJbOlkbf.jpg",
-   "volume": 3475.6806880000004,
-   "tags": [
-    "Trump",
-    "Culture",
-    "Politics",
-    "Pete Hegseth"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.705
-    ],
-    [
-     "Yes",
-     0.295
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1317208",
-   "title": "How many government shutdowns by December 31, 2027?",
-   "slug": "how-many-government-shutdowns-by-december-31-2027",
-   "createdAt": "2026-11-05T01:14:42.194022Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/govt+shutdown.jpeg",
-   "volume": 8845.06452,
-   "tags": [
-    "Trump",
-    "house",
-    "Senate",
-    "funding"
-   ],
-   "outcomes": [
-    [
-     "1",
-     0.375
-    ],
-    [
-     "2",
-     0.295
-    ],
-    [
-     "3+",
-     0.195
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1317199",
-   "title": "National Guard deployed to election sites by...?",
-   "slug": "national-guard-deployed-to-election-sites-by",
-   "createdAt": "2026-11-05T01:11:36.419222Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-deploys-national-guard-to-a-blue-city-by-september-15-0J_aKNrsAnOK.jpg",
-   "volume": 7852.004561,
-   "tags": [
-    "Trump",
-    "Midterms",
-    "Politics",
-    "national guard"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.0935
-    ],
-    [
-     "November 30",
-     0.0405
-    ],
-    [
-     "November 7",
-     0.0125
-    ]
-   ],
-   "nMarkets": 4
-  },
-  {
-   "id": "1317197",
-   "title": "Any member-elect blocked from being sworn in on Jan 3, 2027?",
-   "slug": "any-member-elect-blocked-from-being-sworn-in",
-   "createdAt": "2026-11-05T01:07:58.018253Z",
-   "endDate": "2027-01-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us+house+of+representatives.png",
-   "volume": 92.66161,
-   "tags": [
-    "house",
-    "Senate",
-    "Congress",
-    "Midterms"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.745
-    ],
-    [
-     "Yes",
-     0.255
-    ]
-   ],
-   "nMarkets": 1
-  },
-  {
-   "id": "1317156",
-   "title": "How many votes will Hakeem Jeffries get on first ballot?",
-   "slug": "how-many-votes-will-hakeem-jeffries-get-on-first-ballot",
-   "createdAt": "2026-11-05T01:02:20.319067Z",
-   "endDate": "2027-01-04T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us+house+of+representatives.png",
-   "volume": 346.638716,
-   "tags": [
-    "house",
-    "Speaker",
-    "Politics",
-    "Breaking News"
-   ],
-   "outcomes": [
-    [
-     "245-249",
-     0.395
-    ],
-    [
-     "244 or fewer",
-     0.38
-    ],
-    [
-     "280 or more",
-     0.3275
-    ]
-   ],
-   "nMarkets": 9
   }
  ]
 }

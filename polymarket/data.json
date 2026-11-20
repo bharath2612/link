@@ -1,6 +1,324 @@
 {
- "generatedAt": "2026-11-19T12:19:51.253128+00:00",
+ "generatedAt": "2026-11-20T12:20:13.930450+00:00",
  "questions": [
+  {
+   "id": "1427792",
+   "title": "DOJ criminally charges AMD by...?",
+   "slug": "doj-criminally-charges-amd-by",
+   "createdAt": "2026-11-19T23:08:15.991924Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/amd-quarterly-earnings-nongaap-eps-05-05-2026-1pt28-khSt6ULzzI6W.png",
+   "volume": 1490.335594,
+   "tags": [
+    "AI",
+    "AMD",
+    "Tech",
+    "China"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.41
+    ],
+    [
+     "December 31, 2026",
+     0.0475
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1427791",
+   "title": "Lisa Su publicly testifies before Congress by...?",
+   "slug": "lisa-su-publicly-testifies-before-congress-byptptpt",
+   "createdAt": "2026-11-19T23:07:36.600268Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lisa-su-amd-lisa-su-f9e5dd0c56.jpg",
+   "volume": 57.58353699999999,
+   "tags": [
+    "AI",
+    "AMD",
+    "Tech",
+    "hearing"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2027",
+     0.35
+    ],
+    [
+     "March 31, 2027",
+     0.3
+    ],
+    [
+     "December 31, 2026",
+     0.13
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1427765",
+   "title": "AMD hit with a BIS export-control penalty by...?",
+   "slug": "amd-hit-with-a-bis-export-control-penalty-by",
+   "createdAt": "2026-11-19T23:05:53.374142Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/amd-quarterly-earnings-nongaap-eps-05-05-2026-1pt28-khSt6ULzzI6W.png",
+   "volume": 691.7834270000001,
+   "tags": [
+    "AI",
+    "AMD",
+    "Tech",
+    "China"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.49
+    ],
+    [
+     "December 31, 2026",
+     0.095
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1427435",
+   "title": "Anthropic: Above IPO Price at End of First Month?",
+   "slug": "anthropic-ipo-above-ipo-price-at-end-of-first-month",
+   "createdAt": "2026-11-19T21:53:58.66673Z",
+   "endDate": "2026-12-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
+   "volume": 13.7027,
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Dario"
+   ],
+   "outcomes": [
+    [
+     "Up",
+     0.76
+    ],
+    [
+     "Down",
+     0.24
+    ]
+   ],
+   "nMarkets": 1
+  },
+  {
+   "id": "1427103",
+   "title": "Which blocs will support the next Israeli government?",
+   "slug": "which-blocs-will-support-the-next-israeli-government",
+   "createdAt": "2026-11-19T20:52:10.112154Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+   "volume": 3854.432163,
+   "tags": [
+    "World",
+    "Israel",
+    "Politics",
+    "Elections"
+   ],
+   "outcomes": [
+    [
+     "No government formed",
+     0.43
+    ],
+    [
+     "Unity government",
+     0.145
+    ],
+    [
+     "Change bloc + Haredim",
+     0.1355
+    ]
+   ],
+   "nMarkets": 6
+  },
+  {
+   "id": "1427073",
+   "title": "Canada's Choice 2027 Winner",
+   "slug": "canadas-choice-2027-winner",
+   "createdAt": "2026-11-19T20:46:32.995629Z",
+   "endDate": "2026-12-06T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/canadas-choice-2027-event-435cd99a42.jpg",
+   "volume": 123.5641,
+   "tags": [
+    "Music",
+    "Canada",
+    "Culture",
+    "Eurovision"
+   ],
+   "outcomes": [
+    [
+     "Artist A",
+     0.5
+    ],
+    [
+     "Artist B",
+     0.5
+    ],
+    [
+     "Artist C",
+     0.5
+    ]
+   ],
+   "nMarkets": 66
+  },
+  {
+   "id": "1427067",
+   "title": "Lisa Su announced resignation or removal by...?",
+   "slug": "lisa-su-announced-resignation-or-removal-by",
+   "createdAt": "2026-11-19T20:46:17.789636Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lisa-su-amd-lisa-su-f9e5dd0c56.jpg",
+   "volume": 1621.231539,
+   "tags": [
+    "AMD",
+    "ceo",
+    "Tech",
+    "resign"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.15
+    ],
+    [
+     "March 31, 2027",
+     0.031
+    ],
+    [
+     "December 31, 2026",
+     0.025
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1427030",
+   "title": "Critics Choice Awards 2027: Best Director Winner",
+   "slug": "critics-choice-awards-2027-best-director-winner",
+   "createdAt": "2026-11-19T20:40:03.457421Z",
+   "endDate": "2027-01-04T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/critics-choice-2027-578cd88e78.jpg",
+   "volume": 1892.004172,
+   "tags": [
+    "Awards",
+    "Movies",
+    "Culture",
+    "Critics' Choice"
+   ],
+   "outcomes": [
+    [
+     "Christopher Nolan",
+     0.8
+    ],
+    [
+     "Director A",
+     0.5
+    ],
+    [
+     "Director B",
+     0.5
+    ]
+   ],
+   "nMarkets": 100
+  },
+  {
+   "id": "1427012",
+   "title": "Sanremo 2027 Participants",
+   "slug": "sanremo-2027-participants",
+   "createdAt": "2026-11-19T20:36:20.587915Z",
+   "endDate": "2026-12-12T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sanremo-2027-event-4e7d215a27.jpg",
+   "volume": 4064.960025,
+   "tags": [
+    "Italy",
+    "Music",
+    "Culture",
+    "sanremo"
+   ],
+   "outcomes": [
+    [
+     "Irama",
+     0.705
+    ],
+    [
+     "Angelina Mango",
+     0.62
+    ],
+    [
+     "Annalisa",
+     0.55
+    ]
+   ],
+   "nMarkets": 9
+  },
+  {
+   "id": "1426958",
+   "title": "When will Anthropic be added to the Nasdaq-100?",
+   "slug": "when-will-anthropic-be-added-to-the-nasdaq-100",
+   "createdAt": "2026-11-19T20:22:55.033049Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
+   "volume": 694.808433,
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Dario"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2026",
+     0.935
+    ],
+    [
+     "December 18, 2026",
+     0.185
+    ],
+    [
+     "December 11, 2026",
+     0.0895
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1426930",
+   "title": "Who will join NVIDIA's national security committee?",
+   "slug": "who-will-join-nvidias-national-security-committee",
+   "createdAt": "2026-11-19T20:19:10.582666Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-nvidia-say-during-their-next-earnings-call-k6nfBYU1idBr.jpg",
+   "volume": 6379.6908300000005,
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "Business",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "Condoleezza Rice",
+     0.42
+    ],
+    [
+     "John Aquilino",
+     0.215
+    ],
+    [
+     "Matt Pottinger",
+     0.205
+    ]
+   ],
+   "nMarkets": 8
+  },
   {
    "id": "1421387",
    "title": "LA-05 House Runoff Margin of Victory",
@@ -6114,66 +6432,6 @@
     ]
    ],
    "nMarkets": 59
-  },
-  {
-   "id": "1322441",
-   "title": "Next Senator in Blackburn's Tennessee seat?",
-   "slug": "next-senator-in-blackburns-tennessee-seat",
-   "createdAt": "2026-11-06T00:02:38.624823Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/TN.png",
-   "volume": 1997.415234,
-   "tags": [
-    "Senate",
-    "Politics",
-    "Elections",
-    "tennessee"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Person C",
-     0.5
-    ]
-   ],
-   "nMarkets": 45
-  },
-  {
-   "id": "1321870",
-   "title": "GMGN GGC Season 1 Winner",
-   "slug": "gmgn-ggc-season-1-winner",
-   "createdAt": "2026-11-05T21:09:53.193456Z",
-   "endDate": "2026-11-18T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gmgn-ggc-season-1-winner-26a00d8ae7.png",
-   "volume": 13.25262,
-   "tags": [
-    "GMGN",
-    "Crypto",
-    "Memecoins",
-    "Crypto Culture"
-   ],
-   "outcomes": [
-    [
-     "Person A",
-     0.5
-    ],
-    [
-     "Person B",
-     0.5
-    ],
-    [
-     "Person C",
-     0.5
-    ]
-   ],
-   "nMarkets": 13
   }
  ]
 }

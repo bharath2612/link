@@ -1,6 +1,374 @@
 {
- "generatedAt": "2026-11-27T13:19:30.874193+00:00",
+ "generatedAt": "2026-11-28T12:34:52.451329+00:00",
  "questions": [
+  {
+   "id": "1470218",
+   "title": "Anthropic model ranked #1 on Arena by...?",
+   "slug": "anthropic-model-ranked-1-on-arena-byptptpt",
+   "createdAt": "2026-11-27T22:09:29.294601Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+   "volume": 265.486295,
+   "tags": [
+    "AI",
+    "Tech",
+    "Claude",
+    "Anthropic"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.75
+    ],
+    [
+     "March 31, 2027",
+     0.615
+    ],
+    [
+     "June 30, 2027",
+     0.615
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1470217",
+   "title": "Chinese model ranked #1 on Arena by...?",
+   "slug": "chinese-model-ranked-1-on-arena-byptptpt",
+   "createdAt": "2026-11-27T22:09:20.889219Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/best-chinese-ai-company-end-of-april-a_9taJMfZn2f.jpg",
+   "volume": 1929.383234,
+   "tags": [
+    "AI",
+    "Tech",
+    "China",
+    "AI Rankings"
+   ],
+   "outcomes": [
+    [
+     "December 31, 2027",
+     0.295
+    ],
+    [
+     "June 30, 2027",
+     0.285
+    ],
+    [
+     "March 31, 2027",
+     0.23
+    ]
+   ],
+   "nMarkets": 5
+  },
+  {
+   "id": "1470216",
+   "title": "Will Ukraine re-enter Velyka Novosilka by...?",
+   "slug": "will-ukraine-re-enter-velyka-novosilka-by",
+   "createdAt": "2026-11-27T22:07:21.861948Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+   "volume": 257.266358,
+   "tags": [
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.535
+    ],
+    [
+     "December 31",
+     0.135
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1470215",
+   "title": "Will Russia capture Bilohirya by...?",
+   "slug": "will-russia-capture-bilohirya-by",
+   "createdAt": "2026-11-27T22:07:12.626196Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-prymorske-by-jcMx3oA7tIqU.jpg",
+   "volume": 212.65952399999998,
+   "tags": [
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.555
+    ],
+    [
+     "January 31, 2027",
+     0.52
+    ],
+    [
+     "December 31, 2026",
+     0.23
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470214",
+   "title": "Will Russia capture all of Bilohirya by...?",
+   "slug": "will-russia-capture-all-of-bilohirya-by",
+   "createdAt": "2026-11-27T22:06:59.053967Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-EaTom9xBb9aK.jpg",
+   "volume": 178.112959,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.405
+    ],
+    [
+     "January 31, 2027",
+     0.305
+    ],
+    [
+     "December 31, 2026",
+     0.275
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470213",
+   "title": "Will Russia capture all of Lobkove by...?",
+   "slug": "will-russia-capture-all-of-lobkove-by",
+   "createdAt": "2026-11-27T22:06:52.276487Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-EaTom9xBb9aK.jpg",
+   "volume": 40.0,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.52
+    ],
+    [
+     "March 31, 2027",
+     0.51
+    ],
+    [
+     "December 31, 2026",
+     0.355
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470212",
+   "title": "Will Russia capture all of Stepove by...?",
+   "slug": "will-russia-capture-all-of-stepove-by",
+   "createdAt": "2026-11-27T22:06:47.392177Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-EaTom9xBb9aK.jpg",
+   "volume": 0.0,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.52
+    ],
+    [
+     "March 31, 2027",
+     0.495
+    ],
+    [
+     "December 31, 2026",
+     0.445
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470211",
+   "title": "Will Russia capture all of Krasnoyarske by...?",
+   "slug": "will-russia-capture-all-of-krasnoyarske-by",
+   "createdAt": "2026-11-27T22:06:41.751672Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-EaTom9xBb9aK.jpg",
+   "volume": 34.716154,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.53
+    ],
+    [
+     "March 31, 2027",
+     0.53
+    ],
+    [
+     "December 31, 2026",
+     0.335
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470199",
+   "title": "Will Russia capture all of Krasnopodillya by...?",
+   "slug": "will-russia-capture-all-of-krasnopodillya-by",
+   "createdAt": "2026-11-27T22:06:29.498894Z",
+   "endDate": "2027-04-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-all-of-kostyantynivka-by-EaTom9xBb9aK.jpg",
+   "volume": 100.0,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "March 31, 2027",
+     0.525
+    ],
+    [
+     "January 31, 2027",
+     0.43
+    ],
+    [
+     "December 31, 2026",
+     0.275
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470196",
+   "title": "Will Russia capture all of Dobropillia by...?",
+   "slug": "will-russia-capture-all-of-dobropillia-by",
+   "createdAt": "2026-11-27T22:06:15.024462Z",
+   "endDate": "2027-07-01T03:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-enter-dobropillia-by-january-31-GU2PagMoy9yk.jpg",
+   "volume": 40.459567,
+   "tags": [
+    "Politics",
+    "Geopolitics",
+    "Ukraine Map"
+   ],
+   "outcomes": [
+    [
+     "June 30, 2027",
+     0.175
+    ],
+    [
+     "March 31, 2027",
+     0.095
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1470189",
+   "title": "Riyadh airport closed to departures for 24 hours by...?",
+   "slug": "riyadh-airport-closed-to-departures-for-24-hours-byptptpt-20261126",
+   "createdAt": "2026-11-27T22:05:00.177734Z",
+   "endDate": "2027-02-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi+arabia+skyline+riyadh.png",
+   "volume": 238.925926,
+   "tags": [
+    "Iran",
+    "Yemen",
+    "Houthis",
+    "Politics"
+   ],
+   "outcomes": [
+    [
+     "January 31, 2027",
+     0.485
+    ],
+    [
+     "December 31, 2026",
+     0.44
+    ],
+    [
+     "December 15, 2026",
+     0.205
+    ]
+   ],
+   "nMarkets": 3
+  },
+  {
+   "id": "1470188",
+   "title": "Military action against Saudi Oil Pipeline (East-West) by...?",
+   "slug": "military-action-against-saudi-oil-pipeline-east-west-byptptpt-20261127",
+   "createdAt": "2026-11-27T22:04:33.837017Z",
+   "endDate": "2027-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/saudi-oil-pipeline-east-west-restarts-byptptpt-K7iGFsFHJcu_.jpg",
+   "volume": 370.008182,
+   "tags": [
+    "Oil",
+    "Iran",
+    "Yemen",
+    "Houthis"
+   ],
+   "outcomes": [
+    [
+     "December 31",
+     0.485
+    ],
+    [
+     "December 15",
+     0.24
+    ]
+   ],
+   "nMarkets": 2
+  },
+  {
+   "id": "1470179",
+   "title": "Next General Secretary of the Chinese Communist Party?",
+   "slug": "next-general-secretary-of-the-chinese-communist-party",
+   "createdAt": "2026-11-27T22:02:10.604011Z",
+   "endDate": "2028-01-01T04:59:00Z",
+   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-xi-jinping-purge-in-2026-tSQa4Zrbct59.jpg",
+   "volume": 3679.844472,
+   "tags": [
+    "Xi",
+    "China",
+    "World",
+    "purges"
+   ],
+   "outcomes": [
+    [
+     "Xi Jinping",
+     0.945
+    ],
+    [
+     "Person A",
+     0.5
+    ],
+    [
+     "Person B",
+     0.5
+    ]
+   ],
+   "nMarkets": 64
+  },
   {
    "id": "1463193",
    "title": "Another Politburo member purged by...?",
@@ -2018,388 +2386,6 @@
     ]
    ],
    "nMarkets": 6
-  },
-  {
-   "id": "1384926",
-   "title": "How many Anthropic shares will trade on IPO day?",
-   "slug": "how-many-anthropic-shares-will-trade-on-ipo-day",
-   "createdAt": "2026-11-14T06:19:49.938852Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
-   "volume": 800.25,
-   "tags": [
-    "AI",
-    "IPO",
-    "IPOs",
-    "Finance"
-   ],
-   "outcomes": [
-    [
-     "1.5B+",
-     0.435
-    ],
-    [
-     "500M to 650M",
-     0.405
-    ],
-    [
-     "650M to 800M",
-     0.405
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "1384925",
-   "title": "Anthropic opening share price on IPO day?",
-   "slug": "anthropic-opening-share-price-on-ipo-day",
-   "createdAt": "2026-11-14T06:19:49.888854Z",
-   "endDate": "2028-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
-   "volume": 532.0,
-   "tags": [
-    "AI",
-    "IPO",
-    "IPOs",
-    "Finance"
-   ],
-   "outcomes": [
-    [
-     "$80 to $90",
-     0.43
-    ],
-    [
-     "$110 to $120",
-     0.425
-    ],
-    [
-     "$100 to $110",
-     0.42
-    ]
-   ],
-   "nMarkets": 8
-  },
-  {
-   "id": "1383758",
-   "title": "Gemini Helix released by...?",
-   "slug": "gemini-helix-released-byptptpt-20261113",
-   "createdAt": "2026-11-14T02:42:42.881809Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
-   "volume": 118.609524,
-   "tags": [
-    "AI",
-    "Tech",
-    "Gemini",
-    "google"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.69
-    ],
-    [
-     "December 15",
-     0.535
-    ],
-    [
-     "November 30",
-     0.395
-    ]
-   ],
-   "nMarkets": 3
-  },
-  {
-   "id": "1383749",
-   "title": "What will the next Gemini model family be named?",
-   "slug": "what-will-the-next-gemini-model-family-be-named-20261113",
-   "createdAt": "2026-11-14T02:42:15.553838Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
-   "volume": 20.0,
-   "tags": [
-    "AI",
-    "Tech",
-    "google",
-    "AI Releases"
-   ],
-   "outcomes": [
-    [
-     "Other",
-     0.5
-    ],
-    [
-     "Placeholder 1",
-     0.5
-    ],
-    [
-     "Placeholder 2",
-     0.5
-    ]
-   ],
-   "nMarkets": 32
-  },
-  {
-   "id": "1383747",
-   "title": "Next Gemini Carbon (4.1+) released on...?",
-   "slug": "next-gemini-carbon-4pt1-released-onptptpt-20261113",
-   "createdAt": "2026-11-14T02:41:40.619985Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
-   "volume": 16528.370816,
-   "tags": [
-    "AI",
-    "Tech",
-    "Gemini",
-    "google"
-   ],
-   "outcomes": [
-    [
-     "No release by December 31",
-     0.68
-    ],
-    [
-     "November 14",
-     0.0735
-    ],
-    [
-     "November 24",
-     0.055
-    ]
-   ],
-   "nMarkets": 50
-  },
-  {
-   "id": "1383590",
-   "title": "Which college football games will be cancelled or postponed on Nov 14?",
-   "slug": "which-college-football-games-will-be-cancelled-or-postponed-on-nov-14",
-   "createdAt": "2026-11-14T02:06:33.974658Z",
-   "endDate": "2026-11-15T17:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/college-football-champion-2026-XaGKSmKa8sQM.jpg",
-   "volume": 9.0,
-   "tags": [
-    "FAA",
-    "NCAA",
-    "Sports",
-    "Ground Stop"
-   ],
-   "outcomes": [
-    [
-     "Michigan @ Oregon",
-     0.52
-    ],
-    [
-     "USC @ Indiana",
-     0.5
-    ],
-    [
-     "Missouri @ Georgia",
-     0.5
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1383454",
-   "title": "How many FBS games scheduled for Nov 14 will be cancelled or postponed?",
-   "slug": "how-many-fbs-games-scheduled-for-nov-14-will-be-cancelled-or-postponed",
-   "createdAt": "2026-11-14T01:33:37.552936Z",
-   "endDate": "2026-11-15T17:00:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/pro-football-2026-27-sacks-leader-20260715213646510-QQ3bQ5nd-1WX.png",
-   "volume": 2101.189087,
-   "tags": [
-    "CFB (All)",
-    "FAA",
-    "Sports",
-    "football"
-   ],
-   "outcomes": [
-    [
-     "1\u20133",
-     0.63
-    ],
-    [
-     "0",
-     0.328
-    ],
-    [
-     "10\u201312",
-     0.045
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1383176",
-   "title": "US rank in World Happiness Report 2027",
-   "slug": "us-rank-world-happiness-report-2027",
-   "createdAt": "2026-11-14T00:31:34.192017Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whr-2027-usa-flag-4e1b7e703f.jpg",
-   "volume": 3622.159189,
-   "tags": [
-    "USA",
-    "World",
-    "Global",
-    "Culture"
-   ],
-   "outcomes": [
-    [
-     "19th or higher",
-     0.59
-    ],
-    [
-     "24th-25th",
-     0.095
-    ],
-    [
-     "28th or lower",
-     0.085
-    ]
-   ],
-   "nMarkets": 6
-  },
-  {
-   "id": "1383174",
-   "title": "World Happiness Report 2027: 2nd place",
-   "slug": "world-happiness-report-2027-2nd-place",
-   "createdAt": "2026-11-14T00:31:29.773489Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whr-2027-whr-logo-931cfeaede.jpg",
-   "volume": 4894.896785,
-   "tags": [
-    "World",
-    "Global",
-    "Culture",
-    "rankings"
-   ],
-   "outcomes": [
-    [
-     "Denmark",
-     0.51
-    ],
-    [
-     "Country A",
-     0.5
-    ],
-    [
-     "Country B",
-     0.5
-    ]
-   ],
-   "nMarkets": 120
-  },
-  {
-   "id": "1383171",
-   "title": "World Happiness Report 2027: 1st place",
-   "slug": "world-happiness-report-2027-1st-place",
-   "createdAt": "2026-11-14T00:31:29.608749Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whr-2027-whr-logo-931cfeaede.jpg",
-   "volume": 6646.8681449999995,
-   "tags": [
-    "World",
-    "Global",
-    "Culture",
-    "rankings"
-   ],
-   "outcomes": [
-    [
-     "Finland",
-     0.925
-    ],
-    [
-     "Country A",
-     0.5
-    ],
-    [
-     "Country B",
-     0.5
-    ]
-   ],
-   "nMarkets": 120
-  },
-  {
-   "id": "1383169",
-   "title": "World Happiness Report 2027: Top 5 countries",
-   "slug": "world-happiness-report-2027-top-5",
-   "createdAt": "2026-11-14T00:31:27.015721Z",
-   "endDate": "2027-04-01T03:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whr-2027-whr-logo-931cfeaede.jpg",
-   "volume": 14575.423079,
-   "tags": [
-    "World",
-    "Global",
-    "Culture",
-    "rankings"
-   ],
-   "outcomes": [
-    [
-     "Denmark",
-     0.965
-    ],
-    [
-     "Finland",
-     0.9645
-    ],
-    [
-     "Iceland",
-     0.9555
-    ]
-   ],
-   "nMarkets": 10
-  },
-  {
-   "id": "1382840",
-   "title": "Sean Duffy announced out as Secretary of Transportation by...?",
-   "slug": "sean-duffy-announced-out-as-secretary-of-transportation-by",
-   "createdAt": "2026-11-13T23:27:31.864714Z",
-   "endDate": "2027-01-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sean-duffy-confirmed-as-secretary-of-transportation-G2xBdPDkACMY.jpg",
-   "volume": 963.892223,
-   "tags": [
-    "Trump",
-    "Politics",
-    "Trump Cabinet",
-    "Cabinet Shakeup"
-   ],
-   "outcomes": [
-    [
-     "December 31",
-     0.245
-    ],
-    [
-     "November 30",
-     0.065
-    ]
-   ],
-   "nMarkets": 2
-  },
-  {
-   "id": "1382628",
-   "title": "FAA outage attributed to AI?",
-   "slug": "faa-outage-attributed-to-ai",
-   "createdAt": "2026-11-13T23:00:04.72948Z",
-   "endDate": "2026-12-01T04:59:00Z",
-   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/faa-outage-2026-11-4384cd29f1.jpg",
-   "volume": 12341.217205,
-   "tags": [
-    "AI",
-    "FAA",
-    "Tech",
-    "outage"
-   ],
-   "outcomes": [
-    [
-     "No",
-     0.973
-    ],
-    [
-     "Yes",
-     0.027
-    ]
-   ],
-   "nMarkets": 1
   }
  ]
 }
